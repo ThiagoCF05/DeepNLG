@@ -1,0 +1,1006 @@
+{
+    "models\\model7.xml": {
+        "Id1020": {
+            "structurefollowed": false,
+            "moreinformation": true,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "1",
+            "fluency": "3",
+            "semantics": "3"
+        },
+        "Id1042": {
+            "structurefollowed": false,
+            "moreinformation": true,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": true,
+            "numpreds": "7",
+            "fluency": "3",
+            "semantics": "3"
+        },
+        "Id1080": {
+            "structurefollowed": true,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": true,
+            "numpreds": "1",
+            "fluency": "5",
+            "semantics": "7"
+        },
+        "Id1173": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": true,
+            "numpreds": "1",
+            "fluency": "5",
+            "semantics": "7"
+        },
+        "Id1183": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "1",
+            "fluency": "2",
+            "semantics": "3"
+        },
+        "Id1205": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": true,
+            "numpreds": "2",
+            "fluency": "2",
+            "semantics": "3"
+        },
+        "Id1276": {
+            "structurefollowed": true,
+            "moreinformation": false,
+            "referencemistake": true,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "2",
+            "fluency": "7",
+            "semantics": "5"
+        },
+        "Id1288": {
+            "structurefollowed": false,
+            "moreinformation": true,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "2",
+            "fluency": "4",
+            "semantics": "3"
+        },
+        "Id1329": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "2",
+            "fluency": "5",
+            "semantics": "3"
+        },
+        "Id1345": {
+            "structurefollowed": true,
+            "moreinformation": false,
+            "referencemistake": true,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "2",
+            "fluency": "7",
+            "semantics": "5"
+        },
+        "Id1405": {
+            "structurefollowed": true,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "2",
+            "fluency": "7",
+            "semantics": "5"
+        },
+        "Id1436": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": true,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "2",
+            "fluency": "4",
+            "semantics": "3"
+        },
+        "Id1465": {
+            "structurefollowed": false,
+            "moreinformation": true,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "3",
+            "fluency": "3",
+            "semantics": "4"
+        },
+        "Id1505": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": true,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "3",
+            "fluency": "4",
+            "semantics": "4"
+        },
+        "Id1530": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "3",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id1579": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "4",
+            "fluency": "5",
+            "semantics": "4"
+        },
+        "Id1613": {
+            "structurefollowed": false,
+            "moreinformation": true,
+            "referencemistake": true,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "4",
+            "fluency": "3",
+            "semantics": "3"
+        },
+        "Id1648": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": true,
+            "detmistake": false,
+            "numpreds": "4",
+            "fluency": "4",
+            "semantics": "4"
+        },
+        "Id1692": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": true,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "4",
+            "fluency": "3",
+            "semantics": "2"
+        },
+        "Id1733": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "4",
+            "fluency": "5",
+            "semantics": "4"
+        },
+        "Id1763": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": true,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "4",
+            "fluency": "4",
+            "semantics": "4"
+        },
+        "Id1776": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": true,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "4",
+            "fluency": "3",
+            "semantics": "3"
+        },
+        "Id1784": {
+            "structurefollowed": false,
+            "moreinformation": true,
+            "referencemistake": true,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "4",
+            "fluency": "4",
+            "semantics": "4"
+        },
+        "Id1807": {
+            "structurefollowed": false,
+            "moreinformation": true,
+            "referencemistake": true,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "4",
+            "fluency": "3",
+            "semantics": "3"
+        },
+        "Id1861": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "4",
+            "fluency": "3",
+            "semantics": "2"
+        }
+    },
+    "models\\model9.xml": {
+        "Id27": {
+            "structurefollowed": true,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": true,
+            "numpreds": "1",
+            "fluency": "5",
+            "semantics": "7"
+        },
+        "Id40": {
+            "structurefollowed": true,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "1",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id66": {
+            "structurefollowed": true,
+            "moreinformation": true,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "1",
+            "fluency": "7",
+            "semantics": "6"
+        },
+        "Id90": {
+            "structurefollowed": true,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": true,
+            "detmistake": false,
+            "numpreds": "1",
+            "fluency": "4",
+            "semantics": "5"
+        },
+        "Id130": {
+            "structurefollowed": true,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "1",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id135": {
+            "structurefollowed": true,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "1",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id143": {
+            "structurefollowed": true,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": true,
+            "numpreds": "1",
+            "fluency": "7",
+            "semantics": "6"
+        },
+        "Id149": {
+            "structurefollowed": true,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "1",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id184": {
+            "structurefollowed": true,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "1",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id213": {
+            "structurefollowed": true,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": true,
+            "numpreds": "1",
+            "fluency": "6",
+            "semantics": "7"
+        },
+        "Id225": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "2",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id243": {
+            "structurefollowed": true,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "2",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id257": {
+            "structurefollowed": false,
+            "moreinformation": true,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "2",
+            "fluency": "7",
+            "semantics": "6"
+        },
+        "Id301": {
+            "structurefollowed": true,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "2",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id325": {
+            "structurefollowed": true,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "2",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id337": {
+            "structurefollowed": true,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "2",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id356": {
+            "structurefollowed": true,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "2",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id366": {
+            "structurefollowed": true,
+            "moreinformation": true,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "2",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id373": {
+            "structurefollowed": true,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "2",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id376": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "2",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id400": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "3",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id424": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": true,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "3",
+            "fluency": "6",
+            "semantics": "7"
+        },
+        "Id451": {
+            "structurefollowed": false,
+            "moreinformation": true,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": true,
+            "numpreds": "3",
+            "fluency": "6",
+            "semantics": "6"
+        },
+        "Id476": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "3",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id511": {
+            "structurefollowed": true,
+            "moreinformation": false,
+            "referencemistake": true,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "3",
+            "fluency": "7",
+            "semantics": "5"
+        },
+        "Id513": {
+            "structurefollowed": true,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "3",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id536": {
+            "structurefollowed": true,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "3",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id561": {
+            "structurefollowed": true,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": true,
+            "detmistake": false,
+            "numpreds": "3",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id585": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "3",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id593": {
+            "structurefollowed": true,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "3",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id619": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": true,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "4",
+            "fluency": "6",
+            "semantics": "7"
+        },
+        "Id623": {
+            "structurefollowed": true,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "4",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id633": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "4",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id669": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "4",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id696": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": true,
+            "detmistake": false,
+            "numpreds": "4",
+            "fluency": "6",
+            "semantics": "7"
+        },
+        "Id702": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "4",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id706": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "4",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id729": {
+            "structurefollowed": true,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "4",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id734": {
+            "structurefollowed": true,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "4",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id768": {
+            "structurefollowed": false,
+            "moreinformation": true,
+            "referencemistake": true,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "4",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id793": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": true,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "5",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id820": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "5",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id827": {
+            "structurefollowed": true,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "5",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id828": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "5",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id836": {
+            "structurefollowed": false,
+            "moreinformation": true,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "5",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id837": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "5",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id871": {
+            "structurefollowed": false,
+            "moreinformation": true,
+            "referencemistake": false,
+            "verbmistake": true,
+            "detmistake": false,
+            "numpreds": "5",
+            "fluency": "5",
+            "semantics": "7"
+        },
+        "Id876": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "5",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id889": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "5",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id916": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": true,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "5",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id1020": {
+            "structurefollowed": false,
+            "moreinformation": true,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "1",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id1042": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "1",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id1080": {
+            "structurefollowed": true,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "1",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id1173": {
+            "structurefollowed": true,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "1",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id1183": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "1",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id1205": {
+            "structurefollowed": true,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "2",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id1276": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "2",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id1288": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "2",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id1329": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "2",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id1345": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "2",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id1405": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "3",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id1436": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "3",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id1465": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "3",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id1505": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "3",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id1530": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "3",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id1579": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "4",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id1613": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "4",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id1648": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "4",
+            "fluency": "5",
+            "semantics": "7"
+        },
+        "Id1692": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "4",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id1733": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "4",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id1763": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "5",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id1776": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "5",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id1784": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "4",
+            "fluency": "7",
+            "semantics": "5"
+        },
+        "Id1807": {
+            "structurefollowed": false,
+            "moreinformation": true,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "5",
+            "fluency": "7",
+            "semantics": "7"
+        },
+        "Id1861": {
+            "structurefollowed": false,
+            "moreinformation": false,
+            "referencemistake": false,
+            "verbmistake": false,
+            "detmistake": false,
+            "numpreds": "5",
+            "fluency": "7",
+            "semantics": "7"
+        }
+    }
+}

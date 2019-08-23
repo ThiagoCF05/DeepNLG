@@ -1,0 +1,13757 @@
+cityServed leaderName
+cityServed leaderName
+cityServed leaderName
+location country
+location country
+location isPartOf
+location isPartOf
+location isPartOf
+location isPartOf
+location isPartOf
+operatingOrganisation runwayLength
+operatingOrganisation runwayLength
+operatingOrganisation runwayLength
+operatingOrganisation runwayLength
+runwayLength operatingOrganisation
+runwayLength operatingOrganisation
+operatingOrganisation runwayName
+operatingOrganisation runwayName
+operatingOrganisation runwayName
+operatingOrganisation runwayName
+operatingOrganisation runwayName
+operatingOrganisation runwayName
+operatingOrganisation runwayLength
+operatingOrganisation runwayLength
+operatingOrganisation runwayLength
+operatingOrganisation runwayLength
+operatingOrganisation runwayLength
+operatingOrganisation runwayLength
+operatingOrganisation runwayLength
+elevationAboveTheSeaLevel_(in_metres) 1st_runway_LengthFeet
+elevationAboveTheSeaLevel_(in_metres) 1st_runway_LengthFeet
+elevationAboveTheSeaLevel_(in_metres) 1st_runway_LengthFeet
+elevationAboveTheSeaLevel_(in_metres) 1st_runway_SurfaceType
+elevationAboveTheSeaLevel_(in_metres) 1st_runway_SurfaceType
+elevationAboveTheSeaLevel_(in_metres) 1st_runway_SurfaceType
+elevationAboveTheSeaLevel_(in_metres) 3rd_runway_LengthFeet
+elevationAboveTheSeaLevel_(in_metres) 3rd_runway_LengthFeet
+elevationAboveTheSeaLevel_(in_metres) 3rd_runway_LengthFeet
+cityServed country
+cityServed country
+country cityServed
+cityServed isPartOf
+cityServed isPartOf
+cityServed isPartOf
+isPartOf cityServed
+isPartOf cityServed
+isPartOf cityServed
+elevationAboveTheSeaLevel_(in_metres) locationIdentifier
+locationIdentifier elevationAboveTheSeaLevel_(in_metres)
+elevationAboveTheSeaLevel_(in_metres) locationIdentifier
+elevationAboveTheSeaLevel_(in_metres) 1st_runway_LengthFeet
+elevationAboveTheSeaLevel_(in_metres) 1st_runway_LengthFeet
+elevationAboveTheSeaLevel_(in_metres) 1st_runway_LengthFeet
+cityServed cityServed
+cityServed cityServed
+cityServed cityServed
+elevationAboveTheSeaLevel_(in_metres) location
+location elevationAboveTheSeaLevel_(in_metres)
+elevationAboveTheSeaLevel_(in_metres) location
+elevationAboveTheSeaLevel_(in_metres) locationIdentifier
+locationIdentifier elevationAboveTheSeaLevel_(in_metres)
+location country
+location country
+location country
+location country
+location country
+location elevationAboveTheSeaLevel_(in_metres)
+location elevationAboveTheSeaLevel_(in_metres)
+runwayLength location
+location runwayLength
+location runwayLength
+location runwayLength
+location runwayLength
+location runwayLength
+location runwayLength
+location runwayLength
+location runwayLength
+location country
+location country
+location isPartOf
+location isPartOf
+location country
+location country
+location country
+location runwayLength
+location runwayLength
+location runwayLength
+location runwayLength
+location runwayLength
+location runwayLength
+location runwayLength
+location runwayLength
+cityServed isPartOf
+cityServed isPartOf
+cityServed isPartOf
+cityServed isPartOf
+cityServed isPartOf
+cityServed isPartOf
+location elevationAboveTheSeaLevel_(in_feet)
+location elevationAboveTheSeaLevel_(in_feet)
+runwayLength location
+operatingOrganisation location
+location operatingOrganisation
+location operatingOrganisation
+location operatingOrganisation
+operatingOrganisation location
+location runwayLength
+runwayLength location
+location runwayLength
+IATA_Location_Identifier location
+IATA_Location_Identifier location
+IATA_Location_Identifier location
+location ICAO_Location_Identifier
+location IATA_Location_Identifier
+location IATA_Location_Identifier
+location ICAO_Location_Identifier
+location ICAO_Location_Identifier
+location ICAO_Location_Identifier
+location leaderName
+location leaderName
+leaderName location
+location IATA_Location_Identifier
+IATA_Location_Identifier location
+location IATA_Location_Identifier
+location ICAO_Location_Identifier
+location ICAO_Location_Identifier
+location isPartOf
+location isPartOf
+location leaderName
+location leaderName
+location leaderName
+location operatingOrganisation
+operatingOrganisation location
+location operatingOrganisation
+transportAircraft operatingOrganisation
+transportAircraft operatingOrganisation
+elevationAboveTheSeaLevel_(in_metres) cityServed
+elevationAboveTheSeaLevel_(in_metres) cityServed
+cityServed country
+cityServed country
+cityServed country
+cityServed runwayLength
+cityServed runwayLength
+runwayLength cityServed
+location runwayLength
+location runwayLength
+location runwayLength
+location elevationAboveTheSeaLevel_(in_feet)
+elevationAboveTheSeaLevel_(in_feet) location
+location runwayLength
+location runwayLength
+location runwayLength
+location runwayLength
+location runwayLength
+location runwayLength
+location runwayLength
+location runwayLength
+location runwayLength
+operatingOrganisation aircraftFighter
+operatingOrganisation aircraftFighter
+aircraftFighter operatingOrganisation
+aircraftFighter operatingOrganisation
+operatingOrganisation aircraftFighter
+operatingOrganisation aircraftFighter
+operatingOrganisation attackAircraft
+battles operatingOrganisation
+operatingOrganisation battles
+battles operatingOrganisation
+battles operatingOrganisation
+operatingOrganisation transportAircraft
+operatingOrganisation transportAircraft
+operatingOrganisation transportAircraft
+location runwayLength
+location runwayLength
+location runwayLength
+runwayLength location
+location runwayLength
+location leaderParty
+location leaderParty
+location leaderParty
+cityServed 1st_runway_SurfaceType
+cityServed 1st_runway_SurfaceType
+cityServed 1st_runway_SurfaceType
+cityServed 1st_runway_SurfaceType
+cityServed 1st_runway_SurfaceType
+cityServed 1st_runway_SurfaceType
+runwayLength 1st_runway_SurfaceType
+runwayLength 1st_runway_SurfaceType
+runwayLength 1st_runway_SurfaceType
+runwayLength 1st_runway_SurfaceType
+runwayLength 1st_runway_SurfaceType
+runwayLength 1st_runway_SurfaceType
+1st_runway_SurfaceType order
+1st_runway_SurfaceType order
+1st_runway_SurfaceType order
+1st_runway_SurfaceType order
+1st_runway_SurfaceType order
+1st_runway_SurfaceType order
+capital cityServed
+cityServed capital
+cityServed language
+language cityServed
+cityServed leaderName
+cityServed leaderName
+cityServed leaderName
+1st_runway_SurfaceType runwayLength
+runwayLength 1st_runway_SurfaceType
+operatingOrganisation location
+location operatingOrganisation
+location operatingOrganisation
+location runwayLength
+location runwayLength
+location runwayLength
+location runwayLength
+location runwayLength
+runwayLength location
+runwayLength location
+location runwayLength
+location leaderName
+location leaderName
+location leaderName
+location leaderName
+location leaderName
+location leaderName
+location leaderName
+location leaderName
+location runwayLength
+location runwayLength
+location runwayLength
+location leaderTitle
+leaderTitle location
+location leaderTitle
+location operatingOrganisation
+operatingOrganisation location
+operatingOrganisation location
+location operatingOrganisation
+location operatingOrganisation
+location operatingOrganisation
+runwayLength location
+location runwayLength
+location runwayLength
+elevationAboveTheSeaLevel_(in_metres) 1st_runway_LengthFeet
+elevationAboveTheSeaLevel_(in_metres) 1st_runway_LengthFeet
+elevationAboveTheSeaLevel_(in_metres) owner
+elevationAboveTheSeaLevel_(in_metres) owner
+owner elevationAboveTheSeaLevel_(in_metres)
+location elevationAboveTheSeaLevel_(in_metres)
+location elevationAboveTheSeaLevel_(in_metres)
+location elevationAboveTheSeaLevel_(in_metres)
+location country
+location country
+location country
+elevationAboveTheSeaLevel_(in_metres) location
+elevationAboveTheSeaLevel_(in_metres) location
+location country
+location country
+locationIdentifier elevationAboveTheSeaLevel_(in_metres)
+locationIdentifier elevationAboveTheSeaLevel_(in_metres)
+locationIdentifier elevationAboveTheSeaLevel_(in_metres)
+elevationAboveTheSeaLevel_(in_metres) 1st_runway_Number
+elevationAboveTheSeaLevel_(in_metres) 1st_runway_Number
+1st_runway_Number elevationAboveTheSeaLevel_(in_metres)
+elevationAboveTheSeaLevel_(in_metres) 4th_runway_SurfaceType
+elevationAboveTheSeaLevel_(in_metres) 4th_runway_SurfaceType
+elevationAboveTheSeaLevel_(in_metres) 5th_runway_Number
+elevationAboveTheSeaLevel_(in_metres) 5th_runway_Number
+elevationAboveTheSeaLevel_(in_metres) 5th_runway_Number
+elevationAboveTheSeaLevel_(in_metres) 5th_runway_SurfaceType
+elevationAboveTheSeaLevel_(in_metres) 5th_runway_SurfaceType
+elevationAboveTheSeaLevel_(in_metres) 5th_runway_SurfaceType
+leaderName cityServed
+cityServed leaderName
+cityServed leaderName
+runwayLength cityServed
+cityServed runwayLength
+cityServed runwayLength
+cityServed runwayLength
+cityServed runwayLength
+cityServed runwayLength
+runwayLength cityServed
+cityServed runwayLength
+runwayLength cityServed
+location elevationAboveTheSeaLevel_(in_metres)
+location elevationAboveTheSeaLevel_(in_metres)
+countySeat owner
+owner countySeat
+owner largestCity
+owner largestCity
+largestCity owner
+3rd_runway_LengthFeet elevationAboveTheSeaLevel_(in_metres)
+elevationAboveTheSeaLevel_(in_metres) 3rd_runway_LengthFeet
+elevationAboveTheSeaLevel_(in_metres) 4th_runway_LengthFeet
+elevationAboveTheSeaLevel_(in_metres) 4th_runway_LengthFeet
+location elevationAboveTheSeaLevel_(in_metres)
+location country
+location country
+location demonym
+location demonym
+location demonym
+location demonym
+location demonym
+location demonym
+location language
+location language
+location language
+location language
+elevationAboveTheSeaLevel_(in_metres) locationIdentifier
+locationIdentifier elevationAboveTheSeaLevel_(in_metres)
+1st_runway_LengthFeet elevationAboveTheSeaLevel_(in_metres)
+1st_runway_Number elevationAboveTheSeaLevel_(in_metres)
+1st_runway_Number elevationAboveTheSeaLevel_(in_metres)
+1st_runway_Number elevationAboveTheSeaLevel_(in_metres)
+elevationAboveTheSeaLevel_(in_metres) 1st_runway_SurfaceType
+1st_runway_SurfaceType elevationAboveTheSeaLevel_(in_metres)
+location elevationAboveTheSeaLevel_(in_metres)
+location elevationAboveTheSeaLevel_(in_metres)
+elevationAboveTheSeaLevel_(in_metres) location
+location isPartOf
+location isPartOf
+location isPartOf
+cityServed runwayLength
+cityServed runwayLength
+administrativeArrondissement cityServed
+cityServed administrativeArrondissement
+administrativeArrondissement cityServed
+cityServed country
+country cityServed
+cityServed country
+mayor cityServed
+mayor cityServed
+elevationAboveTheSeaLevel_(in_metres) operatingOrganisation
+elevationAboveTheSeaLevel_(in_metres) operatingOrganisation
+operatingOrganisation elevationAboveTheSeaLevel_(in_metres)
+owner operatingOrganisation
+operatingOrganisation
+owner operatingOrganisation
+operatingOrganisation runwayLength
+operatingOrganisation runwayLength
+operatingOrganisation runwayLength
+operatingOrganisation jurisdiction
+operatingOrganisation jurisdiction
+owner cityServed
+owner cityServed
+cityServed owner
+operatingOrganisation owner
+owner operatingOrganisation
+operatingOrganisation owner
+runwayLength operatingOrganisation
+operatingOrganisation runwayLength
+operatingOrganisation runwayLength
+operatingOrganisation runwayLength
+runwayLength operatingOrganisation
+cityServed isPartOf
+cityServed isPartOf
+isPartOf cityServed
+isPartOf cityServed
+elevationAboveTheSeaLevel_(in_metres) 1st_runway_LengthFeet
+1st_runway_LengthFeet elevationAboveTheSeaLevel_(in_metres)
+elevationAboveTheSeaLevel_(in_metres) operatingOrganisation
+operatingOrganisation elevationAboveTheSeaLevel_(in_metres)
+elevationAboveTheSeaLevel_(in_metres) location
+location elevationAboveTheSeaLevel_(in_metres)
+location elevationAboveTheSeaLevel_(in_metres)
+location country
+location country
+location country
+elevationAboveTheSeaLevel_(in_metres) locationIdentifier
+elevationAboveTheSeaLevel_(in_metres) locationIdentifier
+locationIdentifier elevationAboveTheSeaLevel_(in_metres)
+elevationAboveTheSeaLevel_(in_metres) 3rd_runway_LengthFeet
+elevationAboveTheSeaLevel_(in_metres) 3rd_runway_LengthFeet
+elevationAboveTheSeaLevel_(in_metres) 3rd_runway_LengthFeet
+runwayLength 3rd_runway_SurfaceType
+3rd_runway_SurfaceType runwayLength
+runwayName 3rd_runway_SurfaceType
+runwayName 3rd_runway_SurfaceType
+runwayName 3rd_runway_SurfaceType
+runwayName 3rd_runway_SurfaceType
+runwayName 3rd_runway_SurfaceType
+3rd_runway_SurfaceType runwayName
+runwayName 3rd_runway_SurfaceType
+3rd_runway_SurfaceType division
+3rd_runway_SurfaceType division
+3rd_runway_SurfaceType order
+3rd_runway_SurfaceType order
+3rd_runway_SurfaceType order
+3rd_runway_SurfaceType order
+3rd_runway_SurfaceType order
+3rd_runway_SurfaceType order
+operatingOrganisation location
+location operatingOrganisation
+operatingOrganisation location
+location operatingOrganisation
+operatingOrganisation location
+runwayLength 3rd_runway_SurfaceType
+elevationAboveTheSeaLevel_(in_metres) 3rd_runway_LengthFeet
+elevationAboveTheSeaLevel_(in_metres) 3rd_runway_LengthFeet
+elevationAboveTheSeaLevel_(in_metres) 3rd_runway_LengthFeet
+ICAO_Location_Identifier IATA_Location_Identifier
+ICAO_Location_Identifier IATA_Location_Identifier
+ICAO_Location_Identifier IATA_Location_Identifier
+location elevationAboveTheSeaLevel_(in_metres)
+location elevationAboveTheSeaLevel_(in_metres)
+operatingOrganisation elevationAboveTheSeaLevel_(in_metres)
+elevationAboveTheSeaLevel_(in_metres) operatingOrganisation
+operatingOrganisation elevationAboveTheSeaLevel_(in_metres)
+operatingOrganisation headquarter
+operatingOrganisation headquarter
+operatingOrganisation hubAirport
+operatingOrganisation hubAirport
+operatingOrganisation hubAirport
+operatingOrganisation hubAirport
+location runwayLength
+location runwayLength
+location runwayLength
+cityServed mayor
+cityServed mayor
+cityServed mayor
+cityServed country
+cityServed country
+cityServed runwayLength
+cityServed runwayLength
+location elevationAboveTheSeaLevel_(in_metres)
+elevationAboveTheSeaLevel_(in_metres) location
+location elevationAboveTheSeaLevel_(in_metres)
+cityServed leaderName
+leaderName cityServed
+location isPartOf
+location isPartOf
+location isPartOf
+operatingOrganisation elevationAboveTheSeaLevel_(in_metres)
+operatingOrganisation elevationAboveTheSeaLevel_(in_metres)
+elevationAboveTheSeaLevel_(in_metres) operatingOrganisation
+runwayName operatingOrganisation
+operatingOrganisation runwayName
+operatingOrganisation runwayName
+operatingOrganisation headquarter
+headquarter operatingOrganisation
+operatingOrganisation headquarter
+headquarter operatingOrganisation
+operatingOrganisation headquarter
+owner chief
+owner chief
+owner leaderName
+owner leaderName
+owner leaderName
+operatingOrganisation runwayLength
+operatingOrganisation runwayLength
+operatingOrganisation runwayLength
+operatingOrganisation locationCity
+operatingOrganisation locationCity
+operatingOrganisation locationCity
+location isPartOf
+location isPartOf
+location isPartOf
+operatingOrganisation
+operatingOrganisation jurisdiction
+operatingOrganisation jurisdiction
+aircraftHelicopter operatingOrganisation
+aircraftHelicopter operatingOrganisation
+operatingOrganisation aircraftHelicopter
+cityServed country
+country cityServed
+cityServed isPartOf
+isPartOf cityServed
+isPartOf cityServed
+isPartOf cityServed
+cityServed isPartOf
+location isPartOf
+location isPartOf
+isPartOf location
+location isPartOf
+location isPartOf
+2nd_runway_SurfaceType class
+class 2nd_runway_SurfaceType
+class 2nd_runway_SurfaceType
+1st_runway_SurfaceType division
+1st_runway_SurfaceType division
+1st_runway_SurfaceType division
+division 2nd_runway_SurfaceType
+division 2nd_runway_SurfaceType
+2nd_runway_SurfaceType division
+order 2nd_runway_SurfaceType
+2nd_runway_SurfaceType order
+cityServed isPartOf
+cityServed isPartOf
+cityServed isPartOf
+cityServed isPartOf
+cityServed isPartOf
+cityServed isPartOf
+cityServed isPartOf
+birthDate almaMater
+birthDate almaMater
+birthDate almaMater
+birthDate almaMater
+birthDate almaMater
+birthDate almaMater
+birthPlace birthDate
+birthDate birthPlace
+birthPlace birthDate
+nationality birthPlace
+nationality birthPlace
+nationality birthPlace
+birthPlace nationality
+birthPlace nationality
+nationality birthPlace
+birthPlace occupation
+birthPlace occupation
+occupation birthPlace
+birthPlace occupation
+birthPlace occupation
+birthPlace occupation
+occupation birthPlace
+was_selected_by_NASA timeInSpace
+was_selected_by_NASA timeInSpace
+was_selected_by_NASA timeInSpace
+was_a_crew_member_of dateOfRetirement
+dateOfRetirement was_a_crew_member_of
+was_a_crew_member_of dateOfRetirement
+dateOfRetirement was_a_crew_member_of
+was_a_crew_member_of dateOfRetirement
+was_a_crew_member_of dateOfRetirement
+operator was_a_crew_member_of
+was_a_crew_member_of operator
+was_a_crew_member_of operator
+was_a_crew_member_of operator
+was_a_crew_member_of operator
+was_a_crew_member_of operator
+awards almaMater
+almaMater awards
+almaMater awards
+birthPlace awards
+birthPlace awards
+birthPlace awards
+birthPlace awards
+birthPlace awards
+nationality birthPlace
+nationality birthPlace
+nationality birthPlace
+nationality birthPlace
+nationality birthPlace
+birthPlace nationality
+birthPlace deathPlace
+birthPlace deathPlace
+birthPlace deathPlace
+birthPlace deathPlace
+deathPlace deathDate
+deathPlace deathDate
+deathPlace deathDate
+deathPlace deathDate
+deathDate deathPlace
+senators deathPlace
+deathPlace senators
+senators deathPlace
+nationality birthDate
+birthDate nationality
+nationality birthDate
+served_as_Chief_of_the_Astronaut_Office_in title
+served_as_Chief_of_the_Astronaut_Office_in title
+title served_as_Chief_of_the_Astronaut_Office_in
+birthPlace timeInSpace
+birthPlace timeInSpace
+birthPlace timeInSpace
+birthPlace timeInSpace
+birthPlace title
+birthPlace title
+birthPlace title
+title birthPlace
+birthPlace title
+birthPlace title
+was_a_crew_member_of operator
+operator was_a_crew_member_of
+operator was_a_crew_member_of
+was_a_crew_member_of operator
+birthPlace representative
+representative birthPlace
+alternativeNames birthDate
+alternativeNames birthDate
+alternativeNames birthDate
+almaMater awards
+almaMater awards
+almaMater awards
+almaMater awards
+almaMater awards
+dateOfRetirement timeInSpace
+timeInSpace dateOfRetirement
+dateOfRetirement timeInSpace
+nationality status
+status nationality
+leaderName nationality
+nationality leaderName
+nationality leaderName
+birthName was_awarded
+birthName was_awarded
+birthName was_awarded
+was_selected_by_NASA status
+status was_selected_by_NASA
+status was_selected_by_NASA
+deathPlace gemstone
+gemstone deathPlace
+deathPlace gemstone
+birthPlace partsType
+birthPlace partsType
+awards higher
+awards higher
+higher awards
+birthDate almaMater
+birthDate almaMater
+almaMater birthDate
+birthPlace almaMater
+almaMater birthPlace
+birthPlace almaMater
+birthPlace almaMater
+almaMater birthPlace
+almaMater affiliations
+almaMater affiliations
+almaMater affiliations
+almaMater affiliations
+deathDate deathPlace
+deathPlace deathDate
+deathPlace deathDate
+deathPlace deathDate
+deathPlace deathDate
+deathPlace deathDate
+deathDate deathPlace
+was_selected_by_NASA deathPlace
+was_selected_by_NASA deathPlace
+was_selected_by_NASA deathPlace
+deathPlace was_selected_by_NASA
+was_selected_by_NASA deathPlace
+was_selected_by_NASA deathPlace
+deathPlace isPartOf
+deathPlace isPartOf
+deathPlace isPartOf
+deathPlace isPartOf
+status birthPlace
+birthPlace status
+status birthPlace
+status birthPlace
+birthPlace status
+deathPlace
+status
+status deathPlace
+deathPlace
+birthPlace bird
+birthPlace bird
+bird birthPlace
+bird birthPlace
+birthDate almaMater
+birthDate almaMater
+birthDate almaMater
+birthDate almaMater
+birthDate almaMater
+birthDate almaMater
+was_a_crew_member_of dateOfRetirement
+was_a_crew_member_of dateOfRetirement
+was_a_crew_member_of dateOfRetirement
+was_a_crew_member_of dateOfRetirement
+was_a_crew_member_of dateOfRetirement
+dateOfRetirement was_a_crew_member_of
+nationality birthPlace
+nationality birthPlace
+nationality birthPlace
+nationality birthPlace
+birthPlace nationality
+nationality birthPlace
+birthPlace nationality
+birthPlace occupation
+occupation birthPlace
+birthPlace occupation
+birthPlace occupation
+birthPlace occupation
+occupation was_a_crew_member_of
+was_a_crew_member_of occupation
+occupation was_a_crew_member_of
+served_as_Chief_of_the_Astronaut_Office_in title
+served_as_Chief_of_the_Astronaut_Office_in title
+title served_as_Chief_of_the_Astronaut_Office_in
+was_a_crew_member_of crewMembers
+was_a_crew_member_of crewMembers
+was_a_crew_member_of crewMembers
+was_a_crew_member_of crewMembers
+was_a_crew_member_of crewMembers
+birthDate was_selected_by_NASA
+birthDate was_selected_by_NASA
+birthDate was_selected_by_NASA
+architect location
+architect location
+location architect
+location architect
+architect location
+architect location
+architect birthPlace
+architect birthPlace
+birthPlace architect
+hometown architect
+architect hometown
+hometown architect
+location completionDate
+completionDate
+location completionDate
+location floorCount
+floorCount location
+location floorCount
+floorCount location
+architect location
+architect location
+location architect
+location floorCount
+floorCount location
+location floorCount
+cost floorCount
+floorCount cost
+location country
+location country
+completionDate architect
+completionDate architect
+architect completionDate
+floorCount completionDate
+completionDate floorCount
+floorCount architect
+floorCount architect
+floorCount owner
+owner floorCount
+floorCount owner
+capital location
+location ethnicGroup
+location ethnicGroup
+ethnicGroup location
+location ethnicGroup
+location ethnicGroup
+location leaderName
+location leaderName
+location leaderName
+location leaderName
+leaderName location
+location leaderName
+completionDate floorCount
+completionDate floorCount
+completionDate floorCount
+floorCount location
+floorCount location
+floorCount location
+location country
+location country
+location governingBody
+location governingBody
+location governingBody
+location isPartOf
+location isPartOf
+location isPartOf
+location isPartOf
+location isPartOf
+location leaderName
+location floorCount
+floorCount location
+floorArea buildingStartDate
+buildingStartDate floorArea
+completionDate floorArea
+floorArea completionDate
+completionDate floorArea
+floorCount completionDate
+completionDate floorCount
+floorCount completionDate
+leaderName location
+leaderName location
+location leaderTitle
+location leaderTitle
+leaderTitle location
+location currency
+location currency
+currency location
+location demonym
+location demonym
+location demonym
+leaderName location
+location leaderName
+location leaderName
+buildingStartDate floorCount
+floorCount buildingStartDate
+floorArea floorCount
+floorCount floorArea
+floorArea floorCount
+location architecturalStyle
+location architecturalStyle
+location floorArea
+location floorArea
+floorArea location
+floorCount location
+location floorCount
+location floorCount
+location isPartOf
+location isPartOf
+location isPartOf
+location isPartOf
+location isPartOf
+location isPartOf
+leaderName location
+location leaderName
+location leaderName
+architecturalStyle location
+floorCount location
+floorCount location
+location floorCount
+floorCount completionDate
+floorCount completionDate
+location architect
+architect location
+architect location
+location country
+location country
+location country
+location isPartOf
+location isPartOf
+location isPartOf
+location isPartOf
+location isPartOf
+location isPartOf
+location isPartOf
+location isPartOf
+location isPartOf
+location leaderName
+location leaderName
+location leaderName
+location leaderName
+leaderName location
+location leaderName
+location architect
+architect location
+location architect
+location completionDate
+completionDate location
+location country
+location country
+location country
+completionDate floorCount
+completionDate floorCount
+height floorCount
+height floorCount
+height floorCount
+architect completionDate
+architect completionDate
+architect completionDate
+completionDate architect
+completionDate architect
+location architect
+architect location
+architect location
+architect location
+architect location
+architect location
+architect location
+architect location
+architect location
+location architect
+location architect
+architect location
+location architect
+location isPartOf
+isPartOf location
+location isPartOf
+location owner
+location owner
+location owner
+location owner
+location owner
+location owner
+location owner
+location owner
+owner location
+floorCount architect
+floorCount architect
+architect floorCount
+numberOfRooms developer
+developer numberOfRooms
+numberOfRooms developer
+tenant location
+tenant location
+architect owner
+architect owner
+architect owner
+floorCount owner
+floorCount owner
+floorCount owner
+keyPerson tenant
+tenant keyPerson
+tenant keyPerson
+location isPartOf
+location isPartOf
+location isPartOf
+architect completionDate
+architect completionDate
+architect completionDate
+completionDate architect
+architect completionDate
+architect birthPlace
+architect birthPlace
+birthPlace architect
+architect significantBuilding
+architect significantBuilding
+architect completionDate
+architect completionDate
+architect completionDate
+architect completionDate
+completionDate architect
+architect completionDate
+architect completionDate
+completionDate architect
+leaderName country
+leaderName country
+country leaderName
+isPartOf location
+isPartOf location
+buildingStartDate floorArea
+buildingStartDate floorArea
+buildingStartDate floorArea
+completionDate floorArea
+floorArea completionDate
+floorArea completionDate
+country currency
+currency country
+country currency
+country language
+country language
+language country
+currentTenants floorArea
+floorArea currentTenants
+currentTenants floorArea
+location country
+location country
+location country
+architecturalStyle location
+location architecturalStyle
+location architecturalStyle
+location architecturalStyle
+location architecturalStyle
+location architecturalStyle
+architecturalStyle location
+architecturalStyle location
+location architecturalStyle
+location completionDate
+country capital
+capital country
+country currency
+country currency
+country currency
+country leaderName
+country leaderName
+location completionDate
+location completionDate
+completionDate location
+location completionDate
+completionDate location
+completionDate location
+leaderName location
+location leaderName
+location country
+location country
+location country
+location country
+location country
+location country
+floorCount floorArea
+floorCount floorArea
+floorCount floorArea
+location country
+location country
+location isPartOf
+location isPartOf
+location isPartOf
+location location
+location location
+location location
+location country
+location country
+location country
+address completionDate
+completionDate address
+architect currentTenants
+currentTenants architect
+currentTenants architect
+inaugurationDate address
+address inaugurationDate
+address inaugurationDate
+location owner
+owner location
+owner location
+owner chancellor
+chancellor owner
+chancellor owner
+tenant country
+tenant country
+address location
+address location
+address
+leaderName country
+leaderName country
+country leaderName
+country leaderName
+location country
+location country
+location country
+location country
+location location
+location location
+location location
+bedCount country
+bedCount country
+country bedCount
+location country
+country location
+location country
+state country
+state country
+state country
+country leaderName
+leaderName country
+country leaderName
+architect birthPlace
+architect birthPlace
+birthPlace architect
+architect placeOfDeath
+architect placeOfDeath
+architect placeOfDeath
+location ReferenceNumber_in_the_National_Register_of_Historic_Places
+location ReferenceNumber_in_the_National_Register_of_Historic_Places
+location ReferenceNumber_in_the_National_Register_of_Historic_Places
+yearOfConstruction location
+yearOfConstruction location
+yearOfConstruction location
+location added_to_the_National_Register_of_Historic_Places
+location added_to_the_National_Register_of_Historic_Places
+yearOfConstruction location
+location yearOfConstruction
+location yearOfConstruction
+location country
+location country
+location country
+location isPartOf
+location isPartOf
+location isPartOf
+location isPartOf
+location isPartOf
+location isPartOf
+birthPlace architect
+architect birthPlace
+birthPlace architect
+architect birthPlace
+significantBuilding architect
+architect significantBuilding
+architect significantBuilding
+significantBuilding architect
+architect significantBuilding
+architect significantBuilding
+significantBuilding architect
+architect significantBuilding
+architect significantBuilding
+architect significantBuilding
+location added_to_the_National_Register_of_Historic_Places
+location added_to_the_National_Register_of_Historic_Places
+location added_to_the_National_Register_of_Historic_Places
+architecturalStyle location
+architecturalStyle location
+location architecturalStyle
+location yearOfConstruction
+yearOfConstruction location
+location ReferenceNumber_in_the_National_Register_of_Historic_Places
+location ReferenceNumber_in_the_National_Register_of_Historic_Places
+architecturalStyle location
+architecturalStyle location
+location architecturalStyle
+yearOfConstruction location
+yearOfConstruction location
+yearOfConstruction location
+location country
+location country
+location country
+location isPartOf
+location isPartOf
+location isPartOf
+location yearOfConstruction
+yearOfConstruction location
+yearOfConstruction location
+location yearOfConstruction
+yearOfConstruction location
+yearOfConstruction location
+yearOfConstruction location
+location yearOfConstruction
+location isPartOf
+location isPartOf
+location leaderName
+location leaderName
+leaderName location
+leaderName location
+location leaderName
+yearOfConstruction location
+yearOfConstruction location
+yearOfConstruction location
+location isPartOf
+location isPartOf
+location isPartOf
+location isPartOf
+isPartOf location
+location isPartOf
+location isPartOf
+location country
+location country
+country leaderName
+leaderName country
+leaderName country
+country leaderName
+leaderName country
+country leaderName
+country demonym
+country demonym
+country demonym
+leaderName country
+foundationPlace tenant
+tenant foundationPlace
+tenant foundationPlace
+tenant location
+tenant location
+tenant location
+country currentTenants
+currentTenants country
+currentTenants country
+location language
+language location
+location language
+location leaderName
+leaderName location
+location leaderName
+location leaderName
+location leaderName
+location leaderName
+location leaderTitle
+location leaderTitle
+creator alternativeName
+alternativeName creator
+creator alternativeName
+alternativeName creator
+alternativeName creator
+alternativeName creator
+creator creator
+creator creator
+creator creator
+alternativeName creator
+creator alternativeName
+alternativeName creator
+creator creator
+creator creator
+creator creator
+creator alternativeName
+creator alternativeName
+creator alternativeName
+alternativeName creator
+creator alternativeName
+creator creator
+creator creator
+creator creator
+creator award
+award creator
+alternativeName creator
+alternativeName creator
+creator alternativeName
+alternativeName creator
+alternativeName creator
+alternativeName creator
+creator nationality
+creator nationality
+nationality creator
+creator
+creator
+creator alternativeName
+creator creator
+creator creator
+creator creator
+nationality creator
+creator nationality
+creator nationality
+creator creator
+creator creator
+creator creator
+creator creator
+creator creator
+creator creator
+creator creator
+creator creator
+creator creator
+creator fullName
+fullName creator
+fullName creator
+alternativeName creator
+creator alternativeName
+alternativeName creator
+alternativeName creator
+creator creator
+creator creator
+creator creator
+creator nationality
+nationality creator
+creator alternativeName
+alternativeName creator
+creator creator
+creator creator
+creator creator
+broadcastedBy locationCity
+broadcastedBy locationCity
+broadcastedBy locationCity
+locationCity broadcastedBy
+broadcastedBy locationCity
+broadcastedBy locationCity
+broadcastedBy starring
+starring broadcastedBy
+starring broadcastedBy
+broadcastedBy starring
+firstAired starring
+starring firstAired
+birthPlace starring
+birthPlace starring
+starring birthPlace
+firstAired starring
+firstAired starring
+firstAired starring
+starring birthPlace
+starring birthPlace
+birthPlace starring
+starring broadcastedBy
+starring broadcastedBy
+starring broadcastedBy
+starring broadcastedBy
+starring broadcastedBy
+starring broadcastedBy
+starring broadcastedBy
+starring broadcastedBy
+birthPlace starring
+birthPlace starring
+birthPlace starring
+birthPlace starring
+starring birthPlace
+birthPlace starring
+birthPlace starring
+birthPlace starring
+birthPlace starring
+creator creator
+creator creator
+creator creator
+firstAppearanceInFilm starring
+firstAppearanceInFilm starring
+firstAppearanceInFilm starring
+creator series
+creator series
+starring series
+series starring
+starring series
+series starring
+series starring
+starring series
+series starring
+series starring
+starring series
+series starring
+series starring
+series starring
+birthPlace voice
+voice birthPlace
+birthPlace voice
+fullName creator
+fullName creator
+fullName creator
+creator creator
+creator creator
+fullName creator
+fullName creator
+fullName creator
+series starring
+starring series
+series starring
+series starring
+series starring
+creator award
+creator award
+creator award
+creator creator
+creator creator
+creator creator
+creator creator
+creator creator
+creator creator
+creator creator
+creator creator
+creator creator
+creator creator
+creator creator
+creator creator
+creator creator
+creator creator
+creator creator
+creator creator
+creator creator
+creator creator
+creator creator
+creator creator
+creator creator
+creator creator
+creator nationality
+nationality creator
+creator creator
+creator creator
+creator creator
+creator creator
+creator creator
+creator nationality
+nationality creator
+creator nationality
+fullName creator
+creator fullName
+creator fullName
+alternativeName creator
+alternativeName creator
+alternativeName creator
+creator creator
+creator creator
+creator creator
+creator nationality
+creator nationality
+creator nationality
+alternativeName creator
+alternativeName creator
+alternativeName creator
+nationality creator
+creator nationality
+nationality creator
+creator nationality
+nationality creator
+creator nationality
+nationality creator
+nationality creator
+nationality creator
+nationality creator
+creator
+nationality creator
+creator nationality
+nationality creator
+creator alternativeName
+alternativeName creator
+alternativeName creator
+alternativeName creator
+alternativeName creator
+alternativeName creator
+ingredient country
+ingredient country
+ingredient country
+country ingredient
+ingredient country
+ingredient country
+ingredient country
+ingredient country
+ingredient country
+country demonym
+country demonym
+country demonym
+ethnicGroup country
+country ethnicGroup
+country ethnicGroup
+ingredient country
+country ingredient
+ingredient country
+division ingredient
+division ingredient
+division ingredient
+family ingredient
+ingredient family
+ingredient family
+ingredient order
+ingredient order
+ingredient order
+order ingredient
+order ingredient
+order ingredient
+ingredient region
+region ingredient
+region ingredient
+ingredient region
+ingredient region
+region ingredient
+ingredient region
+region ingredient
+ingredient region
+ingredient region
+leaderName region
+region leaderName
+region leaderName
+ingredient country
+ingredient country
+ingredient country
+ingredient country
+ingredient country
+ingredient country
+ingredient country
+country ingredient
+ingredient country
+country language
+language country
+language country
+country leaderName
+leaderName country
+country leaderName
+leaderName country
+leaderName country
+leaderName country
+leaderName country
+dishVariation
+dishVariation dishVariation
+dishVariation
+dishVariation dishVariation
+dishVariation dishVariation
+ingredient order
+ingredient order
+order ingredient
+ingredient region
+ingredient region
+ingredient region
+ingredient region
+ingredient region
+ingredient region
+ingredient region
+region ingredient
+region ingredient
+ingredient country
+ingredient country
+country ingredient
+country currency
+country currency
+country currency
+country language
+language country
+country
+leaderName country
+country leaderName
+ingredient region
+region ingredient
+region ingredient
+ingredient region
+region ingredient
+region ingredient
+region mainIngredients
+mainIngredients region
+region mainIngredients
+mainIngredients region
+mainIngredients region
+region mainIngredients
+region language
+region language
+region leaderName
+leaderName region
+leaderName region
+region mainIngredients
+region mainIngredients
+region mainIngredients
+country leaderName
+leaderName country
+country leaderName
+region ingredient
+region ingredient
+ingredient region
+country ingredient
+country ingredient
+ingredient country
+ingredient
+region ingredient
+ingredient region
+ingredient region
+region ingredient
+family ingredient
+family ingredient
+family ingredient
+ingredient order
+order ingredient
+order ingredient
+ingredient region
+ingredient country
+country ingredient
+ingredient country
+country ingredient
+country ingredient
+ingredient country
+ingredient country
+ingredient country
+ingredient country
+region country
+region country
+region country
+demonym country
+country demonym
+demonym country
+country ethnicGroup
+country ethnicGroup
+country
+country leaderName
+leaderName country
+leaderName country
+ingredient region
+ingredient region
+leaderName region
+leaderName region
+region leaderName
+ingredient region
+ingredient region
+region ingredient
+region leaderName
+region leaderName
+country region
+region country
+country region
+country leaderName
+country leaderName
+leaderName country
+mainIngredients country
+country mainIngredients
+country mainIngredients
+country region
+country region
+country region
+region country
+country region
+region country
+region country
+region country
+region country
+capital country
+country capital
+country capital
+capital country
+country capital
+ethnicGroup country
+ethnicGroup country
+country ethnicGroup
+country ethnicGroup
+country ethnicGroup
+country ethnicGroup
+ethnicGroup country
+country leaderName
+country leaderName
+country leaderName
+leaderName country
+country leaderName
+country leaderName
+leaderName country
+country leaderName
+country leaderName
+country leaderName
+country leaderName
+country leaderName
+mainIngredients country
+country region
+region country
+region country
+region country
+region country
+country region
+region country
+order ingredient
+order ingredient
+ingredient order
+country ingredient
+country ingredient
+country ingredient
+country ingredient
+ingredient country
+ingredient country
+mainIngredients
+mainIngredients
+mainIngredients ingredient
+ingredient
+mainIngredients country
+mainIngredients country
+country mainIngredients
+country region
+country region
+region country
+ingredient region
+ingredient region
+ingredient region
+region country
+country region
+ingredient region
+ingredient region
+region ethnicGroup
+ethnicGroup region
+region ethnicGroup
+ingredient region
+region ingredient
+ingredient region
+region language
+region language
+language region
+region leaderName
+region leaderName
+region leaderName
+ingredient country
+ingredient country
+country ingredient
+country capital
+country capital
+country capital
+ethnicGroup country
+country ethnicGroup
+country ethnicGroup
+ethnicGroup country
+country ethnicGroup
+country ethnicGroup
+ethnicGroup country
+country ethnicGroup
+ethnicGroup country
+ethnicGroup country
+country ethnicGroup
+language country
+language country
+language country
+country leaderName
+country leaderName
+leaderName country
+leaderName country
+leaderName country
+leaderName country
+country leaderName
+country leaderName
+mainIngredients ingredient
+ingredient mainIngredients
+mainIngredients ingredient
+region ingredient
+ingredient region
+ingredient region
+course ingredient
+course ingredient
+ingredient region
+ingredient region
+ingredient region
+mainIngredients
+mainIngredients
+mainIngredients
+mainIngredients
+mainIngredients
+mainIngredients ingredient
+ingredient alternativeName
+ingredient alternativeName
+ingredient alternativeName
+ingredient alternativeName
+ingredient alternativeName
+alternativeName ingredient
+country ingredient
+ingredient country
+country ingredient
+country ingredient
+ingredient country
+country ingredient
+ingredient country
+ingredient country
+ingredient country
+country ingredient
+ingredient country
+ingredient country
+ingredient country
+ingredient country
+ingredient country
+dishVariation ingredient
+dishVariation ingredient
+ingredient dishVariation
+dishVariation ingredient
+dishVariation ingredient
+ingredient dishVariation
+dishVariation
+dishVariation ingredient
+ingredient dishVariation
+ingredient dishVariation
+ingredient dishVariation
+ingredient dishVariation
+dishVariation ingredient
+ingredient dishVariation
+ingredient dishVariation
+ingredient alternativeName
+ingredient alternativeName
+ingredient country
+ingredient country
+ingredient country
+country ingredient
+ingredient country
+ingredient country
+country ingredient
+ingredient country
+ingredient country
+country ingredient
+country language
+country language
+country language
+country leaderName
+country leaderName
+country leaderName
+country ingredient
+ingredient country
+ingredient country
+ingredient country
+country ingredient
+ingredient country
+ingredient country
+ingredient country
+ingredient country
+course dishVariation
+course dishVariation
+course mainIngredients
+course mainIngredients
+course mainIngredients
+dishVariation mainIngredients
+dishVariation mainIngredients
+dishVariation mainIngredients
+dishVariation ingredient
+dishVariation ingredient
+dishVariation ingredient
+mainIngredients region
+region mainIngredients
+mainIngredients region
+region administrativeCounty
+administrativeCounty region
+region administrativeCounty
+region isPartOf
+isPartOf region
+region isPartOf
+region leaderName
+region leaderName
+leaderName region
+course servingTemperature
+course servingTemperature
+course servingTemperature
+mainIngredients servingTemperature
+mainIngredients servingTemperature
+servingTemperature mainIngredients
+servingTemperature
+servingTemperature
+servingTemperature
+ingredient country
+ingredient country
+ingredient country
+ingredient country
+ingredient country
+ingredient country
+ingredient country
+ingredient country
+ingredient country
+country ingredient
+ingredient country
+country ingredient
+country ingredient
+ingredient country
+ingredient country
+ingredient country
+ingredient country
+country ingredient
+ingredient country
+ingredient country
+country ingredient
+ingredient country
+country ingredient
+country ingredient
+ingredient country
+ingredient country
+country region
+country region
+country region
+region country
+country region
+country ingredient
+ingredient country
+ingredient country
+family ingredient
+family ingredient
+ingredient family
+ingredient genus
+genus ingredient
+genus ingredient
+ingredient country
+country ingredient
+country ingredient
+country ingredient
+country ingredient
+ingredient country
+ingredient country
+ingredient country
+ingredient country
+country ingredient
+country ingredient
+ingredient country
+ingredient country
+ingredient country
+country ingredient
+country ingredient
+country ingredient
+ingredient country
+ingredient country
+country ingredient
+ingredient country
+ingredient family
+family ingredient
+ingredient family
+order ingredient
+order ingredient
+ingredient order
+country language
+country language
+country language
+country leaderName
+country leaderName
+leaderName country
+country leaderName
+country leaderName
+country leaderName
+country leaderName
+country leaderName
+fat carbohydrate
+fat carbohydrate
+fat carbohydrate
+country ingredient
+ingredient country
+country ingredient
+protein carbohydrate
+protein carbohydrate
+year carbohydrate
+carbohydrate year
+carbohydrate year
+mainIngredients country
+mainIngredients country
+mainIngredients country
+servingTemperature country
+country servingTemperature
+country servingTemperature
+dishVariation dishVariation
+dishVariation dishVariation
+dishVariation dishVariation
+dishVariation country
+dishVariation country
+dishVariation dishVariation
+dishVariation dishVariation
+dishVariation ingredient
+ingredient dishVariation
+dishVariation ingredient
+country ingredient
+country ingredient
+ingredient country
+ingredient country
+ingredient country
+ingredient country
+country ingredient
+country ingredient
+country ingredient
+ingredient country
+ingredient country
+ingredient country
+country mainIngredients
+country mainIngredients
+country mainIngredients
+country ethnicGroup
+country ethnicGroup
+country ethnicGroup
+country ethnicGroup
+ethnicGroup country
+country ethnicGroup
+ethnicGroup country
+country ethnicGroup
+mainIngredients course
+course mainIngredients
+course mainIngredients
+ingredient country
+ingredient country
+country ingredient
+ingredient class
+ingredient class
+class ingredient
+mainIngredients region
+region mainIngredients
+region mainIngredients
+ingredient country
+country ingredient
+ingredient country
+ingredient country
+ingredient country
+country ingredient
+ingredient country
+country ingredient
+ingredient country
+ingredient country
+country ingredient
+ingredient country
+ingredient country
+ingredient country
+ingredient country
+language country
+language country
+country language
+ingredient country
+country ingredient
+country ingredient
+country ingredient
+ingredient country
+ingredient country
+ingredient country
+ingredient country
+region language
+language region
+region leaderName
+region leaderName
+region leaderName
+alternativeName ingredient
+
+alternativeName ingredient
+alternativeName ingredient
+alternativeName ingredient
+
+ingredient country
+ingredient country
+country ingredient
+ingredient country
+country mainIngredients
+country mainIngredients
+mainIngredients country
+country leaderName
+country leaderName
+ingredient region
+region ingredient
+region ingredient
+ingredient region
+ingredient region
+ingredient region
+region leaderName
+region leaderName
+leaderName region
+dishVariation related
+dishVariation related
+related dishVariation
+similarDish ingredient
+similarDish ingredient
+similarDish ingredient
+country ingredient
+country ingredient
+country ingredient
+ingredient country
+ingredient country
+ingredient country
+country ingredient
+ingredient country
+ingredient country
+course dishVariation
+course dishVariation
+course dishVariation
+course dishVariation
+dishVariation course
+course dishVariation
+ingredient country
+ingredient country
+country ingredient
+ingredient mainIngredients
+ingredient mainIngredients
+ingredient mainIngredients
+mainIngredients ingredient
+ingredient mainIngredients
+ingredient mainIngredients
+ingredient order
+ingredient order
+order ingredient
+mainIngredients country
+country mainIngredients
+country mainIngredients
+mainIngredients country
+country mainIngredients
+country mainIngredients
+country mainIngredients
+mainIngredients ingredient
+mainIngredients ingredient
+mainIngredients ingredient
+mainIngredients ingredient
+mainIngredients ingredient
+mainIngredients ingredient
+mainIngredients ingredient
+mainIngredients ingredient
+country mainIngredients
+ingredient country
+ingredient country
+ingredient country
+ingredient country
+ingredient country
+ingredient country
+country ingredient
+ingredient country
+ingredient country
+ingredient country
+country ingredient
+country language
+country language
+country language
+language country
+language country
+leaderName country
+country leaderName
+country leaderName
+ingredient course
+ingredient course
+ingredient course
+ingredient course
+course ingredient
+course ingredient
+ingredient course
+ingredient course
+ingredient course
+course dishVariation
+course dishVariation
+course dishVariation
+dishVariation course
+course dishVariation
+course dishVariation
+course dishVariation
+ingredient region
+ingredient region
+ingredient region
+region leaderName
+region leaderName
+region leaderName
+genus ingredient
+ingredient genus
+genus ingredient
+region leaderName
+leaderName region
+country capital
+capital country
+capital country
+leaderName region
+region leaderName
+region leaderName
+country leaderName
+leaderName country
+leaderName country
+country leaderName
+country leaderName
+country leaderName
+country capital
+capital country
+capital country
+country leaderName
+leaderName country
+country ethnicGroup
+country ethnicGroup
+country ethnicGroup
+ethnicGroup country
+country ethnicGroup
+ethnicGroup country
+country ethnicGroup
+country ethnicGroup
+creator foundationPlace
+foundationPlace creator
+related dishVariation
+related dishVariation
+related dishVariation
+country ethnicGroup
+ethnicGroup country
+language country
+country language
+country language
+language country
+country language
+language country
+language country
+language country
+country language
+country language
+country language
+country language
+country language
+dishVariation dishVariation
+dishVariation dishVariation
+dishVariation dishVariation
+language region
+region language
+language country
+country language
+country language
+region leaderName
+region leaderName
+region leaderName
+leaderName country
+country leaderName
+currency country
+country currency
+country currency
+language country
+country language
+language country
+language country
+country language
+country language
+country leaderName
+country leaderName
+country leaderName
+family ingredient
+ingredient family
+family ingredient
+genus ingredient
+genus ingredient
+ethnicGroup country
+country ethnicGroup
+country ethnicGroup
+country ethnicGroup
+ethnicGroup country
+municipality category
+category municipality
+category municipality
+country category
+category country
+country category
+established municipality
+municipality established
+municipality established
+location category
+location category
+location category
+established location
+location established
+location established
+established location
+location established
+established location
+municipality location
+municipality location
+municipality location
+location municipality
+location municipality
+category state
+category state
+state category
+state established
+established state
+state established
+established state
+state established
+municipality state
+state municipality
+municipality state
+municipality state
+district category
+category district
+category district
+established category
+established category
+category established
+category country
+country category
+category country
+country district
+district country
+district country
+established country
+established country
+district established
+district established
+district established
+state owner
+owner state
+owner state
+has_to_its_southeast location
+location has_to_its_southeast
+location has_to_its_southeast
+location has_to_its_southeast
+location has_to_its_southeast
+material inaugurationDate
+material inaugurationDate
+material inaugurationDate
+material inaugurationDate
+material inaugurationDate
+designer material
+material designer
+designer material
+location capital
+location capital
+location capital
+leaderTitle location
+location leaderTitle
+leaderTitle location
+designer material
+material designer
+designer material
+designer material
+designer material
+legislature location
+legislature location
+material location
+location material
+designer nativeName
+nativeName designer
+
+material location
+location capital
+location capital
+location ethnicGroups
+location ethnicGroups
+location ethnicGroups
+district location
+district location
+district location
+location capital
+location capital
+location currency
+location currency
+location largestCity
+largestCity location
+manager club
+manager club
+manager club
+club manager
+manager club
+manager club
+manager club
+manager club
+manager club
+season numberOfMembers
+numberOfMembers season
+numberOfMembers season
+numberOfMembers season
+season numberOfMembers
+season numberOfMembers
+league numberOfMembers
+league numberOfMembers
+league numberOfMembers
+manager club
+club manager
+manager club
+club manager
+manager club
+manager club
+manager club
+manager club
+manager club
+manager club
+manager club
+manager club
+season numberOfMembers
+season numberOfMembers
+season numberOfMembers
+ground league
+league ground
+league ground
+numberOfMembers ground
+ground numberOfMembers
+numberOfMembers ground
+ground league
+ground league
+ground league
+ground numberOfMembers
+numberOfMembers ground
+ground numberOfMembers
+ground numberOfMembers
+numberOfMembers ground
+ground league
+league ground
+ground league
+manager club
+club manager
+manager club
+manager club
+club manager
+manager club
+manager club
+club manager
+manager club
+club manager
+club manager
+manager club
+ground league
+ground league
+ground league
+numberOfMembers ground
+ground numberOfMembers
+numberOfMembers ground
+ground numberOfMembers
+numberOfMembers ground
+ground numberOfMembers
+ground league
+ground league
+league ground
+club manager
+club manager
+manager club
+manager club
+manager club
+manager club
+manager club
+manager club
+manager club
+manager club
+manager club
+club manager
+manager club
+manager club
+manager club
+manager club
+club manager
+fullname numberOfMembers
+numberOfMembers fullname
+fullname numberOfMembers
+numberOfMembers league
+league numberOfMembers
+club manager
+club manager
+manager club
+manager club
+manager club
+club manager
+club manager
+club manager
+manager club
+manager club
+manager club
+manager club
+club manager
+manager club
+manager club
+numberOfMembers league
+league numberOfMembers
+numberOfMembers league
+league ground
+league ground
+league ground
+numberOfMembers ground
+numberOfMembers ground
+ground numberOfMembers
+league ground
+league ground
+ground league
+numberOfMembers ground
+ground numberOfMembers
+ground numberOfMembers
+ground numberOfMembers
+numberOfMembers ground
+ground numberOfMembers
+league ground
+league ground
+league ground
+club manager
+manager club
+manager club
+manager club
+manager club
+manager club
+manager club
+club manager
+manager club
+location capital
+location capital
+location currency
+location currency
+location currency
+location demonym
+location demonym
+location demonym
+location language
+location language
+location language
+location leader
+location leader
+location leader
+location leader
+location leader
+location leader
+location leader
+location leader
+location leader
+numberOfMembers ground
+ground numberOfMembers
+numberOfMembers ground
+numberOfMembers season
+numberOfMembers season
+season numberOfMembers
+numberOfMembers ground
+numberOfMembers ground
+ground numberOfMembers
+ground numberOfMembers
+numberOfMembers ground
+ground league
+ground league
+league ground
+ground league
+ground league
+ground league
+numberOfMembers ground
+numberOfMembers ground
+ground numberOfMembers
+manager club
+manager club
+manager club
+manager club
+manager club
+manager club
+club manager
+manager club
+manager club
+manager club
+manager club
+club manager
+manager club
+club manager
+manager club
+manager club
+ground numberOfMembers
+ground numberOfMembers
+numberOfMembers ground
+ground numberOfMembers
+numberOfMembers ground
+ground numberOfMembers
+ground numberOfMembers
+ground numberOfMembers
+numberOfMembers ground
+manager club
+manager club
+club manager
+club manager
+manager club
+club manager
+manager club
+manager club
+manager club
+manager club
+club manager
+manager club
+numberOfMembers fullname
+fullname numberOfMembers
+fullname numberOfMembers
+ground leaderParty
+ground leaderParty
+ground leaderParty
+numberOfMembers ground
+ground numberOfMembers
+ground numberOfMembers
+ground language
+ground language
+numberOfMembers ground
+ground numberOfMembers
+ground numberOfMembers
+league champions
+league champions
+league champions
+numberOfMembers season
+numberOfMembers season
+season numberOfMembers
+numberOfMembers season
+numberOfMembers season
+season numberOfMembers
+ground league
+ground league
+ground league
+ground numberOfMembers
+ground numberOfMembers
+ground numberOfMembers
+ground numberOfMembers
+ground numberOfMembers
+numberOfMembers ground
+league ground
+ground league
+ground league
+ground numberOfMembers
+numberOfMembers ground
+numberOfMembers ground
+manager club
+manager club
+manager club
+manager club
+manager club
+manager club
+manager club
+manager club
+manager club
+chairman birthPlace
+birthPlace chairman
+birthPlace chairman
+numberOfMembers ground
+numberOfMembers ground
+ground numberOfMembers
+league ground
+league ground
+ground league
+ground numberOfMembers
+numberOfMembers ground
+numberOfMembers ground
+league ground
+league ground
+league ground
+club manager
+manager club
+manager club
+numberOfMembers ground
+ground numberOfMembers
+numberOfMembers ground
+manager club
+manager club
+manager club
+manager club
+club manager
+manager club
+numberOfMembers season
+numberOfMembers season
+season numberOfMembers
+numberOfMembers season
+season numberOfMembers
+numberOfMembers season
+ground mayor
+mayor ground
+ground mayor
+ground league
+league ground
+ground league
+league ground
+league ground
+league ground
+league champions
+league champions
+league champions
+manager club
+manager club
+manager club
+manager club
+manager club
+manager club
+ground numberOfMembers
+numberOfMembers ground
+numberOfMembers ground
+manager club
+club manager
+manager club
+manager club
+club manager
+club manager
+club manager
+manager club
+club manager
+fullname numberOfMembers
+fullname numberOfMembers
+numberOfMembers season
+season numberOfMembers
+numberOfMembers season
+part ground
+part ground
+part ground
+part ground
+part ground
+part ground
+ground operator
+ground operator
+ground operator
+ground owner
+ground owner
+ground
+tenant ground
+ground tenant
+ground tenant
+numberOfMembers league
+league numberOfMembers
+league numberOfMembers
+fullname numberOfMembers
+numberOfMembers fullname
+fullname numberOfMembers
+numberOfMembers season
+numberOfMembers season
+season numberOfMembers
+fullname season
+fullname season
+fullname season
+ground location
+location ground
+ground location
+location ground
+ground location
+ground location
+ground league
+league ground
+league ground
+league champions
+league champions
+league champions
+numberOfMembers season
+numberOfMembers season
+season numberOfMembers
+numberOfMembers season
+numberOfMembers season
+season numberOfMembers
+ground numberOfMembers
+numberOfMembers ground
+numberOfMembers ground
+club manager
+club manager
+manager club
+manager club
+club manager
+manager club
+club manager
+club manager
+manager club
+club manager
+manager club
+manager club
+club
+manager club
+numberOfMembers season
+numberOfMembers season
+numberOfMembers season
+owner numberOfMembers
+owner numberOfMembers
+owner numberOfMembers
+numberOfMembers season
+numberOfMembers season
+ground location
+ground location
+ground location
+ground location
+ground location
+ground location
+champions league
+champions league
+league champions
+league country
+league country
+league country
+numberOfMembers nickname
+nickname numberOfMembers
+nickname numberOfMembers
+numberOfMembers nickname
+nickname numberOfMembers
+nickname numberOfMembers
+manager numberOfMembers
+numberOfMembers manager
+manager numberOfMembers
+season numberOfMembers
+numberOfMembers season
+numberOfMembers season
+season numberOfMembers
+numberOfMembers season
+numberOfMembers season
+numberOfMembers chairman
+numberOfMembers chairman
+numberOfMembers chairman
+ground city
+ground city
+city ground
+ground country
+ground country
+country ground
+state ground
+state ground
+state ground
+champions league
+league champions
+league champions
+manager numberOfMembers
+manager numberOfMembers
+numberOfMembers manager
+season manager
+manager season
+manager season
+numberOfMembers season
+numberOfMembers season
+numberOfMembers season
+ground capital
+ground capital
+ground capital
+demonym ground
+ground demonym
+ground demonym
+ground leader
+ground leader
+ground leader
+ground officialLanguage
+ground officialLanguage
+ground officialLanguage
+manager club
+club manager
+manager club
+club manager
+manager club
+club manager
+club manager
+club manager
+club manager
+champions league
+champions league
+league champions
+location ground
+location ground
+location ground
+location ground
+ground location
+ground location
+club manager
+manager club
+manager club
+club manager
+manager club
+manager club
+manager club
+club manager
+league champions
+champions league
+league champions
+league champions
+champions league
+champions league
+country anthem
+country anthem
+country latinName
+latinName country
+rector city
+city rector
+state country
+state country
+academicStaffSize city
+city academicStaffSize
+academicStaffSize city
+state country
+state country
+state country
+country river
+country river
+river country
+established city
+city established
+city established
+city country
+city country
+city country
+country leaderName
+country leaderName
+country leaderName
+dean academicStaffSize
+dean academicStaffSize
+academicStaffSize dean
+established dean
+established dean
+dean established
+established numberOfStudents
+numberOfStudents established
+established numberOfStudents
+motto academicStaffSize
+academicStaffSize motto
+academicStaffSize motto
+state affiliation
+state affiliation
+city affiliation
+city affiliation
+city affiliation
+country affiliation
+country affiliation
+affiliation country
+country established
+country established
+country established
+country numberOfUndergraduateStudents
+country numberOfUndergraduateStudents
+country numberOfUndergraduateStudents
+officialSchoolColour outlookRanking
+outlookRanking officialSchoolColour
+outlookRanking officialSchoolColour
+country city
+city country
+isPartOf city
+city isPartOf
+leaderName country
+country leaderName
+country leaderName
+city neighboringMunicipality
+city neighboringMunicipality
+city neighboringMunicipality
+country capital
+country capital
+country ethnicGroup
+country ethnicGroup
+country ethnicGroup
+country leaderName
+country patronSaint
+country patronSaint
+country academicStaffSize
+academicStaffSize country
+established academicStaffSize
+established academicStaffSize
+established academicStaffSize
+established affiliation
+established affiliation
+established affiliation
+governmentType city
+city governmentType
+city governmentType
+has_to_its_northeast city
+city has_to_its_northeast
+city has_to_its_northeast
+city country
+city country
+city country
+country religion
+country religion
+country religion
+dean academicStaffSize
+academicStaffSize dean
+academicStaffSize dean
+latinName affiliation
+affiliation latinName
+affiliation latinName
+numberOfStudents affiliation
+numberOfStudents affiliation
+numberOfStudents affiliation
+numberOfStudents country
+country numberOfStudents
+country numberOfStudents
+author ISBN_number
+author ISBN_number
+ISBN_number author
+author ISBN_number
+author ISBN_number
+author mediaType
+author mediaType
+author mediaType
+author ISBN_number
+author ISBN_number
+ISBN_number author
+author mediaType
+author mediaType
+mediaType author
+mediaType author
+mediaType author
+author mediaType
+author precededBy
+author precededBy
+author precededBy
+author precededBy
+author precededBy
+author precededBy
+author precededBy
+author precededBy
+author precededBy
+author precededBy
+author precededBy
+mediaType author
+author mediaType
+author mediaType
+author mediaType
+author mediaType
+mediaType author
+author mediaType
+author mediaType
+author mediaType
+precededBy author
+precededBy author
+precededBy author
+precededBy author
+author precededBy
+author precededBy
+author precededBy
+precededBy author
+author precededBy
+precededBy author
+author precededBy
+author precededBy
+author precededBy
+author precededBy
+author precededBy
+ISBN_number author
+author ISBN_number
+precededBy author
+precededBy author
+author precededBy
+author ISBN_number
+author ISBN_number
+author ISBN_number
+author mediaType
+author mediaType
+author mediaType
+author precededBy
+author precededBy
+author precededBy
+birthPlace author
+birthPlace author
+author birthPlace
+author influencedBy
+author influencedBy
+author influencedBy
+author ISBN_number
+author ISBN_number
+ethnicGroup country
+country ethnicGroup
+country ethnicGroup
+country ethnicGroup
+country ethnicGroup
+country ethnicGroup
+
+country ethnicGroup
+followedBy precededBy
+
+followedBy precededBy
+spokenIn language
+abbreviation LCCN_number
+LCCN_number abbreviation
+ISSN_number abbreviation
+abbreviation ISSN_number
+abbreviation ISSN_number
+abbreviation ISSN_number
+ISSN_number abbreviation
+abbreviation academicDiscipline
+abbreviation academicDiscipline
+abbreviation academicDiscipline
+publisher headquarter
+publisher headquarter
+publisher headquarter
+publisher leaderName
+leaderName publisher
+leaderName publisher
+academicDiscipline ISSN_number
+academicDiscipline ISSN_number
+ISSN_number academicDiscipline
+ISSN_number academicDiscipline
+academicDiscipline ISSN_number
+academicDiscipline ISSN_number
+firstPublicationYear academicDiscipline
+firstPublicationYear academicDiscipline
+firstPublicationYear academicDiscipline
+ISSN_number academicDiscipline
+ISSN_number academicDiscipline
+ISSN_number academicDiscipline
+ISSN_number academicDiscipline
+academicDiscipline academicDiscipline
+academicDiscipline academicDiscipline
+firstPublicationYear academicDiscipline
+firstPublicationYear academicDiscipline
+country publisher
+publisher country
+country publisher
+country capital
+capital country
+publisher country
+country publisher
+publisher country
+publisher parentCompany
+parentCompany publisher
+publisher parentCompany
+abbreviation CODEN_code
+abbreviation CODEN_code
+abbreviation academicDiscipline
+abbreviation academicDiscipline
+abbreviation academicDiscipline
+almaMater editor
+almaMater editor
+editor almaMater
+editor almaMater
+editor almaMater
+editor almaMater
+editor doctoralAdvisor
+editor doctoralAdvisor
+doctoralAdvisor editor
+editor nationality
+editor nationality
+editor nationality
+residence editor
+editor residence
+editor residence
+abbreviation impactFactor
+abbreviation impactFactor
+abbreviation impactFactor
+author OCLC_number
+author OCLC_number
+author OCLC_number
+country ethnicGroup
+country ethnicGroup
+country language
+country language
+country language
+language spokenIn
+language spokenIn
+language spokenIn
+mediaType ISBN_number
+mediaType ISBN_number
+author mediaType
+author mediaType
+mediaType author
+publisher parentCompany
+parentCompany publisher
+OCLC_number ISBN_number
+OCLC_number ISBN_number
+ISBN_number OCLC_number
+mediaType OCLC_number
+mediaType OCLC_number
+OCLC_number mediaType
+publisher author
+author publisher
+author publisher
+followedBy author
+followedBy author
+followedBy author
+mediaType OCLC_number
+OCLC_number mediaType
+OCLC_number mediaType
+numberOfPages mediaType
+mediaType numberOfPages
+numberOfPages mediaType
+numberOfPages ISBN_number
+numberOfPages ISBN_number
+ISBN_number numberOfPages
+precededBy author
+precededBy author
+author precededBy
+author precededBy
+precededBy author
+author publisher
+publisher author
+publisher author
+publisher founder
+founder publisher
+publisher founder
+mediaType ISBN_number
+mediaType ISBN_number
+mediaType ISBN_number
+OCLC_number mediaType
+OCLC_number mediaType
+OCLC_number mediaType
+followedBy country
+country followedBy
+country followedBy
+country publisher
+country publisher
+country ethnicGroup
+country ethnicGroup
+country ethnicGroup
+language spokenIn
+mediaType ISBN_number
+ISBN_number mediaType
+ISBN_number mediaType
+numberOfPages mediaType
+mediaType numberOfPages
+mediaType numberOfPages
+numberOfPages mediaType
+precededBy followedBy
+followedBy precededBy
+precededBy followedBy
+publisher followedBy
+followedBy publisher
+publisher followedBy
+numberOfPages ISBN_number
+ISBN_number numberOfPages
+numberOfPages ISBN_number
+author ISBN_number
+author ISBN_number
+author ISBN_number
+author OCLC_number
+author OCLC_number
+author OCLC_number
+mediaType author
+author mediaType
+author mediaType
+country capital
+country capital
+country capital
+country ethnicGroup
+country ethnicGroup
+ethnicGroup country
+country ethnicGroup
+country language
+country language
+country language
+country leaderName
+country leaderName
+country leaderName
+country leaderTitle
+country leaderTitle
+country leaderTitle
+language country
+language country
+country language
+language spokenIn
+language spokenIn
+mediaType ISBN_number
+publisher country
+publisher country
+country publisher
+ISBN_number mediaType
+mediaType ISBN_number
+mediaType ISBN_number
+OCLC_number mediaType
+mediaType OCLC_number
+OCLC_number mediaType
+influencedBy author
+author influencedBy
+influencedBy author
+country ethnicGroup
+country ethnicGroup
+country ethnicGroup
+country ethnicGroup
+country ethnicGroup
+country ethnicGroup
+country language
+country language
+country language
+numberOfPages ISBN_number
+ISBN_number numberOfPages
+numberOfPages
+numberOfPages mediaType
+mediaType numberOfPages
+numberOfPages mediaType
+mediaType numberOfPages
+numberOfPages mediaType
+parentCompany publisher
+publisher parentCompany
+publisher parentCompany
+author ISBN_number
+author ISBN_number
+author ISBN_number
+author mediaType
+author mediaType
+author mediaType
+ethnicGroup country
+country ethnicGroup
+country language
+language country
+language spokenIn
+language spokenIn
+language spokenIn
+author mediaType
+mediaType author
+author mediaType
+publisher precededBy
+publisher precededBy
+precededBy publisher
+ISSN_number abbreviation
+ISSN_number abbreviation
+abbreviation ISSN_number
+LCCN_number abbreviation
+LCCN_number abbreviation
+abbreviation LCCN_number
+abbreviation CODEN_code
+abbreviation CODEN_code
+abbreviation academicDiscipline
+abbreviation academicDiscipline
+abbreviation academicDiscipline
+author OCLC_number
+OCLC_number author
+author OCLC_number
+author ISBN_number
+ISBN_number author
+author ISBN_number
+mediaType author
+author mediaType
+author mediaType
+author mediaType
+author mediaType
+mediaType author
+precededBy followedBy
+followedBy precededBy
+precededBy followedBy
+numberOfPages ISBN_number
+numberOfPages ISBN_number
+ISBN_number numberOfPages
+abbreviation ISSN_number
+abbreviation ISSN_number
+abbreviation ISSN_number
+LCCN_number abbreviation
+abbreviation LCCN_number
+CODEN_code abbreviation
+CODEN_code abbreviation
+CODEN_code abbreviation
+abbreviation academicDiscipline
+abbreviation academicDiscipline
+abbreviation academicDiscipline
+abbreviation LCCN_number
+abbreviation LCCN_number
+abbreviation CODEN_code
+CODEN_code abbreviation
+abbreviation CODEN_code
+abbreviation ISSN_number
+abbreviation ISSN_number
+abbreviation ISSN_number
+academicDiscipline abbreviation
+abbreviation academicDiscipline
+abbreviation academicDiscipline
+abbreviation academicDiscipline
+abbreviation academicDiscipline
+publisher headquarter
+publisher headquarter
+headquarter publisher
+publisher regionServed
+regionServed publisher
+regionServed publisher
+CODEN_code abbreviation
+CODEN_code abbreviation
+abbreviation CODEN_code
+abbreviation LCCN_number
+abbreviation LCCN_number
+abbreviation LCCN_number
+abbreviation academicDiscipline
+abbreviation academicDiscipline
+academicDiscipline abbreviation
+publisher parentCompany
+parentCompany publisher
+parentCompany publisher
+abbreviation LCCN_number
+abbreviation LCCN_number
+abbreviation LCCN_number
+abbreviation ISSN_number
+abbreviation ISSN_number
+ISSN_number abbreviation
+abbreviation academicDiscipline
+abbreviation academicDiscipline
+abbreviation academicDiscipline
+publisher affiliation
+affiliation publisher
+affiliation publisher
+city publisher
+city publisher
+publisher nickname
+nickname publisher
+nickname publisher
+publisher president
+president publisher
+president publisher
+publisher state
+publisher state
+state publisher
+OCLC_number author
+author OCLC_number
+author OCLC_number
+mediaType author
+author mediaType
+author mediaType
+mediaType author
+mediaType author
+mediaType author
+precededBy country
+precededBy country
+precededBy country
+language followedBy
+language followedBy
+language followedBy
+mediaType ISBN_number
+ISBN_number mediaType
+ISBN_number mediaType
+numberOfPages ISBN_number
+numberOfPages ISBN_number
+ISBN_number numberOfPages
+mediaType OCLC_number
+mediaType OCLC_number
+mediaType OCLC_number
+author followedBy
+author followedBy
+followedBy author
+birthPlace author
+author birthPlace
+ethnicGroup country
+country ethnicGroup
+country ethnicGroup
+country ethnicGroup
+language country
+language country
+country language
+language spokenIn
+language spokenIn
+language spokenIn
+mediaType ISBN_number
+mediaType ISBN_number
+mediaType ISBN_number
+mediaType OCLC_number
+mediaType OCLC_number
+mediaType OCLC_number
+mediaType numberOfPages
+numberOfPages mediaType
+mediaType numberOfPages
+mediaType numberOfPages
+mediaType numberOfPages
+numberOfPages mediaType
+abbreviation EISSN_number
+abbreviation EISSN_number
+abbreviation EISSN_number
+ISSN_number abbreviation
+abbreviation ISSN_number
+ISSN_number abbreviation
+abbreviation ISSN_number
+ISSN_number abbreviation
+abbreviation ISSN_number
+abbreviation firstPublicationYear
+abbreviation firstPublicationYear
+firstPublicationYear abbreviation
+impactFactor abbreviation
+abbreviation impactFactor
+abbreviation impactFactor
+country publisher
+publisher country
+publisher country
+academicDiscipline family
+followedBy followedBy
+followedBy followedBy
+followedBy followedBy
+author birthPlace
+author birthPlace
+author birthPlace
+notableWork author
+notableWork author
+notableWork author
+notableWork author
+notableWork author
+founder publisher
+founder publisher
+founder publisher
+followedBy publisher
+publisher followedBy
+publisher followedBy
+country language
+country language
+country language
+country leaderName
+country leaderName
+country leaderName
+country capital
+country capital
+country capital
+country capital
+country ethnicGroup
+country ethnicGroup
+country ethnicGroup
+ethnicGroup country
+ethnicGroup country
+country ethnicGroup
+country ethnicGroup
+country ethnicGroup
+language country
+country language
+country language
+country language
+country language
+country language
+language country
+country language
+country language
+country leaderName
+country leaderName
+country leaderName
+country leaderName
+country leaderName
+country leaderName
+country leaderName
+country leaderName
+country leaderName
+country leaderName
+country leaderName
+country leaderName
+country leaderTitle
+country leaderTitle
+country leaderTitle
+country leaderTitle
+country leaderTitle
+country leaderTitle
+leaderTitle country
+country leaderTitle
+leaderTitle country
+country leaderTitle
+country leaderTitle
+publisher country
+publisher country
+followedBy followedBy
+followedBy followedBy
+precededBy publisher
+precededBy publisher
+precededBy publisher
+location country language
+location country language
+location country language
+location country language
+location country language
+location country language
+country language location
+location country language
+location country language
+location country language
+location country language
+location country language
+leaderName country location
+location country leaderName
+location country leaderName
+country leaderName location
+location country leaderName
+location isPartOf
+location isPartOf
+location country isPartOf
+location isPartOf isPartOf
+location isPartOf
+location isPartOf isPartOf
+operatingOrganisation runwayLength runwayName
+operatingOrganisation runwayName runwayLength
+operatingOrganisation runwayName runwayLength
+operatingOrganisation runwayName runwayLength
+operatingOrganisation runwayLength runwayName
+operatingOrganisation runwayLength runwayName
+operatingOrganisation runwayLength runwayName
+operatingOrganisation runwayName runwayLength
+operatingOrganisation runwayName runwayLength
+runwayLength operatingOrganisation runwayName
+operatingOrganisation runwayName runwayLength
+operatingOrganisation runwayName runwayLength
+runwayName runwayLength operatingOrganisation
+operatingOrganisation runwayLength runwayName
+operatingOrganisation runwayLength runwayName
+operatingOrganisation runwayLength runwayName
+operatingOrganisation runwayLength runwayName
+runwayName runwayLength operatingOrganisation
+runwayName runwayLength operatingOrganisation
+operatingOrganisation runwayLength runwayName
+cityServed isPartOf country
+cityServed isPartOf country
+cityServed isPartOf country
+cityServed isPartOf country
+isPartOf cityServed country
+country cityServed
+cityServed elevationAboveTheSeaLevel_(in_metres) runwayLength
+cityServed elevationAboveTheSeaLevel_(in_metres) runwayLength
+runwayLength elevationAboveTheSeaLevel_(in_metres) cityServed
+cityServed runwayLength elevationAboveTheSeaLevel_(in_metres)
+cityServed runwayLength elevationAboveTheSeaLevel_(in_metres)
+cityServed elevationAboveTheSeaLevel_(in_metres) runwayLength
+elevationAboveTheSeaLevel_(in_metres) cityServed runwayLength
+cityServed runwayLength elevationAboveTheSeaLevel_(in_metres)
+cityServed elevationAboveTheSeaLevel_(in_metres) cityServed
+cityServed elevationAboveTheSeaLevel_(in_metres) cityServed
+cityServed cityServed elevationAboveTheSeaLevel_(in_metres)
+elevationAboveTheSeaLevel_(in_metres) location country
+location country elevationAboveTheSeaLevel_(in_metres)
+location country elevationAboveTheSeaLevel_(in_metres)
+location country elevationAboveTheSeaLevel_(in_metres)
+elevationAboveTheSeaLevel_(in_metres) location country
+location country elevationAboveTheSeaLevel_(in_metres)
+elevationAboveTheSeaLevel_(in_metres) location country
+location country elevationAboveTheSeaLevel_(in_metres)
+location country elevationAboveTheSeaLevel_(in_metres)
+location runwayName runwayLength
+location runwayLength runwayName
+location runwayName runwayLength
+location runwayName runwayLength
+location runwayLength runwayName
+location runwayName runwayLength
+location runwayName runwayLength
+location runwayName runwayLength
+location runwayLength runwayName
+location runwayName runwayLength
+location runwayName runwayLength
+location runwayName runwayLength
+location runwayName runwayLength
+elevationAboveTheSeaLevel_(in_metres) location country
+elevationAboveTheSeaLevel_(in_metres) location country
+elevationAboveTheSeaLevel_(in_metres) location country
+location runwayLength runwayName
+location runwayName runwayLength
+runwayName location runwayLength
+runwayName location runwayLength
+location runwayName runwayLength
+location runwayLength runwayName
+location runwayLength runwayName
+location runwayLength runwayName
+location runwayName runwayLength
+location runwayName runwayLength
+isPartOf isPartOf cityServed
+cityServed isPartOf isPartOf
+cityServed isPartOf leaderName
+cityServed isPartOf leaderName
+cityServed isPartOf leaderName
+isPartOf leaderName cityServed
+location operatingOrganisation elevationAboveTheSeaLevel_(in_metres)
+location elevationAboveTheSeaLevel_(in_metres) operatingOrganisation
+elevationAboveTheSeaLevel_(in_metres) location operatingOrganisation
+location runwayName runwayLength
+location runwayName runwayLength
+location runwayLength runwayName
+location runwayName runwayLength
+location runwayName runwayLength
+runwayName location runwayLength
+location runwayName runwayLength
+location runwayLength runwayName
+location runwayLength runwayName
+location isPartOf elevationAboveTheSeaLevel_(in_metres)
+location isPartOf elevationAboveTheSeaLevel_(in_metres)
+location isPartOf elevationAboveTheSeaLevel_(in_metres)
+elevationAboveTheSeaLevel_(in_metres) location isPartOf
+elevationAboveTheSeaLevel_(in_metres) location isPartOf
+isPartOf location elevationAboveTheSeaLevel_(in_metres)
+operatingOrganisation location ICAO_Location_Identifier
+location ICAO_Location_Identifier operatingOrganisation
+location ICAO_Location_Identifier operatingOrganisation
+location leaderName leaderName
+location leaderName leaderName
+location leaderName leaderName
+location ICAO_Location_Identifier operatingOrganisation
+ICAO_Location_Identifier location operatingOrganisation
+ICAO_Location_Identifier location operatingOrganisation
+location isPartOf isPartOf
+location isPartOf isPartOf
+location isPartOf isPartOf
+isPartOf location leaderName
+location isPartOf leaderName
+location isPartOf leaderName
+isPartOf leaderName location
+location isPartOf leaderName
+ICAO_Location_Identifier location operatingOrganisation
+location ICAO_Location_Identifier operatingOrganisation
+operatingOrganisation ICAO_Location_Identifier location
+cityServed country language
+cityServed country language
+cityServed elevationAboveTheSeaLevel_(in_metres) runwayLength
+cityServed elevationAboveTheSeaLevel_(in_metres) runwayLength
+cityServed runwayLength elevationAboveTheSeaLevel_(in_metres)
+elevationAboveTheSeaLevel_(in_metres) cityServed runwayLength
+cityServed runwayLength elevationAboveTheSeaLevel_(in_metres)
+cityServed runwayLength elevationAboveTheSeaLevel_(in_metres)
+operatingOrganisation location runwayLength
+operatingOrganisation location runwayLength
+operatingOrganisation location runwayLength
+location runwayLength operatingOrganisation
+operatingOrganisation location runwayLength
+operatingOrganisation location runwayLength
+operatingOrganisation location runwayLength
+operatingOrganisation location runwayLength
+location operatingOrganisation runwayLength
+operatingOrganisation location runwayLength
+location operatingOrganisation runwayLength
+operatingOrganisation aircraftFighter battles
+operatingOrganisation aircraftFighter battles
+operatingOrganisation aircraftFighter battles
+operatingOrganisation aircraftFighter battles
+operatingOrganisation aircraftFighter battles
+operatingOrganisation battles aircraftFighter
+operatingOrganisation battles aircraftFighter
+operatingOrganisation battles aircraftFighter
+operatingOrganisation battles aircraftFighter
+operatingOrganisation aircraftFighter battles
+operatingOrganisation aircraftFighter battles
+operatingOrganisation battles aircraftFighter
+operatingOrganisation battles aircraftFighter
+aircraftFighter battles
+operatingOrganisation battles aircraftFighter
+aircraftFighter operatingOrganisation
+operatingOrganisation battles battles
+battles battles operatingOrganisation
+battles battles
+operatingOrganisation battles battles
+battles battles operatingOrganisation
+battles operatingOrganisation aircraftFighter
+operatingOrganisation aircraftFighter battles
+operatingOrganisation battles aircraftFighter
+operatingOrganisation battles battles
+battles battles operatingOrganisation
+battles battles operatingOrganisation
+operatingOrganisation battles battles
+location isPartOf country
+location isPartOf country
+location isPartOf country
+location isPartOf leaderParty
+location leaderParty
+isPartOf leaderParty location
+location country leaderParty
+location country leaderParty
+location country leaderParty
+cityServed 1st_runway_SurfaceType runwayLength
+cityServed 1st_runway_SurfaceType runwayLength
+cityServed 1st_runway_SurfaceType runwayLength
+1st_runway_SurfaceType order class
+1st_runway_SurfaceType class order
+1st_runway_SurfaceType class order
+1st_runway_SurfaceType class order
+1st_runway_SurfaceType class order
+1st_runway_SurfaceType order order
+1st_runway_SurfaceType order order
+order order 1st_runway_SurfaceType
+cityServed runwayLength 1st_runway_SurfaceType
+cityServed 1st_runway_SurfaceType runwayLength
+cityServed 1st_runway_SurfaceType runwayLength
+cityServed runwayLength 1st_runway_SurfaceType
+cityServed runwayLength 1st_runway_SurfaceType
+cityServed 1st_runway_SurfaceType runwayLength
+1st_runway_SurfaceType runwayLength
+cityServed 1st_runway_SurfaceType runwayLength
+cityServed 1st_runway_SurfaceType runwayLength
+location runwayLength runwayName
+location runwayName runwayLength
+location runwayName runwayLength
+runwayName location runwayLength
+location runwayLength runwayName
+location runwayLength runwayName
+location runwayLength runwayName
+location runwayLength runwayName
+location runwayLength runwayName
+location runwayName runwayLength
+location runwayName runwayLength
+location runwayLength runwayName
+operatingOrganisation location leaderTitle
+location operatingOrganisation headquarter
+location operatingOrganisation headquarter
+location operatingOrganisation headquarter
+runwayName location runwayLength
+location runwayLength runwayName
+location runwayName runwayLength
+location runwayLength elevationAboveTheSeaLevel_(in_metres)
+runwayLength location country
+runwayLength location country
+location country runwayLength
+runwayLength location country
+location country runwayLength
+location country runwayLength
+location elevationAboveTheSeaLevel_(in_metres) runwayLength
+elevationAboveTheSeaLevel_(in_metres) runwayLength location
+location elevationAboveTheSeaLevel_(in_metres) runwayLength
+elevationAboveTheSeaLevel_(in_metres) location country
+elevationAboveTheSeaLevel_(in_metres) location country
+location country elevationAboveTheSeaLevel_(in_metres)
+location country runwayLength
+location country runwayLength
+country location runwayLength
+location country runwayLength
+location country runwayLength
+cityServed runwayLength elevationAboveTheSeaLevel_(in_metres)
+elevationAboveTheSeaLevel_(in_metres) runwayLength cityServed
+cityServed runwayLength elevationAboveTheSeaLevel_(in_metres)
+elevationAboveTheSeaLevel_(in_metres) runwayLength cityServed
+cityServed elevationAboveTheSeaLevel_(in_metres) runwayLength
+cityServed runwayLength elevationAboveTheSeaLevel_(in_metres)
+cityServed runwayLength elevationAboveTheSeaLevel_(in_metres)
+cityServed runwayLength elevationAboveTheSeaLevel_(in_metres)
+elevationAboveTheSeaLevel_(in_metres) runwayLength cityServed
+cityServed elevationAboveTheSeaLevel_(in_metres) runwayLength
+location elevationAboveTheSeaLevel_(in_metres) runwayLength
+location elevationAboveTheSeaLevel_(in_metres) runwayLength
+location runwayLength elevationAboveTheSeaLevel_(in_metres)
+location elevationAboveTheSeaLevel_(in_metres) runwayLength
+location elevationAboveTheSeaLevel_(in_metres) runwayLength
+country capital location
+location country capital
+location country capital
+location capital demonym
+location capital demonym
+demonym location capital
+capital location demonym
+demonym capital location
+location demonym capital
+location demonym country
+location country demonym
+location country demonym
+country location language
+location language country
+location country language
+location language demonym
+
+location capital language
+location capital language
+location country language
+location country language
+location country language
+location elevationAboveTheSeaLevel_(in_metres) runwayLength
+location elevationAboveTheSeaLevel_(in_metres) runwayLength
+location elevationAboveTheSeaLevel_(in_metres) runwayLength
+location elevationAboveTheSeaLevel_(in_metres) runwayLength
+location elevationAboveTheSeaLevel_(in_metres) runwayLength
+location elevationAboveTheSeaLevel_(in_metres) runwayLength
+elevationAboveTheSeaLevel_(in_metres) location country
+location country elevationAboveTheSeaLevel_(in_metres)
+location country elevationAboveTheSeaLevel_(in_metres)
+runwayLength location country
+location country runwayLength
+location country runwayLength
+runwayName location country
+country location runwayName
+location country runwayName
+location country isPartOf
+location isPartOf country
+location isPartOf country
+cityServed elevationAboveTheSeaLevel_(in_metres) runwayLength
+elevationAboveTheSeaLevel_(in_metres) runwayLength cityServed
+cityServed country capital
+cityServed country capital
+language country cityServed
+cityServed country language
+cityServed country language
+cityServed country language
+cityServed country language
+officialLanguage
+cityServed country officialLanguage
+cityServed country officialLanguage
+cityServed country officialLanguage
+cityServed country officialLanguage
+cityServed operatingOrganisation elevationAboveTheSeaLevel_(in_metres)
+operatingOrganisation cityServed elevationAboveTheSeaLevel_(in_metres)
+cityServed elevationAboveTheSeaLevel_(in_metres) operatingOrganisation
+cityServed owner operatingOrganisation
+operatingOrganisation owner cityServed
+runwayLength owner operatingOrganisation
+operatingOrganisation runwayLength owner
+operatingOrganisation owner runwayLength
+operatingOrganisation elevationAboveTheSeaLevel_(in_metres) owner
+operatingOrganisation owner elevationAboveTheSeaLevel_(in_metres)
+owner operatingOrganisation elevationAboveTheSeaLevel_(in_metres)
+cityServed isPartOf isPartOf
+cityServed isPartOf isPartOf
+isPartOf cityServed isPartOf
+isPartOf cityServed
+isPartOf cityServed isPartOf
+location elevationAboveTheSeaLevel_(in_metres) runwayLength
+location elevationAboveTheSeaLevel_(in_metres) runwayLength
+location elevationAboveTheSeaLevel_(in_metres) runwayLength
+location runwayLength elevationAboveTheSeaLevel_(in_metres)
+location isPartOf country
+location isPartOf country
+location isPartOf country
+isPartOf country location
+location isPartOf country
+location isPartOf country
+location isPartOf country
+location isPartOf country
+location isPartOf
+location isPartOf
+location isPartOf country
+elevationAboveTheSeaLevel_(in_metres) runwayLength operatingOrganisation
+runwayLength elevationAboveTheSeaLevel_(in_metres) operatingOrganisation
+elevationAboveTheSeaLevel_(in_metres) runwayLength operatingOrganisation
+elevationAboveTheSeaLevel_(in_metres) runwayLength operatingOrganisation
+operatingOrganisation runwayLength elevationAboveTheSeaLevel_(in_metres)
+elevationAboveTheSeaLevel_(in_metres) 3rd_runway_SurfaceType runwayLength
+elevationAboveTheSeaLevel_(in_metres) runwayLength 3rd_runway_SurfaceType
+3rd_runway_SurfaceType elevationAboveTheSeaLevel_(in_metres) runwayLength
+3rd_runway_SurfaceType division class
+3rd_runway_SurfaceType class division
+3rd_runway_SurfaceType division class
+3rd_runway_SurfaceType class order
+3rd_runway_SurfaceType order class
+3rd_runway_SurfaceType order class
+3rd_runway_SurfaceType division order
+3rd_runway_SurfaceType order division
+3rd_runway_SurfaceType division order
+elevationAboveTheSeaLevel_(in_metres) runwayLength 3rd_runway_SurfaceType
+elevationAboveTheSeaLevel_(in_metres) runwayLength 3rd_runway_SurfaceType
+elevationAboveTheSeaLevel_(in_metres) runwayLength 3rd_runway_SurfaceType
+elevationAboveTheSeaLevel_(in_metres) runwayLength 3rd_runway_SurfaceType
+elevationAboveTheSeaLevel_(in_metres) runwayLength 3rd_runway_SurfaceType
+runwayLength 3rd_runway_SurfaceType elevationAboveTheSeaLevel_(in_metres)
+location elevationAboveTheSeaLevel_(in_metres) runwayLength
+location elevationAboveTheSeaLevel_(in_metres) runwayLength
+location elevationAboveTheSeaLevel_(in_metres) runwayLength
+location elevationAboveTheSeaLevel_(in_metres) runwayLength
+location runwayLength elevationAboveTheSeaLevel_(in_metres)
+location elevationAboveTheSeaLevel_(in_metres) runwayLength
+operatingOrganisation headquarter headquarter
+headquarter operatingOrganisation
+operatingOrganisation headquarter headquarter
+operatingOrganisation headquarter
+operatingOrganisation headquarter
+headquarter operatingOrganisation hubAirport
+hubAirport operatingOrganisation headquarter
+operatingOrganisation hubAirport headquarter
+operatingOrganisation headquarter hubAirport
+operatingOrganisation headquarter hubAirport
+headquarter operatingOrganisation hubAirport
+operatingOrganisation headquarter hubAirport
+cityServed country leaderName
+cityServed country leaderName
+cityServed country leaderName
+country cityServed leaderName
+cityServed country leaderName
+cityServed country leaderName
+cityServed location elevationAboveTheSeaLevel_(in_metres)
+location cityServed elevationAboveTheSeaLevel_(in_metres)
+elevationAboveTheSeaLevel_(in_metres) location cityServed
+runwayLength location cityServed
+cityServed location runwayLength
+location cityServed runwayLength
+runwayLength location cityServed
+location cityServed runwayLength
+location cityServed runwayLength
+elevationAboveTheSeaLevel_(in_metres) location country
+location country elevationAboveTheSeaLevel_(in_metres)
+elevationAboveTheSeaLevel_(in_metres) location country
+operatingOrganisation regionServed headquarter
+operatingOrganisation regionServed headquarter
+operatingOrganisation regionServed headquarter
+headquarter operatingOrganisation
+location country runwayLength
+location country runwayLength
+location country runwayLength
+operatingOrganisation runwayLength runwayName
+runwayName operatingOrganisation runwayLength
+operatingOrganisation runwayName runwayLength
+operatingOrganisation runwayName runwayLength
+runwayLength operatingOrganisation runwayName
+operatingOrganisation runwayLength runwayName
+operatingOrganisation runwayLength runwayName
+cityServed country leaderName
+cityServed country leaderName
+cityServed country leaderName
+location isPartOf country
+location isPartOf country
+location country
+location isPartOf isPartOf
+location isPartOf
+location isPartOf
+operatingOrganisation aircraftHelicopter transportAircraft
+operatingOrganisation aircraftHelicopter transportAircraft
+operatingOrganisation aircraftHelicopter transportAircraft
+elevationAboveTheSeaLevel_(in_metres) operatingOrganisation location
+elevationAboveTheSeaLevel_(in_metres) operatingOrganisation location
+location operatingOrganisation elevationAboveTheSeaLevel_(in_metres)
+cityServed country language
+cityServed country language
+cityServed country language
+cityServed country leaderName
+leaderName country cityServed
+cityServed country leaderName
+cityServed country leaderName
+cityServed country leaderName
+leaderName country cityServed
+cityServed country leaderName
+leaderName country cityServed
+country leaderName cityServed
+location isPartOf country
+location isPartOf country
+
+leaderName country cityServed
+cityServed country leaderName
+country leaderName cityServed
+leaderName country cityServed
+leaderName country cityServed
+cityServed country leaderName
+class order 2nd_runway_SurfaceType
+order class 2nd_runway_SurfaceType
+2nd_runway_SurfaceType order class
+1st_runway_SurfaceType division class
+1st_runway_SurfaceType class division
+1st_runway_SurfaceType class division
+order division 1st_runway_SurfaceType
+1st_runway_SurfaceType division order
+1st_runway_SurfaceType order division
+1st_runway_SurfaceType division order
+division order 1st_runway_SurfaceType
+order division 2nd_runway_SurfaceType
+order division 2nd_runway_SurfaceType
+2nd_runway_SurfaceType division order
+2nd_runway_SurfaceType division order
+order division 2nd_runway_SurfaceType
+division order 2nd_runway_SurfaceType
+location isPartOf country
+isPartOf country location
+location leaderParty isPartOf
+leaderParty isPartOf location
+location isPartOf leaderParty
+isPartOf isPartOf cityServed
+cityServed isPartOf isPartOf
+cityServed isPartOf isPartOf
+isPartOf isPartOf cityServed
+cityServed isPartOf isPartOf
+cityServed isPartOf isPartOf
+isPartOf isPartOf cityServed
+cityServed isPartOf isPartOf
+cityServed isPartOf isPartOf
+cityServed isPartOf isPartOf
+cityServed isPartOf isPartOf
+cityServed isPartOf isPartOf
+cityServed isPartOf isPartOf
+cityServed isPartOf isPartOf
+almaMater was_selected_by_NASA timeInSpace
+almaMater was_selected_by_NASA timeInSpace
+almaMater was_a_crew_member_of dateOfRetirement
+almaMater was_a_crew_member_of dateOfRetirement
+almaMater was_a_crew_member_of dateOfRetirement
+birthDate timeInSpace was_a_crew_member_of
+birthDate timeInSpace was_a_crew_member_of
+birthDate was_a_crew_member_of timeInSpace
+status birthDate was_selected_by_NASA
+birthDate was_selected_by_NASA status
+birthDate was_selected_by_NASA status
+birthDate was_selected_by_NASA status
+nationality almaMater status
+nationality almaMater status
+nationality almaMater status
+occupation birthPlace nationality
+birthPlace nationality occupation
+nationality birthPlace occupation
+birthPlace nationality occupation
+birthPlace nationality occupation
+nationality was_selected_by_NASA was_a_crew_member_of
+nationality was_selected_by_NASA was_a_crew_member_of
+nationality was_selected_by_NASA was_a_crew_member_of
+nationality was_selected_by_NASA was_a_crew_member_of
+occupation timeInSpace birthPlace
+status birthPlace was_a_crew_member_of
+status birthPlace was_a_crew_member_of
+birthPlace was_a_crew_member_of status
+birthPlace status was_a_crew_member_of
+nationality was_a_crew_member_of operator
+was_a_crew_member_of nationality operator
+was_a_crew_member_of operator timeInSpace
+was_a_crew_member_of operator timeInSpace
+almaMater birthPlace dateOfRetirement
+birthPlace dateOfRetirement almaMater
+almaMater birthPlace dateOfRetirement
+birthPlace almaMater dateOfRetirement
+birthPlace almaMater dateOfRetirement
+birthPlace almaMater deathPlace
+deathPlace birthPlace almaMater
+almaMater deathDate deathPlace
+almaMater deathPlace deathDate
+deathDate deathPlace almaMater
+almaMater deathPlace deathDate
+birthDate birthPlace was_selected_by_NASA
+birthDate birthPlace was_selected_by_NASA
+birthPlace was_selected_by_NASA birthDate
+birthPlace birthDate was_selected_by_NASA
+birthPlace birthDate was_selected_by_NASA
+deathPlace birthPlace was_selected_by_NASA
+birthPlace deathPlace was_selected_by_NASA
+birthPlace was_selected_by_NASA deathPlace
+birthPlace was_selected_by_NASA deathPlace
+occupation birthPlace birthDate
+occupation birthDate birthPlace
+occupation birthPlace birthDate
+birthDate birthPlace occupation
+occupation birthPlace birthDate
+birthPlace served_as_Chief_of_the_Astronaut_Office_in was_awarded
+birthPlace was_awarded served_as_Chief_of_the_Astronaut_Office_in
+birthPlace served_as_Chief_of_the_Astronaut_Office_in was_awarded
+birthPlace served_as_Chief_of_the_Astronaut_Office_in was_awarded
+birthPlace occupation status
+occupation status birthPlace
+birthPlace occupation status
+status birthPlace occupation
+birthPlace occupation status
+timeInSpace was_a_crew_member_of birthPlace
+birthPlace was_a_crew_member_of timeInSpace
+birthPlace was_a_crew_member_of timeInSpace
+birthPlace was_a_crew_member_of timeInSpace
+birthPlace was_a_crew_member_of operator
+birthPlace was_a_crew_member_of operator
+birthPlace was_a_crew_member_of operator
+birthPlace was_a_crew_member_of backup_pilot
+birthPlace was_a_crew_member_of backup_pilot
+backup_pilot operator was_a_crew_member_of
+was_a_crew_member_of operator backup_pilot
+was_a_crew_member_of operator backup_pilot
+was_a_crew_member_of backup_pilot commander
+commander was_a_crew_member_of backup_pilot
+awards almaMater birthDate
+awards almaMater
+birthDate almaMater awards
+almaMater birthDate awards
+status birthPlace
+status nationality birthPlace
+birthPlace nationality status
+was_a_crew_member_of birthPlace nationality
+nationality was_a_crew_member_of birthPlace
+nationality birthPlace was_a_crew_member_of
+birthPlace nationality was_a_crew_member_of
+nationality birthPlace was_a_crew_member_of
+nationality birthPlace isPartOf
+birthPlace isPartOf nationality
+birthPlace isPartOf nationality
+nationality birthPlace leader
+birthPlace nationality leader
+birthPlace nationality leader
+birthPlace almaMater occupation
+birthPlace almaMater occupation
+birthPlace almaMater occupation
+birthPlace occupation almaMater
+birthDate birthPlace occupation
+birthPlace birthDate occupation
+was_a_crew_member_of birthPlace isPartOf
+birthPlace isPartOf was_a_crew_member_of
+was_a_crew_member_of backup_pilot operator
+was_a_crew_member_of operator backup_pilot
+was_a_crew_member_of operator backup_pilot
+nationality was_a_crew_member_of operator
+nationality was_a_crew_member_of operator
+nationality was_a_crew_member_of operator
+was_a_crew_member_of occupation birthDate
+occupation birthDate was_a_crew_member_of
+occupation was_a_crew_member_of birthDate
+birthDate was_a_crew_member_of occupation
+was_a_crew_member_of operator timeInSpace
+operator was_a_crew_member_of timeInSpace
+was_selected_by_NASA was_a_crew_member_of operator
+was_selected_by_NASA was_a_crew_member_of operator
+was_selected_by_NASA was_a_crew_member_of status
+status was_selected_by_NASA was_a_crew_member_of
+was_selected_by_NASA was_a_crew_member_of status
+senators gemstone deathPlace
+deathPlace senators gemstone
+deathPlace senators gemstone
+birthPlace part
+birthPlace partsType
+birthPlace awards higher
+birthPlace awards higher
+birthPlace awards higher
+almaMater deathPlace deathDate
+almaMater deathPlace deathDate
+almaMater deathPlace deathDate
+almaMater occupation status
+almaMater occupation status
+almaMater occupation status
+almaMater president affiliation
+president affiliation almaMater
+president affiliation almaMater
+almaMater affiliations compete_in
+almaMater affiliations compete_in
+almaMater compete_in affiliations
+birthPlace almaMater mascot
+birthPlace almaMater mascot
+almaMater birthPlace mascot
+birthPlace occupation was_selected_by_NASA
+was_selected_by_NASA occupation birthPlace
+birthPlace occupation was_selected_by_NASA
+birthPlace occupation was_selected_by_NASA
+birthPlace occupation was_selected_by_NASA
+status birthPlace part
+status birthPlace part
+birthPlace part status
+birthDate occupation deathPlace
+occupation birthDate deathPlace
+deathPlace birthDate occupation
+occupation birthDate deathPlace
+nationality birthPlace deathPlace
+birthPlace nationality
+deathPlace birthPlace nationality
+birthPlace nationality deathPlace
+occupation birthPlace partsType
+birthPlace partsType occupation
+deathPlace isPartOf leaderName
+deathPlace leaderName
+isPartOf deathPlace leaderName
+representative birthPlace dateOfRetirement
+dateOfRetirement birthPlace representative
+dateOfRetirement birthDate birthPlace
+birthPlace birthDate dateOfRetirement
+birthPlace birthDate dateOfRetirement
+birthDate birthPlace dateOfRetirement
+birthDate birthPlace dateOfRetirement
+birthPlace occupation
+birthPlace occupation
+occupation birthPlace dateOfRetirement
+almaMater was_a_crew_member_of dateOfRetirement
+
+almaMater was_a_crew_member_of dateOfRetirement
+almaMater was_a_crew_member_of dateOfRetirement
+birthPlace occupation was_a_crew_member_of
+birthPlace occupation was_a_crew_member_of
+birthPlace occupation was_a_crew_member_of
+birthPlace occupation was_a_crew_member_of
+birthPlace was_a_crew_member_of occupation
+birthPlace almaMater title
+title birthPlace almaMater
+birthPlace almaMater title
+operator crewMembers was_a_crew_member_of
+was_a_crew_member_of crewMembers operator
+was_a_crew_member_of crewMembers operator
+almaMater was_a_crew_member_of crewMembers
+almaMater was_a_crew_member_of crewMembers
+almaMater was_a_crew_member_of crewMembers
+birthDate was_selected_by_NASA was_a_crew_member_of
+birthDate was_selected_by_NASA was_a_crew_member_of
+birthDate was_selected_by_NASA was_a_crew_member_of
+birthPlace almaMater was_selected_by_NASA
+birthPlace almaMater was_selected_by_NASA
+was_selected_by_NASA nationality birthPlace
+birthPlace occupation was_selected_by_NASA
+occupation was_selected_by_NASA birthPlace
+birthPlace occupation was_selected_by_NASA
+birthPlace architect location
+location architect birthPlace
+location architect birthPlace
+birthPlace leaderName architect
+leaderName birthPlace architect
+leaderName birthPlace architect
+leaderName birthPlace architect
+leaderName birthPlace architect
+birthPlace architect leaderName
+leaderName birthPlace architect
+birthPlace leaderName architect
+leaderName birthPlace architect
+architect birthPlace leaderName
+leaderName hometown architect
+architect hometown leaderName
+leaderName hometown architect
+architect hometown leaderName
+leaderName hometown architect
+completionDate location floorCount
+floorCount completionDate
+floorCount completionDate
+location completionDate floorCount
+floorCount completionDate location
+location completionDate floorCount
+location floorCount completionDate
+location floorCount completionDate
+completionDate location floorCount
+floorCount completionDate cost
+floorCount completionDate cost
+cost floorCount completionDate
+location country buildingStartDate
+location country buildingStartDate
+location country buildingStartDate
+completionDate location country
+completionDate location country
+floorArea location country
+floorCount location country
+location country floorCount
+location country floorCount
+floorCount architect completionDate
+architect completionDate floorCount
+architect completionDate floorCount
+floorCount architect owner
+floorCount architect owner
+location capital leaderName
+location capital leaderName
+leaderName ethnicGroup location
+ethnicGroup leaderName location
+location leaderName ethnicGroup
+ethnicGroup leaderName location
+leaderName ethnicGroup location
+location leaderName leaderName
+leaderName leaderName location
+leaderName leaderName location
+location leaderName ethnicGroup
+location ethnicGroup leaderName
+completionDate floorCount floorArea
+completionDate floorArea floorCount
+location completionDate floorCount
+floorCount completionDate location
+completionDate floorCount location
+location completionDate floorCount
+completionDate floorCount location
+location floorCount completionDate
+floorCount completionDate location
+floorCount location completionDate
+location completionDate floorCount
+floorCount location country
+floorCount location country
+floorCount location country
+location country governingBody
+governingBody country location
+location isPartOf country
+isPartOf country location
+country location isPartOf
+governingBody isPartOf location
+location isPartOf isPartOf
+location isPartOf isPartOf
+location isPartOf isPartOf
+location isPartOf country
+location country isPartOf
+location isPartOf country
+location isPartOf leaderName
+leaderName isPartOf location
+location completionDate floorCount
+location completionDate floorCount
+completionDate floorCount floorArea
+completionDate floorCount floorArea
+completionDate floorCount floorArea
+floorCount location leaderName
+location leaderName floorCount
+leaderName location floorCount
+location leaderName leaderTitle
+location leaderTitle leaderName
+location leaderName leaderTitle
+leaderName leaderTitle location
+floorCount location leaderName
+floorCount location leaderName
+floorCount location leaderName
+location currency demonym
+demonym currency location
+location demonym currency
+leaderName demonym location
+location leaderName demonym
+leaderName currency location
+buildingStartDate floorCount floorArea
+floorCount floorArea buildingStartDate
+cost floorCount floorArea
+floorCount buildingStartDate location
+buildingStartDate floorCount location
+floorCount location buildingStartDate
+floorCount location floorArea
+location floorArea floorCount
+location floorCount floorArea
+location isPartOf leaderName
+location isPartOf leaderName
+location isPartOf leaderName
+location isPartOf leaderName
+location leaderName isPartOf
+architect completionDate floorCount
+architect completionDate floorCount
+location floorCount completionDate
+location completionDate floorCount
+location floorCount completionDate
+location isPartOf country
+location country leaderName
+leaderName country location
+leaderName country location
+location isPartOf country
+location isPartOf country
+location isPartOf country
+location isPartOf leaderName
+leaderName isPartOf location
+leaderName isPartOf location
+location isPartOf country
+country location isPartOf
+location isPartOf country
+location leaderName isPartOf
+location isPartOf leaderName
+location isPartOf leaderName
+location isPartOf leaderName
+isPartOf location leaderName
+location isPartOf leaderName
+location isPartOf leaderName
+location isPartOf country
+location isPartOf country
+floorCount completionDate location
+floorCount completionDate location
+country architect buildingStartDate
+country architect completionDate
+country architect completionDate
+architect country completionDate
+completionDate floorCount height
+completionDate height floorCount
+architect location completionDate
+location completionDate architect
+architect completionDate location
+architect completionDate location
+architect completionDate location
+location architect completionDate
+architect location completionDate
+architect completionDate location
+architect location completionDate
+architect completionDate location
+completionDate location architect
+location architect completionDate
+location isPartOf owner
+location isPartOf owner
+location isPartOf owner
+owner location leaderTitle
+location owner leaderTitle
+location isPartOf owner
+location isPartOf owner
+location isPartOf owner
+location owner leaderName
+leaderName location owner
+owner location leaderName
+leaderTitle location owner
+leaderTitle location owner
+owner location leaderTitle
+keyPerson tenant location
+keyPerson tenant location
+keyPerson tenant location
+foundationPlace tenant location
+tenant location foundationPlace
+foundationPlace tenant location
+location tenant keyPerson
+location tenant keyPerson
+keyPerson tenant location
+location leaderName tenant
+leaderName location tenant
+tenant location leaderName
+leaderName location tenant
+tenant location leaderName
+leaderName location tenant
+location tenant foundationPlace
+location tenant foundationPlace
+foundationPlace tenant location
+owner floorCount architect
+owner floorCount architect
+floorCount owner tenant
+floorCount owner tenant
+floorCount owner tenant
+architect location tenant
+tenant location architect
+location architect tenant
+location floorCount tenant
+tenant location floorCount
+tenant location floorCount
+architect buildingStartDate completionDate
+buildingStartDate completionDate architect
+completionDate buildingStartDate architect
+architect completionDate owner
+completionDate architect owner
+owner architect completionDate
+architect buildingStartDate completionDate
+architect buildingStartDate completionDate
+architect completionDate owner
+owner architect completionDate
+architect buildingStartDate completionDate
+buildingStartDate completionDate architect
+buildingStartDate completionDate architect
+completionDate buildingStartDate architect
+buildingStartDate completionDate architect
+architect completionDate buildingStartDate
+buildingStartDate completionDate architect
+architect buildingStartDate completionDate
+architect buildingStartDate completionDate
+architect buildingStartDate completionDate
+architect buildingStartDate completionDate
+architect buildingStartDate completionDate
+country leaderName demonym
+country leaderName demonym
+country language leaderName
+leaderName language country
+country language leaderName
+location isPartOf location
+location isPartOf location
+location isPartOf location
+location location isPartOf
+location location isPartOf
+isPartOf location country
+isPartOf location country
+location isPartOf country
+country isPartOf location
+isPartOf location country
+
+floorArea buildingStartDate completionDate
+buildingStartDate completionDate floorArea
+completionDate floorArea height
+completionDate height floorArea
+buildingStartDate location architecturalStyle
+location buildingStartDate architecturalStyle
+location architecturalStyle completionDate
+location completionDate architecturalStyle
+location completionDate architecturalStyle
+location completionDate architecturalStyle
+location architecturalStyle completionDate
+location country capital
+leaderName country location
+location country leaderName
+location country leaderName
+location country capital
+capital country location
+country capital language
+language country capital
+country capital language
+country leaderName capital
+country capital leaderName
+country leaderName currency
+country leaderName currency
+leaderName language country
+leaderName language country
+country leaderName language
+completionDate architecturalStyle location
+completionDate architecturalStyle location
+location architecturalStyle completionDate
+location isPartOf country
+location country isPartOf
+location country
+location location country
+location location country
+country location ethnicGroup
+location country ethnicGroup
+address floorCount floorArea
+address floorCount floorArea
+floorCount floorArea address
+location isPartOf country
+location isPartOf country
+country location isPartOf
+location location country
+location location country
+location isPartOf country
+location isPartOf country
+country currentTenants address
+country currentTenants address
+currentTenants address country
+architect currentTenants country
+country currentTenants architect
+architecturalStyle currentTenants country
+currentTenants completionDate country
+completionDate currentTenants country
+completionDate currentTenants country
+country currentTenants cost
+country currentTenants cost
+cost currentTenants country
+location architect owner
+architect owner location
+owner location architect
+architecturalStyle owner location
+owner location architecturalStyle
+owner location architecturalStyle
+owner completionDate location
+owner completionDate location
+location completionDate owner
+country tenant location
+country tenant location
+location tenant country
+location country currentTenants
+currentTenants location country
+location country currentTenants
+location country tenant
+tenant location country
+tenant location country
+owner location architect
+architect location owner
+owner architecturalStyle location
+owner location architecturalStyle
+owner location architecturalStyle
+completionDate location owner
+location owner completionDate
+address location country
+address location country
+location country address
+leaderName leaderName country
+country leaderName leaderName
+location country completionDate
+completionDate location country
+location country completionDate
+leaderName country location
+leaderName country location
+location country leaderName
+location country leaderName
+location country leaderName
+address country
+address location country
+location country address
+completionDate location country
+completionDate location country
+location country completionDate
+location country leaderName
+location country leaderName
+location country leaderName
+location country leaderName
+location country leaderName
+leaderName country location
+location location country
+location location country
+location country location
+state country bedCount
+bedCount state country
+bedCount state country
+region state country
+region state country
+leaderName state country
+state country leaderName
+region country leaderName
+country region leaderName
+region country leaderName
+country leaderName capital
+capital leaderName country
+architect birthPlace placeOfDeath
+birthPlace placeOfDeath architect
+birthPlace architect placeOfDeath
+location yearOfConstruction ReferenceNumber_in_the_National_Register_of_Historic_Places
+location yearOfConstruction ReferenceNumber_in_the_National_Register_of_Historic_Places
+location yearOfConstruction ReferenceNumber_in_the_National_Register_of_Historic_Places
+yearOfConstruction location added_to_the_National_Register_of_Historic_Places
+yearOfConstruction location added_to_the_National_Register_of_Historic_Places
+yearOfConstruction location added_to_the_National_Register_of_Historic_Places
+location yearOfConstruction ReferenceNumber_in_the_National_Register_of_Historic_Places
+yearOfConstruction location ReferenceNumber_in_the_National_Register_of_Historic_Places
+location isPartOf country
+location country isPartOf
+isPartOf country location
+isPartOf isPartOf location
+isPartOf isPartOf location
+location isPartOf isPartOf
+birthPlace architect significantBuilding
+birthPlace significantBuilding architect
+birthPlace architect significantBuilding
+birthPlace architect significantBuilding
+birthPlace architect significantBuilding
+birthPlace architect significantBuilding
+birthPlace significantBuilding architect
+birthPlace significantBuilding architect
+birthPlace architect significantBuilding
+birthPlace significantBuilding architect
+birthPlace significantBuilding architect
+birthPlace significantBuilding architect
+architect significantBuilding significantBuilding
+architect significantBuilding birthPlace
+birthPlace architect significantBuilding
+birthPlace architect significantBuilding
+significantBuilding architect significantBuilding
+architect significantBuilding significantBuilding
+architect significantBuilding significantBuilding
+location yearOfConstruction ReferenceNumber_in_the_National_Register_of_Historic_Places
+yearOfConstruction location ReferenceNumber_in_the_National_Register_of_Historic_Places
+yearOfConstruction location ReferenceNumber_in_the_National_Register_of_Historic_Places
+location yearOfConstruction added_to_the_National_Register_of_Historic_Places
+yearOfConstruction location architecture
+location yearOfConstruction architecture
+yearOfConstruction location ReferenceNumber_in_the_National_Register_of_Historic_Places
+location ReferenceNumber_in_the_National_Register_of_Historic_Places yearOfConstruction
+yearOfConstruction location added_to_the_National_Register_of_Historic_Places
+location yearOfConstruction added_to_the_National_Register_of_Historic_Places
+yearOfConstruction location architecture
+location yearOfConstruction architecture
+architecture yearOfConstruction location
+yearOfConstruction location added_to_the_National_Register_of_Historic_Places
+yearOfConstruction location added_to_the_National_Register_of_Historic_Places
+yearOfConstruction location added_to_the_National_Register_of_Historic_Places
+location added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+location added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+location yearOfConstruction added_to_the_National_Register_of_Historic_Places
+yearOfConstruction location added_to_the_National_Register_of_Historic_Places
+added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places location
+location added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+location added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+location added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+yearOfConstruction location added_to_the_National_Register_of_Historic_Places
+location yearOfConstruction added_to_the_National_Register_of_Historic_Places
+yearOfConstruction location added_to_the_National_Register_of_Historic_Places
+location added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+location added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+location isPartOf country
+location isPartOf country
+location country isPartOf
+location country isPartOf
+location isPartOf country
+location isPartOf country
+location country isPartOf
+location isPartOf isPartOf
+isPartOf location isPartOf
+location isPartOf isPartOf
+isPartOf isPartOf location
+location isPartOf isPartOf
+isPartOf isPartOf location
+location isPartOf isPartOf
+location isPartOf isPartOf
+location isPartOf isPartOf
+location isPartOf isPartOf
+isPartOf isPartOf location
+location isPartOf isPartOf
+location isPartOf isPartOf
+architect birthPlace leaderName
+leaderName birthPlace architect
+leaderName hometown architect
+architect hometown leaderName
+location isPartOf country
+location country isPartOf
+location isPartOf country
+leaderName country location
+leaderName country location
+location country leaderName
+leaderName country location
+location country leaderName
+location country leaderName
+leaderName country location
+location country leaderName
+country leaderName location
+leaderName location country
+location country leaderName
+leaderName location country
+demonym country leaderName
+demonym leaderName country
+leaderName leaderName country
+leaderName leaderName country
+country leaderName leaderName
+leaderName country location
+location country leaderName
+leaderName country location
+location country leaderName
+location country leaderName
+country leaderName demonym
+demonym country leaderName
+country leaderName demonym
+location foundationPlace tenant
+foundationPlace location tenant
+tenant foundationPlace location
+language leaderName country
+country leaderName language
+location capital leaderName
+location capital leaderName
+location capital leaderName
+leaderName capital location
+location leaderName capital
+leaderName language location
+location language leaderName
+location language leaderName
+leaderName language location
+location leaderName
+location language leaderName
+leaderTitle leaderName location
+leaderTitle leaderName location
+leaderName leaderTitle location
+location leaderName leaderTitle
+leaderTitle leaderName location
+location leaderName leaderTitle
+location leaderName leaderTitle
+leaderName leaderTitle location
+location leaderTitle leaderName
+alternativeName creator creator
+alternativeName creator creator
+alternativeName creator creator
+creator creator alternativeName
+alternativeName creator creator
+alternativeName creator creator
+creator creator award
+award creator creator
+creator creator
+alternativeName creator creator
+alternativeName creator creator
+nationality creator alternativeName
+alternativeName creator nationality
+alternativeName creator nationality
+alternativeName creator creator
+creator creator
+nationality creator alternativeName
+alternativeName creator nationality
+nationality creator creator
+creator creator nationality
+creator creator fullName
+fullName creator creator
+fullName creator creator
+fullName creator creator
+creator creator fullName
+fullName creator creator
+nationality creator creator
+creator creator nationality
+creator creator nationality
+creator creator fullName
+fullName creator creator
+fullName creator creator
+keyPerson broadcastedBy locationCity
+keyPerson locationCity broadcastedBy
+keyPerson locationCity broadcastedBy
+broadcastedBy locationCity keyPerson
+keyPerson locationCity broadcastedBy
+keyPerson locationCity broadcastedBy
+broadcastedBy locationCity keyPerson
+broadcastedBy locationCity keyPerson
+alternativeName creator creator
+alternativeName creator creator
+alternativeName creator creator
+alternativeName creator nationality
+nationality creator
+nationality creator creator
+nationality creator creator
+alternativeName creator creator
+alternativeName creator creator
+alternativeName creator creator
+broadcastedBy foundedBy locationCity
+foundedBy locationCity broadcastedBy
+locationCity broadcastedBy foundedBy
+broadcastedBy locationCity foundedBy
+starring broadcastedBy firstAired
+broadcastedBy starring firstAired
+starring firstAired broadcastedBy
+starring broadcastedBy firstAired
+broadcastedBy firstAired starring
+starring broadcastedBy firstAired
+starring broadcastedBy firstAired
+broadcastedBy firstAired starring
+starring child birthPlace
+starring birthPlace child
+starring birthPlace child
+starring birthPlace child
+starring birthPlace child
+starring birthPlace child
+broadcastedBy starring firstAired
+starring firstAired broadcastedBy
+firstAired starring broadcastedBy
+starring broadcastedBy firstAired
+starring firstAired broadcastedBy
+broadcastedBy firstAired starring
+firstAired broadcastedBy starring
+starring broadcastedBy firstAired
+starring firstAired broadcastedBy
+starring broadcastedBy firstAired
+starring broadcastedBy lastAired
+broadcastedBy starring lastAired
+distributor starring firstAppearanceInFilm
+distributor starring firstAppearanceInFilm
+starring firstAppearanceInFilm distributor
+firstAppearanceInFilm distributor starring
+series creator creator
+creator creator series
+series creator creator
+creator creator voice
+creator creator voice
+voice creator creator
+fullName creator creator
+creator creator
+creator nationality creator
+nationality creator creator
+creator nationality creator
+creator creator nationality
+nationality creator creator
+creator creator nationality
+creator creator nationality
+creator creator nationality
+starring distributor series
+distributor starring series
+distributor starring series
+distributor series starring
+series distributor starring
+distributor starring series
+distributor starring series
+starring series distributor
+alternativeName creator creator
+alternativeName creator creator
+alternativeName creator creator
+creator creator alternativeName
+alternativeName creator creator
+alternativeName creator creator
+alternativeName creator creator
+alternativeName creator creator
+alternativeName creator creator
+alternativeName creator creator
+alternativeName creator creator
+alternativeName creator creator
+alternativeName creator creator
+alternativeName creator creator
+alternativeName creator creator
+alternativeName creator creator
+alternativeName creator creator
+alternativeName creator creator
+alternativeName creator creator
+alternativeName creator creator
+creator creator alternativeName
+alternativeName creator creator
+nationality creator creator
+nationality creator creator
+creator creator nationality
+creator creator nationality
+creator creator nationality
+nationality creator creator
+alternativeName creator creator
+alternativeName creator creator
+alternativeName creator creator
+alternativeName creator creator
+alternativeName creator creator
+alternativeName creator creator
+creator creator nationality
+nationality creator creator
+nationality creator creator
+creator creator nationality
+creator nationality creator
+creator creator nationality
+creator creator nationality
+creator creator nationality
+creator creator nationality
+nationality creator creator
+creator creator nationality
+creator creator alternativeName
+alternativeName creator creator
+creator creator nationality
+creator creator nationality
+creator creator nationality
+creator creator nationality
+fullName creator nationality
+fullName creator nationality
+nationality creator alternativeName
+nationality creator alternativeName
+nationality award creator
+creator nationality award
+nationality award creator
+alternativeName ingredient country
+alternativeName country ingredient
+country alternativeName ingredient
+alternativeName ingredient country
+alternativeName country ingredient
+alternativeName ingredient country
+alternativeName country ingredient
+alternativeName country ingredient
+alternativeName ingredient country
+ingredient region country
+ingredient region country
+ingredient region country
+ingredient region country
+region country ingredient
+region country ingredient
+ingredient region country
+ingredient region country
+country alternativeName ingredient
+alternativeName country ingredient
+ingredient alternativeName country
+ingredient region country
+ingredient region country
+ingredient region country
+division family ingredient
+division family ingredient
+ingredient family division
+ingredient family order
+family order ingredient
+ingredient family order
+ingredient family order
+family order ingredient
+order order ingredient
+ingredient order order
+order order ingredient
+leaderName region country
+country region leaderName
+region leaderName country
+mainIngredients country
+mainIngredients country
+country ingredient mainIngredients
+mainIngredients country
+mainIngredients country
+mainIngredients country ingredient
+mainIngredients ingredient country
+country mainIngredients ingredient
+country mainIngredients
+country mainIngredients
+mainIngredients country
+country language leaderName
+leaderName language country
+country leaderName language
+country region ingredient
+ingredient region country
+region country ingredient
+ingredient region country
+region country ingredient
+country region ingredient
+ingredient region country
+country region ingredient
+region country ingredient
+ingredient region country
+ingredient region country
+ingredient region country
+ingredient region country
+ingredient region
+region country ingredient
+ingredient region country
+ingredient region country
+ingredient region country
+region ingredient
+ingredient region
+region ingredient country
+region country ingredient
+ingredient region country
+leaderName currency country
+country leaderName currency
+country currency leaderName
+country leaderName language
+country leaderName language
+region country leaderName
+region country leaderName
+leaderName country region
+country currency leaderName
+country leaderName currency
+country leaderName currency
+leaderName language country
+language leaderName country
+country language leaderName
+region mainIngredients
+mainIngredients region
+region mainIngredients
+region mainIngredients
+region mainIngredients
+country capital language
+country capital language
+language capital country
+country leaderName capital
+country leaderName capital
+country leaderName capital
+country leaderName capital
+country capital leaderName
+country language leaderName
+country leaderName language
+country language leaderName
+ingredient country dishVariation
+country ingredient dishVariation
+country dishVariation ingredient
+ingredient country dishVariation
+dishVariation ingredient country
+country ingredient dishVariation
+family ingredient
+
+ingredient region country
+region country ingredient
+region country ingredient
+ingredient region country
+ingredient region country
+ingredient region country
+ingredient region country
+ingredient region country
+ingredient region country
+ingredient region country
+ingredient region country
+region country ingredient
+region country leaderName
+region country leaderName
+country region leaderName
+country demonym leaderName
+country ethnicGroup leaderName
+ethnicGroup leaderName country
+country leaderName ethnicGroup
+region country leaderName
+region country leaderName
+region country leaderName
+region country ingredient
+ingredient region country
+region country ingredient
+ingredient region country
+ingredient region country
+region country ingredient
+ingredient region country
+ingredient region country
+ingredient region country
+ingredient region country
+region country leaderName
+region country leaderName
+region country leaderName
+leaderName region country
+leaderName region country
+region country leaderName
+country region mainIngredients
+mainIngredients region country
+mainIngredients country region
+mainIngredients country region
+mainIngredients region country
+mainIngredients region country
+region country mainIngredients
+mainIngredients region country
+mainIngredients region country
+country leaderName capital
+country leaderName capital
+leaderName capital country
+country capital leaderName
+country capital leaderName
+capital ethnicGroup country
+country ethnicGroup capital
+country capital ethnicGroup
+country capital leaderName
+country leaderName capital
+country capital leaderName
+country capital leaderName
+country leaderName capital
+country capital leaderName
+country capital ethnicGroup
+country ethnicGroup capital
+country capital ethnicGroup
+leaderName ethnicGroup country
+leaderName ethnicGroup country
+country leaderName ethnicGroup
+leaderName ethnicGroup country
+ethnicGroup country leaderName
+country leaderName ethnicGroup
+country leaderName capital
+country capital leaderName
+country capital leaderName
+country leaderName capital
+country leaderName capital
+country leaderName capital
+region country mainIngredients
+country region mainIngredients
+mainIngredients region country
+region country mainIngredients
+region country mainIngredients
+alternativeName region country
+alternativeName country region
+region country mainIngredients
+country region mainIngredients
+region country mainIngredients
+mainIngredients ingredient region
+ingredient region
+ingredient region
+mainIngredients ingredient region
+mainIngredients ingredient region
+ingredient region
+ingredient country region
+ingredient country region
+country region mainIngredients
+mainIngredients region
+country region mainIngredients
+ingredient region country
+ingredient region
+region country ingredient
+country region mainIngredients
+mainIngredients country region
+country region mainIngredients
+ingredient country region
+ingredient region country
+ingredient region country
+ingredient country region
+region mainIngredients
+region mainIngredients
+mainIngredients region
+ingredient region
+ingredient region
+region country ethnicGroup
+region country ethnicGroup
+region country ethnicGroup
+region country ethnicGroup
+country region ethnicGroup
+ethnicGroup country region
+country region ethnicGroup
+region country ethnicGroup
+country region ethnicGroup
+country region ethnicGroup
+country region ethnicGroup
+country region ethnicGroup
+region country ingredient
+ingredient country region
+ingredient country region
+region country mainIngredients
+mainIngredients region country
+mainIngredients country region
+ingredient region country
+country region ingredient
+region country ingredient
+dishVariation dishVariation
+dishVariation dishVariation ingredient
+dishVariation dishVariation
+ingredient dishVariation dishVariation
+dishVariation dishVariation ingredient
+dishVariation dishVariation ingredient
+country ingredient course
+course country
+ingredient region country
+region country
+region country ingredient
+ingredient course country
+ingredient country course
+course ingredient country
+country mainIngredients ingredient
+mainIngredients ingredient country
+country mainIngredients ingredient
+region country ingredient
+ingredient region country
+ingredient region country
+ingredient country
+mainIngredients country
+mainIngredients country
+country mainIngredients
+country mainIngredients
+mainIngredients country
+capital ethnicGroup country
+country ethnicGroup capital
+country ethnicGroup capital
+country capital ethnicGroup
+country ethnicGroup capital
+capital ethnicGroup country
+capital ethnicGroup country
+country ethnicGroup capital
+ethnicGroup leaderName country
+country leaderName ethnicGroup
+country leaderName ethnicGroup
+country leaderName ethnicGroup
+country leaderName ethnicGroup
+leaderName country ethnicGroup
+country leaderName ethnicGroup
+country leaderName ethnicGroup
+country capital leaderName
+country leaderName capital
+country leaderName capital
+leaderName ethnicGroup country
+country ethnicGroup leaderName
+ethnicGroup leaderName country
+country leaderName ethnicGroup
+country leaderName ethnicGroup
+country ethnicGroup leaderName
+country leaderName ethnicGroup
+ethnicGroup leaderName country
+country capital leaderName
+course mainIngredients ingredient
+mainIngredients ingredient course
+course ingredient mainIngredients
+course ingredient mainIngredients
+mainIngredients ingredient course
+country ingredient alternativeName
+country ingredient alternativeName
+alternativeName ingredient country
+alternativeName country ingredient
+country ingredient alternativeName
+country ingredient alternativeName
+alternativeName ingredient country
+country ingredient alternativeName
+country ingredient alternativeName
+country ingredient alternativeName
+country ingredient alternativeName
+country alternativeName ingredient
+ingredient dishVariation dishVariation
+dishVariation dishVariation ingredient
+dishVariation ingredient dishVariation
+ingredient dishVariation dishVariation
+dishVariation dishVariation ingredient
+dishVariation country ingredient
+country dishVariation
+country dishVariation
+ingredient country dishVariation
+ingredient country dishVariation
+ingredient country dishVariation
+ingredient country dishVariation
+dishVariation country ingredient
+dishVariation country ingredient
+dishVariation ingredient
+dishVariation ingredient country
+dishVariation ingredient country
+dishVariation dishVariation ingredient
+dishVariation ingredient dishVariation
+dishVariation dishVariation ingredient
+ingredient region country
+ingredient country region
+ingredient country region
+ingredient country region
+ingredient region country
+ingredient country region
+country leaderName currency
+country currency leaderName
+country currency leaderName
+country language leaderName
+country language leaderName
+country leaderName language
+country leaderName leaderName
+leaderName leaderName country
+country leaderName leaderName
+ingredient region country
+ingredient region country
+ingredient region country
+country course dishVariation
+course country
+dishVariation course country
+country course dishVariation
+dishVariation course ingredient
+ingredient course dishVariation
+ingredient course dishVariation
+course ingredient dishVariation
+ingredient course dishVariation
+ingredient dishVariation course
+ingredient course dishVariation
+ingredient course dishVariation
+ingredient course dishVariation
+ingredient course dishVariation
+dishVariation course ingredient
+course ingredient dishVariation
+ingredient country region
+country region ingredient
+ingredient country region
+country region
+ingredient country region
+ingredient country region
+ingredient country region
+ingredient region country
+ingredient country region
+course creator mainIngredients
+course creator mainIngredients
+course creator mainIngredients
+region ingredient dishVariation
+dishVariation ingredient region
+ingredient dishVariation region
+ingredient dishVariation region
+ingredient dishVariation region
+ingredient dishVariation region
+region ingredient dishVariation
+ingredient dishVariation region
+dishVariation ingredient region
+mainIngredients creator
+creator region mainIngredients
+mainIngredients creator
+ingredient dishVariation region
+ingredient dishVariation region
+dishVariation region ingredient
+dishVariation region ingredient
+dishVariation ingredient region
+region dishVariation ingredient
+dishVariation region ingredient
+region servingTemperature mainIngredients
+region mainIngredients servingTemperature
+region servingTemperature mainIngredients
+region leaderName
+region administrativeCounty leaderName
+region isPartOf leaderName
+region isPartOf leaderName
+course servingTemperature mainIngredients
+servingTemperature mainIngredients
+mainIngredients creator servingTemperature
+creator servingTemperature mainIngredients
+creator servingTemperature mainIngredients
+ingredient country region
+ingredient country region
+ingredient country region
+ingredient country region
+ingredient country region
+country region ingredient
+ingredient region country
+ingredient region
+ingredient country region
+ingredient country region
+ingredient country region
+region country ingredient
+ingredient region country
+ingredient region
+region ingredient
+ingredient region
+ingredient region
+region ingredient
+ingredient region
+ingredient region
+ingredient region
+country ingredient region
+country ingredient region
+ingredient region
+region country ingredient
+ingredient region
+country region ingredient
+ingredient country region
+ingredient region country
+country region ingredient
+country ingredient region
+ingredient country region
+ingredient country region
+ingredient country region
+region ingredient country
+ingredient country region
+country region ingredient
+ingredient region country
+ingredient region country
+ingredient region country
+ingredient country region
+country region ingredient
+ingredient region country
+ingredient region country
+region country ingredient
+ingredient country region
+region country ingredient
+region country ingredient
+country region ingredient
+country region ingredient
+ingredient country region
+ingredient country region
+ingredient region country
+ingredient country region
+ingredient region country
+ingredient country region
+country ingredient region
+ingredient region country
+region country ingredient
+ingredient region country
+ingredient country region
+ingredient country region
+region country ingredient
+country leaderName language
+country language leaderName
+country leaderName language
+country language leaderName
+country language leaderName
+country leaderName language
+country language leaderName
+leaderName leaderName country
+country leaderName leaderName
+leaderName leaderName country
+country leaderName leaderName
+country leaderName leaderName
+country language leaderName
+country language leaderName
+leaderName leaderName country
+country leaderName leaderName
+leaderName leaderName country
+country leaderName leaderName
+country leaderName leaderName
+country leaderName leaderName
+protein fat carbohydrate
+protein fat carbohydrate
+protein fat carbohydrate
+dishVariation dishVariation country
+country dishVariation dishVariation
+dishVariation dishVariation country
+country mainIngredients
+country mainIngredients
+country mainIngredients
+ingredient country servingTemperature
+country ingredient servingTemperature
+dishVariation ingredient
+dishVariation dishVariation ingredient
+dishVariation dishVariation ingredient
+ingredient dishVariation dishVariation
+ingredient dishVariation dishVariation
+dishVariation dishVariation ingredient
+ingredient dishVariation dishVariation
+ingredient dishVariation dishVariation
+ingredient dishVariation dishVariation
+dishVariation dishVariation ingredient
+dishVariation dishVariation ingredient
+dishVariation dishVariation ingredient
+dishVariation dishVariation ingredient
+dishVariation dishVariation ingredient
+dishVariation dishVariation ingredient
+ingredient dishVariation dishVariation
+country mainIngredients
+country mainIngredients
+country mainIngredients
+country mainIngredients
+country mainIngredients
+country mainIngredients
+mainIngredients country
+mainIngredients country
+country mainIngredients
+mainIngredients country
+country mainIngredients
+country region ingredient
+ingredient region country
+ingredient region country
+region country ingredient
+country ingredient region
+ingredient region country
+leaderName country region
+region country leaderName
+region country leaderName
+leaderName language country
+country leaderName language
+ingredient region country
+country ingredient
+ingredient country
+ingredient region country
+ingredient region country
+country
+country region leaderName
+region leaderName country
+leaderName region country
+country
+region country ingredient
+region country ingredient
+leaderName region country
+leaderName region country
+country region leaderName
+ingredient country
+country ingredient
+region ingredient country
+ingredient region country
+ingredient region country
+country ingredient alternativeName
+ingredient country alternativeName
+country alternativeName ingredient
+alternativeName country ingredient
+alternativeName country ingredient
+alternativeName ingredient country
+country mainIngredients
+
+country mainIngredients
+ingredient region country
+ingredient region country
+ingredient region country
+region country ingredient
+ingredient region country
+region country ingredient
+leaderName region country
+country region leaderName
+country leaderName currency
+leaderName currency country
+leaderName currency country
+country currency leaderName
+country currency leaderName
+leaderName demonym country
+country leaderName demonym
+country leaderName demonym
+country leaderName demonym
+leaderName demonym country
+country leaderName leaderName
+country leaderName leaderName
+country leaderName leaderName
+leaderName leaderName country
+leaderName leaderName country
+region mainIngredients
+mainIngredients region
+ingredient course dishVariation
+ingredient course dishVariation
+ingredient course dishVariation
+course ingredient dishVariation
+ingredient course dishVariation
+dishVariation course ingredient
+ingredient course dishVariation
+dishVariation course ingredient
+dishVariation course ingredient
+ingredient course dishVariation
+dishVariation course ingredient
+course dishVariation ingredient
+ingredient
+course ingredient dishVariation
+mainIngredients ingredient order
+order ingredient mainIngredients
+mainIngredients ingredient order
+mainIngredients ingredient country
+ingredient mainIngredients country
+ingredient country mainIngredients
+mainIngredients ingredient order
+mainIngredients ingredient order
+mainIngredients ingredient country
+country mainIngredients ingredient
+ingredient mainIngredients order
+order ingredient mainIngredients
+ingredient mainIngredients country
+country ingredient mainIngredients
+mainIngredients ingredient country
+mainIngredients ingredient order
+mainIngredients ingredient order
+order mainIngredients ingredient
+ingredient course dishVariation
+ingredient course dishVariation
+ingredient course dishVariation
+mainIngredients ingredient country
+mainIngredients ingredient country
+mainIngredients ingredient country
+mainIngredients country ingredient
+mainIngredients ingredient country
+country mainIngredients ingredient
+country mainIngredients ingredient
+mainIngredients ingredient country
+mainIngredients ingredient country
+country mainIngredients ingredient
+country mainIngredients ingredient
+country mainIngredients ingredient
+country mainIngredients ingredient
+ingredient country mainIngredients
+mainIngredients country ingredient
+dishVariation course mainIngredients
+dishVariation course mainIngredients
+mainIngredients course dishVariation
+dishVariation course mainIngredients
+mainIngredients course dishVariation
+mainIngredients course dishVariation
+ingredient mainIngredients order
+order mainIngredients ingredient
+mainIngredients order ingredient
+mainIngredients order ingredient
+order mainIngredients ingredient
+order mainIngredients ingredient
+order mainIngredients ingredient
+ingredient mainIngredients order
+region country ingredient
+ingredient country region
+region country ingredient
+region country ingredient
+ingredient region country
+ingredient region country
+region country ingredient
+region country ingredient
+region country ingredient
+ingredient region country
+country region ingredient
+ingredient region country
+ingredient region country
+ingredient region country
+ingredient region country
+ingredient region country
+region country ingredient
+country currency leaderName
+country leaderName currency
+country currency leaderName
+leaderName language country
+leaderName country language
+country language leaderName
+country leaderName language
+country language leaderName
+country language leaderName
+country leaderName demonym
+country leaderName demonym
+country leaderName language
+country leaderName language
+country leaderName language
+country leaderName demonym
+country demonym leaderName
+leaderName demonym country
+language leaderName country
+country leaderName language
+leaderName language country
+leaderName leaderName country
+country leaderName leaderName
+country leaderName leaderName
+ingredient course dishVariation
+dishVariation course ingredient
+ingredient course dishVariation
+dishVariation course ingredient
+ingredient dishVariation
+course ingredient dishVariation
+course ingredient dishVariation
+course ingredient dishVariation
+ingredient dishVariation
+ingredient course dishVariation
+dishVariation course ingredient
+dishVariation course
+course ingredient dishVariation
+course ingredient dishVariation
+ingredient dishVariation course
+leaderName region country
+region country leaderName
+region country leaderName
+region ingredient country
+ingredient region country
+ingredient region country
+country ingredient region
+ingredient region country
+country ingredient region
+region ingredient country
+ingredient region country
+country ingredient region
+dishVariation course ingredient
+dishVariation course ingredient
+course dishVariation ingredient
+dishVariation course ingredient
+ingredient course dishVariation
+course dishVariation ingredient
+dishVariation course ingredient
+dishVariation course ingredient
+ingredient course dishVariation
+leaderName capital country
+capital leaderName country
+country capital leaderName
+leaderName language country
+country leaderName language
+country leaderName language
+country capital leaderName
+country capital leaderName
+country capital leaderName
+country leaderName capital
+country capital leaderName
+country leaderName capital
+capital leaderName country
+country leaderName capital
+region country ethnicGroup
+region country ethnicGroup
+ethnicGroup country region
+country ethnicGroup region
+region country ethnicGroup
+ethnicGroup country region
+region country ethnicGroup
+region country ethnicGroup
+country language ethnicGroup
+country language ethnicGroup
+country ethnicGroup language
+ethnicGroup language country
+country language ethnicGroup
+country ethnicGroup language
+ethnicGroup country language
+language country ethnicGroup
+country language ethnicGroup
+ethnicGroup language country
+ethnicGroup language country
+ethnicGroup language country
+country ethnicGroup language
+language ethnicGroup country
+country language ethnicGroup
+country language ethnicGroup
+language country ethnicGroup
+ethnicGroup language country
+language country ethnicGroup
+ethnicGroup language country
+ethnicGroup language country
+country ethnicGroup language
+ethnicGroup language country
+country language ethnicGroup
+country ethnicGroup language
+country language ethnicGroup
+language country ethnicGroup
+country language ethnicGroup
+country ethnicGroup language
+country ethnicGroup language
+ethnicGroup language country
+language country ethnicGroup
+language ethnicGroup country
+language ethnicGroup country
+country ethnicGroup language
+country leaderName language
+country leaderName language
+country currency leaderName
+country currency leaderName
+leaderName currency country
+leaderName language country
+country language leaderName
+leaderName country language
+country leaderName leaderName
+leaderName leaderName country
+country leaderName leaderName
+ingredient dishVariation dishVariation
+dishVariation dishVariation ingredient
+dishVariation dishVariation ingredient
+currency leaderName country
+leaderName currency country
+ethnicGroup language country
+country language ethnicGroup
+country language ethnicGroup
+ethnicGroup language country
+country language ethnicGroup
+country demonym leaderName
+leaderName demonym country
+country leaderName demonym
+leaderName ethnicGroup country
+country leaderName ethnicGroup
+leaderName country region
+region country leaderName
+region country leaderName
+leaderName currency country
+currency country leaderName
+country leaderName currency
+country language leaderName
+country language leaderName
+family genus ingredient
+genus family ingredient
+ingredient family genus
+leaderTitle ethnicGroup country
+country leaderTitle ethnicGroup
+country ethnicGroup leaderTitle
+ethnicGroup leaderTitle country
+country ethnicGroup leaderTitle
+country ethnicGroup leaderTitle
+country category established
+country established category
+country established category
+category location country
+location country category
+established category municipality
+established municipality category
+municipality location category
+category municipality location
+category municipality location
+location established category
+location established category
+established location category
+municipality state category
+municipality state category
+municipality state category
+state established category
+state category established
+established state category
+district established category
+district established category
+established district category
+nearestCity district category
+category district nearestCity
+established category owningOrganisation
+established category owningOrganisation
+country established category
+established country category
+nearestCity district established
+district established nearestCity
+established district nearestCity
+category location has_to_its_north
+has_to_its_north location category
+has_to_its_southeast location category
+category location has_to_its_southeast
+location has_to_its_southeast category
+established location has_to_its_southeast
+established location has_to_its_southeast
+location has_to_its_southeast has_to_its_north
+location has_to_its_southeast has_to_its_north
+location has_to_its_southwest has_to_its_southeast
+
+designer location capital
+designer location capital
+designer inaugurationDate location
+designer location inaugurationDate
+location designer inaugurationDate
+material inaugurationDate location
+material location inaugurationDate
+location capital leaderName
+leaderName capital location
+location capital leaderName
+location leaderName leaderTitle
+location leaderName
+designer location leaderTitle
+designer location leaderTitle
+designer material dedicatedTo
+designer material dedicatedTo
+designer material dedicatedTo
+material location nativeName
+material nativeName location
+material location nativeName
+designer material nativeName
+designer material nativeName
+material designer nativeName
+location material dedicatedTo
+location material dedicatedTo
+location dedicatedTo languages
+dedicatedTo location languages
+dedicatedTo location languages
+location capital dedicatedTo
+ethnicGroups capital location
+ethnicGroups location capital
+location capital ethnicGroups
+
+languages location ethnicGroups
+location ethnicGroups languages
+material location religion
+material location religion
+material location religion
+location district category
+category district location
+district location category
+location district
+district location nearestCity
+inaugurationDate location capital
+inaugurationDate location capital
+inaugurationDate location capital
+location largestCity capital
+location capital largestCity
+location capital largestCity
+largestCity currency location
+largestCity location currency
+leader location
+location leader
+material location leaderName
+material location leaderName
+location leaderName currency
+location leaderName currency
+leaderTitle location inaugurationDate
+inaugurationDate location leaderTitle
+location leaderTitle inaugurationDate
+leader leaderTitle location
+leader leaderTitle location
+location leader leaderTitle
+manager numberOfMembers season
+manager numberOfMembers season
+manager season numberOfMembers
+manager season numberOfMembers
+manager numberOfMembers season
+season manager numberOfMembers
+manager club club
+club manager club
+manager club club
+manager club club
+manager club club
+manager club club
+manager club club
+manager club club
+club club manager
+numberOfMembers league season
+league season numberOfMembers
+league season numberOfMembers
+numberOfMembers league season
+league season numberOfMembers
+numberOfMembers league season
+manager club club
+manager club club
+club club manager
+club club manager
+manager club club
+club club manager
+manager club club
+manager club club
+club club manager
+club club manager
+manager club club
+manager club club
+manager club club
+manager club club
+manager club club
+club club manager
+manager club club
+manager club club
+club manager club
+club club manager
+manager club club
+manager club club
+manager club club
+club club manager
+manager club club
+manager club club
+club manager club
+manager club club
+club club manager
+ground league champions
+ground league champions
+league champions ground
+numberOfMembers ground league
+ground numberOfMembers league
+league numberOfMembers ground
+ground numberOfMembers league
+league numberOfMembers ground
+numberOfMembers league ground
+league champions ground
+ground league champions
+ground league champions
+ground league champions
+ground league champions
+ground league champions
+manager club club
+manager club club
+manager club club
+ground numberOfMembers fullname
+fullname numberOfMembers ground
+
+fullname ground numberOfMembers
+
+fullname numberOfMembers ground
+fullname ground numberOfMembers
+fullname numberOfMembers ground
+manager club club
+manager club club
+club club manager
+manager club club
+club club
+manager club club
+manager club club
+club club manager
+manager club club
+manager club club
+manager club club
+club club manager
+manager placeOfBirth club
+placeOfBirth manager club
+placeOfBirth club manager
+fullname numberOfMembers league
+fullname numberOfMembers league
+fullname numberOfMembers league
+numberOfMembers league season
+numberOfMembers league season
+league season numberOfMembers
+league season numberOfMembers
+numberOfMembers league season
+numberOfMembers league season
+manager club club
+club club manager
+manager club club
+manager club club
+manager club club
+manager club club
+manager club club
+manager club club
+club club manager
+manager club club
+manager club club
+manager club club
+club manager club
+manager club club
+club manager club
+manager club club
+manager club club
+manager club club
+manager club club
+numberOfMembers league
+numberOfMembers league season
+ground numberOfMembers
+numberOfMembers ground fullname
+fullname ground numberOfMembers
+fullname ground numberOfMembers
+numberOfMembers fullname ground
+fullname numberOfMembers ground
+numberOfMembers fullname ground
+fullname numberOfMembers ground
+fullname ground numberOfMembers
+ground numberOfMembers fullname
+fullname numberOfMembers ground
+ground numberOfMembers fullname
+fullname numberOfMembers ground
+manager club club
+manager club club
+manager club club
+location capital leader
+location capital leader
+leader capital location
+location capital leader
+location leader capital
+location capital leader
+location leader capital
+location capital leader
+capital leader location
+location language leader
+location language leader
+location leader language
+location leader leader
+location leader leader
+location leader leader
+location leader leader
+location leader leader
+location leader language
+leader language location
+location leader language
+ground numberOfMembers league
+numberOfMembers league ground
+league numberOfMembers ground
+season numberOfMembers ground
+season numberOfMembers ground
+numberOfMembers ground season
+ground numberOfMembers season
+ground numberOfMembers season
+numberOfMembers season ground
+fullname numberOfMembers ground
+fullname numberOfMembers ground
+fullname numberOfMembers ground
+fullname ground numberOfMembers
+numberOfMembers fullname ground
+manager club club
+manager club club
+manager club club
+manager club club
+club manager club
+club club manager
+manager club club
+manager club club
+club club manager
+manager club club
+club club manager
+club club manager
+club club manager
+manager club club
+manager club club
+manager club club
+manager club club
+manager club club
+manager club club
+manager club club
+club club manager
+manager club club
+manager club club
+club club manager
+manager club club
+club manager club
+club club manager
+manager club club
+manager club club
+manager club club
+ground numberOfMembers fullname
+fullname numberOfMembers ground
+fullname ground numberOfMembers
+numberOfMembers fullname
+fullname numberOfMembers ground
+fullname numberOfMembers ground
+fullname numberOfMembers ground
+ground numberOfMembers fullname
+numberOfMembers fullname ground
+manager club club
+club manager club
+club club manager
+fullname ground numberOfMembers
+fullname numberOfMembers ground
+fullname ground numberOfMembers
+fullname numberOfMembers ground
+fullname ground numberOfMembers
+fullname numberOfMembers ground
+fullname season numberOfMembers
+fullname numberOfMembers season
+fullname numberOfMembers season
+fullname numberOfMembers season
+fullname numberOfMembers season
+fullname season numberOfMembers
+fullname ground numberOfMembers
+ground numberOfMembers fullname
+fullname numberOfMembers ground
+fullname numberOfMembers ground
+fullname numberOfMembers ground
+fullname ground numberOfMembers
+fullname numberOfMembers ground
+fullname numberOfMembers ground
+fullname numberOfMembers ground
+numberOfMembers fullname ground
+fullname numberOfMembers ground
+manager club club
+club manager club
+club club manager
+manager club club
+club club manager
+manager club club
+manager club club
+manager club club
+manager club
+club club manager
+club club manager
+manager club club
+manager club club
+club club manager
+manager club club
+club club manager
+manager club club
+club club manager
+manager club club
+manager club club
+fullname numberOfMembers ground
+numberOfMembers ground fullname
+fullname numberOfMembers ground
+ground numberOfMembers fullname
+fullname numberOfMembers ground
+fullname ground numberOfMembers
+manager club club
+club club manager
+club club manager
+manager club club
+manager club club
+manager club club
+fullname season numberOfMembers
+season fullname numberOfMembers
+fullname numberOfMembers season
+fullname numberOfMembers season
+fullname season numberOfMembers
+fullname numberOfMembers season
+ground league champions
+ground league champions
+ground league
+league champions ground
+ground league champions
+league ground
+ground numberOfMembers league
+numberOfMembers ground league
+numberOfMembers league ground
+ground league numberOfMembers
+league numberOfMembers ground
+ground numberOfMembers league
+fullname numberOfMembers season
+fullname season numberOfMembers
+fullname season numberOfMembers
+fullname numberOfMembers season
+fullname numberOfMembers season
+ground tenant
+ground tenant operator
+ground operator tenant
+ground operator tenant
+operator ground tenant
+owner tenant ground
+ground owner tenant
+tenant owner ground
+ground tenant owner
+owner tenant ground
+ground tenant tenant
+ground tenant tenant
+ground tenant tenant
+fullname numberOfMembers season
+fullname season numberOfMembers
+fullname numberOfMembers season
+fullname numberOfMembers season
+season numberOfMembers fullname
+fullname season numberOfMembers
+fullname numberOfMembers season
+fullname season numberOfMembers
+fullname season numberOfMembers
+fullname numberOfMembers season
+fullname season numberOfMembers
+fullname numberOfMembers season
+numberOfMembers league champions
+champions league numberOfMembers
+numberOfMembers season fullname
+fullname numberOfMembers season
+fullname numberOfMembers season
+manager club club
+manager club club
+manager club club
+manager club club
+manager club club
+manager club club
+club club manager
+manager club club
+manager club club
+manager club club
+manager club club
+manager club club
+manager club club
+manager club club
+club club manager
+club club manager
+manager club club
+club manager club
+club club manager
+club club manager
+manager club club
+manager club club
+club club manager
+club club manager
+club club manager
+league country fullname
+fullname league country
+fullname league country
+manager league country
+league country manager
+league country numberOfMembers
+numberOfMembers league country
+numberOfMembers league country
+league country season
+league country season
+league country season
+league country season
+season
+league country season
+nickname season numberOfMembers
+nickname numberOfMembers season
+nickname season numberOfMembers
+nickname season numberOfMembers
+nickname numberOfMembers season
+nickname numberOfMembers season
+nickname season numberOfMembers
+nickname numberOfMembers season
+fullname numberOfMembers season
+fullname numberOfMembers season
+fullname season numberOfMembers
+fullname numberOfMembers season
+fullname season numberOfMembers
+numberOfMembers season
+ground league champions
+ground league champions
+ground city country
+ground city country
+ground city country
+ground city isPartOf
+ground city isPartOf
+city isPartOf ground
+leader city ground
+ground city leader
+city location ground
+city location ground
+ground city location
+ground city location
+city location ground
+ground city location
+ground city country
+city ground
+city country ground
+city state ground
+ground city state
+ground state
+state country ground
+ground state country
+manager season numberOfMembers
+season numberOfMembers manager
+manager numberOfMembers season
+manager numberOfMembers season
+manager numberOfMembers season
+numberOfMembers manager season
+language ground capital
+capital leader ground
+ground capital leader
+demonym capital ground
+ground demonym capital
+ground capital demonym
+ground language leader
+ground language leader
+ground leader language
+ground leader capital
+ground leader capital
+ground capital leader
+ground leader demonym
+ground demonym leader
+leader demonym ground
+leader leader ground
+ground leader leader
+ground leader leader
+ground leader language
+ground leader language
+ground leader language
+club club manager
+manager club club
+club club manager
+manager club club
+manager club club
+club manager club
+manager club club
+manager club club
+club club manager
+manager club club
+club manager club
+club club manager
+club club manager
+club club manager
+manager club club
+club manager club
+club manager club
+manager club club
+club manager club
+club manager club
+club manager club
+manager club club
+manager club club
+club club manager
+manager club club
+club manager club
+manager club club
+club manager club
+ground league champions
+ground league champions
+ground league champions
+ground league champions
+ground league champions
+ground league champions
+ground league champions
+ground league champions
+champions league ground
+league ground champions
+ground league champions
+champions league ground
+ground league champions
+league ground champions
+ground league champions
+ground league champions
+champions league ground
+champions league ground
+state country latinName
+state country latinName
+state country latinName
+city state nickname
+city state nickname
+nickname city state
+nickname latinName rector
+nickname latinName rector
+city country rector
+city country rector
+city country rector
+city state academicStaffSize
+academicStaffSize city state
+city state academicStaffSize
+country established academicStaffSize
+established country academicStaffSize
+established city country
+city country established
+established city country
+state country has_to_its_northwest
+state country has_to_its_northwest
+state country has_to_its_northwest
+academicStaffSize state established
+established state academicStaffSize
+established state academicStaffSize
+city numberOfStudents academicStaffSize
+city academicStaffSize numberOfStudents
+city academicStaffSize numberOfStudents
+country academicStaffSize leaderName
+academicStaffSize country leaderName
+city country legislature
+legislature country city
+city country legislature
+country established academicStaffSize
+country established academicStaffSize
+country established academicStaffSize
+city country numberOfStudents
+city country numberOfStudents
+country city numberOfStudents
+country anthem leaderName
+country leaderName anthem
+leaderTitle leaderName country
+leaderTitle leaderName country
+country leaderName leaderTitle
+country legislature leaderName
+leaderName legislature country
+leaderName legislature country
+city established dean
+dean city established
+dean established
+academicStaffSize numberOfStudents dean
+dean numberOfStudents academicStaffSize
+dean academicStaffSize numberOfStudents
+city dean neighboringMunicipality
+dean city neighboringMunicipality
+dean city neighboringMunicipality
+location numberOfStudents academicStaffSize
+location numberOfStudents academicStaffSize
+location academicStaffSize numberOfStudents
+city dean numberOfStudents
+numberOfStudents dean city
+dean numberOfStudents
+established academicStaffSize numberOfStudents
+established numberOfStudents academicStaffSize
+established numberOfStudents academicStaffSize
+academicStaffSize country motto
+country academicStaffSize motto
+country academicStaffSize motto
+city country affiliation
+city country affiliation
+city country affiliation
+city state affiliation
+city state affiliation
+campus affiliation city
+affiliation city campus
+campus affiliation
+campus affiliation
+affiliation campus
+campus director
+director campus
+city established numberOfPostgraduateStudents
+numberOfPostgraduateStudents established city
+city established numberOfPostgraduateStudents
+campus country affiliation
+affiliation country campus
+country affiliation campus
+campus numberOfPostgraduateStudents
+numberOfPostgraduateStudents campus
+state country established
+state country established
+established state country
+country sportsOffered sportsGoverningBody
+sportsGoverningBody sportsOffered country
+country
+city was_given_the_'Technical_Campus'_status_by location
+city was_given_the_'Technical_Campus'_status_by location
+city was_given_the_'Technical_Campus'_status_by location
+city country capital
+city country capital
+city isPartOf country
+city isPartOf country
+affiliation city founder
+founder city affiliation
+founder city president
+president city founder
+state has_to_its_northeast has_to_its_west
+state has_to_its_northeast has_to_its_west
+state academicStaffSize leaderName
+leaderName state academicStaffSize
+academicStaffSize state leaderName
+city state leaderName
+city state leaderName
+established city neighboringMunicipality
+established city neighboringMunicipality
+established city neighboringMunicipality
+capital country ethnicGroup
+country capital ethnicGroup
+country capital leaderName
+country leaderTitle capital
+country capital leaderTitle
+leaderTitle ethnicGroup country
+ethnicGroup leaderTitle country
+country leaderTitle ethnicGroup
+country established academicStaffSize
+established country academicStaffSize
+country academicStaffSize established
+affiliation academicStaffSize numberOfStudents
+affiliation academicStaffSize numberOfStudents
+academicStaffSize numberOfStudents affiliation
+governmentType has_to_its_northeast city
+has_to_its_northeast governmentType city
+city governmentType has_to_its_northeast
+city affiliation headquarters
+city affiliation headquarters
+city established governmentType
+governmentType city established
+established city governmentType
+country leaderName religion
+country leaderName religion
+country leaderTitle leaderName
+leaderName leaderTitle country
+latinName established affiliation
+latinName affiliation established
+affiliation established latinName
+country numberOfStudents established
+country established numberOfStudents
+country established numberOfStudents
+established affiliation city
+established affiliation city
+affiliation numberOfPostgraduateStudents city
+city affiliation numberOfPostgraduateStudents
+author mediaType ISBN_number
+author ISBN_number
+ISBN_number author mediaType
+author mediaType ISBN_number
+mediaType author ISBN_number
+mediaType author ISBN_number
+mediaType ISBN_number author
+author ISBN_number mediaType
+author language precededBy
+author precededBy
+language precededBy author
+author numberOfPages mediaType
+author mediaType numberOfPages
+author mediaType numberOfPages
+author mediaType numberOfPages
+mediaType author numberOfPages
+language precededBy author
+precededBy language author
+author precededBy language
+author precededBy birthPlace
+birthPlace author precededBy
+birthPlace author precededBy
+precededBy precededBy author
+author precededBy precededBy
+birthPlace author precededBy
+precededBy author birthPlace
+birthPlace author precededBy
+birthPlace author precededBy
+birthPlace author precededBy
+precededBy author birthPlace
+birthPlace author precededBy
+birthPlace author precededBy
+author precededBy influencedBy
+influencedBy author precededBy
+precededBy author influencedBy
+influencedBy author precededBy
+precededBy author influencedBy
+precededBy author influencedBy
+influencedBy author precededBy
+influencedBy author precededBy
+author precededBy influencedBy
+precededBy author influencedBy
+influencedBy author precededBy
+influencedBy author precededBy
+influencedBy author precededBy
+precededBy author influencedBy
+author influencedBy precededBy
+mediaType author numberOfPages
+author mediaType numberOfPages
+mediaType numberOfPages author
+author mediaType numberOfPages
+author numberOfPages mediaType
+author numberOfPages
+author precededBy precededBy
+precededBy precededBy author
+precededBy author precededBy
+language precededBy author
+author precededBy language
+author precededBy language
+precededBy precededBy author
+author precededBy precededBy
+precededBy author
+author precededBy precededBy
+author precededBy
+precededBy author precededBy
+precededBy precededBy author
+author precededBy
+precededBy author
+precededBy author
+precededBy language spokenIn
+precededBy language spokenIn
+language spokenIn precededBy
+author mediaType ISBN_number
+author mediaType ISBN_number
+author mediaType ISBN_number
+author ISBN_number mediaType
+mediaType author ISBN_number
+author mediaType ISBN_number
+mediaType author ISBN_number
+author mediaType numberOfPages
+author mediaType numberOfPages
+author numberOfPages mediaType
+precededBy author birthPlace
+birthPlace author precededBy
+birthPlace author precededBy
+birthPlace influencedBy author
+birthPlace author influencedBy
+birthPlace author influencedBy
+author mediaType ISBN_number
+
+mediaType author ISBN_number
+mediaType author ISBN_number
+mediaType author ISBN_number
+author ISBN_number mediaType
+author ISBN_number mediaType
+author ISBN_number mediaType
+abbreviation ISSN_number LCCN_number
+abbreviation ISSN_number LCCN_number
+abbreviation ISSN_number LCCN_number
+abbreviation academicDiscipline LCCN_number
+abbreviation academicDiscipline LCCN_number
+abbreviation CODEN_code LCCN_number
+abbreviation CODEN_code LCCN_number
+abbreviation CODEN_code LCCN_number
+LCCN_number ISSN_number abbreviation
+abbreviation LCCN_number ISSN_number
+abbreviation LCCN_number ISSN_number
+academicDiscipline LCCN_number
+academicDiscipline LCCN_number
+LCCN_number academicDiscipline academicDiscipline
+firstPublicationYear academicDiscipline academicDiscipline
+academicDiscipline firstPublicationYear
+firstPublicationYear academicDiscipline
+firstPublicationYear academicDiscipline ISSN_number
+firstPublicationYear academicDiscipline ISSN_number
+academicDiscipline firstPublicationYear ISSN_number
+country publisher parentCompany
+country publisher parentCompany
+parentCompany publisher country
+publisher country capital
+country publisher capital
+capital country publisher
+academicDiscipline firstPublicationYear ISSN_number
+firstPublicationYear academicDiscipline ISSN_number
+publisher country parentCompany
+parentCompany country publisher
+publisher parentCompany country
+abbreviation editor CODEN_code
+abbreviation editor CODEN_code
+editor CODEN_code abbreviation
+abbreviation CODEN_code impactFactor
+abbreviation impactFactor CODEN_code
+CODEN_code impactFactor abbreviation
+editor almaMater doctoralAdvisor
+editor almaMater doctoralAdvisor
+nationality almaMater editor
+nationality almaMater editor
+editor nationality almaMater
+editor residence almaMater
+editor residence almaMater
+residence editor almaMater
+abbreviation editor almaMater
+abbreviation editor almaMater
+editor abbreviation almaMater
+almaMater editor publisher
+editor publisher almaMater
+publisher editor almaMater
+publisher editor almaMater
+publisher editor almaMater
+almaMater doctoralAdvisor editor
+editor almaMater doctoralAdvisor
+editor almaMater doctoralAdvisor
+nationality editor doctoralAdvisor
+editor nationality doctoralAdvisor
+nationality editor doctoralAdvisor
+residence editor doctoralAdvisor
+residence editor doctoralAdvisor
+editor nationality almaMater
+nationality almaMater editor
+editor nationality almaMater
+abbreviation editor almaMater
+abbreviation editor almaMater
+almaMater editor abbreviation
+author mediaType OCLC_number
+author mediaType OCLC_number
+author mediaType OCLC_number
+author ISBN_number
+author mediaType ISBN_number
+author mediaType ISBN_number
+language country ethnicGroup
+language country ethnicGroup
+language country ethnicGroup
+country language spokenIn
+country language spokenIn
+country language spokenIn
+author mediaType OCLC_number
+author OCLC_number mediaType
+author mediaType OCLC_number
+author mediaType ISBN_number
+mediaType author ISBN_number
+author mediaType ISBN_number
+numberOfPages mediaType author
+author numberOfPages mediaType
+mediaType author numberOfPages
+author mediaType numberOfPages
+numberOfPages mediaType author
+mediaType numberOfPages author
+mediaType OCLC_number LibraryofCongressClassification
+mediaType OCLC_number LibraryofCongressClassification
+ISBN_number mediaType numberOfPages
+numberOfPages mediaType ISBN_number
+mediaType numberOfPages ISBN_number
+numberOfPages mediaType OCLC_number
+OCLC_number mediaType numberOfPages
+OCLC_number numberOfPages mediaType
+mediaType numberOfPages OCLC_number
+numberOfPages mediaType OCLC_number
+mediaType numberOfPages ISBN_number
+mediaType numberOfPages ISBN_number
+mediaType numberOfPages ISBN_number
+mediaType OCLC_number ISBN_number
+mediaType OCLC_number ISBN_number
+mediaType OCLC_number ISBN_number
+OCLC_number ISBN_number
+mediaType OCLC_number ISBN_number
+mediaType ISBN_number OCLC_number
+mediaType precededBy OCLC_number
+precededBy mediaType OCLC_number
+precededBy mediaType OCLC_number
+followedBy publisher
+country publisher followedBy
+country publisher followedBy
+country publisher parentCompany
+country publisher parentCompany
+country publisher parentCompany
+publisher country ethnicGroup
+publisher country ethnicGroup
+publisher country ethnicGroup
+publisher followedBy country
+country followedBy publisher
+country followedBy publisher
+mediaType numberOfPages ISBN_number
+mediaType numberOfPages ISBN_number
+numberOfPages mediaType ISBN_number
+OCLC_number numberOfPages mediaType
+mediaType numberOfPages OCLC_number
+numberOfPages mediaType OCLC_number
+numberOfPages mediaType OCLC_number
+OCLC_number mediaType numberOfPages
+numberOfPages mediaType OCLC_number
+numberOfPages mediaType ISBN_number
+ISBN_number mediaType numberOfPages
+numberOfPages mediaType ISBN_number
+followedBy publisher parentCompany
+followedBy publisher parentCompany
+publisher followedBy
+author mediaType ISBN_number
+author ISBN_number mediaType
+author mediaType ISBN_number
+OCLC_number author mediaType
+author mediaType OCLC_number
+author mediaType OCLC_number
+author mediaType ISBN_number
+author mediaType ISBN_number
+author mediaType ISBN_number
+mediaType author OCLC_number
+author mediaType OCLC_number
+author numberOfPages mediaType
+author mediaType numberOfPages
+mediaType author numberOfPages
+author mediaType numberOfPages
+numberOfPages mediaType author
+author mediaType numberOfPages
+language publisher country
+language country publisher
+country language publisher
+country language spokenIn
+country language spokenIn
+country language spokenIn
+publisher country ethnicGroup
+ethnicGroup country publisher
+publisher country ethnicGroup
+publisher country ethnicGroup
+publisher country ethnicGroup
+publisher country language
+publisher country language
+country publisher language
+publisher country leaderName
+publisher country leaderName
+publisher country leaderName
+publisher country ethnicGroup
+publisher country ethnicGroup
+publisher country ethnicGroup
+publisher country ethnicGroup
+publisher country ethnicGroup
+publisher country ethnicGroup
+publisher country ethnicGroup
+ethnicGroup country publisher
+publisher country language
+publisher country language
+country language publisher
+mediaType OCLC_number ISBN_number
+OCLC_number ISBN_number mediaType
+mediaType OCLC_number ISBN_number
+mediaType OCLC_number ISBN_number
+ISBN_number mediaType OCLC_number
+language country ethnicGroup
+language country ethnicGroup
+language country ethnicGroup
+language country ethnicGroup
+language country ethnicGroup
+ethnicGroup country language
+country language ethnicGroup
+language country ethnicGroup
+country language ethnicGroup
+mediaType ISBN_number numberOfPages
+mediaType numberOfPages ISBN_number
+mediaType numberOfPages ISBN_number
+numberOfPages mediaType OCLC_number
+mediaType numberOfPages OCLC_number
+numberOfPages mediaType OCLC_number
+author OCLC_number ISBN_number
+author OCLC_number ISBN_number
+author OCLC_number ISBN_number
+OCLC_number author mediaType
+author mediaType OCLC_number
+author mediaType ISBN_number
+author ISBN_number
+ethnicGroup country language
+language country ethnicGroup
+ethnicGroup country language
+country language spokenIn
+language spokenIn country
+language country ethnicGroup
+language country ethnicGroup
+mediaType numberOfPages author
+author numberOfPages mediaType
+author mediaType numberOfPages
+abbreviation ISSN_number LCCN_number
+abbreviation LCCN_number ISSN_number
+ISSN_number LCCN_number abbreviation
+academicDiscipline ISSN_number abbreviation
+abbreviation ISSN_number academicDiscipline
+abbreviation ISSN_number academicDiscipline
+abbreviation LCCN_number CODEN_code
+abbreviation LCCN_number CODEN_code
+abbreviation CODEN_code LCCN_number
+academicDiscipline abbreviation ISSN_number
+academicDiscipline abbreviation ISSN_number
+abbreviation academicDiscipline ISSN_number
+author ISBN_number OCLC_number
+author ISBN_number OCLC_number
+author OCLC_number ISBN_number
+author OCLC_number mediaType
+mediaType author OCLC_number
+author mediaType OCLC_number
+ISBN_number author mediaType
+author mediaType ISBN_number
+ISBN_number mediaType author
+author mediaType OCLC_number
+OCLC_number mediaType author
+author mediaType OCLC_number
+author mediaType ISBN_number
+author mediaType ISBN_number
+author mediaType ISBN_number
+followedBy country language
+followedBy language country
+language country followedBy
+precededBy precededBy followedBy
+precededBy
+precededBy precededBy followedBy
+language followedBy ISBN_number
+ISBN_number followedBy language
+ISBN_number followedBy
+country followedBy language
+country followedBy language
+country followedBy language
+mediaType numberOfPages author
+mediaType numberOfPages author
+author mediaType numberOfPages
+abbreviation LCCN_number ISSN_number
+LCCN_number abbreviation ISSN_number
+abbreviation LCCN_number ISSN_number
+abbreviation academicDiscipline LCCN_number
+academicDiscipline abbreviation LCCN_number
+abbreviation LCCN_number academicDiscipline
+abbreviation LCCN_number CODEN_code
+abbreviation CODEN_code LCCN_number
+abbreviation CODEN_code LCCN_number
+abbreviation academicDiscipline ISSN_number
+abbreviation ISSN_number academicDiscipline
+abbreviation academicDiscipline ISSN_number
+abbreviation academicDiscipline CODEN_code
+abbreviation academicDiscipline CODEN_code
+abbreviation academicDiscipline CODEN_code
+LCCN_number abbreviation academicDiscipline
+LCCN_number abbreviation academicDiscipline
+abbreviation LCCN_number academicDiscipline
+abbreviation academicDiscipline LCCN_number
+abbreviation academicDiscipline LCCN_number
+abbreviation CODEN_code
+abbreviation CODEN_code academicDiscipline
+abbreviation academicDiscipline CODEN_code
+abbreviation academicDiscipline ISSN_number
+abbreviation academicDiscipline ISSN_number
+abbreviation academicDiscipline ISSN_number
+abbreviation ISSN_number academicDiscipline
+academicDiscipline abbreviation ISSN_number
+abbreviation academicDiscipline ISSN_number
+abbreviation academicDiscipline ISSN_number
+headquarter regionServed publisher
+regionServed headquarter publisher
+publisher headquarter regionServed
+abbreviation publisher LCCN_number
+abbreviation publisher LCCN_number
+LCCN_number abbreviation publisher
+abbreviation ISSN_number LCCN_number
+abbreviation LCCN_number ISSN_number
+abbreviation ISSN_number LCCN_number
+abbreviation LCCN_number
+LCCN_number abbreviation
+publisher parentCompany ISSN_number
+parentCompany publisher ISSN_number
+ISSN_number publisher parentCompany
+parentCompany publisher LCCN_number
+parentCompany publisher LCCN_number
+parentCompany publisher LCCN_number
+parentCompany publisher OCLC_number
+parentCompany publisher OCLC_number
+abbreviation publisher parentCompany
+parentCompany publisher abbreviation
+parentCompany publisher abbreviation
+academicDiscipline publisher parentCompany
+academicDiscipline publisher parentCompany
+ISSN_number abbreviation LCCN_number
+abbreviation LCCN_number ISSN_number
+abbreviation LCCN_number ISSN_number
+abbreviation LCCN_number publisher
+publisher LCCN_number abbreviation
+publisher abbreviation LCCN_number
+abbreviation academicDiscipline ISSN_number
+ISSN_number abbreviation academicDiscipline
+abbreviation academicDiscipline ISSN_number
+publisher academicDiscipline abbreviation
+abbreviation academicDiscipline publisher
+publisher academicDiscipline abbreviation
+abbreviation LCCN_number academicDiscipline
+abbreviation academicDiscipline LCCN_number
+abbreviation academicDiscipline LCCN_number
+abbreviation academicDiscipline publisher
+abbreviation publisher academicDiscipline
+publisher academicDiscipline abbreviation
+city affiliation publisher
+city publisher affiliation
+city affiliation publisher
+president affiliation publisher
+publisher affiliation president
+affiliation publisher president
+publisher affiliation affiliation
+affiliation affiliation publisher
+publisher affiliation affiliation
+city affiliation publisher
+city publisher affiliation
+city affiliation publisher
+publisher president affiliation
+president affiliation publisher
+state affiliation publisher
+state publisher affiliation
+state affiliation publisher
+language ISBN_number followedBy
+followedBy language ISBN_number
+author OCLC_number ISBN_number
+author OCLC_number ISBN_number
+author ISBN_number OCLC_number
+author mediaType OCLC_number
+author mediaType OCLC_number
+author mediaType ISBN_number
+mediaType author ISBN_number
+author mediaType ISBN_number
+precededBy country precededBy
+country precededBy precededBy
+country precededBy precededBy
+country language followedBy
+language country followedBy
+country followedBy
+mediaType numberOfPages author
+author numberOfPages mediaType
+mediaType author numberOfPages
+author birthPlace followedBy
+birthPlace author followedBy
+birthPlace author followedBy
+language country ethnicGroup
+language country ethnicGroup
+language country ethnicGroup
+country language ethnicGroup
+language country ethnicGroup
+language country ethnicGroup
+language country ethnicGroup
+ethnicGroup country
+language country ethnicGroup
+language country ethnicGroup
+language country ethnicGroup
+country language ethnicGroup
+mediaType ISBN_number OCLC_number
+mediaType OCLC_number ISBN_number
+mediaType ISBN_number OCLC_number
+mediaType OCLC_number ISBN_number
+mediaType ISBN_number OCLC_number
+mediaType OCLC_number ISBN_number
+genre mediaType OCLC_number
+numberOfPages mediaType ISBN_number
+mediaType numberOfPages ISBN_number
+numberOfPages mediaType ISBN_number
+mediaType numberOfPages OCLC_number
+mediaType numberOfPages OCLC_number
+mediaType numberOfPages ISBN_number
+mediaType ISBN_number numberOfPages
+mediaType numberOfPages ISBN_number
+abbreviation ISSN_number
+abbreviation academicDiscipline ISSN_number
+abbreviation academicDiscipline ISSN_number
+abbreviation frequency academicDiscipline
+abbreviation frequency academicDiscipline
+frequency abbreviation academicDiscipline
+firstPublicationYear abbreviation ISSN_number
+abbreviation firstPublicationYear ISSN_number
+academicDiscipline firstPublicationYear abbreviation
+abbreviation academicDiscipline firstPublicationYear
+publisher country ISSN_number
+ISSN_number publisher country
+ISSN_number publisher country
+publisher country ISSN_number
+ISSN_number publisher country
+ISSN_number publisher country
+publisher country OCLC_number
+country publisher OCLC_number
+OCLC_number publisher country
+abbreviation publisher country
+country publisher abbreviation
+academicDiscipline publisher country
+country publisher academicDiscipline
+academicDiscipline publisher country
+parentCompany country publisher
+parentCompany country publisher
+parentCompany country publisher
+birthPlace author followedBy
+followedBy author birthPlace
+followedBy author birthPlace
+country language spokenIn
+spokenIn language country
+spokenIn language country
+language spokenIn country
+country language spokenIn
+spokenIn language country
+country language spokenIn
+spokenIn language country
+precededBy author birthPlace
+birthPlace author precededBy
+birthPlace author precededBy
+author precededBy birthPlace
+birthPlace notableWork author
+birthPlace notableWork author
+birthPlace notableWork author
+birthPlace notableWork author
+birthPlace notableWork author
+birthPlace notableWork author
+birthPlace notableWork author
+OCLC_number publisher founder
+founder publisher OCLC_number
+OCLC_number publisher founder
+publisher country language
+country language publisher
+publisher country language
+country capital ethnicGroup
+country capital ethnicGroup
+country capital ethnicGroup
+capital ethnicGroup country
+country ethnicGroup capital
+country capital ethnicGroup
+ethnicGroup capital country
+country capital ethnicGroup
+country capital ethnicGroup
+country capital ethnicGroup
+capital ethnicGroup country
+ethnicGroup country capital
+country capital ethnicGroup
+country capital ethnicGroup
+country ethnicGroup capital
+country ethnicGroup capital
+country ethnicGroup capital
+language country ethnicGroup
+language country ethnicGroup
+language country ethnicGroup
+country ethnicGroup capital
+ethnicGroup capital country
+capital ethnicGroup country
+country capital ethnicGroup
+capital ethnicGroup country
+country language ethnicGroup
+language ethnicGroup country
+country language ethnicGroup
+country language ethnicGroup
+language country ethnicGroup
+country leaderName ethnicGroup
+leaderName ethnicGroup country
+country leaderTitle ethnicGroup
+country leaderTitle ethnicGroup
+country leaderTitle ethnicGroup
+ethnicGroup country language
+language country ethnicGroup
+language country ethnicGroup
+country capital ethnicGroup
+country capital ethnicGroup
+ethnicGroup country capital
+country ethnicGroup capital
+country ethnicGroup capital
+ethnicGroup country capital
+language ethnicGroup country
+country language ethnicGroup
+country language ethnicGroup
+country language ethnicGroup
+country language ethnicGroup
+language ethnicGroup country
+country ethnicGroup leaderName
+country leaderName ethnicGroup
+country leaderName ethnicGroup
+country leaderName ethnicGroup
+country leaderName ethnicGroup
+leaderName ethnicGroup country
+country leaderName ethnicGroup
+country ethnicGroup leaderName
+country leaderName ethnicGroup
+country leaderTitle ethnicGroup
+country leaderTitle ethnicGroup
+country leaderTitle ethnicGroup
+country language ethnicGroup
+country language ethnicGroup
+country language ethnicGroup
+country language ethnicGroup
+country language ethnicGroup
+country language ethnicGroup
+country language ethnicGroup
+country language ethnicGroup
+country language ethnicGroup
+country ethnicGroup language
+country language ethnicGroup
+country language ethnicGroup
+ethnicGroup country
+country ethnicGroup language
+country language spokenIn
+spokenIn language country
+country language spokenIn
+country language ethnicGroup
+language ethnicGroup country
+country language ethnicGroup
+country leaderName ethnicGroup
+country ethnicGroup leaderName
+country leaderName ethnicGroup
+country ethnicGroup leaderName
+country leaderName ethnicGroup
+country ethnicGroup leaderName
+country leaderName ethnicGroup
+country leaderName ethnicGroup
+leaderName country ethnicGroup
+leaderName ethnicGroup country
+ethnicGroup leaderName country
+country leaderName ethnicGroup
+leaderName country ethnicGroup
+country leaderName ethnicGroup
+country leaderName ethnicGroup
+ethnicGroup leaderName country
+country leaderName ethnicGroup
+leaderName country ethnicGroup
+country leaderName ethnicGroup
+ethnicGroup country leaderName
+leaderName ethnicGroup country
+leaderName ethnicGroup country
+country leaderName ethnicGroup
+country leaderName ethnicGroup
+country leaderName ethnicGroup
+country ethnicGroup leaderName
+country leaderName ethnicGroup
+country leaderName ethnicGroup
+country ethnicGroup leaderTitle
+country leaderTitle ethnicGroup
+country ethnicGroup
+country leaderTitle ethnicGroup
+leaderTitle country ethnicGroup
+country ethnicGroup leaderTitle
+leaderTitle ethnicGroup country
+country leaderTitle ethnicGroup
+country leaderTitle ethnicGroup
+country leaderTitle ethnicGroup
+country ethnicGroup leaderTitle
+country ethnicGroup leaderTitle
+ethnicGroup leaderTitle country
+leaderTitle ethnicGroup country
+country publisher followedBy
+publisher country followedBy
+country publisher followedBy
+publisher country parentCompany
+country parentCompany publisher
+parentCompany country publisher
+author followedBy followedBy
+author followedBy followedBy
+precededBy followedBy followedBy
+precededBy followedBy followedBy
+precededBy followedBy followedBy
+author followedBy followedBy
+author followedBy followedBy
+author followedBy followedBy
+location isPartOf country capital
+capital country location isPartOf
+location isPartOf country capital
+location isPartOf country demonym
+location country isPartOf demonym
+location isPartOf country demonym
+location country isPartOf language
+language country location isPartOf
+language country location isPartOf
+language country location isPartOf
+location country language
+location isPartOf country language
+isPartOf location country leaderName
+location isPartOf country leaderName
+location isPartOf country language
+isPartOf location country language
+language country location isPartOf
+location isPartOf country language
+location isPartOf country language
+location isPartOf
+location isPartOf country leaderName
+leaderName country location isPartOf
+leaderName country location isPartOf
+operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName
+operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName
+operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName
+operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName
+operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName
+elevationAboveTheSeaLevel_(in_metres) operatingOrganisation runwayName runwayLength
+elevationAboveTheSeaLevel_(in_metres) operatingOrganisation runwayName runwayLength
+operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName
+operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+operatingOrganisation runwayName elevationAboveTheSeaLevel_(in_metres) runwayLength
+elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName operatingOrganisation
+operatingOrganisation runwayName runwayLength elevationAboveTheSeaLevel_(in_metres)
+elevationAboveTheSeaLevel_(in_metres) operatingOrganisation runwayName runwayLength
+runwayName runwayLength elevationAboveTheSeaLevel_(in_metres) operatingOrganisation
+runwayLength elevationAboveTheSeaLevel_(in_metres) operatingOrganisation runwayName
+operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName
+runwayName operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayLength
+cityServed isPartOf isPartOf country
+cityServed isPartOf isPartOf country
+cityServed isPartOf isPartOf country
+cityServed isPartOf isPartOf country
+cityServed isPartOf isPartOf country
+cityServed isPartOf isPartOf country
+isPartOf country isPartOf cityServed
+cityServed isPartOf isPartOf country
+cityServed runwayName runwayLength elevationAboveTheSeaLevel_(in_metres)
+elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName cityServed
+cityServed runwayName runwayLength elevationAboveTheSeaLevel_(in_metres)
+cityServed elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+cityServed elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName
+cityServed runwayName runwayLength elevationAboveTheSeaLevel_(in_metres)
+cityServed elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+runwayName runwayLength elevationAboveTheSeaLevel_(in_metres) cityServed
+cityServed cityServed elevationAboveTheSeaLevel_(in_metres) runwayLength
+cityServed cityServed runwayLength elevationAboveTheSeaLevel_(in_metres)
+cityServed cityServed elevationAboveTheSeaLevel_(in_metres) runwayLength
+location operatingOrganisation locationCity country
+location operatingOrganisation locationCity country
+location operatingOrganisation locationCity country
+location operatingOrganisation locationCity country
+location country operatingOrganisation locationCity
+location country operatingOrganisation locationCity
+location country operatingOrganisation locationCity
+location country operatingOrganisation locationCity
+elevationAboveTheSeaLevel_(in_metres) location isPartOf country
+isPartOf country location elevationAboveTheSeaLevel_(in_metres)
+elevationAboveTheSeaLevel_(in_metres) location isPartOf country
+location operatingOrganisation runwayName runwayLength
+location runwayName runwayLength operatingOrganisation
+location operatingOrganisation runwayName runwayLength
+location operatingOrganisation runwayName runwayLength
+location operatingOrganisation runwayName runwayLength
+location operatingOrganisation runwayName runwayLength
+location operatingOrganisation runwayName runwayLength
+location operatingOrganisation runwayName runwayLength
+operatingOrganisation location runwayName runwayLength
+location operatingOrganisation runwayLength runwayName
+operatingOrganisation location runwayName runwayLength
+location operatingOrganisation runwayName runwayLength
+location operatingOrganisation runwayName runwayLength
+location runwayLength operatingOrganisation runwayName
+operatingOrganisation location runwayLength runwayName
+operatingOrganisation location runwayName runwayLength
+location operatingOrganisation runwayName runwayLength
+location operatingOrganisation runwayName runwayLength
+location operatingOrganisation cityServed isPartOf
+isPartOf operatingOrganisation cityServed location
+location cityServed isPartOf operatingOrganisation
+location isPartOf cityServed operatingOrganisation
+cityServed operatingOrganisation location isPartOf
+cityServed operatingOrganisation location isPartOf
+location cityServed isPartOf operatingOrganisation
+isPartOf cityServed operatingOrganisation location
+cityServed isPartOf operatingOrganisation location
+cityServed isPartOf leaderName isPartOf
+isPartOf isPartOf cityServed leaderName
+isPartOf isPartOf leaderName cityServed
+location operatingOrganisation cityServed isPartOf
+cityServed isPartOf operatingOrganisation location
+cityServed isPartOf operatingOrganisation location
+location isPartOf cityServed operatingOrganisation
+location isPartOf cityServed operatingOrganisation
+location isPartOf cityServed operatingOrganisation
+elevationAboveTheSeaLevel_(in_metres) runwayLength location runwayName
+location runwayName runwayLength elevationAboveTheSeaLevel_(in_metres)
+location elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+location operatingOrganisation runwayLength elevationAboveTheSeaLevel_(in_metres)
+location elevationAboveTheSeaLevel_(in_metres) runwayLength operatingOrganisation
+operatingOrganisation elevationAboveTheSeaLevel_(in_metres) location
+operatingOrganisation location runwayLength elevationAboveTheSeaLevel_(in_metres)
+location operatingOrganisation runwayLength elevationAboveTheSeaLevel_(in_metres)
+location elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+location runwayName runwayLength elevationAboveTheSeaLevel_(in_metres)
+location elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+location elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+location elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+location elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+location runwayName runwayLength elevationAboveTheSeaLevel_(in_metres)
+location elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+IATA_Location_Identifier location isPartOf isPartOf
+location isPartOf isPartOf IATA_Location_Identifier
+ICAO_Location_Identifier location isPartOf isPartOf
+ICAO_Location_Identifier location isPartOf isPartOf
+location isPartOf isPartOf ICAO_Location_Identifier
+elevationAboveTheSeaLevel_(in_metres) location isPartOf leaderName
+leaderName isPartOf location elevationAboveTheSeaLevel_(in_metres)
+isPartOf leaderName location elevationAboveTheSeaLevel_(in_metres)
+location operatingOrganisation IATA_Location_Identifier
+location operatingOrganisation IATA_Location_Identifier ICAO_Location_Identifier
+location IATA_Location_Identifier ICAO_Location_Identifier operatingOrganisation
+transportAircraft operatingOrganisation location leaderName
+location operatingOrganisation leaderName transportAircraft
+location leaderName operatingOrganisation transportAircraft
+location operatingOrganisation transportAircraft leaderName
+operatingOrganisation transportAircraft location leaderName
+ICAO_Location_Identifier location IATA_Location_Identifier operatingOrganisation
+operatingOrganisation location IATA_Location_Identifier ICAO_Location_Identifier
+location isPartOf isPartOf operatingOrganisation
+operatingOrganisation location isPartOf isPartOf
+operatingOrganisation location isPartOf isPartOf
+location operatingOrganisation IATA_Location_Identifier ICAO_Location_Identifier
+operatingOrganisation location IATA_Location_Identifier ICAO_Location_Identifier
+operatingOrganisation location IATA_Location_Identifier ICAO_Location_Identifier
+isPartOf location operatingOrganisation transportAircraft
+location isPartOf operatingOrganisation transportAircraft
+location isPartOf operatingOrganisation transportAircraft
+transportAircraft operatingOrganisation location isPartOf
+location isPartOf operatingOrganisation transportAircraft
+transportAircraft operatingOrganisation location isPartOf
+operatingOrganisation location isPartOf isPartOf
+operatingOrganisation location isPartOf isPartOf
+location isPartOf isPartOf operatingOrganisation
+leaderName location operatingOrganisation transportAircraft
+transportAircraft operatingOrganisation location leaderName
+operatingOrganisation location leaderName transportAircraft
+location IATA_Location_Identifier ICAO_Location_Identifier operatingOrganisation
+location operatingOrganisation IATA_Location_Identifier ICAO_Location_Identifier
+ICAO_Location_Identifier IATA_Location_Identifier location operatingOrganisation
+operatingOrganisation location ICAO_Location_Identifier IATA_Location_Identifier
+operatingOrganisation location IATA_Location_Identifier ICAO_Location_Identifier
+IATA_Location_Identifier operatingOrganisation location ICAO_Location_Identifier
+elevationAboveTheSeaLevel_(in_metres) runwayLength location cityServed
+location cityServed elevationAboveTheSeaLevel_(in_metres) runwayLength
+cityServed location elevationAboveTheSeaLevel_(in_metres) runwayLength
+cityServed location elevationAboveTheSeaLevel_(in_metres) runwayLength
+cityServed location runwayLength elevationAboveTheSeaLevel_(in_metres)
+location cityServed elevationAboveTheSeaLevel_(in_metres) runwayLength
+operatingOrganisation location runwayName runwayLength
+operatingOrganisation location runwayName runwayLength
+operatingOrganisation location runwayLength runwayName
+operatingOrganisation location runwayName runwayLength
+operatingOrganisation location runwayName runwayLength
+operatingOrganisation location runwayName runwayLength
+operatingOrganisation location runwayLength runwayName
+operatingOrganisation location runwayName runwayLength
+location operatingOrganisation runwayName runwayLength
+location operatingOrganisation runwayLength runwayName
+location operatingOrganisation runwayName runwayLength
+operatingOrganisation runwayLength location runwayName
+location operatingOrganisation runwayName runwayLength
+location operatingOrganisation runwayName runwayLength
+location operatingOrganisation runwayName runwayLength
+operatingOrganisation location runwayName runwayLength
+operatingOrganisation location runwayLength runwayName
+location runwayLength runwayName operatingOrganisation
+location operatingOrganisation runwayLength runwayName
+operatingOrganisation location runwayName runwayLength
+attackAircraft aircraftFighter battles operatingOrganisation
+operatingOrganisation battles aircraftFighter attackAircraft
+operatingOrganisation battles attackAircraft aircraftFighter
+operatingOrganisation attackAircraft aircraftFighter battles
+operatingOrganisation battles attackAircraft aircraftFighter
+operatingOrganisation aircraftFighter attackAircraft battles
+operatingOrganisation battles attackAircraft aircraftFighter
+operatingOrganisation battles attackAircraft aircraftFighter
+attackAircraft aircraftFighter operatingOrganisation battles
+operatingOrganisation battles attackAircraft aircraftFighter
+operatingOrganisation battles attackAircraft aircraftFighter
+operatingOrganisation battles aircraftFighter attackAircraft
+aircraftFighter attackAircraft battles operatingOrganisation
+attackAircraft aircraftFighter operatingOrganisation battles
+operatingOrganisation attackAircraft battles battles
+operatingOrganisation battles battles attackAircraft
+operatingOrganisation battles battles attackAircraft
+operatingOrganisation battles battles attackAircraft
+operatingOrganisation attackAircraft battles battles
+battles battles operatingOrganisation attackAircraft
+attackAircraft operatingOrganisation battles battles
+attackAircraft operatingOrganisation battles battles
+operatingOrganisation battles battles attackAircraft
+attackAircraft battles battles operatingOrganisation
+operatingOrganisation battles battles attackAircraft
+operatingOrganisation battles battles attackAircraft
+operatingOrganisation battles battles attackAircraft
+operatingOrganisation battles battles attackAircraft
+operatingOrganisation battles battles attackAircraft
+operatingOrganisation attackAircraft battles battles
+operatingOrganisation battles battles attackAircraft
+operatingOrganisation attackAircraft battles battles
+battles battles operatingOrganisation attackAircraft
+operatingOrganisation battles battles attackAircraft
+operatingOrganisation battles battles attackAircraft
+location isPartOf country elevationAboveTheSeaLevel_(in_metres)
+location isPartOf country elevationAboveTheSeaLevel_(in_metres)
+location isPartOf country leaderParty
+location isPartOf country leaderParty
+location country leaderParty isPartOf
+cityServed elevationAboveTheSeaLevel_(in_metres) 1st_runway_SurfaceType runwayLength
+cityServed elevationAboveTheSeaLevel_(in_metres) 1st_runway_SurfaceType runwayLength
+cityServed elevationAboveTheSeaLevel_(in_metres) 1st_runway_SurfaceType runwayLength
+cityServed elevationAboveTheSeaLevel_(in_metres) 1st_runway_SurfaceType runwayLength
+cityServed elevationAboveTheSeaLevel_(in_metres) runwayLength 1st_runway_SurfaceType
+1st_runway_SurfaceType order order class
+1st_runway_SurfaceType order order class
+cityServed elevationAboveTheSeaLevel_(in_metres) 1st_runway_SurfaceType runwayLength
+cityServed elevationAboveTheSeaLevel_(in_metres) 1st_runway_SurfaceType runwayLength
+cityServed elevationAboveTheSeaLevel_(in_metres) runwayLength 1st_runway_SurfaceType
+elevationAboveTheSeaLevel_(in_metres) runwayLength cityServed 1st_runway_SurfaceType
+cityServed elevationAboveTheSeaLevel_(in_metres) 1st_runway_SurfaceType runwayLength
+cityServed elevationAboveTheSeaLevel_(in_metres) 1st_runway_SurfaceType runwayLength
+runwayLength location cityServed operatingOrganisation
+location operatingOrganisation cityServed runwayLength
+cityServed operatingOrganisation runwayLength
+location runwayLength operatingOrganisation cityServed
+operatingOrganisation location cityServed runwayLength
+operatingOrganisation location cityServed runwayLength
+leaderName country location cityServed
+location cityServed country leaderName
+location cityServed country leaderName
+leaderName country location cityServed
+cityServed location country leaderName
+location country cityServed leaderName
+cityServed location operatingOrganisation runwayLength
+location operatingOrganisation cityServed runwayLength
+location cityServed operatingOrganisation runwayLength
+operatingOrganisation cityServed location runwayLength
+operatingOrganisation location cityServed runwayLength
+location operatingOrganisation cityServed runwayLength
+location operatingOrganisation cityServed runwayLength
+operatingOrganisation location cityServed runwayLength
+cityServed location operatingOrganisation runwayLength
+runwayLength elevationAboveTheSeaLevel_(in_metres) location country
+elevationAboveTheSeaLevel_(in_metres) runwayLength location country
+cityServed location elevationAboveTheSeaLevel_(in_metres) runwayLength
+location cityServed runwayLength elevationAboveTheSeaLevel_(in_metres)
+cityServed location runwayLength elevationAboveTheSeaLevel_(in_metres)
+cityServed location elevationAboveTheSeaLevel_(in_metres) runwayLength
+location cityServed elevationAboveTheSeaLevel_(in_metres) runwayLength
+cityServed location elevationAboveTheSeaLevel_(in_metres) runwayLength
+cityServed location elevationAboveTheSeaLevel_(in_metres) runwayLength
+location cityServed runwayLength elevationAboveTheSeaLevel_(in_metres)
+country location runwayLength elevationAboveTheSeaLevel_(in_metres)
+location country runwayLength elevationAboveTheSeaLevel_(in_metres)
+location country elevationAboveTheSeaLevel_(in_metres) runwayLength
+location country elevationAboveTheSeaLevel_(in_metres) runwayLength
+location country elevationAboveTheSeaLevel_(in_metres) runwayLength
+location country runwayLength elevationAboveTheSeaLevel_(in_metres)
+cityServed elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName
+cityServed elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+cityServed runwayName runwayLength elevationAboveTheSeaLevel_(in_metres)
+runwayName runwayLength cityServed elevationAboveTheSeaLevel_(in_metres)
+cityServed elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+cityServed runwayName runwayLength elevationAboveTheSeaLevel_(in_metres)
+elevationAboveTheSeaLevel_(in_metres) cityServed runwayLength runwayName
+elevationAboveTheSeaLevel_(in_metres) cityServed runwayLength runwayName
+cityServed location elevationAboveTheSeaLevel_(in_metres) runwayLength
+cityServed location elevationAboveTheSeaLevel_(in_metres) runwayLength
+location cityServed elevationAboveTheSeaLevel_(in_metres) runwayLength
+location cityServed runwayLength elevationAboveTheSeaLevel_(in_metres)
+cityServed location elevationAboveTheSeaLevel_(in_metres) runwayLength
+location cityServed runwayLength elevationAboveTheSeaLevel_(in_metres)
+cityServed location elevationAboveTheSeaLevel_(in_metres) runwayLength
+elevationAboveTheSeaLevel_(in_metres) location cityServed runwayLength
+location country demonym capital
+location country demonym capital
+location capital country demonym
+location capital demonym language
+language demonym capital location
+location capital language demonym
+location language country demonym
+location language country demonym
+capital country language location
+country capital language location
+country capital language location
+location language capital demonym
+language capital location demonym
+demonym language capital location
+location demonym language capital
+location capital demonym language
+location capital demonym language
+location country language demonym
+location country demonym language
+location country demonym language
+location largestCity country language
+location country largestCity language
+location language largestCity country
+location elevationAboveTheSeaLevel_(in_metres) cityServed runwayLength
+cityServed location elevationAboveTheSeaLevel_(in_metres) runwayLength
+elevationAboveTheSeaLevel_(in_metres) runwayLength cityServed location
+location cityServed runwayLength elevationAboveTheSeaLevel_(in_metres)
+location cityServed runwayLength elevationAboveTheSeaLevel_(in_metres)
+location cityServed country isPartOf
+cityServed location isPartOf country
+cityServed country location isPartOf
+elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength location
+location elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+elevationAboveTheSeaLevel_(in_metres) location runwayName runwayLength
+elevationAboveTheSeaLevel_(in_metres) location runwayName runwayLength
+location elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+location elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+runwayLength location isPartOf country
+location isPartOf country runwayLength
+location isPartOf runwayLength
+location isPartOf country runwayLength
+location isPartOf country runwayLength
+runwayLength location isPartOf country
+location isPartOf country runwayName
+location isPartOf country runwayName
+runwayName location isPartOf country
+runwayName location isPartOf country
+isPartOf country location runwayName
+location isPartOf country runwayName
+country cityServed leaderName
+cityServed country leaderName
+cityServed country leaderName
+operatingOrganisation owner elevationAboveTheSeaLevel_(in_metres) cityServed
+owner operatingOrganisation cityServed elevationAboveTheSeaLevel_(in_metres)
+cityServed elevationAboveTheSeaLevel_(in_metres) owner operatingOrganisation
+owner operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayLength
+owner operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayLength
+operatingOrganisation owner runwayLength elevationAboveTheSeaLevel_(in_metres)
+owner operatingOrganisation cityServed elevationAboveTheSeaLevel_(in_metres)
+owner operatingOrganisation cityServed elevationAboveTheSeaLevel_(in_metres)
+elevationAboveTheSeaLevel_(in_metres) runwayLength cityServed location
+cityServed elevationAboveTheSeaLevel_(in_metres) location runwayLength
+location cityServed elevationAboveTheSeaLevel_(in_metres) runwayLength
+location elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName
+location elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName
+runwayLength location runwayName elevationAboveTheSeaLevel_(in_metres)
+isPartOf isPartOf location cityServed
+location isPartOf cityServed isPartOf
+cityServed location isPartOf isPartOf
+location cityServed isPartOf
+isPartOf cityServed location isPartOf
+location isPartOf cityServed isPartOf
+location isPartOf cityServed isPartOf
+location cityServed isPartOf isPartOf
+location cityServed isPartOf isPartOf
+location isPartOf isPartOf
+location cityServed isPartOf isPartOf
+cityServed
+isPartOf isPartOf location cityServed
+cityServed location isPartOf isPartOf
+location isPartOf cityServed isPartOf
+isPartOf location cityServed isPartOf
+cityServed location isPartOf isPartOf
+location isPartOf isPartOf cityServed
+location cityServed isPartOf isPartOf
+isPartOf isPartOf location cityServed
+cityServed location isPartOf isPartOf
+location isPartOf isPartOf
+cityServed location isPartOf isPartOf
+location isPartOf cityServed isPartOf
+location isPartOf isPartOf cityServed
+cityServed isPartOf location isPartOf
+
+cityServed location isPartOf isPartOf
+cityServed location isPartOf isPartOf
+cityServed location isPartOf isPartOf
+location isPartOf cityServed isPartOf
+elevationAboveTheSeaLevel_(in_metres) 3rd_runway_SurfaceType runwayName runwayLength
+3rd_runway_SurfaceType elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName 3rd_runway_SurfaceType
+3rd_runway_SurfaceType elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+elevationAboveTheSeaLevel_(in_metres) 3rd_runway_SurfaceType runwayLength runwayName
+elevationAboveTheSeaLevel_(in_metres) 3rd_runway_SurfaceType runwayName runwayLength
+3rd_runway_SurfaceType division order class
+3rd_runway_SurfaceType class division order
+3rd_runway_SurfaceType class division order
+3rd_runway_SurfaceType division order class
+3rd_runway_SurfaceType division order order
+3rd_runway_SurfaceType order division
+3rd_runway_SurfaceType order order division
+elevationAboveTheSeaLevel_(in_metres) 3rd_runway_SurfaceType runwayName runwayLength
+3rd_runway_SurfaceType runwayLength elevationAboveTheSeaLevel_(in_metres) runwayName
+runwayName 3rd_runway_SurfaceType elevationAboveTheSeaLevel_(in_metres) runwayLength
+elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength 3rd_runway_SurfaceType
+runwayName runwayLength elevationAboveTheSeaLevel_(in_metres) 3rd_runway_SurfaceType
+runwayName elevationAboveTheSeaLevel_(in_metres) runwayLength 3rd_runway_SurfaceType
+elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength 3rd_runway_SurfaceType
+elevationAboveTheSeaLevel_(in_metres) 3rd_runway_SurfaceType runwayLength runwayName
+runwayLength runwayName elevationAboveTheSeaLevel_(in_metres) 3rd_runway_SurfaceType
+runwayLength elevationAboveTheSeaLevel_(in_metres) 3rd_runway_SurfaceType runwayName
+elevationAboveTheSeaLevel_(in_metres) 3rd_runway_SurfaceType runwayLength runwayName
+elevationAboveTheSeaLevel_(in_metres) 3rd_runway_SurfaceType runwayName runwayLength
+location operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayLength
+location operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayLength
+location operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayLength
+location runwayLength operatingOrganisation elevationAboveTheSeaLevel_(in_metres)
+operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayLength
+location operatingOrganisation runwayLength elevationAboveTheSeaLevel_(in_metres)
+operatingOrganisation location elevationAboveTheSeaLevel_(in_metres) runwayLength
+location operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayLength
+location operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayLength
+headquarter headquarter operatingOrganisation runwayLength
+headquarter headquarter operatingOrganisation runwayLength
+operatingOrganisation headquarter headquarter runwayLength
+runwayLength operatingOrganisation headquarter headquarter
+runwayLength operatingOrganisation headquarter headquarter
+operatingOrganisation headquarter headquarter hubAirport
+operatingOrganisation headquarter hubAirport headquarter
+headquarter headquarter operatingOrganisation hubAirport
+cityServed country leaderName leaderName
+cityServed country leaderName leaderName
+cityServed country leaderName leaderName
+cityServed country leaderName leaderName
+cityServed country leaderName leaderName
+cityServed country leaderName leaderName
+country cityServed leaderName leaderName
+cityServed country leaderName leaderName
+elevationAboveTheSeaLevel_(in_metres) runwayLength location cityServed
+location cityServed elevationAboveTheSeaLevel_(in_metres) runwayLength
+location cityServed runwayLength elevationAboveTheSeaLevel_(in_metres)
+country leaderName cityServed location
+leaderName cityServed location country
+location country isPartOf elevationAboveTheSeaLevel_(in_metres)
+location isPartOf country elevationAboveTheSeaLevel_(in_metres)
+location isPartOf country elevationAboveTheSeaLevel_(in_metres)
+location country operatingOrganisation headquarter
+headquarter operatingOrganisation location country
+headquarter operatingOrganisation location country
+headquarter operatingOrganisation location country
+location country operatingOrganisation headquarter
+operatingOrganisation headquarter location country
+elevationAboveTheSeaLevel_(in_metres) operatingOrganisation runwayName runwayLength
+operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+runwayName operatingOrganisation elevationAboveTheSeaLevel_(in_metres)
+operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+operatingOrganisation runwayName runwayLength elevationAboveTheSeaLevel_(in_metres)
+operatingOrganisation runwayName elevationAboveTheSeaLevel_(in_metres) runwayLength
+elevationAboveTheSeaLevel_(in_metres) operatingOrganisation runwayLength runwayName
+operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+operatingOrganisation runwayName elevationAboveTheSeaLevel_(in_metres) runwayLength
+country language leaderName cityServed
+cityServed country leaderName language
+leaderName language country cityServed
+leaderName language country cityServed
+country cityServed leaderName language
+cityServed country leaderName leaderName
+leaderName leaderName country cityServed
+leaderName leaderName country cityServed
+cityServed country language leaderName
+language leaderName country cityServed
+country cityServed leaderName language
+leaderName language country cityServed
+leaderName country cityServed language
+location operatingOrganisation locationCity country
+locationCity operatingOrganisation location country
+location country operatingOrganisation locationCity
+locationCity country operatingOrganisation location
+locationCity country operatingOrganisation location
+operatingOrganisation location locationCity country
+isPartOf country location elevationAboveTheSeaLevel_(in_metres)
+location isPartOf country elevationAboveTheSeaLevel_(in_metres)
+location isPartOf country elevationAboveTheSeaLevel_(in_metres)
+location isPartOf country isPartOf
+location isPartOf isPartOf country
+location isPartOf country isPartOf
+headquarter operatingOrganisation location isPartOf
+headquarter operatingOrganisation location isPartOf
+operatingOrganisation headquarter location isPartOf
+location isPartOf operatingOrganisation headquarter
+headquarter operatingOrganisation location isPartOf
+location isPartOf operatingOrganisation headquarter
+isPartOf country location runwayLength
+isPartOf country location runwayLength
+cityServed cityServed isPartOf country
+isPartOf cityServed cityServed
+cityServed isPartOf country cityServed
+cityServed isPartOf isPartOf country
+cityServed isPartOf isPartOf country
+cityServed isPartOf isPartOf
+aircraftHelicopter operatingOrganisation location isPartOf
+location isPartOf operatingOrganisation aircraftHelicopter
+location isPartOf operatingOrganisation aircraftHelicopter
+elevationAboveTheSeaLevel_(in_metres) runwayLength operatingOrganisation location
+elevationAboveTheSeaLevel_(in_metres) runwayLength operatingOrganisation location
+location operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayLength
+operatingOrganisation location elevationAboveTheSeaLevel_(in_metres) runwayLength
+elevationAboveTheSeaLevel_(in_metres) runwayLength operatingOrganisation location
+location operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayLength
+cityServed country leaderName language
+cityServed country leaderName language
+cityServed country leaderName language
+leaderName language country cityServed
+cityServed country leaderName language
+cityServed country leaderName language
+leaderName leaderName country cityServed
+cityServed country leaderName leaderName
+cityServed country leaderName leaderName
+cityServed location country leaderName
+country cityServed location leaderName
+cityServed location country leaderName
+leaderName location country cityServed
+country cityServed leaderName location
+leaderName country cityServed location
+elevationAboveTheSeaLevel_(in_metres) location isPartOf country
+elevationAboveTheSeaLevel_(in_metres) location isPartOf country
+location elevationAboveTheSeaLevel_(in_metres) isPartOf country
+country location leaderParty
+location isPartOf country leaderParty
+location isPartOf country leaderParty
+cityServed location country leaderName
+leaderName cityServed country location
+cityServed location country leaderName
+leaderName country cityServed location
+leaderName country cityServed location
+leaderName location country cityServed
+leaderName country cityServed location
+location cityServed country leaderName
+cityServed location country leaderName
+class division order 2nd_runway_SurfaceType
+class order division 2nd_runway_SurfaceType
+order class division 2nd_runway_SurfaceType
+division class 1st_runway_SurfaceType
+1st_runway_SurfaceType order class
+1st_runway_SurfaceType division order class
+1st_runway_SurfaceType division order order
+1st_runway_SurfaceType division order order
+division order order 1st_runway_SurfaceType
+cityServed location country leaderName
+cityServed location country leaderName
+location country cityServed leaderName
+country cityServed location leaderName
+country cityServed leaderName location
+leaderName location country cityServed
+elevationAboveTheSeaLevel_(in_metres) location isPartOf country
+elevationAboveTheSeaLevel_(in_metres) location country isPartOf
+isPartOf country location leaderParty
+location country leaderParty isPartOf
+leaderParty country isPartOf location
+cityServed cityServed isPartOf isPartOf
+cityServed isPartOf isPartOf cityServed
+isPartOf isPartOf cityServed cityServed
+country isPartOf cityServed cityServed
+isPartOf country cityServed cityServed
+cityServed isPartOf cityServed country
+cityServed cityServed isPartOf isPartOf
+isPartOf isPartOf cityServed cityServed
+isPartOf isPartOf cityServed cityServed
+cityServed isPartOf isPartOf country
+cityServed isPartOf isPartOf country
+cityServed isPartOf isPartOf country
+cityServed isPartOf isPartOf country
+cityServed isPartOf isPartOf country
+cityServed isPartOf isPartOf country
+birthPlace almaMater was_selected_by_NASA was_a_crew_member_of
+birthPlace almaMater was_selected_by_NASA was_a_crew_member_of
+was_selected_by_NASA birthPlace almaMater was_a_crew_member_of
+was_a_crew_member_of birthPlace birthDate status
+was_a_crew_member_of birthDate birthPlace status
+nationality almaMater was_a_crew_member_of status
+status nationality almaMater was_a_crew_member_of
+nationality almaMater was_a_crew_member_of status
+nationality birthPlace birthDate almaMater
+birthDate birthPlace nationality almaMater
+nationality birthPlace birthDate was_a_crew_member_of
+nationality birthPlace birthDate was_a_crew_member_of
+nationality birthDate birthPlace was_a_crew_member_of
+nationality occupation birthPlace was_selected_by_NASA
+nationality birthPlace occupation was_selected_by_NASA
+birthPlace was_selected_by_NASA occupation
+nationality was_a_crew_member_of birthPlace
+nationality birthPlace occupation was_a_crew_member_of
+status occupation birthPlace almaMater
+occupation birthDate birthPlace almaMater
+birthPlace birthDate almaMater occupation
+birthDate birthPlace was_selected_by_NASA
+occupation birthDate birthPlace was_selected_by_NASA
+birthDate birthPlace occupation was_selected_by_NASA
+occupation status birthPlace was_a_crew_member_of
+status birthPlace occupation was_a_crew_member_of
+birthPlace occupation was_a_crew_member_of status
+birthPlace was_a_crew_member_of operator
+birthPlace occupation was_a_crew_member_of operator
+was_a_crew_member_of operator commander occupation
+occupation was_a_crew_member_of operator commander
+birthDate was_a_crew_member_of operator status
+almaMater was_a_crew_member_of operator was_selected_by_NASA
+birthPlace almaMater awards deathPlace
+birthPlace almaMater was_selected_by_NASA occupation
+birthPlace almaMater occupation was_selected_by_NASA
+almaMater was_a_crew_member_of operator dateOfRetirement
+was_a_crew_member_of operator almaMater dateOfRetirement
+almaMater awards higher dateOfRetirement
+almaMater dateOfRetirement awards higher
+nationality birthPlace dateOfRetirement deathPlace
+birthPlace nationality dateOfRetirement deathPlace
+birthPlace birthDate deathPlace deathDate
+deathPlace deathDate birthPlace birthDate
+nationality occupation birthPlace deathPlace
+nationality birthPlace occupation deathPlace
+was_selected_by_NASA status birthPlace birthDate
+status birthPlace birthDate was_selected_by_NASA
+birthPlace birthDate was_selected_by_NASA
+deathPlace birthPlace birthDate
+birthPlace birthDate deathPlace
+birthDate birthPlace deathPlace
+status occupation awards higher
+was_a_crew_member_of birthPlace birthDate operator
+was_a_crew_member_of deathDate deathPlace operator
+was_a_crew_member_of operator deathPlace senators
+birthPlace bird was_a_crew_member_of operator
+nationality was_a_crew_member_of operator backup_pilot
+nationality was_a_crew_member_of operator backup_pilot
+birthPlace was_a_crew_member_of operator commander
+alternativeNames birthDate almaMater awards
+alternativeNames birthDate awards almaMater
+
+alternativeNames was_a_crew_member_of occupation almaMater
+nationality birthPlace occupation status
+status nationality birthPlace occupation
+nationality birthPlace birthDate was_a_crew_member_of
+nationality birthPlace birthDate was_a_crew_member_of
+nationality was_a_crew_member_of birthDate birthPlace
+nationality birthPlace was_a_crew_member_of occupation
+nationality birthPlace occupation was_a_crew_member_of
+nationality birthPlace was_selected_by_NASA almaMater
+nationality birthPlace almaMater was_selected_by_NASA
+nationality birthPlace almaMater was_selected_by_NASA
+birthPlace almaMater occupation status
+status birthPlace almaMater occupation
+birthPlace was_a_crew_member_of operator backup_pilot
+birthPlace was_a_crew_member_of operator backup_pilot
+birthPlace birthDate almaMater was_a_crew_member_of
+birthPlace birthDate almaMater was_a_crew_member_of
+birthPlace was_a_crew_member_of operator status
+status birthPlace was_a_crew_member_of operator
+birthPlace status was_selected_by_NASA was_a_crew_member_of
+birthPlace was_selected_by_NASA was_a_crew_member_of status
+alternativeNames was_a_crew_member_of operator dateOfRetirement
+alternativeNames was_a_crew_member_of operator dateOfRetirement
+nationality was_a_crew_member_of backup_pilot operator
+was_a_crew_member_of operator backup_pilot
+nationality leaderName was_a_crew_member_of backup_pilot
+occupation almaMater was_a_crew_member_of operator
+status was_a_crew_member_of operator birthDate
+was_selected_by_NASA was_a_crew_member_of operator backup_pilot
+birthPlace birthDate awards higher
+birthPlace birthDate awards
+birthPlace birthDate almaMater compete_in
+birthPlace birthDate almaMater compete_in
+birthPlace almaMater occupation deathPlace
+birthPlace almaMater occupation deathPlace
+occupation almaMater birthPlace deathPlace
+birthPlace deathPlace almaMater was_selected_by_NASA
+birthPlace almaMater was_selected_by_NASA deathPlace
+birthPlace deathPlace almaMater was_selected_by_NASA
+almaMater compete_in occupation deathPlace
+birthPlace almaMater occupation status
+occupation status birthPlace almaMater
+almaMater deathPlace leaderName compete_in
+almaMater compete_in deathPlace leaderName
+birthPlace almaMater affiliations
+birthPlace almaMater affiliations
+almaMater affiliations deathPlace deathDate
+occupation birthPlace almaMater affiliations
+birthPlace almaMater affiliations occupation
+status almaMater compete_in affiliations
+almaMater affiliations compete_in status
+almaMater affiliations compete_in president
+almaMater compete_in affiliation mascot
+nationality birthDate deathPlace deathDate
+nationality birthDate deathDate deathPlace
+nationality birthDate deathPlace deathDate
+status occupation birthPlace birthDate
+occupation birthDate deathPlace
+birthDate occupation deathPlace
+birthDate deathPlace
+birthPlace nationality deathPlace
+nationality birthPlace deathPlace
+occupation birthPlace deathPlace
+birthPlace occupation status
+awards birthPlace bird higher
+birthPlace bird awards higher
+occupation birthPlace birthDate almaMater
+birthPlace birthDate occupation almaMater
+birthDate birthPlace occupation was_a_crew_member_of
+birthPlace birthDate was_a_crew_member_of occupation
+nationality birthPlace birthDate dateOfRetirement
+birthPlace birthDate nationality dateOfRetirement
+birthDate birthPlace nationality dateOfRetirement
+nationality birthPlace almaMater dateOfRetirement
+birthPlace nationality almaMater dateOfRetirement
+nationality birthPlace almaMater dateOfRetirement
+birthPlace occupation almaMater dateOfRetirement
+birthPlace almaMater occupation dateOfRetirement
+birthPlace almaMater occupation dateOfRetirement
+birthPlace was_a_crew_member_of occupation dateOfRetirement
+birthPlace was_a_crew_member_of crewMembers dateOfRetirement
+birthPlace was_a_crew_member_of crewMembers dateOfRetirement
+birthPlace was_selected_by_NASA almaMater dateOfRetirement
+was_a_crew_member_of birthPlace was_selected_by_NASA dateOfRetirement
+birthPlace was_a_crew_member_of was_selected_by_NASA dateOfRetirement
+was_a_crew_member_of was_selected_by_NASA dateOfRetirement
+occupation status was_a_crew_member_of crewMembers
+status occupation was_a_crew_member_of crewMembers
+status occupation was_a_crew_member_of crewMembers
+was_a_crew_member_of operator backup_pilot
+was_a_crew_member_of operator crewMembers backup_pilot
+nationality was_a_crew_member_of crewMembers operator
+nationality was_a_crew_member_of operator crewMembers
+birthPlace birthDate was_selected_by_NASA was_a_crew_member_of
+was_a_crew_member_of was_selected_by_NASA birthPlace birthDate
+birthPlace birthDate was_selected_by_NASA occupation
+birthPlace birthDate occupation was_selected_by_NASA
+nationality birthPlace occupation was_selected_by_NASA
+location completionDate architect floorCount
+location architect floorCount completionDate
+location floorCount architect completionDate
+architect floorCount completionDate
+architect completionDate floorCount location
+architect birthPlace location architecturalStyle
+architecturalStyle architect birthPlace
+birthPlace location architect architecturalStyle
+location architect birthPlace architecturalStyle
+location architect birthPlace architecturalStyle
+location architecturalStyle architect birthPlace
+birthPlace architect completionDate location
+location architect birthPlace completionDate
+birthPlace architect completionDate
+birthPlace architect completionDate
+completionDate location architect birthPlace
+birthPlace architect floorCount location
+birthPlace architect location floorCount
+birthPlace architect location floorCount
+floorCount location architect birthPlace
+floorCount architect birthPlace location
+floorCount buildingStartDate completionDate location
+location floorCount buildingStartDate completionDate
+architect location floorCount completionDate
+location completionDate floorCount architect
+location architect floorCount completionDate
+floorArea floorCount completionDate cost
+completionDate floorCount floorArea cost
+completionDate floorArea floorCount cost
+location country completionDate floorCount
+location country floorCount completionDate
+location country completionDate floorCount
+cost location floorCount
+location country floorCount cost
+location country floorCount cost
+buildingStartDate completionDate floorCount architect
+architect buildingStartDate completionDate floorCount
+
+architect completionDate floorCount floorArea
+architect completionDate floorCount floorArea
+architect completionDate floorCount floorArea
+architect owner completionDate floorCount
+owner architect completionDate floorCount
+floorCount architect completionDate owner
+location capital ethnicGroup ethnicGroup
+ethnicGroup capital ethnicGroup location
+location capital ethnicGroup ethnicGroup
+location capital leaderName ethnicGroup
+capital ethnicGroup leaderName location
+location capital ethnicGroup leaderName
+location capital leaderName ethnicGroup
+location capital leaderName ethnicGroup
+location capital leaderName ethnicGroup
+leaderName ethnicGroup capital location
+location leaderName capital ethnicGroup
+location leaderName capital ethnicGroup
+location capital leaderName ethnicGroup
+location leaderName capital ethnicGroup
+location capital leaderName leaderName
+location capital leaderName leaderName
+leaderName leaderName capital location
+location leaderName leaderName ethnicGroup
+leaderName leaderName location ethnicGroup
+leaderName leaderName ethnicGroup location
+location leaderName leaderName ethnicGroup
+location ethnicGroup leaderName leaderName
+location leaderName leaderName ethnicGroup
+leaderName leaderName location ethnicGroup
+completionDate floorCount floorArea location
+location completionDate floorCount floorArea
+location floorCount floorArea completionDate
+location floorCount floorArea completionDate
+completionDate location floorCount floorArea
+floorCount floorArea location completionDate
+location floorCount floorArea completionDate
+completionDate floorCount floorArea location
+floorCount location isPartOf country
+location floorCount isPartOf country
+floorCount location isPartOf country
+floorCount location isPartOf country
+floorCount location isPartOf country
+floorCount location isPartOf country
+location isPartOf isPartOf country
+location isPartOf isPartOf country
+location country isPartOf isPartOf
+location country isPartOf leaderName
+isPartOf country leaderName location
+location isPartOf isPartOf leaderName
+location isPartOf leaderName isPartOf
+location isPartOf country governingBody
+location isPartOf country governingBody
+governingBody isPartOf country location
+location country leaderName governingBody
+location country leaderName governingBody
+location country leaderName governingBody
+location isPartOf country leaderName
+location isPartOf country leaderName
+location isPartOf country leaderName
+floorArea floorCount location completionDate
+completionDate floorCount floorArea location
+completionDate location floorCount floorArea
+buildingStartDate completionDate floorCount floorArea
+buildingStartDate completionDate floorCount floorArea
+floorCount floorArea buildingStartDate completionDate
+architect location leaderTitle leaderName
+leaderName leaderTitle location architect
+location architect leaderName leaderTitle
+floorCount location leaderName leaderTitle
+leaderName location floorCount leaderTitle
+architect location leaderTitle leaderName
+location architect leaderName leaderTitle
+architect location leaderName leaderTitle
+location floorCount leaderName leaderTitle
+leaderName location floorCount leaderTitle
+location floorCount leaderTitle leaderName
+location capital leaderTitle leaderName
+capital leaderTitle leaderName location
+leaderName capital leaderTitle location
+capital leaderTitle leaderName location
+location capital leaderTitle leaderName
+leaderName location demonym currency
+demonym currency leaderName location
+cost floorArea floorCount buildingStartDate
+buildingStartDate floorCount floorArea cost
+buildingStartDate cost floorArea floorCount
+location floorCount floorArea buildingStartDate
+buildingStartDate location floorArea floorCount
+leaderName isPartOf isPartOf location
+location isPartOf isPartOf leaderName
+location isPartOf isPartOf leaderName
+location floorCount floorArea buildingStartDate
+location buildingStartDate floorCount floorArea
+location buildingStartDate floorArea floorCount
+location cost floorCount floorArea
+cost location floorCount floorArea
+location floorCount floorArea cost
+architect location floorCount completionDate
+location floorCount architect completionDate
+location completionDate floorCount architect
+location floorCount floorArea completionDate
+location floorArea completionDate floorCount
+location floorCount floorArea completionDate
+leaderName isPartOf country location
+location isPartOf country leaderName
+location isPartOf country language
+location isPartOf country leaderName
+location isPartOf country leaderName
+location isPartOf country leaderName
+location isPartOf country leaderName
+location isPartOf country leaderName
+location isPartOf country leaderName
+location isPartOf country leaderName
+leaderName isPartOf country location
+leaderName isPartOf country location
+location isPartOf country leaderName
+location isPartOf country leaderName
+location leaderName isPartOf country
+location isPartOf country leaderName
+leaderName isPartOf country location
+location isPartOf country leaderName
+location isPartOf language
+location isPartOf country language
+location isPartOf language country
+architect location completionDate floorCount
+location floorCount architect completionDate
+architect location completionDate floorCount
+formerName height floorCount completionDate
+formerName completionDate floorCount height
+formerName completionDate height floorCount
+architect height buildingType completionDate
+height buildingType architect completionDate
+height architect completionDate buildingType
+location isPartOf country owner
+location isPartOf country owner
+owner location isPartOf country
+owner location country leaderTitle
+owner location country leaderTitle
+location isPartOf owner leaderName
+owner location isPartOf leaderName
+location country owner leaderTitle
+location country leaderTitle owner
+location tenant foundationPlace keyPerson
+location tenant architect floorCount
+floorCount architect tenant location
+floorCount location tenant architect
+foundationPlace tenant location language
+location tenant foundationPlace language
+foundationPlace tenant location language
+language location tenant foundationPlace
+foundationPlace tenant location language
+location tenant foundationPlace language
+location leaderName tenant foundationPlace
+foundationPlace tenant location leaderName
+tenant location foundationPlace leaderName
+foundationPlace keyPerson tenant location
+keyPerson foundationPlace tenant location
+foundationPlace keyPerson tenant location
+leaderName location tenant foundationPlace
+foundationPlace tenant location leaderName
+floorCount numberOfRooms owner tenant
+floorCount numberOfRooms owner tenant
+tenant floorCount numberOfRooms owner
+owner floorCount location tenant
+tenant location owner floorCount
+tenant location owner floorCount
+country leaderName language demonym
+country leaderName demonym language
+country language currency leaderName
+country language currency leaderName
+location isPartOf location governmentType
+location isPartOf location governmentType
+architect location location completionDate
+architect completionDate location location
+location location completionDate architect
+architect completionDate location location
+location location architect completionDate
+completionDate location location architect
+completionDate architect location location
+location location completionDate architect
+architect completionDate location location
+architect location location completionDate
+location location architect completionDate
+location location completionDate architect
+architect completionDate location location
+location location architect completionDate
+location location completionDate architect
+architect location location completionDate
+architect completionDate location location
+architect location completionDate
+country language
+location isPartOf country language
+isPartOf location country language
+isPartOf location country language
+isPartOf location country language
+country language isPartOf location
+completionDate height floorArea currentTenants
+completionDate height floorArea currentTenants
+completionDate height floorArea currentTenants
+completionDate height buildingStartDate floorArea
+floorArea height buildingStartDate completionDate
+buildingStartDate height floorArea currentTenants
+height floorArea buildingStartDate currentTenants
+completionDate buildingStartDate location architecturalStyle
+buildingStartDate completionDate location architecturalStyle
+buildingStartDate completionDate location architecturalStyle
+location architecturalStyle buildingStartDate completionDate
+location buildingStartDate completionDate architecturalStyle
+location architecturalStyle buildingStartDate completionDate
+location architecturalStyle buildingStartDate completionDate
+location architecturalStyle buildingStartDate completionDate
+capital leaderName country location
+leaderName capital country location
+location country language leaderName
+location country leaderName language
+location country capital language
+language capital country location
+location country capital language
+location country leaderName capital
+location country capital leaderName
+location country leaderName capital
+location country leaderName language
+location country leaderName language
+location country leaderName language
+architecturalStyle buildingStartDate completionDate location
+location buildingStartDate completionDate architecturalStyle
+location location country floorCount
+country floorCount location location
+location isPartOf ethnicGroup country
+location isPartOf country ethnicGroup
+isPartOf ethnicGroup location country
+location isPartOf country ethnicGroup
+country ethnicGroup location isPartOf
+location country isPartOf ethnicGroup
+location isPartOf country ethnicGroup
+location isPartOf country ethnicGroup
+ethnicGroup country location isPartOf
+ethnicGroup country location isPartOf
+architect location location country
+location location country architect
+location location country architect
+location location country ethnicGroup
+ethnicGroup country location location
+address floorCount floorArea inaugurationDate
+address floorCount floorArea inaugurationDate
+location isPartOf country ethnicGroup
+location isPartOf country ethnicGroup
+location isPartOf country ethnicGroup
+location isPartOf country ethnicGroup
+location isPartOf country ethnicGroup
+location isPartOf country ethnicGroup
+location isPartOf country ethnicGroup
+location isPartOf country ethnicGroup
+location location country ethnicGroup
+location ethnicGroup
+location location country ethnicGroup
+completionDate address currentTenants country
+country currentTenants completionDate address
+address completionDate currentTenants country
+architecturalStyle architect currentTenants country
+country currentTenants architect architecturalStyle
+currentTenants country architecturalStyle architect
+currentTenants country architect completionDate
+country currentTenants completionDate architect
+currentTenants country architect completionDate
+currentTenants location country architect
+architect location country currentTenants
+completionDate location country currentTenants
+currentTenants completionDate location country
+currentTenants completionDate location country
+owner architect location completionDate
+location architect completionDate owner
+location architect completionDate owner
+owner completionDate address location
+completionDate owner address location
+owner address location completionDate
+country currentTenants location owner
+location owner currentTenants country
+currentTenants owner location country
+owner currentTenants location country
+location country owner currentTenants
+location architect completionDate owner
+location owner architect completionDate
+country currentTenants location owner
+owner location currentTenants country
+tenant country owner chancellor
+chancellor owner tenant country
+tenant country owner chancellor
+country currentTenants owner chancellor
+chancellor owner currentTenants country
+chancellor owner currentTenants country
+location location country leaderName
+location location country leaderName
+location location country leaderName
+location completionDate location country
+location location country completionDate
+location location country completionDate
+location location country architect
+location architect country
+architect location location country
+location location country leaderName
+location location country leaderName
+location location country leaderName
+location location country leaderName
+leaderName location location country
+location location country leaderName
+location location leaderName leaderTitle
+location location leaderTitle leaderName
+leaderTitle location location
+region state country bedCount
+region state country bedCount
+bedCount region state country
+region state country
+region state country
+location region state country
+region state country leaderName
+region state country leaderName
+leaderName state country
+state country governingBody leaderName
+state country governingBody leaderName
+state country leaderName governingBody
+state country capital leaderName
+state country leaderName capital
+state country leaderName capital
+state country leaderName currency
+state country currency leaderName
+region country leaderName capital
+region country capital leaderName
+leaderName country region state
+region state country leaderName
+region state country leaderName
+country leaderName state governingBody
+state country governingBody leaderName
+state country leaderName governingBody
+state leaderName country leaderName
+state country leaderName leaderName
+country state leaderName leaderName
+state country capital leaderName
+state country leaderName capital
+leaderName capital country currency
+country leaderName currency capital
+country leaderName currency capital
+location yearOfConstruction added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+yearOfConstruction location added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+location yearOfConstruction added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+location yearOfConstruction added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+yearOfConstruction location added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+yearOfConstruction location added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+birthPlace significantBuilding significantBuilding architect
+birthPlace architect significantBuilding significantBuilding
+birthPlace architect significantBuilding significantBuilding
+birthPlace architect significantBuilding significantBuilding
+birthPlace significantBuilding architect significantBuilding
+birthPlace architect significantBuilding significantBuilding
+birthPlace architect significantBuilding significantBuilding
+birthPlace architect significantBuilding significantBuilding
+birthPlace architect significantBuilding significantBuilding
+architect birthPlace significantBuilding significantBuilding
+birthPlace significantBuilding architect significantBuilding
+architect birthPlace significantBuilding significantBuilding
+birthPlace architect significantBuilding significantBuilding
+birthPlace architect significantBuilding significantBuilding
+architect birthPlace significantBuilding significantBuilding
+birthPlace significantBuilding significantBuilding architect
+architect birthPlace significantBuilding significantBuilding
+birthPlace significantBuilding significantBuilding architect
+birthPlace significantBuilding architect significantBuilding
+birthPlace significantBuilding architect significantBuilding
+birthPlace architect significantBuilding significantBuilding
+architecture ReferenceNumber_in_the_National_Register_of_Historic_Places yearOfConstruction location
+yearOfConstruction location ReferenceNumber_in_the_National_Register_of_Historic_Places architecture
+yearOfConstruction architecture location ReferenceNumber_in_the_National_Register_of_Historic_Places
+location yearOfConstruction added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+yearOfConstruction location added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+location yearOfConstruction added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+location yearOfConstruction architecture added_to_the_National_Register_of_Historic_Places
+location yearOfConstruction added_to_the_National_Register_of_Historic_Places
+location yearOfConstruction architecture added_to_the_National_Register_of_Historic_Places
+location yearOfConstruction ReferenceNumber_in_the_National_Register_of_Historic_Places architecture
+yearOfConstruction location architecture ReferenceNumber_in_the_National_Register_of_Historic_Places
+location yearOfConstruction architecture ReferenceNumber_in_the_National_Register_of_Historic_Places
+location yearOfConstruction added_to_the_National_Register_of_Historic_Places architecture
+yearOfConstruction location architecture added_to_the_National_Register_of_Historic_Places
+location yearOfConstruction architecture added_to_the_National_Register_of_Historic_Places
+location yearOfConstruction added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+yearOfConstruction location added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+yearOfConstruction location added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+yearOfConstruction location added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+location yearOfConstruction added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+location yearOfConstruction added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+yearOfConstruction location added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+location yearOfConstruction added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+yearOfConstruction location added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+yearOfConstruction added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places location
+yearOfConstruction location added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+location isPartOf isPartOf leaderName
+location isPartOf leaderName isPartOf
+location isPartOf isPartOf country
+location isPartOf isPartOf country
+leaderName isPartOf country location
+location isPartOf country leaderName
+location isPartOf country leaderName
+location country isPartOf isPartOf
+location isPartOf isPartOf country
+location isPartOf country isPartOf
+location country isPartOf isPartOf
+location country isPartOf isPartOf
+location isPartOf country isPartOf
+isPartOf location isPartOf country
+location isPartOf country
+location isPartOf isPartOf country
+location isPartOf country isPartOf
+architect birthPlace postalCode leaderName
+birthPlace architect postalCode leaderName
+architect hometown leaderName postalCode
+architect hometown postalCode leaderName
+postalCode leaderName birthPlace architect
+architect birthPlace postalCode leaderName
+architect birthPlace leaderName postalCode
+architect birthPlace leaderName postalCode
+leaderName postalCode hometown architect
+postalCode leaderName hometown architect
+architect hometown postalCode leaderName
+leaderName postalCode birthPlace architect
+postalCode leaderName birthPlace architect
+architect birthPlace postalCode leaderName
+postalCode leaderName hometown architect
+architect hometown postalCode leaderName
+hometown architect
+country leaderName location isPartOf
+location country isPartOf leaderName
+leaderName country location isPartOf
+country leaderName location isPartOf
+isPartOf location country leaderName
+isPartOf location country leaderName
+leaderName language country location
+location country leaderName language
+isPartOf location country leaderName
+isPartOf location country leaderName
+country leaderName location isPartOf
+location country language leaderName
+leaderName language country location
+leaderName language country location
+location country leaderName leaderName
+location country leaderName leaderName
+leaderName leaderName country location
+leaderName leaderName country location
+location country leaderName leaderName
+leaderName location country leaderName
+location country leaderName leaderName
+location country leaderName leaderName
+leaderName leaderName country location
+location country leaderName leaderName
+location country leaderName leaderName
+location country leaderName leaderName
+leaderName leaderName country location
+location country leaderName leaderName
+location country leaderName leaderName
+location country leaderName leaderName
+leaderName leaderName country location
+ethnicGroup location
+location location country ethnicGroup
+ethnicGroup country location location
+location location country ethnicGroup
+location location country ethnicGroup
+ethnicGroup location country location
+keyPerson foundationPlace location tenant
+keyPerson foundationPlace location tenant
+country leaderName currency language
+country leaderName currency language
+currency language leaderName country
+country leaderName language demonym
+
+capital leaderTitle leaderName location
+capital leaderTitle leaderName location
+capital location leaderTitle leaderName
+capital leaderTitle leaderName location
+leaderName leaderTitle capital location
+location leaderTitle leaderName ethnicGroup
+location leaderName leaderTitle ethnicGroup
+leaderTitle leaderName ethnicGroup location
+language leaderTitle leaderName location
+leaderTitle language leaderName location
+leaderTitle leaderName language location
+location language leaderName leaderTitle
+leaderName leaderTitle language location
+location ethnicGroup leaderTitle leaderName
+location ethnicGroup leaderTitle leaderName
+leaderName location leaderTitle
+ethnicGroup leaderTitle leaderName location
+leaderName leaderName leaderTitle location
+location leaderTitle leaderName leaderName
+leaderTitle location leaderName leaderName
+leaderName leaderTitle leaderName location
+leaderTitle leaderName leaderName location
+leaderTitle leaderName leaderName location
+leaderName leaderTitle location ethnicGroup
+leaderTitle leaderName ethnicGroup location
+leaderName leaderTitle leaderName location
+leaderTitle leaderName leaderName location
+alternativeName creator creator award
+award creator creator alternativeName
+alternativeName creator creator award
+creator creator nationality
+alternativeName creator nationality creator
+alternativeName creator creator nationality
+locationCity keyPerson broadcastedBy product
+locationCity keyPerson broadcastedBy product
+creator creator nationality alternativeName
+alternativeName creator creator nationality
+alternativeName creator creator nationality
+foundedBy locationCity broadcastedBy product
+foundedBy locationCity product broadcastedBy
+foundedBy locationCity product broadcastedBy
+foundedBy locationCity broadcastedBy product
+broadcastedBy foundedBy locationCity product
+starring creator broadcastedBy firstAired
+creator starring broadcastedBy firstAired
+broadcastedBy firstAired creator starring
+creator broadcastedBy firstAired starring
+firstAired broadcastedBy creator starring
+creator broadcastedBy firstAired starring
+creator starring broadcastedBy firstAired
+broadcastedBy firstAired creator starring
+starring creator broadcastedBy firstAired
+birthPlace starring broadcastedBy locationCity
+birthPlace starring broadcastedBy locationCity
+starring birthPlace broadcastedBy locationCity
+birthPlace starring broadcastedBy locationCity
+birthPlace starring broadcastedBy locationCity
+broadcastedBy starring birthPlace locationCity
+birthPlace starring broadcastedBy locationCity
+broadcastedBy locationCity starring birthPlace
+locationCity broadcastedBy starring birthPlace
+starring birthPlace broadcastedBy locationCity
+birthPlace starring broadcastedBy locationCity
+birthPlace starring broadcastedBy locationCity
+locationCity broadcastedBy starring birthPlace
+starring creator broadcastedBy firstAired
+firstAired broadcastedBy starring creator
+creator starring firstAired broadcastedBy
+creator starring firstAired broadcastedBy
+creator broadcastedBy firstAired starring
+starring creator broadcastedBy firstAired
+firstAppearanceInFilm voice creator creator
+creator creator firstAppearanceInFilm voice
+voice creator creator firstAppearanceInFilm
+creator creator nationality firstAppearanceInFilm
+firstAppearanceInFilm creator creator nationality
+firstAppearanceInFilm creator nationality creator
+creator creator series
+series firstAppearanceInFilm creator creator
+creator creator series
+series creator creator voice
+creator creator series voice
+creator creator series voice
+alternativeName creator creator nationality
+alternativeName creator creator nationality
+alternativeName creator creator nationality
+series creator nationality creator
+series creator creator nationality
+creator creator nationality series
+creator creator nationality voice
+voice creator creator nationality
+voice creator creator nationality
+series starring creator nationality
+series starring creator nationality
+nationality creator series starring
+starring series creator nationality
+nationality creator series starring
+nationality creator series starring
+fullName creator creator nationality
+creator creator nationality
+nationality creator creator
+fullName creator creator nationality
+fullName creator creator nationality
+nationality creator creator fullName
+fullName creator creator nationality
+fullName creator creator nationality
+fullName creator creator nationality
+alternativeName creator creator nationality
+alternativeName creator creator nationality
+alternativeName creator creator nationality
+nationality creator creator alternativeName
+alternativeName creator creator nationality
+alternativeName creator creator nationality
+alternativeName creator creator nationality
+nationality creator creator alternativeName
+nationality creator creator alternativeName
+alternativeName creator creator nationality
+nationality creator creator alternativeName
+nationality creator creator fullName
+nationality creator creator fullName
+fullName creator creator nationality
+alternativeName creator award nationality
+nationality award creator alternativeName
+alternativeName creator nationality award
+region country mainIngredients
+region country mainIngredients
+region country mainIngredients
+region country mainIngredients
+country region mainIngredients
+mainIngredients region country
+mainIngredients region country
+country region mainIngredients
+region country ingredient mainIngredients
+ingredient alternativeName region country
+alternativeName region country ingredient
+region country ingredient alternativeName
+alternativeName region country
+alternativeName country ingredient
+alternativeName region country ingredient
+country region ingredient alternativeName
+alternativeName region country ingredient
+region country mainIngredients
+region country mainIngredients
+region country ingredient alternativeName
+region country alternativeName ingredient
+region country ingredient alternativeName
+ingredient region country leaderName
+ingredient family division order
+ingredient division family order
+family order division ingredient
+ingredient family order division
+ingredient order family division
+ingredient family order order
+ingredient family order order
+ingredient family order order
+ingredient region country leaderName
+ingredient region country leaderName
+region country leaderName ethnicGroup
+region country leaderName ethnicGroup
+region country leaderName ethnicGroup
+region country ingredient leaderName
+region country ingredient leaderName
+region country mainIngredients
+region country mainIngredients
+country region mainIngredients
+mainIngredients region country
+country region ingredient mainIngredients
+region country mainIngredients
+region country mainIngredients
+country region ingredient family
+family ingredient region country
+region country ingredient family
+region mainIngredients
+region mainIngredients
+region mainIngredients
+mainIngredients region country
+region country mainIngredients
+region country mainIngredients
+leaderName language country region
+region country leaderName
+region country leaderName language
+region country language leaderName
+country region leaderName language
+region country leaderName language
+leaderName leaderName country region
+country region leaderName leaderName
+region country leaderName leaderName
+region country leaderName leaderName
+region country leaderName leaderName
+region country leaderName leaderName
+region country language leaderName
+region country leaderName language
+region country leaderName language
+region country leaderName language
+dishVariation region mainIngredients
+mainIngredients region dishVariation
+dishVariation region mainIngredients
+course region mainIngredients
+region course mainIngredients
+dishVariation region mainIngredients
+mainIngredients region dishVariation
+region mainIngredients dishVariation
+region course mainIngredients
+region course mainIngredients
+course mainIngredients
+country capital leaderName language
+demonym country capital leaderName
+leaderName demonym capital country
+country leaderName demonym capital
+country language capital leaderName
+capital language leaderName country
+country capital leaderName demonym
+country capital demonym leaderName
+country leaderName capital demonym
+region country mainIngredients
+region country mainIngredients
+ingredient division order family
+ingredient division family order
+ingredient division order family
+mainIngredients region country
+region country mainIngredients
+mainIngredients region country
+region country mainIngredients
+region country mainIngredients
+mainIngredients region country
+region country mainIngredients
+region country ethnicGroup leaderName
+region country leaderName leaderName
+region country leaderName leaderName
+country leaderName
+region country mainIngredients
+region country mainIngredients
+region country mainIngredients
+region country mainIngredients
+mainIngredients region country
+mainIngredients country region
+country region mainIngredients
+country region mainIngredients
+mainIngredients region country
+country region mainIngredients
+country region mainIngredients
+region country mainIngredients
+country ethnicGroup region leaderName
+region country leaderName ethnicGroup
+region country leaderName ethnicGroup
+region country leaderName ethnicGroup
+region country leaderName ethnicGroup
+country region leaderName ethnicGroup
+country leaderName region leaderName
+region leaderName country leaderName
+region country leaderName leaderName
+country region ethnicGroup ethnicGroup
+country region ethnicGroup ethnicGroup
+region country ethnicGroup ethnicGroup
+region country ethnicGroup ethnicGroup
+region country ethnicGroup ethnicGroup
+country ethnicGroup region ethnicGroup
+region country ethnicGroup ethnicGroup
+ethnicGroup ethnicGroup country region
+ethnicGroup ethnicGroup country region
+country region ethnicGroup ethnicGroup
+region country ethnicGroup ethnicGroup
+country ethnicGroup ethnicGroup region
+country region ethnicGroup ethnicGroup
+country region ethnicGroup ethnicGroup
+country region ethnicGroup ethnicGroup
+region country ethnicGroup ethnicGroup
+region country ethnicGroup
+country region ethnicGroup
+region ethnicGroup country ethnicGroup
+region ethnicGroup country ethnicGroup
+region ethnicGroup country ethnicGroup
+country region ethnicGroup ethnicGroup
+region country ethnicGroup ethnicGroup
+country region ethnicGroup ethnicGroup
+ingredient region country ethnicGroup
+ingredient region country ethnicGroup
+ingredient country region ethnicGroup
+ingredient country ethnicGroup region
+ingredient region country ethnicGroup
+ingredient region country ethnicGroup
+ingredient region country ethnicGroup
+region mainIngredients
+region mainIngredients
+region mainIngredients
+ingredient region mainIngredients
+mainIngredients region
+region country ingredient mainIngredients
+region country mainIngredients ingredient
+mainIngredients region country
+region country ingredient
+region country mainIngredients
+country region mainIngredients
+ingredient region country ethnicGroup
+ingredient region country ethnicGroup
+ingredient country ethnicGroup region
+ingredient region country ethnicGroup
+ingredient region country ethnicGroup
+ingredient region country ethnicGroup
+ingredient region country ethnicGroup
+ingredient region country ethnicGroup
+ingredient region country ethnicGroup
+ingredient country region ethnicGroup
+country region ingredient ethnicGroup
+ingredient region country ethnicGroup
+country ingredient region ethnicGroup
+country region ingredient mainIngredients
+region country mainIngredients
+region country mainIngredients
+region country mainIngredients ingredient
+ingredient country region mainIngredients
+ingredient country region mainIngredients
+dishVariation dishVariation country ingredient
+ingredient dishVariation country dishVariation
+dishVariation dishVariation ingredient country
+country ingredient dishVariation dishVariation
+country ingredient dishVariation dishVariation
+country ingredient dishVariation dishVariation
+ingredient country dishVariation dishVariation
+country ingredient dishVariation dishVariation
+country ingredient dishVariation dishVariation
+country dishVariation dishVariation ingredient
+country dishVariation ingredient dishVariation
+country dishVariation dishVariation ingredient
+country course ingredient mainIngredients
+course country ingredient mainIngredients
+region country mainIngredients ingredient
+country course mainIngredients ingredient
+country course mainIngredients ingredient
+country mainIngredients
+country mainIngredients
+country mainIngredients
+region country mainIngredients
+mainIngredients region country
+mainIngredients country
+country mainIngredients
+country mainIngredients
+mainIngredients region country
+region country mainIngredients
+region country mainIngredients
+leaderName capital ethnicGroup country
+country leaderName capital ethnicGroup
+country leaderName ethnicGroup capital
+country capital leaderName ethnicGroup
+country leaderName capital ethnicGroup
+country leaderName ethnicGroup capital
+country leaderName ethnicGroup capital
+country capital leaderName ethnicGroup
+country leaderName capital ethnicGroup
+country leaderName capital ethnicGroup
+country leaderName capital ethnicGroup
+capital leaderName ethnicGroup country
+country leaderName ethnicGroup capital
+country leaderName capital ethnicGroup
+country leaderName capital ethnicGroup
+country leaderName capital ethnicGroup
+country leaderName capital ethnicGroup
+country leaderName ethnicGroup capital
+country leaderName capital ethnicGroup
+country ethnicGroup leaderName capital
+country capital leaderName ethnicGroup
+country leaderName capital ethnicGroup
+leaderName capital country ethnicGroup
+leaderName capital ethnicGroup country
+leaderName capital ethnicGroup country
+country leaderName ethnicGroup capital
+region mainIngredients
+region mainIngredients
+region mainIngredients
+region mainIngredients
+mainIngredients region
+region mainIngredients
+capital country dishVariation dishVariation
+country capital dishVariation dishVariation
+capital country dishVariation dishVariation
+country language dishVariation dishVariation
+country language dishVariation dishVariation
+country language dishVariation dishVariation
+leaderName country dishVariation dishVariation
+country leaderName dishVariation dishVariation
+country leaderName dishVariation dishVariation
+country ingredient dishVariation dishVariation
+ingredient country dishVariation dishVariation
+ingredient country dishVariation dishVariation
+country ingredient dishVariation dishVariation
+country ingredient dishVariation dishVariation
+dishVariation dishVariation ingredient country
+country alternativeName ingredient dishVariation
+country dishVariation ingredient alternativeName
+dishVariation ingredient country alternativeName
+country dishVariation ingredient alternativeName
+dishVariation country ingredient alternativeName
+country dishVariation alternativeName ingredient
+country ingredient dishVariation alternativeName
+ingredient alternativeName country dishVariation
+leaderName country dishVariation dishVariation
+country mainIngredients alternativeName
+alternativeName country mainIngredients
+country alternativeName mainIngredients
+country mainIngredients alternativeName
+country mainIngredients alternativeName
+country mainIngredients alternativeName
+country alternativeName mainIngredients
+country alternativeName mainIngredients
+country mainIngredients ingredient alternativeName
+country leaderName leaderName region
+region country leaderName leaderName
+region country leaderName leaderName
+leaderName leaderName country region
+region country leaderName leaderName
+region country leaderName leaderName
+country region leaderName leaderName
+country region leaderName leaderName
+leaderName country region leaderName
+country leaderName region leaderName
+region country leaderName leaderName
+country language course dishVariation
+dishVariation course country language
+country leaderName dishVariation course
+course country dishVariation leaderName
+dishVariation course country leaderName
+course country leaderName dishVariation
+dishVariation course country leaderName
+dishVariation course country leaderName
+dishVariation course country language
+country course dishVariation language
+course dishVariation country language
+course dishVariation country leaderName
+dishVariation course country leaderName
+course dishVariation country leaderName
+country course dishVariation leaderName
+course country leaderName dishVariation
+course dishVariation country leaderName
+dishVariation course country ethnicGroup
+dishVariation course country ethnicGroup
+dishVariation course country ethnicGroup
+course country ethnicGroup dishVariation
+dishVariation course country ethnicGroup
+course dishVariation country ethnicGroup
+country course ethnicGroup dishVariation
+country course dishVariation ethnicGroup
+country region mainIngredients
+country mainIngredients region
+mainIngredients region country
+country region mainIngredients
+region country mainIngredients
+country region mainIngredients
+region mainIngredients
+mainIngredients region country
+region country mainIngredients
+mainIngredients country region
+country mainIngredients
+ingredient mainIngredients country
+region country mainIngredients
+region country mainIngredients
+country region mainIngredients
+mainIngredients region country
+mainIngredients region country
+mainIngredients region country
+region country mainIngredients ingredient
+region country mainIngredients
+region country mainIngredients
+region country mainIngredients
+region country mainIngredients
+dishVariation region isPartOf ingredient
+ingredient region isPartOf dishVariation
+dishVariation region isPartOf ingredient
+course creator region mainIngredients
+course region creator mainIngredients
+course creator region mainIngredients
+servingTemperature region mainIngredients dishVariation
+dishVariation region mainIngredients servingTemperature
+region isPartOf dishVariation ingredient
+dishVariation region isPartOf ingredient
+ingredient dishVariation region isPartOf
+course region served mainIngredients
+region mainIngredients served
+course served region mainIngredients
+creator region mainIngredients servingTemperature
+creator region mainIngredients servingTemperature
+region mainIngredients servingTemperature creator
+region mainIngredients servingTemperature
+region served mainIngredients
+course mainIngredients region servingTemperature
+servingTemperature course region mainIngredients
+course servingTemperature mainIngredients region
+ingredient dishVariation region leaderName
+region leaderName dishVariation ingredient
+ingredient dishVariation region leaderName
+dishVariation ingredient region leaderName
+ingredient dishVariation region leaderName
+region leaderName dishVariation ingredient
+dishVariation region leaderName ingredient
+course creator mainIngredients servingTemperature
+course servingTemperature creator mainIngredients
+course servingTemperature creator mainIngredients
+country region mainIngredients
+country region mainIngredients
+country region mainIngredients
+region mainIngredients ingredient
+country ingredient mainIngredients region
+country region mainIngredients
+region country mainIngredients
+region mainIngredients
+mainIngredients region
+country region mainIngredients
+country region mainIngredients
+region country mainIngredients
+region mainIngredients
+mainIngredients region
+region country mainIngredients
+country region mainIngredients
+country region mainIngredients
+country region mainIngredients
+region mainIngredients
+region mainIngredients country ingredient
+region country mainIngredients
+country region ingredient family
+family ingredient country region
+region country ingredient family
+country ingredient family region
+region country ingredient family
+country region mainIngredients
+region country mainIngredients
+region country mainIngredients
+country region mainIngredients
+region country mainIngredients
+region country mainIngredients
+country region mainIngredients
+country region mainIngredients
+ingredient country region mainIngredients
+country region mainIngredients
+region country mainIngredients
+family ingredient region
+region country ingredient family
+region country ingredient family
+region country ingredient genus
+country region ingredient genus
+genus ingredient region country
+region country mainIngredients
+region country mainIngredients
+country region mainIngredients
+region country mainIngredients
+country mainIngredients region
+country mainIngredients region
+family ingredient region country
+region country ingredient family
+family ingredient country region
+region country ingredient family
+family ingredient country region
+region country ingredient family
+region country mainIngredients
+region country mainIngredients
+mainIngredients country region
+mainIngredients country region
+mainIngredients country region
+region country mainIngredients
+region country mainIngredients
+region country mainIngredients
+country region mainIngredients
+region country mainIngredients
+region country mainIngredients
+region country mainIngredients
+mainIngredients region country
+country leaderName leaderName language
+country language leaderName leaderName
+country language leaderName leaderName
+country language leaderName leaderName
+country leaderName leaderName language
+country language leaderName leaderName
+country language leaderName leaderName
+country language leaderName leaderName
+language country leaderName leaderName
+country leaderName leaderName language
+country language leaderName leaderName
+country language leaderName leaderName
+country leaderName leaderName language
+country language leaderName leaderName
+dishVariation protein fat carbohydrate
+dishVariation protein carbohydrate fat
+dishVariation protein carbohydrate fat
+dishVariation protein fat carbohydrate
+dishVariation protein fat carbohydrate
+dishVariation protein carbohydrate fat
+protein fat carbohydrate dishVariation
+dishVariation protein fat carbohydrate
+dishVariation protein fat carbohydrate
+dishVariation protein carbohydrate fat
+country dishVariation dishVariation ingredient
+dishVariation country dishVariation ingredient
+country dishVariation dishVariation ingredient
+country dishVariation ingredient dishVariation
+country dishVariation dishVariation ingredient
+country dishVariation dishVariation ingredient
+country dishVariation dishVariation ingredient
+dishVariation country mainIngredients
+country dishVariation mainIngredients
+dishVariation country mainIngredients
+country mainIngredients servingTemperature
+mainIngredients servingTemperature country
+ingredient country dishVariation dishVariation
+dishVariation dishVariation ingredient country
+dishVariation dishVariation country ingredient
+country ingredient dishVariation
+dishVariation country ingredient
+dishVariation ingredient country
+country dishVariation ingredient dishVariation
+ingredient dishVariation country
+country dishVariation ingredient dishVariation
+country ingredient dishVariation
+ingredient dishVariation country
+country dishVariation dishVariation ingredient
+dishVariation dishVariation country ingredient
+dishVariation dishVariation ingredient country
+ingredient country dishVariation dishVariation
+ingredient dishVariation dishVariation country
+course country mainIngredients
+country mainIngredients
+mainIngredients course country
+country course mainIngredients
+course mainIngredients country
+course country mainIngredients
+course country mainIngredients
+course country mainIngredients
+course country mainIngredients
+region country mainIngredients
+region country mainIngredients
+region country mainIngredients
+country mainIngredients region
+region country mainIngredients
+region country mainIngredients
+region country mainIngredients
+region country mainIngredients
+country mainIngredients region
+region country mainIngredients
+region country mainIngredients
+region country mainIngredients
+region country mainIngredients
+region country mainIngredients
+mainIngredients country region
+country region mainIngredients
+mainIngredients country region
+country region mainIngredients
+country region mainIngredients
+country region mainIngredients
+region country leaderName language
+country region leaderName language
+region country leaderName language
+region country language leaderName
+language leaderName country region
+region country language leaderName
+region country mainIngredients
+region country mainIngredients
+region country mainIngredients
+country mainIngredients
+country mainIngredients
+country region mainIngredients
+region mainIngredients
+mainIngredients region
+region mainIngredients
+region mainIngredients ingredient country
+country region mainIngredients ingredient
+country mainIngredients ingredient
+region mainIngredients ingredient
+region country language leaderName
+country region leaderName language
+country region language leaderName
+country mainIngredients
+country mainIngredients
+country mainIngredients
+country mainIngredients
+region country mainIngredients
+country region language leaderName
+region country leaderName language
+country region language leaderName
+country region leaderName language
+language leaderName region country
+country region leaderName language
+country region leaderName
+country mainIngredients alternativeName
+alternativeName country mainIngredients
+alternativeName country mainIngredients
+country mainIngredients alternativeName
+country mainIngredients alternativeName
+country mainIngredients alternativeName
+ingredient alternativeName region country
+country region alternativeName ingredient
+region country ingredient
+region country mainIngredients
+region country mainIngredients
+region country mainIngredients
+country region mainIngredients
+region country mainIngredients
+country currency leaderName leaderName
+currency country leaderName leaderName
+leaderName leaderName country currency
+country currency leaderName leaderName
+country currency leaderName leaderName
+region country leaderName leaderName
+country region leaderName leaderName
+region country leaderName leaderName
+region country leaderName leaderName
+region country leaderName leaderName
+region country leaderName leaderName
+region country leaderName leaderName
+region country leaderName leaderName
+region country leaderName leaderName
+alternativeName region mainIngredients
+alternativeName region mainIngredients
+alternativeName region mainIngredients
+dishVariation course country ethnicGroup
+ethnicGroup country course dishVariation
+dishVariation course country ethnicGroup
+country course dishVariation ethnicGroup
+course dishVariation ingredient mainIngredients
+course mainIngredients ingredient dishVariation
+course ingredient mainIngredients dishVariation
+dishVariation course ingredient order
+dishVariation course ingredient order
+dishVariation course ingredient order
+ingredient mainIngredients region country
+region country ingredient mainIngredients
+region country ingredient mainIngredients
+region country ingredient mainIngredients
+ingredient mainIngredients region country
+ingredient mainIngredients region country
+region country mainIngredients ingredient
+ingredient mainIngredients region country
+region country ingredient mainIngredients
+region country mainIngredients ingredient
+mainIngredients ingredient division order
+order division ingredient mainIngredients
+mainIngredients ingredient order division
+division order ingredient mainIngredients
+ingredient mainIngredients order division
+division order ingredient mainIngredients
+mainIngredients ingredient division order
+division order ingredient mainIngredients
+region country mainIngredients ingredient
+mainIngredients ingredient region country
+mainIngredients ingredient country region
+course mainIngredients ingredient dishVariation
+ingredient mainIngredients course dishVariation
+ingredient mainIngredients course dishVariation
+region country mainIngredients ingredient
+mainIngredients ingredient region country
+mainIngredients ingredient region country
+order division mainIngredients ingredient
+mainIngredients ingredient order division
+ingredient mainIngredients division order
+mainIngredients division order ingredient
+ingredient mainIngredients order division
+ingredient mainIngredients order division
+ingredient mainIngredients division order
+ingredient mainIngredients order division
+mainIngredients division order ingredient
+mainIngredients division order ingredient
+region country ingredient mainIngredients
+region country ingredient mainIngredients
+region country ingredient mainIngredients
+region country ingredient mainIngredients
+region country mainIngredients ingredient
+region country mainIngredients ingredient
+region country mainIngredients ingredient
+ingredient mainIngredients region country
+region country course ingredient
+region country course ingredient
+ingredient course country region
+region country mainIngredients
+region country mainIngredients
+mainIngredients region country
+region country mainIngredients
+region country mainIngredients
+region country mainIngredients
+mainIngredients region country
+region country mainIngredients
+region country mainIngredients
+mainIngredients region country
+country mainIngredients region
+region country mainIngredients
+region country mainIngredients
+course country leaderName dishVariation
+course country leaderName dishVariation
+leaderName country course dishVariation
+course country leaderName dishVariation
+leaderName country course dishVariation
+course country leaderName dishVariation
+course country leaderName dishVariation
+course country leaderName dishVariation
+country course dishVariation leaderName
+course dishVariation country leaderName
+leaderName country course dishVariation
+dishVariation course country leaderName
+course country leaderName dishVariation
+course country leaderName dishVariation
+course country leaderName dishVariation
+course country leaderName dishVariation
+dishVariation course country leaderName
+course country dishVariation leaderName
+course dishVariation country leaderName
+course dishVariation country leaderName
+course country leaderName dishVariation
+course dishVariation country leaderName
+leaderName country course dishVariation
+course dishVariation country leaderName
+course dishVariation country leaderName
+leaderName ethnicGroup region country
+region country ethnicGroup leaderName
+region country leaderName ethnicGroup
+leaderName country region leaderName
+region country leaderName leaderName
+region country leaderName leaderName
+ingredient dishVariation region leaderName
+dishVariation region leaderName ingredient
+region leaderName dishVariation ingredient
+dishVariation region leaderName ingredient
+ingredient dishVariation region leaderName
+dishVariation region leaderName ingredient
+dishVariation region ingredient leaderName
+dishVariation region ingredient leaderName
+leaderName dishVariation region ingredient
+capital leaderName country region
+capital leaderName country region
+country region capital leaderName
+country region capital leaderName
+country region capital leaderName
+region leaderName capital
+region country leaderName capital
+region leaderName capital
+country region capital leaderName
+country region leaderName capital
+region capital leaderName
+region capital country leaderName
+country region language leaderName
+language leaderName region country
+country region leaderName language
+region country leaderName language
+region leaderName language
+leaderName language region country
+language leaderName region country
+region country leaderName language
+leaderName language region country
+leaderName language region
+region country leaderName language
+ingredient region country leaderName
+leaderName region ingredient
+region ingredient country leaderName
+leaderName country capital language
+country capital language leaderName
+country capital language leaderName
+capital leaderName language country
+country capital language leaderName
+country leaderName language capital
+country language capital leaderName
+country capital leaderName leaderName
+country capital leaderName leaderName
+leaderName leaderName capital country
+capital leaderName language country
+capital language country leaderName
+country language capital leaderName
+country capital leaderName leaderName
+capital leaderName leaderName country
+country capital leaderName leaderName
+country capital leaderName leaderName
+country capital leaderName leaderName
+leaderName leaderName capital country
+leaderName leaderName capital country
+country capital leaderName leaderName
+leaderName leaderName capital country
+country capital leaderName leaderName
+capital leaderName leaderName country
+region country language ethnicGroup
+region country ethnicGroup language
+region country ethnicGroup language
+ethnicGroup country region language
+region country ethnicGroup language
+region country language ethnicGroup
+ethnicGroup country region leaderName
+ethnicGroup country region leaderName
+ethnicGroup country ingredient region
+ingredient country ethnicGroup region
+ingredient country ethnicGroup region
+region country ingredient ethnicGroup
+ingredient region country ethnicGroup
+ethnicGroup country ingredient region
+region country ethnicGroup language
+ethnicGroup country region language
+ethnicGroup country region language
+region country ethnicGroup leaderName
+country ethnicGroup region leaderName
+region language country ethnicGroup
+country ethnicGroup region language
+country ethnicGroup region language
+ethnicGroup leaderName country region
+country region ethnicGroup leaderName
+country language ethnicGroup ethnicGroup
+country ethnicGroup ethnicGroup language
+country language ethnicGroup ethnicGroup
+language country ethnicGroup ethnicGroup
+country ethnicGroup ethnicGroup language
+ethnicGroup ethnicGroup language country
+country language ethnicGroup ethnicGroup
+ethnicGroup ethnicGroup language country
+country ethnicGroup ethnicGroup language
+ethnicGroup ethnicGroup language country
+country language ethnicGroup ethnicGroup
+ethnicGroup ethnicGroup language country
+country language ethnicGroup ethnicGroup
+ethnicGroup ethnicGroup language country
+country ethnicGroup ethnicGroup language
+ethnicGroup ethnicGroup language country
+country language ethnicGroup ethnicGroup
+ethnicGroup ethnicGroup language country
+ethnicGroup ethnicGroup country language
+country language ethnicGroup ethnicGroup
+language country ethnicGroup ethnicGroup
+ethnicGroup ethnicGroup language country
+ethnicGroup language country ethnicGroup
+ethnicGroup ethnicGroup country language
+ethnicGroup ethnicGroup language country
+ethnicGroup ethnicGroup language country
+country ethnicGroup ethnicGroup language
+ethnicGroup ethnicGroup language country
+country language ethnicGroup ethnicGroup
+country language ethnicGroup ethnicGroup
+country ethnicGroup ethnicGroup language
+language country ethnicGroup ethnicGroup
+ethnicGroup ethnicGroup language country
+leaderName language country region
+country region language leaderName
+region country language leaderName
+country leaderName language region
+country leaderName language
+region country leaderName language
+leaderName language country region
+region country leaderName language
+country language demonym leaderName
+country demonym language leaderName
+country language ethnicGroup leaderName
+country language leaderName ethnicGroup
+country ethnicGroup language leaderName
+region country leaderName ethnicGroup
+region country leaderName ethnicGroup
+country region leaderName leaderName
+region country leaderName leaderName
+leaderName country ethnicGroup currency
+country ethnicGroup currency leaderName
+leaderName currency ethnicGroup country
+country demonym leaderName language
+country language leaderName demonym
+country ethnicGroup language leaderName
+country ethnicGroup leaderName language
+leaderName language currency country
+country language currency leaderName
+country currency leaderName language
+genus family ingredient
+ingredient family genus order
+genus family order ingredient
+municipality country category established
+established location country category
+established location category country
+category established location country
+has_to_its_north has_to_its_southeast location
+location has_to_its_north has_to_its_southeast country
+location country has_to_its_west has_to_its_southwest
+location country has_to_its_west has_to_its_southwest
+location established category municipality
+municipality location established category
+category established municipality location
+established location state category
+established category location state
+established location state category
+category location location municipality
+municipality location category location
+location location category
+category established location state
+category established location state
+category established location state
+municipality state established category
+municipality state established category
+municipality state established category
+established district category owningOrganisation
+category established district owningOrganisation
+established owningOrganisation district category
+category district established
+country district established category
+established district country category
+established category country owningOrganisation
+established category country owningOrganisation
+has_to_its_north municipality location
+municipality location has_to_its_north has_to_its_southwest
+location municipality has_to_its_north has_to_its_southwest
+municipality location has_to_its_north has_to_its_southwest
+established location has_to_its_north has_to_its_southeast
+established location has_to_its_north has_to_its_southeast
+established location has_to_its_north has_to_its_southeast
+category location has_to_its_north has_to_its_southeast
+category location has_to_its_north has_to_its_southeast
+category location has_to_its_north has_to_its_southeast
+location has_to_its_southeast has_to_its_southwest has_to_its_north
+location has_to_its_north has_to_its_southeast has_to_its_southwest
+has_to_its_north has_to_its_southwest location has_to_its_southeast
+has_to_its_west has_to_its_north location category
+category location has_to_its_west has_to_its_north
+location has_to_its_west has_to_its_north has_to_its_southeast
+location has_to_its_west has_to_its_southeast has_to_its_north
+location has_to_its_west has_to_its_north has_to_its_southeast
+municipality location has_to_its_west has_to_its_southwest
+has_to_its_west has_to_its_southwest location municipality
+has_to_its_west has_to_its_southwest location municipality
+inaugurationDate designer location leaderName
+designer inaugurationDate location leaderName
+location leaderName inaugurationDate designer
+location inaugurationDate designer material
+designer material location inaugurationDate
+location material designer inaugurationDate
+material dedicatedTo location capital
+material location legislature capital
+material location legislature capital
+material location capital legislature
+leaderTitle leader location capital
+location capital leaderTitle leader
+leaderTitle leader location capital
+location leaderTitle leaderName legislature
+location leaderTitle leaderName legislature
+legislature leaderTitle leaderName location
+location leaderName designer dedicatedTo
+dedicatedTo designer location leaderName
+designer dedicatedTo location leaderName
+dedicatedTo location material designer
+dedicatedTo location material designer
+dedicatedTo location material designer
+nativeName dedicatedTo location designer
+location nativeName dedicatedTo designer
+location nativeName designer dedicatedTo
+location material dedicatedTo nativeName
+material location nativeName dedicatedTo
+dedicatedTo material location nativeName
+capital location material dedicatedTo
+capital location material dedicatedTo
+material location capital dedicatedTo
+location dedicatedTo capital religion
+dedicatedTo location capital religion
+location capital religion dedicatedTo
+material location capital languages
+location capital material languages
+capital religion languages location
+location capital religion languages
+location capital religion languages
+material location dedicatedTo ethnicGroups
+location material dedicatedTo ethnicGroups
+location capital languages ethnicGroups
+capital languages ethnicGroups location
+location capital languages ethnicGroups
+category district location nearestCity
+nearestCity location district category
+district category nearestCity
+district location nearestCity country
+district location country nearestCity
+district location country nearestCity
+established category district location
+established district category location
+category district location established
+owningOrganisation established district location
+owningOrganisation district location established
+location district established owningOrganisation
+location district owningOrganisation established
+established district location owningOrganisation
+material inaugurationDate location capital
+capital location material inaugurationDate
+leader location material designer
+leader location designer material
+leader location material designer
+capital currency leader location
+location capital currency leader
+currency leader capital location
+currency leader capital location
+leaderName location material inaugurationDate
+leaderName location inaugurationDate material
+material inaugurationDate location leaderName
+location leaderName capital inaugurationDate
+leaderName capital location inaugurationDate
+location leaderName largestCity currency
+location largestCity currency leaderName
+largestCity currency leaderName location
+material designer location leaderTitle
+leaderTitle location material designer
+designer material location leaderTitle
+location largestCity leader leaderTitle
+location largestCity leaderTitle leader
+leaderName leaderTitle capital location
+location capital leaderTitle leaderName
+leaderTitle leaderName location capital
+manager club club club
+club club club manager
+club club club manager
+club club club
+club club club manager
+manager club club club
+club club club manager
+club manager club club
+manager club club club
+club club club manager
+manager club club club
+club club club manager
+club manager club club
+club club club manager
+club club club manager
+club manager club club
+club club manager club
+manager club club club
+club manager club club
+club club manager club
+club manager club club
+club club club manager
+ground numberOfMembers league champions
+champions league ground numberOfMembers
+numberOfMembers ground league champions
+ground numberOfMembers league champions
+champions league manager club
+club manager league champions
+league champions manager club
+club manager league champions
+numberOfMembers ground league champions
+ground league numberOfMembers champions
+numberOfMembers ground league champions
+fullname ground season numberOfMembers
+ground fullname numberOfMembers season
+fullname ground season numberOfMembers
+fullname ground numberOfMembers season
+fullname ground season numberOfMembers
+numberOfMembers ground fullname season
+numberOfMembers fullname ground season
+numberOfMembers fullname ground season
+fullname season ground numberOfMembers
+fullname ground numberOfMembers season
+fullname ground numberOfMembers season
+placeOfBirth manager club club
+placeOfBirth club manager club
+placeOfBirth club club manager
+placeOfBirth club club manager
+placeOfBirth club manager club
+capital demonym ground
+capital language demonym ground
+ground capital demonym language
+leader ground language capital
+ground capital language leader
+demonym capital leader ground
+ground capital demonym leader
+leader officialLanguage capital ground
+ground capital officialLanguage leader
+ground capital leader officialLanguage
+ground demonym language leader
+leader ground demonym language
+ground leader demonym language
+placeOfBirth manager club club
+placeOfBirth club club manager
+placeOfBirth club club manager
+manager youthclub club club
+manager club youthclub club
+club youthclub club manager
+placeOfBirth manager club club
+placeOfBirth manager club club
+placeOfBirth club manager club
+placeOfBirth manager club club
+placeOfBirth manager club club
+placeOfBirth club club manager
+placeOfBirth manager club club
+placeOfBirth club club manager
+placeOfBirth manager club club
+manager ground numberOfMembers fullname
+fullname manager ground numberOfMembers
+fullname ground numberOfMembers manager
+ground numberOfMembers fullname manager
+ground numberOfMembers fullname manager
+fullname ground manager numberOfMembers
+manager club club club
+manager club club club
+club club manager club
+manager club club club
+club club manager club
+manager club club club
+manager club club club
+club club club manager
+manager club club club
+location leader capital language
+location capital leader language
+location language capital leader
+location capital leader leader
+location capital leader leader
+location capital leader leader
+location language capital leader
+location capital leader language
+language location capital leader
+leader currency capital location
+location currency capital leader
+location leader capital language
+location language leader capital
+location leader capital language
+leader leader capital location
+capital leader leader location
+location capital leader leader
+location capital leader leader
+location capital leader leader
+leader leader location language
+location leader leader language
+location leader leader language
+language location leader leader
+ground numberOfMembers season fullname
+numberOfMembers season ground
+fullname ground season numberOfMembers
+fullname ground season
+fullname numberOfMembers ground season
+season numberOfMembers fullname ground
+season fullname ground numberOfMembers
+ground numberOfMembers fullname season
+
+
+numberOfMembers ground fullname season
+fullname ground numberOfMembers season
+ground numberOfMembers season fullname
+season numberOfMembers ground fullname
+fullname numberOfMembers ground season
+numberOfMembers ground fullname season
+fullname ground numberOfMembers season
+fullname ground season numberOfMembers
+leader ground manager
+manager ground leader
+leader ground manager club
+club leader
+ground leader manager club
+club manager ground leader
+club manager ground leader
+club manager ground leader
+ground manager club leader
+ground leader manager club
+club manager ground leader
+manager ground leader club
+club manager ground leader
+ground numberOfMembers fullname season
+fullname numberOfMembers ground season
+fullname numberOfMembers ground season
+club club club manager
+club club club manager
+manager club club club
+club club club manager
+manager club club club
+club club club manager
+ground fullname numberOfMembers season
+ground fullname season numberOfMembers
+fullname numberOfMembers ground season
+numberOfMembers ground season fullname
+fullname season ground numberOfMembers
+fullname season ground numberOfMembers
+fullname numberOfMembers ground season
+fullname ground season numberOfMembers
+fullname ground numberOfMembers season
+fullname ground numberOfMembers season
+fullname season ground numberOfMembers
+fullname numberOfMembers ground season
+ground season numberOfMembers fullname
+fullname ground numberOfMembers season
+fullname ground numberOfMembers season
+fullname ground season numberOfMembers
+league champions chairman birthPlace
+birthPlace chairman league champions
+league champions chairman birthPlace
+fullname numberOfMembers ground season
+fullname ground numberOfMembers season
+fullname ground season numberOfMembers
+fullname numberOfMembers season ground
+fullname ground numberOfMembers season
+fullname ground numberOfMembers season
+fullname numberOfMembers ground season
+fullname ground numberOfMembers season
+club club club manager
+manager club club club
+club club club manager
+ground league numberOfMembers
+ground numberOfMembers league champions
+champions league ground numberOfMembers
+league champions manager club
+manager club league champions
+club manager league champions
+club manager league champions
+league numberOfMembers ground
+ground numberOfMembers league champions
+numberOfMembers ground league champions
+location ground league champions
+ground location league champions
+numberOfMembers ground league season
+ground numberOfMembers league season
+league season numberOfMembers ground
+league season ground numberOfMembers
+league season numberOfMembers ground
+ground numberOfMembers league season
+numberOfMembers ground league season
+club club club manager
+manager club club club
+club club club manager
+owner ground tenant
+ground operator owner tenant
+operator ground tenant tenant
+ground operator tenant tenant
+tenant tenant owner ground
+ground owner tenant tenant
+ground owner tenant tenant
+fullname nickname season numberOfMembers
+fullname nickname season numberOfMembers
+ground league champions
+ground location league champions
+champions league ground location
+ground location league champions
+ground location league champions
+champions league ground
+champions league ground location
+champions league season numberOfMembers
+champions league numberOfMembers season
+numberOfMembers season league champions
+champions league numberOfMembers season
+numberOfMembers league season champions
+champions league numberOfMembers season
+manager owner club club
+owner manager club club
+manager owner club club
+club club manager owner
+club club manager owner
+owner manager club club
+manager club club club
+manager club club club
+manager club club club
+manager owner club club
+manager owner club club
+manager club club club
+manager club club club
+manager club club club
+fullname season ground numberOfMembers
+fullname numberOfMembers ground season
+ground location league champions
+ground location league champions
+ground location league champions
+league ground location champions
+champions league ground location
+ground location league champions
+fullname league country champions
+champions country league fullname
+ground league country champions
+ground league country champions
+ground league country champions
+champions country league manager
+manager league country champions
+manager league country champions
+league country nickname champions
+nickname league country champions
+numberOfMembers league country champions
+numberOfMembers league country champions
+season league country champions
+league country season champions
+league country season champions
+fullname nickname numberOfMembers season
+nickname numberOfMembers season
+fullname nickname season numberOfMembers
+fullname season numberOfMembers nickname
+nickname season numberOfMembers
+fullname chairmanTitle numberOfMembers season
+fullname chairmanTitle season numberOfMembers
+fullname season numberOfMembers chairmanTitle
+fullname season chairmanTitle numberOfMembers
+fullname manager season numberOfMembers
+fullname manager season numberOfMembers
+fullname numberOfMembers season manager
+ground city isPartOf country
+city isPartOf country ground
+leader country city ground
+ground city leader country
+ground city country leader
+leader city country ground
+ground city leader country
+ground city country leader
+ground city location
+city location country ground
+ground city location country
+city country ground location
+city location country ground
+league ground country champions
+ground league champions country
+country ground league champions
+ground city state country
+city state country ground
+ground city state country
+ground city state country
+ground city state country
+part part ground leader
+part part leader ground
+leader demonym capital ground
+ground leader capital
+ground demonym capital leader
+ground demonym language leader
+language ground demonym leader
+ground capital leader language
+language ground capital leader
+ground leader capital language
+ground leader language demonym
+ground demonym language leader
+ground leader demonym capital
+ground demonym leader capital
+ground demonym leader leader
+leader leader language ground
+leader leader language ground
+ground capital leader officialLanguage
+ground capital leader officialLanguage
+leader officialLanguage capital ground
+manager club club club
+manager club club club
+club club manager club
+league ground location
+ground location league champions
+location ground manager club
+location ground manager club
+location ground manager club
+location ground manager club
+location ground manager club
+manager club club club
+club club manager club
+club manager club club
+manager club club club
+club club club manager
+club manager club club
+club club club manager
+club club club manager
+manager club club club
+club club club manager
+club manager club club
+club club club manager
+club club club manager
+club club manager club
+club club club manager
+manager club club club
+manager club club club
+club club manager club
+manager club club club
+champions league fullname ground
+champions league fullname ground
+champions league fullname ground
+fullname ground league champions
+champions league ground fullname
+champions league fullname ground
+ground numberOfMembers league champions
+ground numberOfMembers league champions
+league champions ground numberOfMembers
+ground season league champions
+ground season league champions
+champions league season ground
+club manager league champions
+manager club league champions
+manager club league champions
+league champions ground numberOfMembers
+ground numberOfMembers league champions
+ground numberOfMembers league champions
+champions league numberOfMembers ground
+ground numberOfMembers league champions
+champions league ground numberOfMembers
+manager club league champions
+club manager league champions
+league champions manager club
+city state latinName nickname
+latinName nickname city state
+city state nickname latinName
+rector nickname city country
+nickname city country rector
+city country nickname rector
+state country rector latinName
+state country latinName rector
+latinName state country rector
+city state academicStaffSize has_to_its_northwest
+has_to_its_northwest state academicStaffSize city
+city state has_to_its_northwest academicStaffSize
+country city academicStaffSize river
+city country academicStaffSize river
+city state country established
+city country state established
+established city country state
+has_to_its_northwest country state established
+state country established has_to_its_northwest
+state country established has_to_its_northwest
+state country leaderName river
+country state leaderName river
+city state established leaderName
+city state established leaderName
+established city state leaderName
+academicStaffSize country leaderName leaderTitle
+country academicStaffSize leaderName leaderTitle
+academicStaffSize country leaderTitle leaderName
+city country numberOfStudents academicStaffSize
+city country numberOfStudents academicStaffSize
+city country academicStaffSize numberOfStudents
+city country dean leaderTitle
+leaderTitle country dean city
+country city dean leaderTitle
+country established dean numberOfStudents
+dean established country numberOfStudents
+established country dean numberOfStudents
+leaderName country dean numberOfStudents
+country dean numberOfStudents leaderName
+leaderName country established city
+country established leaderName
+city country established leaderName
+city country established numberOfStudents
+established city country numberOfStudents
+country numberOfStudents established
+country numberOfStudents city location
+location city country numberOfStudents
+leaderName country established numberOfStudents
+country established numberOfStudents leaderName
+country established numberOfStudents leaderName
+numberOfStudents country leaderName leaderTitle
+country numberOfStudents leaderName
+numberOfStudents country leaderTitle leaderName
+numberOfStudents country leaderName legislature
+country numberOfStudents leaderName legislature
+country leaderName
+city country neighboringMunicipality leaderName
+country city neighboringMunicipality leaderName
+city country leaderName anthem
+anthem leaderName country city
+country city leaderName anthem
+anthem leaderTitle leaderName country
+country anthem leaderName leaderTitle
+country anthem leaderTitle leaderName
+country legislature leaderName leaderTitle
+country leaderName leaderTitle legislature
+city established numberOfStudents academicStaffSize
+established academicStaffSize numberOfStudents
+city established academicStaffSize numberOfStudents
+city academicStaffSize numberOfStudents dean
+city dean numberOfStudents academicStaffSize
+dean academicStaffSize numberOfStudents
+established dean numberOfStudents academicStaffSize
+dean established numberOfStudents academicStaffSize
+dean established academicStaffSize numberOfStudents
+city state country affiliation
+affiliation city state country
+city state country affiliation
+country affiliation campus
+city country affiliation campus
+campus country affiliation
+city country numberOfPostgraduateStudents affiliation
+city country numberOfPostgraduateStudents affiliation
+affiliation city country numberOfPostgraduateStudents
+director campus affiliation
+city director affiliation campus
+director affiliation campus
+city state country director
+city state country director
+city numberOfPostgraduateStudents affiliation established
+city established numberOfPostgraduateStudents affiliation
+affiliation city established numberOfPostgraduateStudents
+established city state affiliation
+city state affiliation established
+established city state affiliation
+campus numberOfPostgraduateStudents affiliation
+city affiliation numberOfPostgraduateStudents campus
+affiliation city numberOfPostgraduateStudents campus
+city affiliation sportsOffered sportsGoverningBody
+affiliation city state has_to_its_west
+city state has_to_its_west affiliation
+city state affiliation has_to_its_west
+established state campus
+
+city country president established
+established city country president
+city country established president
+city affiliation was_given_the_'Technical_Campus'_status_by location
+city was_given_the_'Technical_Campus'_status_by location affiliation
+city affiliation was_given_the_'Technical_Campus'_status_by location
+has_to_its_west state was_given_the_'Technical_Campus'_status_by location
+state has_to_its_west was_given_the_'Technical_Campus'_status_by location
+was_given_the_'Technical_Campus'_status_by location state has_to_its_west
+leaderName country affiliation headquarters
+country affiliation headquarters leaderName
+country affiliation headquarters leaderName
+established city country leaderName
+established city country leaderName
+country leaderName leaderTitle religion
+country leaderTitle leaderName religion
+country academicStaffSize largestCity river
+country largestCity academicStaffSize river
+country academicStaffSize established largestCity
+largestCity established country academicStaffSize
+city state country largestCity
+city state country largestCity
+state has_to_its_northwest country largestCity
+country largestCity state has_to_its_northwest
+state has_to_its_northeast affiliation city
+state affiliation city has_to_its_northeast
+country leaderName anthem ethnicGroup
+country ethnicGroup leaderName anthem
+leaderName capital anthem country
+country capital leaderName anthem
+leaderTitle leaderName anthem country
+country leaderTitle leaderName anthem
+leaderTitle leaderName country anthem
+country capital anthem leaderTitle
+leaderTitle capital anthem country
+country capital leaderTitle anthem
+country capital leaderTitle ethnicGroup
+country leaderTitle leaderName ethnicGroup
+leaderTitle leaderName ethnicGroup country
+leaderTitle leaderName capital country
+country capital leaderTitle leaderName
+established academicStaffSize affiliation headquarters
+academicStaffSize established affiliation headquarters
+academicStaffSize city affiliation headquarters
+city academicStaffSize affiliation headquarters
+established numberOfStudents academicStaffSize affiliation
+numberOfStudents academicStaffSize established affiliation
+established affiliation numberOfStudents academicStaffSize
+country numberOfStudents academicStaffSize affiliation
+country numberOfStudents academicStaffSize affiliation
+affiliation country numberOfStudents academicStaffSize
+city affiliation headquarters has_to_its_northeast
+city has_to_its_northeast affiliation headquarters
+city country affiliation headquarters
+city country affiliation headquarters
+city established affiliation headquarters
+established affiliation headquarters
+established city affiliation headquarters
+governmentType city affiliation headquarters
+city governmentType affiliation headquarters
+city affiliation headquarters governmentType
+city country academicStaffSize numberOfStudents
+country academicStaffSize numberOfStudents
+city country academicStaffSize numberOfStudents
+city country numberOfStudents affiliation
+city country numberOfStudents affiliation
+affiliation city country numberOfStudents
+has_to_its_northeast city country leaderName
+country leaderName
+city country has_to_its_northeast leaderName
+city country established affiliation
+city country established affiliation
+established city country affiliation
+affiliation academicStaffSize numberOfStudents headquarters
+affiliation headquarters numberOfStudents academicStaffSize
+country numberOfPostgraduateStudents affiliation city
+country numberOfPostgraduateStudents affiliation city
+country numberOfPostgraduateStudents affiliation city
+state affiliation city director
+state affiliation city director
+state director affiliation city
+numberOfPostgraduateStudents affiliation city campus
+campus numberOfPostgraduateStudents affiliation city
+sportsOffered affiliation city sportsGoverningBody
+affiliation city sportsOffered sportsGoverningBody
+author numberOfPages ISBN_number mediaType
+ISBN_number author mediaType numberOfPages
+ISBN_number mediaType numberOfPages author
+author numberOfPages mediaType ISBN_number
+mediaType author numberOfPages ISBN_number
+ISBN_number author numberOfPages mediaType
+author mediaType numberOfPages ISBN_number
+numberOfPages author mediaType ISBN_number
+numberOfPages ISBN_number author mediaType
+ISBN_number author mediaType numberOfPages
+mediaType numberOfPages author ISBN_number
+numberOfPages mediaType author ISBN_number
+author numberOfPages mediaType ISBN_number
+ISBN_number author numberOfPages mediaType
+mediaType ISBN_number author numberOfPages
+author birthPlace precededBy precededBy
+precededBy author birthPlace precededBy
+birthPlace author precededBy precededBy
+birthPlace author precededBy precededBy
+birthPlace author precededBy precededBy
+precededBy precededBy author birthPlace
+birthPlace author precededBy
+birthPlace author precededBy
+birthPlace author precededBy precededBy
+author birthPlace precededBy precededBy
+birthPlace author precededBy precededBy
+birthPlace author precededBy precededBy
+birthPlace author precededBy precededBy
+precededBy precededBy author birthPlace
+birthPlace author precededBy precededBy
+influencedBy author precededBy birthPlace
+birthPlace influencedBy author precededBy
+precededBy author birthPlace influencedBy
+author precededBy influencedBy birthPlace
+influencedBy birthPlace author precededBy
+birthPlace author precededBy influencedBy
+influencedBy birthPlace author precededBy
+birthPlace influencedBy author precededBy
+author birthPlace influencedBy precededBy
+birthPlace influencedBy author precededBy
+influencedBy author precededBy birthPlace
+influencedBy birthPlace author precededBy
+birthPlace influencedBy author precededBy
+birthPlace influencedBy author precededBy
+author precededBy followedBy language
+author precededBy followedBy language
+language followedBy author precededBy
+precededBy author precededBy language
+language precededBy precededBy author
+precededBy author precededBy language
+author numberOfPages mediaType ISBN_number
+author mediaType numberOfPages ISBN_number
+author numberOfPages mediaType ISBN_number
+author numberOfPages mediaType ISBN_number
+author mediaType numberOfPages ISBN_number
+author mediaType numberOfPages ISBN_number
+author numberOfPages mediaType ISBN_number
+ISBN_number author mediaType numberOfPages
+author numberOfPages mediaType ISBN_number
+birthPlace author precededBy influencedBy
+influencedBy birthPlace author precededBy
+precededBy author influencedBy birthPlace
+author ISBN_number mediaType numberOfPages
+mediaType author numberOfPages ISBN_number
+mediaType numberOfPages author ISBN_number
+author numberOfPages mediaType ISBN_number
+author mediaType numberOfPages ISBN_number
+abbreviation CODEN_code ISSN_number LCCN_number
+abbreviation CODEN_code ISSN_number LCCN_number
+abbreviation ISSN_number CODEN_code LCCN_number
+abbreviation LCCN_number ISSN_number CODEN_code
+abbreviation ISSN_number LCCN_number CODEN_code
+abbreviation ISSN_number LCCN_number CODEN_code
+abbreviation academicDiscipline LCCN_number ISSN_number
+abbreviation academicDiscipline LCCN_number ISSN_number
+abbreviation ISSN_number LCCN_number academicDiscipline
+academicDiscipline LCCN_number abbreviation ISSN_number
+abbreviation academicDiscipline ISSN_number LCCN_number
+abbreviation academicDiscipline LCCN_number ISSN_number
+academicDiscipline ISSN_number LCCN_number
+academicDiscipline academicDiscipline LCCN_number ISSN_number
+academicDiscipline ISSN_number LCCN_number
+ISSN_number academicDiscipline firstPublicationYear
+firstPublicationYear academicDiscipline ISSN_number
+academicDiscipline academicDiscipline firstPublicationYear ISSN_number
+firstPublicationYear ISSN_number academicDiscipline
+firstPublicationYear academicDiscipline ISSN_number
+firstPublicationYear ISSN_number academicDiscipline
+parentCompany publisher country capital
+publisher country parentCompany capital
+publisher parentCompany country capital
+nationality editor almaMater doctoralAdvisor
+nationality almaMater doctoralAdvisor editor
+nationality almaMater doctoralAdvisor editor
+editor residence doctoralAdvisor almaMater
+residence almaMater doctoralAdvisor editor
+editor almaMater doctoralAdvisor
+publisher editor almaMater doctoralAdvisor
+publisher editor almaMater doctoralAdvisor
+publisher editor almaMater doctoralAdvisor
+almaMater editor publisher
+publisher editor nationality almaMater
+editor nationality almaMater publisher
+publisher editor almaMater residence
+publisher editor almaMater residence
+residence editor publisher almaMater
+ISSN_number editor residence almaMater
+ISSN_number editor residence almaMater
+almaMater editor residence abbreviation
+abbreviation editor residence almaMater
+editor abbreviation almaMater residence
+editor publisher doctoralAdvisor almaMater
+publisher editor doctoralAdvisor almaMater
+nationality editor almaMater doctoralAdvisor
+editor doctoralAdvisor nationality almaMater
+editor nationality doctoralAdvisor almaMater
+residence almaMater doctoralAdvisor editor
+residence editor almaMater doctoralAdvisor
+residence almaMater editor doctoralAdvisor
+nationality almaMater editor publisher
+editor publisher nationality almaMater
+nationality editor publisher almaMater
+residence almaMater editor publisher
+publisher editor residence almaMater
+publisher editor residence almaMater
+residence almaMater editor ISSN_number
+residence almaMater editor ISSN_number
+editor ISSN_number residence almaMater
+editor abbreviation residence almaMater
+abbreviation editor residence almaMater
+abbreviation editor almaMater residence
+country language spokenIn ethnicGroup
+country ethnicGroup language spokenIn
+country language spokenIn ethnicGroup
+language country capital spokenIn
+language spokenIn country capital
+language spokenIn country capital
+mediaType numberOfPages ISBN_number OCLC_number
+mediaType numberOfPages OCLC_number ISBN_number
+numberOfPages mediaType OCLC_number ISBN_number
+numberOfPages mediaType ISBN_number OCLC_number
+numberOfPages mediaType OCLC_number ISBN_number
+mediaType numberOfPages OCLC_number ISBN_number
+country followedBy publisher parentCompany
+country publisher parentCompany followedBy
+parentCompany publisher country followedBy
+country publisher followedBy ethnicGroup
+publisher followedBy country ethnicGroup
+followedBy publisher country ethnicGroup
+country publisher parentCompany ethnicGroup
+parentCompany publisher country ethnicGroup
+country ethnicGroup publisher parentCompany
+ethnicGroup country followedBy publisher
+publisher followedBy country ethnicGroup
+mediaType numberOfPages OCLC_number ISBN_number
+mediaType ISBN_number OCLC_number numberOfPages
+mediaType numberOfPages ISBN_number OCLC_number
+numberOfPages mediaType OCLC_number ISBN_number
+numberOfPages mediaType ISBN_number OCLC_number
+numberOfPages mediaType ISBN_number OCLC_number
+followedBy publisher country precededBy
+precededBy publisher country followedBy
+publisher country precededBy followedBy
+ISBN_number OCLC_number author mediaType
+author mediaType OCLC_number ISBN_number
+language publisher country ethnicGroup
+publisher country language ethnicGroup
+language publisher country ethnicGroup
+language publisher country ethnicGroup
+language publisher country ethnicGroup
+language publisher country ethnicGroup
+language spokenIn country ethnicGroup
+language spokenIn country ethnicGroup
+ethnicGroup country language spokenIn
+country ethnicGroup language spokenIn
+spokenIn language publisher country
+spokenIn language publisher country
+spokenIn language country publisher
+publisher country language spokenIn
+country publisher language spokenIn
+spokenIn language publisher country
+publisher country language ethnicGroup
+ethnicGroup language country publisher
+country publisher language ethnicGroup
+country publisher language ethnicGroup
+country publisher language ethnicGroup
+publisher country language ethnicGroup
+language ethnicGroup country publisher
+publisher country language ethnicGroup
+country publisher ethnicGroup language
+language spokenIn country ethnicGroup
+language country spokenIn ethnicGroup
+country ethnicGroup language spokenIn
+spokenIn language country capital
+language country spokenIn capital
+country language spokenIn ethnicGroup
+country language spokenIn ethnicGroup
+country ethnicGroup language spokenIn
+mediaType numberOfPages OCLC_number ISBN_number
+mediaType OCLC_number ISBN_number numberOfPages
+numberOfPages mediaType OCLC_number ISBN_number
+author mediaType OCLC_number ISBN_number
+OCLC_number ISBN_number author mediaType
+author mediaType OCLC_number ISBN_number
+country language spokenIn ethnicGroup
+country language spokenIn ethnicGroup
+country language ethnicGroup
+capital country language spokenIn
+country language spokenIn capital
+ethnicGroup country language spokenIn
+country ethnicGroup language spokenIn
+language country spokenIn ethnicGroup
+abbreviation ISSN_number LCCN_number CODEN_code
+abbreviation ISSN_number LCCN_number CODEN_code
+abbreviation ISSN_number LCCN_number CODEN_code
+abbreviation CODEN_code ISSN_number LCCN_number
+mediaType author OCLC_number ISBN_number
+author mediaType ISBN_number OCLC_number
+author mediaType OCLC_number ISBN_number
+author mediaType OCLC_number ISBN_number
+author mediaType OCLC_number ISBN_number
+author mediaType ISBN_number OCLC_number
+abbreviation CODEN_code ISSN_number LCCN_number
+abbreviation CODEN_code ISSN_number LCCN_number
+ISSN_number LCCN_number CODEN_code abbreviation
+abbreviation ISSN_number LCCN_number CODEN_code
+abbreviation ISSN_number LCCN_number CODEN_code
+abbreviation ISSN_number LCCN_number CODEN_code
+LCCN_number ISSN_number abbreviation academicDiscipline
+abbreviation academicDiscipline LCCN_number ISSN_number
+abbreviation academicDiscipline LCCN_number ISSN_number
+publisher abbreviation LCCN_number ISSN_number
+abbreviation publisher ISSN_number LCCN_number
+abbreviation publisher ISSN_number LCCN_number
+abbreviation publisher ISSN_number LCCN_number
+publisher abbreviation LCCN_number ISSN_number
+abbreviation ISSN_number LCCN_number publisher
+publisher abbreviation LCCN_number CODEN_code
+publisher abbreviation LCCN_number CODEN_code
+abbreviation publisher LCCN_number CODEN_code
+abbreviation academicDiscipline ISSN_number LCCN_number
+academicDiscipline abbreviation LCCN_number ISSN_number
+academicDiscipline abbreviation LCCN_number ISSN_number
+academicDiscipline abbreviation ISSN_number LCCN_number
+academicDiscipline abbreviation LCCN_number ISSN_number
+abbreviation academicDiscipline LCCN_number ISSN_number
+ISSN_number LCCN_number publisher abbreviation
+abbreviation publisher ISSN_number LCCN_number
+abbreviation publisher ISSN_number LCCN_number
+publisher abbreviation CODEN_code LCCN_number
+abbreviation publisher LCCN_number CODEN_code
+publisher abbreviation LCCN_number CODEN_code
+abbreviation publisher ISSN_number LCCN_number
+abbreviation ISSN_number LCCN_number publisher
+ISSN_number LCCN_number publisher abbreviation
+publisher ISSN_number abbreviation LCCN_number
+publisher abbreviation ISSN_number LCCN_number
+abbreviation ISSN_number LCCN_number publisher
+abbreviation academicDiscipline ISSN_number LCCN_number
+abbreviation academicDiscipline ISSN_number LCCN_number
+abbreviation ISSN_number LCCN_number
+abbreviation publisher ISSN_number LCCN_number
+publisher abbreviation ISSN_number LCCN_number
+abbreviation publisher ISSN_number LCCN_number
+abbreviation publisher ISSN_number LCCN_number
+publisher abbreviation ISSN_number LCCN_number
+abbreviation ISSN_number LCCN_number publisher
+abbreviation academicDiscipline ISSN_number LCCN_number
+abbreviation ISSN_number LCCN_number academicDiscipline
+abbreviation academicDiscipline LCCN_number ISSN_number
+publisher abbreviation ISSN_number LCCN_number
+publisher abbreviation ISSN_number LCCN_number
+abbreviation publisher LCCN_number ISSN_number
+abbreviation publisher ISSN_number LCCN_number
+abbreviation publisher ISSN_number LCCN_number
+abbreviation publisher LCCN_number ISSN_number
+publisher abbreviation ISSN_number LCCN_number
+publisher abbreviation ISSN_number LCCN_number
+publisher abbreviation ISSN_number LCCN_number
+affiliation publisher president city
+president city affiliation publisher
+affiliation city president publisher
+city publisher affiliation affiliation
+city publisher affiliation affiliation
+city affiliation affiliation publisher
+city president publisher affiliation
+city publisher president affiliation
+city publisher affiliation president
+nickname publisher affiliation city
+city affiliation nickname publisher
+affiliation publisher city nickname
+nickname publisher city affiliation
+publisher city nickname affiliation
+publisher city nickname affiliation
+mediaType author ISBN_number OCLC_number
+author OCLC_number ISBN_number mediaType
+author mediaType OCLC_number ISBN_number
+author mediaType OCLC_number ISBN_number
+author mediaType ISBN_number OCLC_number
+author mediaType OCLC_number ISBN_number
+country ethnicGroup language spokenIn
+language spokenIn country ethnicGroup
+country language spokenIn ethnicGroup
+language spokenIn country ethnicGroup
+country ethnicGroup language spokenIn
+spokenIn language country ethnicGroup
+language spokenIn country ethnicGroup
+language spokenIn country ethnicGroup
+country leaderName language spokenIn
+language spokenIn country leaderName
+language spokenIn country leaderName
+country leaderName language spokenIn
+country leaderName language spokenIn
+country leaderName language spokenIn
+ethnicGroup capital country language
+language country capital ethnicGroup
+ethnicGroup capital country language
+numberOfPages mediaType OCLC_number ISBN_number
+mediaType numberOfPages OCLC_number ISBN_number
+mediaType numberOfPages OCLC_number ISBN_number
+numberOfPages mediaType OCLC_number ISBN_number
+mediaType numberOfPages OCLC_number ISBN_number
+mediaType OCLC_number ISBN_number numberOfPages
+abbreviation frequency academicDiscipline ISSN_number
+ISSN_number abbreviation academicDiscipline frequency
+abbreviation frequency academicDiscipline ISSN_number
+firstPublicationYear abbreviation ISSN_number academicDiscipline
+abbreviation firstPublicationYear academicDiscipline ISSN_number
+abbreviation academicDiscipline firstPublicationYear ISSN_number
+publisher country ISSN_number parentCompany
+parentCompany country publisher ISSN_number
+parentCompany country publisher ISSN_number
+ISSN_number publisher parentCompany country
+ISSN_number parentCompany publisher country
+ISSN_number publisher parentCompany country
+country publisher OCLC_number parentCompany
+OCLC_number publisher country parentCompany
+OCLC_number publisher country parentCompany
+abbreviation publisher country parentCompany
+abbreviation publisher parentCompany country
+abbreviation publisher parentCompany country
+country parentCompany publisher academicDiscipline
+country parentCompany publisher academicDiscipline
+parentCompany country publisher academicDiscipline
+country ethnicGroup language spokenIn
+spokenIn language ethnicGroup country
+country language ethnicGroup spokenIn
+spokenIn language ethnicGroup country
+country ethnicGroup language spokenIn
+language spokenIn ethnicGroup country
+country ethnicGroup language spokenIn
+country ethnicGroup language spokenIn
+publisher country language spokenIn
+spokenIn language country publisher
+publisher country language spokenIn
+country capital language spokenIn
+country capital language spokenIn
+language spokenIn capital country
+spokenIn language country ethnicGroup
+country ethnicGroup language spokenIn
+ethnicGroup country language spokenIn
+language spokenIn country ethnicGroup
+country language spokenIn ethnicGroup
+country ethnicGroup language spokenIn
+country ethnicGroup language spokenIn
+spokenIn language country ethnicGroup
+country language spokenIn ethnicGroup
+country language ethnicGroup spokenIn
+country capital language spokenIn
+spokenIn language capital country
+country capital language spokenIn
+country ethnicGroup language spokenIn
+spokenIn language country ethnicGroup
+country ethnicGroup language spokenIn
+family genus academicDiscipline academicDiscipline
+academicDiscipline academicDiscipline family genus
+family genus academicDiscipline academicDiscipline
+academicDiscipline academicDiscipline genus family
+academicDiscipline academicDiscipline family genus
+followedBy followedBy precededBy precededBy
+precededBy precededBy followedBy followedBy
+precededBy precededBy followedBy followedBy
+author birthPlace followedBy followedBy
+author birthPlace followedBy followedBy
+author birthPlace followedBy followedBy
+author followedBy followedBy birthPlace
+birthPlace author followedBy followedBy
+birthPlace author followedBy followedBy
+country language publisher parentCompany
+language country publisher parentCompany
+publisher parentCompany country language
+country publisher leaderName language
+leaderName language country publisher
+leaderName language country publisher
+publisher country leaderName language
+publisher country language leaderName
+leaderName country publisher parentCompany
+parentCompany publisher country leaderName
+publisher parentCompany country leaderName
+publisher country leaderName capital
+country publisher capital leaderName
+leaderName capital country publisher
+spokenIn language country ethnicGroup
+spokenIn language country ethnicGroup
+country ethnicGroup language spokenIn
+ethnicGroup spokenIn country language
+ethnicGroup country language spokenIn
+country language spokenIn ethnicGroup
+country ethnicGroup language spokenIn
+country language spokenIn ethnicGroup
+country ethnicGroup language spokenIn
+leaderName country language ethnicGroup
+country language leaderName ethnicGroup
+language country leaderName ethnicGroup
+country language leaderName ethnicGroup
+country language ethnicGroup leaderName
+country language leaderName ethnicGroup
+country ethnicGroup language spokenIn
+country language spokenIn ethnicGroup
+country ethnicGroup language spokenIn
+country ethnicGroup language spokenIn
+spokenIn language ethnicGroup country
+spokenIn language ethnicGroup country
+country language spokenIn capital
+country capital language spokenIn
+country language capital spokenIn
+spokenIn language leaderName country
+country leaderName language spokenIn
+country language leaderName spokenIn
+leaderName country language spokenIn
+language spokenIn country leaderName
+country language spokenIn leaderName
+ethnicGroup leaderName country language
+ethnicGroup leaderName country language
+language country ethnicGroup leaderName
+country leaderName language spokenIn
+country leaderName language spokenIn
+leaderName country language spokenIn
+country language leaderName ethnicGroup
+leaderName ethnicGroup country language
+country language leaderName ethnicGroup
+leaderName ethnicGroup country language
+country leaderName language ethnicGroup
+language country leaderName ethnicGroup
+spokenIn language leaderName country
+leaderName language spokenIn country
+language leaderName country
+leaderName capital ethnicGroup country
+country leaderName capital ethnicGroup
+ethnicGroup country leaderName capital
+leaderName capital country ethnicGroup
+country leaderName capital ethnicGroup
+country leaderName capital ethnicGroup
+country ethnicGroup capital leaderName
+country leaderName capital ethnicGroup
+country leaderTitle capital ethnicGroup
+leaderTitle capital ethnicGroup country
+leaderTitle capital ethnicGroup country
+country ethnicGroup leaderTitle capital
+country capital leaderTitle ethnicGroup
+country leaderTitle capital ethnicGroup
+country capital leaderTitle ethnicGroup
+ethnicGroup leaderTitle capital country
+country ethnicGroup capital leaderTitle
+country leaderName leaderTitle ethnicGroup
+country leaderName leaderTitle ethnicGroup
+country ethnicGroup leaderTitle leaderName
+leaderTitle leaderName country ethnicGroup
+country leaderTitle leaderName ethnicGroup
+country ethnicGroup leaderTitle leaderName
+country leaderName leaderTitle ethnicGroup
+leaderName leaderTitle ethnicGroup country
+leaderName leaderTitle country ethnicGroup
+parentCompany country publisher followedBy
+publisher followedBy country parentCompany
+followedBy publisher country parentCompany
+precededBy author followedBy followedBy
+followedBy followedBy precededBy author
+followedBy followedBy precededBy author
+author precededBy followedBy followedBy
+author precededBy followedBy followedBy
+author precededBy followedBy followedBy
+precededBy followedBy followedBy author
+author followedBy followedBy precededBy
+cityServed operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+cityServed operatingOrganisation runwayName runwayLength elevationAboveTheSeaLevel_(in_metres)
+cityServed operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+operatingOrganisation elevationAboveTheSeaLevel_(in_metres) cityServed runwayName runwayLength
+operatingOrganisation cityServed elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName
+leaderName language country location isPartOf
+location isPartOf country leaderName language
+location isPartOf country leaderName language
+leaderName language country location isPartOf
+location country isPartOf language leaderName
+location isPartOf country language leaderName
+leaderName language country location isPartOf
+location country isPartOf leaderName language
+leaderName language country location isPartOf
+leaderName language country location isPartOf
+leaderName language country location isPartOf
+location isPartOf country leaderName language
+leaderName language country isPartOf location
+location country isPartOf leaderName language
+leaderName leaderName country location isPartOf
+isPartOf location country leaderName leaderName
+country location isPartOf leaderName leaderName
+location isPartOf country language leaderName
+leaderName language country location isPartOf
+leaderName language country isPartOf location
+cityServed elevationAboveTheSeaLevel_(in_metres) operatingOrganisation runwayName runwayLength
+cityServed runwayLength runwayName operatingOrganisation elevationAboveTheSeaLevel_(in_metres)
+cityServed operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+operatingOrganisation cityServed elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+operatingOrganisation cityServed elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName
+operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName
+cityServed operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+operatingOrganisation cityServed elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+cityServed runwayName runwayLength elevationAboveTheSeaLevel_(in_metres) operatingOrganisation
+cityServed operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+cityServed operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+elevationAboveTheSeaLevel_(in_metres) operatingOrganisation runwayLength runwayName
+operatingOrganisation cityServed runwayLength elevationAboveTheSeaLevel_(in_metres) runwayName
+cityServed operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName
+runwayLength cityServed isPartOf isPartOf country
+isPartOf isPartOf country cityServed runwayLength
+runwayLength cityServed isPartOf isPartOf country
+isPartOf isPartOf cityServed runwayLength
+runwayLength cityServed isPartOf isPartOf country
+isPartOf isPartOf country cityServed runwayLength
+cityServed isPartOf country isPartOf runwayLength
+cityServed isPartOf isPartOf country runwayLength
+cityServed isPartOf isPartOf country runwayLength
+cityServed isPartOf isPartOf country runwayLength
+country cityServed isPartOf isPartOf runwayLength
+cityServed isPartOf country isPartOf runwayLength
+runwayLength runwayName cityServed ICAO_Location_Identifier elevationAboveTheSeaLevel_(in_metres)
+cityServed elevationAboveTheSeaLevel_(in_metres) ICAO_Location_Identifier runwayName runwayLength
+cityServed ICAO_Location_Identifier runwayName runwayLength
+cityServed elevationAboveTheSeaLevel_(in_metres) ICAO_Location_Identifier runwayName runwayLength
+ICAO_Location_Identifier elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength cityServed
+cityServed elevationAboveTheSeaLevel_(in_metres) ICAO_Location_Identifier runwayName runwayLength
+runwayLength cityServed isPartOf isPartOf country
+cityServed isPartOf isPartOf country runwayLength
+cityServed elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName ICAO_Location_Identifier
+elevationAboveTheSeaLevel_(in_metres) cityServed ICAO_Location_Identifier runwayLength runwayName
+cityServed elevationAboveTheSeaLevel_(in_metres) ICAO_Location_Identifier runwayName runwayLength
+elevationAboveTheSeaLevel_(in_metres) runwayLength location cityServed cityServed
+location elevationAboveTheSeaLevel_(in_metres) runwayLength cityServed cityServed
+elevationAboveTheSeaLevel_(in_metres) cityServed cityServed location runwayLength
+location cityServed cityServed runwayLength elevationAboveTheSeaLevel_(in_metres)
+location cityServed cityServed elevationAboveTheSeaLevel_(in_metres) runwayLength
+locationCity isPartOf country operatingOrganisation location
+location operatingOrganisation locationCity country
+location operatingOrganisation locationCity country isPartOf
+location isPartOf country elevationAboveTheSeaLevel_(in_metres) runwayLength
+location isPartOf country elevationAboveTheSeaLevel_(in_metres) runwayLength
+location isPartOf country elevationAboveTheSeaLevel_(in_metres) runwayLength
+operatingOrganisation locationCity location isPartOf country
+location isPartOf country operatingOrganisation locationCity
+elevationAboveTheSeaLevel_(in_metres) location operatingOrganisation runwayName runwayLength
+location operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName
+location operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName
+operatingOrganisation location elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+location elevationAboveTheSeaLevel_(in_metres) operatingOrganisation runwayName runwayLength
+operatingOrganisation location elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+runwayLength runwayName elevationAboveTheSeaLevel_(in_metres) location operatingOrganisation
+location operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName
+location elevationAboveTheSeaLevel_(in_metres) operatingOrganisation runwayName runwayLength
+location operatingOrganisation runwayLength elevationAboveTheSeaLevel_(in_metres) runwayName
+location runwayLength elevationAboveTheSeaLevel_(in_metres) runwayName operatingOrganisation
+location operatingOrganisation runwayName runwayLength elevationAboveTheSeaLevel_(in_metres)
+operatingOrganisation location elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+elevationAboveTheSeaLevel_(in_metres) location operatingOrganisation runwayLength runwayName
+location elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength operatingOrganisation
+operatingOrganisation elevationAboveTheSeaLevel_(in_metres) location runwayName runwayLength
+elevationAboveTheSeaLevel_(in_metres) location operatingOrganisation runwayLength runwayName
+location operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+cityServed isPartOf country isPartOf leaderName
+cityServed country leaderName isPartOf isPartOf
+cityServed isPartOf isPartOf country leaderName
+cityServed isPartOf location isPartOf operatingOrganisation
+isPartOf cityServed operatingOrganisation location isPartOf
+location cityServed isPartOf isPartOf
+location isPartOf operatingOrganisation cityServed isPartOf
+operatingOrganisation location cityServed isPartOf isPartOf
+operatingOrganisation location cityServed isPartOf isPartOf
+location isPartOf operatingOrganisation cityServed isPartOf
+cityServed isPartOf operatingOrganisation location isPartOf
+operatingOrganisation location cityServed isPartOf isPartOf
+isPartOf isPartOf location cityServed operatingOrganisation
+location cityServed isPartOf isPartOf operatingOrganisation
+location operatingOrganisation isPartOf cityServed isPartOf
+ICAO_Location_Identifier location elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+ICAO_Location_Identifier location elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+location elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName ICAO_Location_Identifier
+elevationAboveTheSeaLevel_(in_metres) location ICAO_Location_Identifier runwayLength runwayName
+location ICAO_Location_Identifier runwayName elevationAboveTheSeaLevel_(in_metres) runwayLength
+ICAO_Location_Identifier location runwayName runwayLength elevationAboveTheSeaLevel_(in_metres)
+location runwayName runwayLength elevationAboveTheSeaLevel_(in_metres) ICAO_Location_Identifier
+location elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength ICAO_Location_Identifier
+runwayName runwayLength elevationAboveTheSeaLevel_(in_metres) location ICAO_Location_Identifier
+location ICAO_Location_Identifier elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName
+leaderName isPartOf isPartOf location IATA_Location_Identifier
+leaderName isPartOf isPartOf location IATA_Location_Identifier
+location IATA_Location_Identifier isPartOf isPartOf leaderName
+leaderName isPartOf isPartOf location elevationAboveTheSeaLevel_(in_metres)
+leaderName isPartOf isPartOf location elevationAboveTheSeaLevel_(in_metres)
+location isPartOf isPartOf elevationAboveTheSeaLevel_(in_metres) leaderName
+location operatingOrganisation ICAO_Location_Identifier elevationAboveTheSeaLevel_(in_metres) runwayLength
+location elevationAboveTheSeaLevel_(in_metres) runwayLength ICAO_Location_Identifier operatingOrganisation
+operatingOrganisation location leaderName leaderName transportAircraft
+leaderName leaderName location operatingOrganisation transportAircraft
+location operatingOrganisation transportAircraft leaderName leaderName
+leaderName isPartOf isPartOf location operatingOrganisation
+location operatingOrganisation isPartOf isPartOf leaderName
+location leaderName operatingOrganisation isPartOf isPartOf
+location operatingOrganisation ICAO_Location_Identifier elevationAboveTheSeaLevel_(in_metres) runwayLength
+location operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayLength ICAO_Location_Identifier
+location isPartOf isPartOf runwayLength leaderName
+location isPartOf isPartOf runwayLength leaderName
+location isPartOf isPartOf operatingOrganisation transportAircraft
+location operatingOrganisation isPartOf isPartOf transportAircraft
+location isPartOf isPartOf operatingOrganisation transportAircraft
+transportAircraft operatingOrganisation location isPartOf leaderName
+operatingOrganisation location leaderName isPartOf transportAircraft
+location leaderName isPartOf operatingOrganisation transportAircraft
+location isPartOf isPartOf leaderName operatingOrganisation
+leaderName isPartOf location operatingOrganisation transportAircraft
+leaderName isPartOf location operatingOrganisation transportAircraft
+leaderName isPartOf location operatingOrganisation transportAircraft
+location elevationAboveTheSeaLevel_(in_metres) operatingOrganisation runwayLength ICAO_Location_Identifier
+location operatingOrganisation ICAO_Location_Identifier elevationAboveTheSeaLevel_(in_metres) runwayLength
+location operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayLength ICAO_Location_Identifier
+location operatingOrganisation runwayName runwayLength ICAO_Location_Identifier
+location operatingOrganisation ICAO_Location_Identifier runwayName runwayLength
+location operatingOrganisation ICAO_Location_Identifier runwayName runwayLength
+operatingOrganisation location ICAO_Location_Identifier runwayName runwayLength
+operatingOrganisation location ICAO_Location_Identifier runwayName runwayLength
+operatingOrganisation location ICAO_Location_Identifier runwayName runwayLength
+location operatingOrganisation ICAO_Location_Identifier runwayName runwayLength
+operatingOrganisation location ICAO_Location_Identifier runwayName runwayLength
+operatingOrganisation location ICAO_Location_Identifier runwayLength runwayName
+operatingOrganisation location ICAO_Location_Identifier runwayLength runwayName
+location operatingOrganisation ICAO_Location_Identifier runwayName runwayLength
+location operatingOrganisation runwayName runwayLength ICAO_Location_Identifier
+location ICAO_Location_Identifier operatingOrganisation runwayLength
+operatingOrganisation location ICAO_Location_Identifier runwayName runwayLength
+operatingOrganisation location runwayName ICAO_Location_Identifier runwayLength
+location operatingOrganisation ICAO_Location_Identifier runwayName runwayLength
+location operatingOrganisation runwayName runwayLength ICAO_Location_Identifier
+battles operatingOrganisation attackAircraft aircraftFighter transportAircraft
+operatingOrganisation battles transportAircraft aircraftFighter attackAircraft
+operatingOrganisation battles attackAircraft aircraftFighter transportAircraft
+battles operatingOrganisation attackAircraft aircraftFighter
+operatingOrganisation battles attackAircraft transportAircraft aircraftFighter
+operatingOrganisation battles battles attackAircraft transportAircraft
+transportAircraft operatingOrganisation battles battles
+operatingOrganisation attackAircraft battles battles
+attackAircraft transportAircraft aircraftFighter battles operatingOrganisation
+operatingOrganisation attackAircraft transportAircraft aircraftFighter battles
+operatingOrganisation battles aircraftFighter transportAircraft attackAircraft
+operatingOrganisation transportAircraft attackAircraft aircraftFighter battles
+operatingOrganisation attackAircraft transportAircraft aircraftFighter battles
+operatingOrganisation battles attackAircraft transportAircraft aircraftFighter
+operatingOrganisation transportAircraft attackAircraft battles battles
+operatingOrganisation battles battles attackAircraft transportAircraft
+operatingOrganisation battles battles transportAircraft attackAircraft
+attackAircraft transportAircraft battles operatingOrganisation
+operatingOrganisation battles battles transportAircraft attackAircraft
+operatingOrganisation battles battles attackAircraft
+operatingOrganisation transportAircraft aircraftFighter attackAircraft battles
+operatingOrganisation attackAircraft transportAircraft aircraftFighter battles
+operatingOrganisation battles attackAircraft transportAircraft aircraftFighter
+operatingOrganisation battles attackAircraft transportAircraft aircraftFighter
+operatingOrganisation battles attackAircraft transportAircraft aircraftFighter
+operatingOrganisation attackAircraft transportAircraft aircraftFighter battles
+battles battles operatingOrganisation attackAircraft transportAircraft
+operatingOrganisation battles battles attackAircraft transportAircraft
+operatingOrganisation battles battles attackAircraft transportAircraft
+operatingOrganisation battles battles attackAircraft transportAircraft
+operatingOrganisation battles battles attackAircraft transportAircraft
+operatingOrganisation battles battles attackAircraft transportAircraft
+location isPartOf country elevationAboveTheSeaLevel_(in_metres) runwayLength
+elevationAboveTheSeaLevel_(in_metres) location isPartOf country runwayLength
+location isPartOf country elevationAboveTheSeaLevel_(in_metres) runwayLength
+operatingOrganisation location locationCity country
+location isPartOf country operatingOrganisation locationCity
+location operatingOrganisation locationCity country
+locationCity operatingOrganisation location isPartOf country
+location country operatingOrganisation locationCity
+cityServed elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength 1st_runway_SurfaceType
+elevationAboveTheSeaLevel_(in_metres) cityServed 1st_runway_SurfaceType runwayLength runwayName
+cityServed elevationAboveTheSeaLevel_(in_metres) 1st_runway_SurfaceType runwayLength runwayName
+cityServed elevationAboveTheSeaLevel_(in_metres) 1st_runway_SurfaceType runwayLength runwayName
+cityServed elevationAboveTheSeaLevel_(in_metres) 1st_runway_SurfaceType runwayLength runwayName
+cityServed elevationAboveTheSeaLevel_(in_metres) 1st_runway_SurfaceType runwayName runwayLength
+cityServed elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName 1st_runway_SurfaceType
+cityServed elevationAboveTheSeaLevel_(in_metres) 1st_runway_SurfaceType runwayLength runwayName
+elevationAboveTheSeaLevel_(in_metres) cityServed 1st_runway_SurfaceType runwayName runwayLength
+cityServed elevationAboveTheSeaLevel_(in_metres) 1st_runway_SurfaceType runwayLength runwayName
+cityServed elevationAboveTheSeaLevel_(in_metres) 1st_runway_SurfaceType runwayName runwayLength
+cityServed elevationAboveTheSeaLevel_(in_metres) 1st_runway_SurfaceType runwayLength runwayName
+cityServed elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength 1st_runway_SurfaceType
+cityServed elevationAboveTheSeaLevel_(in_metres) 1st_runway_SurfaceType runwayLength runwayName
+cityServed location operatingOrganisation runwayName runwayLength
+operatingOrganisation location cityServed runwayLength runwayName
+location cityServed operatingOrganisation runwayName runwayLength
+operatingOrganisation location cityServed runwayName runwayLength
+cityServed location operatingOrganisation runwayName runwayLength
+operatingOrganisation cityServed location runwayName runwayLength
+cityServed operatingOrganisation location runwayName runwayLength
+cityServed location operatingOrganisation runwayLength runwayName
+location operatingOrganisation cityServed runwayName runwayLength
+location operatingOrganisation cityServed runwayName runwayLength
+operatingOrganisation cityServed location runwayName runwayLength
+cityServed location operatingOrganisation runwayLength runwayName
+runwayName runwayLength location cityServed operatingOrganisation
+operatingOrganisation location cityServed runwayName runwayLength
+runwayName runwayLength location cityServed operatingOrganisation
+cityServed location operatingOrganisation runwayLength runwayName
+operatingOrganisation location cityServed runwayName runwayLength
+location cityServed operatingOrganisation country leaderName
+cityServed location operatingOrganisation country leaderName
+leaderName country location cityServed operatingOrganisation
+operatingOrganisation cityServed location country leaderName
+location operatingOrganisation leaderName cityServed country
+cityServed country operatingOrganisation location leaderName
+operatingOrganisation cityServed location country leaderName
+operatingOrganisation location cityServed country leaderName
+operatingOrganisation cityServed location country leaderName
+operatingOrganisation location leaderName cityServed country
+operatingOrganisation cityServed location country leaderName
+location operatingOrganisation cityServed country leaderName
+operatingOrganisation location leaderName country cityServed
+operatingOrganisation location cityServed country leaderName
+leaderName country cityServed location operatingOrganisation
+leaderName country cityServed location operatingOrganisation
+leaderName country cityServed operatingOrganisation location
+operatingOrganisation cityServed location country leaderName
+leaderName country location cityServed operatingOrganisation
+leaderName country location cityServed operatingOrganisation
+operatingOrganisation cityServed location country leaderName
+leaderName country cityServed location operatingOrganisation
+cityServed location operatingOrganisation country leaderName
+location cityServed operatingOrganisation country leaderName
+location operatingOrganisation cityServed country leaderName
+location operatingOrganisation cityServed country leaderName
+cityServed country operatingOrganisation location leaderName
+location country cityServed elevationAboveTheSeaLevel_(in_metres) runwayLength
+cityServed runwayLength elevationAboveTheSeaLevel_(in_metres) location country
+location cityServed country elevationAboveTheSeaLevel_(in_metres) runwayLength
+elevationAboveTheSeaLevel_(in_metres) location cityServed runwayName runwayLength
+cityServed location elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+location cityServed runwayLength runwayName elevationAboveTheSeaLevel_(in_metres)
+cityServed location country elevationAboveTheSeaLevel_(in_metres) runwayLength
+cityServed country location elevationAboveTheSeaLevel_(in_metres) runwayLength
+location cityServed country elevationAboveTheSeaLevel_(in_metres) runwayLength
+location cityServed country runwayLength elevationAboveTheSeaLevel_(in_metres)
+elevationAboveTheSeaLevel_(in_metres) location cityServed country runwayLength
+cityServed location country runwayLength elevationAboveTheSeaLevel_(in_metres)
+location elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName
+location runwayName runwayLength cityServed elevationAboveTheSeaLevel_(in_metres)
+elevationAboveTheSeaLevel_(in_metres) location runwayName runwayLength cityServed
+location runwayLength elevationAboveTheSeaLevel_(in_metres) runwayName
+cityServed location runwayName runwayLength elevationAboveTheSeaLevel_(in_metres)
+location cityServed elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName
+runwayName elevationAboveTheSeaLevel_(in_metres) runwayLength cityServed location
+location elevationAboveTheSeaLevel_(in_metres) cityServed runwayLength runwayName
+cityServed location runwayName runwayLength elevationAboveTheSeaLevel_(in_metres)
+location elevationAboveTheSeaLevel_(in_metres) cityServed runwayLength runwayName
+cityServed location elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+elevationAboveTheSeaLevel_(in_metres) cityServed location runwayLength runwayName
+location runwayName runwayLength cityServed elevationAboveTheSeaLevel_(in_metres)
+location cityServed elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+cityServed location elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName
+location cityServed elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+cityServed location runwayLength elevationAboveTheSeaLevel_(in_metres) runwayName
+cityServed location runwayName runwayLength elevationAboveTheSeaLevel_(in_metres)
+location elevationAboveTheSeaLevel_(in_metres) cityServed runwayName runwayLength
+location country capital language demonym
+location country capital language demonym
+location country demonym language capital
+location country capital demonym language
+location country language capital demonym
+location country demonym language capital
+location country language capital demonym
+location country capital demonym language
+country location capital language demonym
+location country capital demonym language
+location largestCity capital demonym language
+location language largestCity demonym capital
+country location demonym largestCity capital
+country capital largestCity location demonym
+capital largestCity location demonym
+country demonym capital largestCity location
+location largestCity capital country demonym
+location largestCity capital country demonym
+location country language capital largestCity
+location country capital largestCity language
+location country capital largestCity language
+location capital largestCity demonym
+location demonym language largestCity capital
+location largestCity capital demonym language
+largestCity capital location language demonym
+location capital largestCity demonym language
+cityServed elevationAboveTheSeaLevel_(in_metres) location runwayName runwayLength
+cityServed elevationAboveTheSeaLevel_(in_metres) location runwayName runwayLength
+location cityServed runwayName runwayLength elevationAboveTheSeaLevel_(in_metres)
+location cityServed elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+elevationAboveTheSeaLevel_(in_metres) location cityServed runwayName runwayLength
+cityServed location elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+location elevationAboveTheSeaLevel_(in_metres) cityServed runwayName runwayLength
+elevationAboveTheSeaLevel_(in_metres) cityServed location isPartOf country
+elevationAboveTheSeaLevel_(in_metres) location isPartOf cityServed
+location isPartOf elevationAboveTheSeaLevel_(in_metres) cityServed country
+location isPartOf country elevationAboveTheSeaLevel_(in_metres) runwayLength
+location country isPartOf runwayLength elevationAboveTheSeaLevel_(in_metres)
+operatingOrganisation owner cityServed elevationAboveTheSeaLevel_(in_metres) runwayLength
+owner operatingOrganisation runwayLength cityServed elevationAboveTheSeaLevel_(in_metres)
+cityServed owner operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayLength
+cityServed isPartOf location isPartOf country
+cityServed location country isPartOf isPartOf
+location cityServed isPartOf isPartOf country
+location cityServed elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName
+cityServed location elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName
+elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName location cityServed
+location cityServed elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName
+cityServed location elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+location cityServed runwayLength elevationAboveTheSeaLevel_(in_metres)
+location cityServed elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+location country cityServed isPartOf isPartOf
+location country cityServed isPartOf isPartOf
+location isPartOf country cityServed isPartOf
+location cityServed country isPartOf isPartOf
+isPartOf country location cityServed isPartOf
+cityServed location isPartOf isPartOf country
+cityServed location isPartOf isPartOf
+location country cityServed isPartOf isPartOf
+cityServed location country isPartOf isPartOf
+cityServed location country isPartOf isPartOf
+location isPartOf country cityServed isPartOf
+location country cityServed isPartOf isPartOf
+location cityServed isPartOf isPartOf country
+cityServed location isPartOf isPartOf country
+location country cityServed isPartOf isPartOf
+cityServed country location isPartOf isPartOf
+cityServed location country isPartOf isPartOf
+location country cityServed isPartOf isPartOf
+isPartOf isPartOf country location cityServed
+location isPartOf isPartOf country
+cityServed location isPartOf isPartOf country
+cityServed location isPartOf isPartOf country
+cityServed location isPartOf isPartOf country
+isPartOf isPartOf country location cityServed
+cityServed location isPartOf isPartOf country
+cityServed location country isPartOf isPartOf
+location isPartOf country cityServed isPartOf
+cityServed location isPartOf isPartOf country
+operatingOrganisation 3rd_runway_SurfaceType elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+elevationAboveTheSeaLevel_(in_metres) operatingOrganisation 3rd_runway_SurfaceType runwayLength runwayName
+operatingOrganisation elevationAboveTheSeaLevel_(in_metres) 3rd_runway_SurfaceType runwayName runwayLength
+operatingOrganisation elevationAboveTheSeaLevel_(in_metres) 3rd_runway_SurfaceType runwayName runwayLength
+operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength 3rd_runway_SurfaceType
+3rd_runway_SurfaceType class division order order
+3rd_runway_SurfaceType order order division class
+3rd_runway_SurfaceType division class order order
+operatingOrganisation elevationAboveTheSeaLevel_(in_metres) 3rd_runway_SurfaceType runwayLength runwayName
+operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength 3rd_runway_SurfaceType
+operatingOrganisation elevationAboveTheSeaLevel_(in_metres) 3rd_runway_SurfaceType runwayName runwayLength
+3rd_runway_SurfaceType operatingOrganisation runwayLength runwayName elevationAboveTheSeaLevel_(in_metres)
+runwayName 3rd_runway_SurfaceType runwayLength elevationAboveTheSeaLevel_(in_metres) operatingOrganisation
+operatingOrganisation elevationAboveTheSeaLevel_(in_metres) 3rd_runway_SurfaceType runwayName runwayLength
+operatingOrganisation elevationAboveTheSeaLevel_(in_metres) 3rd_runway_SurfaceType runwayName runwayLength
+operatingOrganisation runwayName runwayLength elevationAboveTheSeaLevel_(in_metres) 3rd_runway_SurfaceType
+operatingOrganisation elevationAboveTheSeaLevel_(in_metres) location runwayName runwayLength
+location operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName
+operatingOrganisation location elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName
+runwayName runwayLength elevationAboveTheSeaLevel_(in_metres) location operatingOrganisation
+location operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+operatingOrganisation runwayName runwayLength elevationAboveTheSeaLevel_(in_metres)
+operatingOrganisation elevationAboveTheSeaLevel_(in_metres) location runwayName runwayLength
+operatingOrganisation location elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName
+location operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+location operatingOrganisation runwayLength elevationAboveTheSeaLevel_(in_metres) runwayName
+location operatingOrganisation runwayLength elevationAboveTheSeaLevel_(in_metres) runwayName
+operatingOrganisation elevationAboveTheSeaLevel_(in_metres) location runwayName runwayLength
+operatingOrganisation elevationAboveTheSeaLevel_(in_metres) location runwayLength runwayName
+location operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayLength runwayName
+headquarter headquarter hubAirport operatingOrganisation runwayLength
+operatingOrganisation headquarter headquarter runwayLength hubAirport
+operatingOrganisation hubAirport headquarter headquarter runwayLength
+headquarter headquarter operatingOrganisation runwayLength
+operatingOrganisation runwayLength headquarter headquarter hubAirport
+runwayLength operatingOrganisation headquarter hubAirport headquarter
+cityServed country leaderName leaderName demonym
+leaderName leaderName demonym country cityServed
+demonym leaderName leaderName country cityServed
+cityServed country leaderName leaderName language
+cityServed country leaderName leaderName language
+cityServed country leaderName leaderName demonym
+cityServed country leaderName leaderName demonym
+leaderName leaderName demonym country cityServed
+leaderName leaderName demonym country cityServed
+leaderName leaderName demonym country cityServed
+location cityServed isPartOf country leaderName
+cityServed country location leaderName isPartOf
+location cityServed isPartOf country leaderName
+cityServed country leaderName location isPartOf
+cityServed country location isPartOf leaderName
+location country cityServed isPartOf leaderName
+location country cityServed isPartOf leaderName
+country location isPartOf cityServed leaderName
+headquarter operatingOrganisation location country isPartOf
+headquarter operatingOrganisation location isPartOf country
+location isPartOf country operatingOrganisation headquarter
+headquarter operatingOrganisation location isPartOf country
+headquarter operatingOrganisation location isPartOf country
+headquarter operatingOrganisation location isPartOf country
+operatingOrganisation ICAO_Location_Identifier elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+operatingOrganisation ICAO_Location_Identifier runwayLength elevationAboveTheSeaLevel_(in_metres) runwayName
+operatingOrganisation elevationAboveTheSeaLevel_(in_metres) ICAO_Location_Identifier runwayName runwayLength
+ICAO_Location_Identifier operatingOrganisation elevationAboveTheSeaLevel_(in_metres) runwayName runwayLength
+cityServed country leaderName leaderName
+cityServed country leaderName leaderName
+country cityServed leaderName leaderName jurisdiction
+leaderName leaderName language country cityServed
+cityServed country language leaderName leaderName
+cityServed country leaderName leaderName language
+cityServed country leaderName leaderName language
+cityServed country officialLanguage leaderName leaderName
+leaderName leaderName officialLanguage country cityServed
+country cityServed officialLanguage leaderName leaderName
+cityServed country leaderName leaderName language
+leaderName leaderName language country cityServed
+cityServed country leaderName leaderName language
+leaderName leaderName country cityServed
+leaderName cityServed
+leaderName jurisdiction country leaderName cityServed
+cityServed leaderName country leaderName
+elevationAboveTheSeaLevel_(in_metres) location isPartOf isPartOf country
+elevationAboveTheSeaLevel_(in_metres) location isPartOf isPartOf country
+elevationAboveTheSeaLevel_(in_metres) location isPartOf country isPartOf
+elevationAboveTheSeaLevel_(in_feet) location isPartOf isPartOf country
+elevationAboveTheSeaLevel_(in_feet) location isPartOf isPartOf country
+elevationAboveTheSeaLevel_(in_feet) location isPartOf isPartOf country
+runwaySurfaceType location isPartOf isPartOf country
+runwaySurfaceType location isPartOf isPartOf country
+location isPartOf country operatingOrganisation headquarter
+headquarter operatingOrganisation location isPartOf country
+operatingOrganisation headquarter location isPartOf country
+headquarter operatingOrganisation location isPartOf country
+operatingOrganisation headquarter location isPartOf country
+headquarter operatingOrganisation location isPartOf country
+location isPartOf country runwayLength
+isPartOf isPartOf location runwayLength
+isPartOf isPartOf country location runwayLength
+runwayLength location isPartOf isPartOf country
+location isPartOf isPartOf runwayName
+runwayName location isPartOf isPartOf country
+location isPartOf country runwayName
+runwayName location isPartOf isPartOf country
+runwayName location isPartOf isPartOf country
+isPartOf isPartOf country location runwayName
+isPartOf isPartOf country cityServed cityServed
+cityServed cityServed isPartOf isPartOf
+isPartOf isPartOf country cityServed cityServed
+location isPartOf operatingOrganisation aircraftHelicopter transportAircraft
+operatingOrganisation location isPartOf transportAircraft aircraftHelicopter
+location isPartOf operatingOrganisation aircraftHelicopter transportAircraft
+leaderName isPartOf location operatingOrganisation aircraftHelicopter
+location leaderName isPartOf operatingOrganisation aircraftHelicopter
+operatingOrganisation aircraftHelicopter location isPartOf leaderName
+cityServed country language leaderName leaderName
+cityServed country leaderName leaderName language
+cityServed country language leaderName leaderName
+cityServed country leaderName leaderName currency
+cityServed country leaderName leaderName currency
+leaderName currency country cityServed leaderName
+cityServed country leaderName leaderName officialLanguage
+cityServed country leaderName officialLanguage leaderName
+country cityServed leaderName leaderName officialLanguage
+location isPartOf country runwayLength elevationAboveTheSeaLevel_(in_metres)
+location country isPartOf runwayLength elevationAboveTheSeaLevel_(in_metres)
+location isPartOf country runwayLength elevationAboveTheSeaLevel_(in_metres)
+locationCity isPartOf operatingOrganisation location country
+location country operatingOrganisation locationCity isPartOf
+location country operatingOrganisation locationCity isPartOf
+country isPartOf locationCity operatingOrganisation location
+location operatingOrganisation locationCity country
+isPartOf country locationCity operatingOrganisation location
+locationCity operatingOrganisation location isPartOf country
+location operatingOrganisation locationCity isPartOf country
+country location operatingOrganisation locationCity
+operatingOrganisation locationCity location country
+operatingOrganisation location country
+location operatingOrganisation locationCity country
+isPartOf country locationCity operatingOrganisation location
+1st_runway_SurfaceType order order division class
+1st_runway_SurfaceType class division order order
+1st_runway_SurfaceType division order class order
+2nd_runway_SurfaceType division class order order
+2nd_runway_SurfaceType order class division order
+division 2nd_runway_SurfaceType class order order
+elevationAboveTheSeaLevel_(in_metres) location isPartOf country runwayLength
+location isPartOf country elevationAboveTheSeaLevel_(in_metres) runwayLength
+location country isPartOf elevationAboveTheSeaLevel_(in_metres) runwayLength
+locationCity operatingOrganisation location isPartOf country
+locationCity operatingOrganisation location isPartOf country
+location country isPartOf operatingOrganisation locationCity
+cityServed cityServed isPartOf isPartOf country
+country isPartOf cityServed cityServed isPartOf
+isPartOf isPartOf cityServed cityServed
+cityServed cityServed country isPartOf isPartOf
+cityServed isPartOf cityServed isPartOf country
+cityServed isPartOf cityServed country isPartOf
+cityServed isPartOf cityServed isPartOf country
+cityServed cityServed isPartOf isPartOf country
+cityServed cityServed isPartOf isPartOf country
+birthDate almaMater was_selected_by_NASA nationality birthPlace
+nationality birthDate birthPlace almaMater was_selected_by_NASA
+birthPlace birthDate almaMater was_selected_by_NASA
+nationality birthPlace almaMater occupation was_a_crew_member_of
+nationality occupation birthPlace almaMater was_a_crew_member_of
+birthPlace nationality was_a_crew_member_of occupation almaMater
+nationality birthDate birthPlace almaMater occupation
+nationality occupation birthDate birthPlace almaMater
+nationality occupation birthDate birthPlace almaMater
+birthPlace birthDate occupation status
+birthDate birthPlace nationality occupation status
+nationality birthPlace birthDate
+nationality birthPlace birthDate occupation was_a_crew_member_of
+nationality occupation birthDate birthPlace was_a_crew_member_of
+birthDate birthPlace occupation was_a_crew_member_of
+nationality birthPlace occupation was_a_crew_member_of timeInSpace
+nationality birthPlace occupation was_a_crew_member_of timeInSpace
+nationality birthPlace occupation was_a_crew_member_of timeInSpace
+nationality birthPlace was_selected_by_NASA was_a_crew_member_of status
+birthPlace was_selected_by_NASA was_a_crew_member_of
+nationality birthPlace status was_selected_by_NASA was_a_crew_member_of
+status occupation was_selected_by_NASA almaMater
+birthPlace almaMater occupation was_selected_by_NASA status
+birthPlace almaMater occupation was_selected_by_NASA was_a_crew_member_of
+almaMater birthPlace occupation was_selected_by_NASA was_a_crew_member_of
+birthPlace almaMater occupation was_a_crew_member_of was_selected_by_NASA
+birthDate birthPlace occupation was_a_crew_member_of status
+birthPlace birthDate occupation was_a_crew_member_of status
+birthPlace birthDate occupation was_a_crew_member_of status
+birthDate birthPlace occupation was_selected_by_NASA was_a_crew_member_of
+birthPlace birthDate occupation was_selected_by_NASA was_a_crew_member_of
+was_a_crew_member_of birthName timeInSpace operator commander
+birthName was_a_crew_member_of operator commander timeInSpace
+birthName was_a_crew_member_of operator commander timeInSpace
+birthDate was_a_crew_member_of operator status commander
+birthDate was_a_crew_member_of operator commander status
+status birthDate was_a_crew_member_of operator commander
+almaMater was_selected_by_NASA was_a_crew_member_of operator commander
+was_a_crew_member_of operator commander was_selected_by_NASA almaMater
+was_a_crew_member_of operator commander almaMater was_selected_by_NASA
+birthPlace almaMater awards dateOfRetirement deathPlace
+birthPlace almaMater awards dateOfRetirement deathPlace
+birthPlace almaMater awards dateOfRetirement deathPlace
+nationality birthDate birthPlace deathPlace
+birthDate birthPlace almaMater deathPlace
+nationality birthDate birthPlace almaMater deathPlace
+nationality birthPlace was_selected_by_NASA almaMater deathPlace
+deathPlace nationality birthPlace almaMater was_selected_by_NASA
+nationality birthPlace almaMater was_selected_by_NASA deathPlace
+birthPlace almaMater was_selected_by_NASA occupation deathPlace
+birthPlace almaMater was_selected_by_NASA occupation deathPlace
+birthPlace almaMater occupation was_selected_by_NASA deathPlace
+birthPlace almaMater was_a_crew_member_of operator deathPlace
+almaMater was_a_crew_member_of operator birthPlace deathPlace
+birthPlace deathPlace almaMater was_a_crew_member_of operator
+birthPlace deathPlace almaMater awards higher
+birthPlace almaMater awards higher deathPlace
+nationality birthPlace birthDate dateOfRetirement deathPlace
+birthDate birthPlace deathPlace nationality dateOfRetirement
+nationality birthDate birthPlace dateOfRetirement deathPlace
+birthPlace birthDate occupation was_selected_by_NASA deathPlace
+birthDate birthPlace occupation was_selected_by_NASA deathPlace
+birthPlace occupation dateOfRetirement awards higher
+birthPlace occupation awards higher dateOfRetirement
+dateOfRetirement birthPlace occupation awards higher
+birthPlace birthDate almaMater deathPlace
+birthDate birthPlace almaMater deathPlace
+birthDate birthPlace deathPlace almaMater
+birthDate birthPlace was_selected_by_NASA deathPlace
+birthPlace birthDate was_selected_by_NASA deathPlace
+birthDate birthPlace deathPlace status was_selected_by_NASA
+birthPlace was_selected_by_NASA was_a_crew_member_of deathPlace
+birthPlace was_selected_by_NASA was_a_crew_member_of deathPlace
+birthPlace was_selected_by_NASA was_a_crew_member_of deathPlace
+birthPlace was_selected_by_NASA awards higher
+status birthPlace was_selected_by_NASA awards higher
+birthPlace was_selected_by_NASA awards higher status
+birthPlace was_a_crew_member_of operator dateOfRetirement
+birthPlace occupation was_a_crew_member_of operator dateOfRetirement
+birthPlace occupation was_a_crew_member_of operator dateOfRetirement
+nationality was_a_crew_member_of operator backup_pilot commander
+nationality was_a_crew_member_of operator commander backup_pilot
+was_a_crew_member_of operator backup_pilot commander
+almaMater was_a_crew_member_of operator backup_pilot status
+almaMater was_a_crew_member_of operator backup_pilot status
+birthPlace was_a_crew_member_of operator commander backup_pilot
+operator commander backup_pilot was_a_crew_member_of birthPlace
+birthPlace was_a_crew_member_of operator commander backup_pilot
+birthPlace representative was_a_crew_member_of commander backup_pilot
+birthPlace representative was_a_crew_member_of commander backup_pilot
+was_a_crew_member_of operator crewMembers birthPlace representative
+operator crewMembers was_a_crew_member_of birthPlace representative
+operator crewMembers was_a_crew_member_of birthPlace representative
+birthDate alternativeNames almaMater occupation was_a_crew_member_of
+alternativeNames birthDate almaMater occupation was_a_crew_member_of
+alternativeNames birthDate almaMater occupation was_a_crew_member_of
+nationality birthPlace birthDate almaMater status
+status nationality birthDate birthPlace almaMater
+status nationality birthDate birthPlace almaMater
+birthPlace birthDate was_a_crew_member_of
+nationality birthDate birthPlace status was_a_crew_member_of
+nationality birthDate birthPlace was_a_crew_member_of
+nationality birthPlace almaMater occupation was_a_crew_member_of
+nationality birthPlace almaMater occupation was_a_crew_member_of
+nationality occupation was_a_crew_member_of birthPlace almaMater
+nationality birthPlace almaMater was_selected_by_NASA was_a_crew_member_of
+birthPlace almaMater was_selected_by_NASA was_a_crew_member_of
+birthPlace nationality was_selected_by_NASA was_a_crew_member_of status
+birthPlace nationality was_selected_by_NASA was_a_crew_member_of status
+birthPlace birthDate almaMater was_a_crew_member_of operator
+birthPlace birthDate almaMater was_a_crew_member_of operator
+nationality birthPlace isPartOf was_a_crew_member_of operator
+nationality birthPlace isPartOf was_a_crew_member_of operator
+nationality birthPlace isPartOf was_a_crew_member_of operator
+status occupation birthPlace birthDate was_a_crew_member_of
+birthPlace birthDate occupation was_a_crew_member_of status
+birthPlace isPartOf was_a_crew_member_of backup_pilot operator
+birthPlace isPartOf was_a_crew_member_of operator backup_pilot
+birthPlace was_a_crew_member_of operator backup_pilot
+birthDate almaMater was_selected_by_NASA was_a_crew_member_of
+birthDate birthPlace almaMater was_selected_by_NASA was_a_crew_member_of
+birthDate birthPlace almaMater was_a_crew_member_of was_selected_by_NASA
+birthPlace almaMater occupation was_a_crew_member_of
+birthPlace almaMater was_selected_by_NASA occupation was_a_crew_member_of
+birthPlace birthDate was_selected_by_NASA occupation was_a_crew_member_of
+birthDate birthPlace occupation was_selected_by_NASA was_a_crew_member_of
+birthDate birthPlace was_selected_by_NASA occupation was_a_crew_member_of
+birthName awards was_a_crew_member_of backup_pilot operator
+birthName was_a_crew_member_of backup_pilot awards
+birthName was_a_crew_member_of backup_pilot awards
+was_a_crew_member_of operator nationality leaderName backup_pilot
+nationality leaderName was_a_crew_member_of operator backup_pilot
+leaderName nationality was_a_crew_member_of operator backup_pilot
+almaMater occupation was_a_crew_member_of operator backup_pilot
+almaMater occupation was_a_crew_member_of operator
+awards deathPlace
+awards deathPlace
+senators gemstone deathPlace awards higher
+birthPlace deathPlace timeInSpace awards higher
+birthPlace awards higher timeInSpace deathPlace
+birthPlace part almaMater affiliation compete_in
+compete_in affiliation almaMater birthPlace part
+birthPlace part almaMater affiliation compete_in
+birthPlace birthDate almaMater nationality
+nationality birthPlace birthDate almaMater
+birthDate birthPlace nationality almaMater deathPlace
+birthDate birthPlace almaMater was_selected_by_NASA deathPlace
+birthDate birthPlace almaMater was_selected_by_NASA deathPlace
+birthPlace almaMater occupation deathDate
+birthPlace almaMater occupation deathPlace deathDate
+deathDate birthPlace almaMater occupation deathPlace
+birthPlace almaMater nationality status
+birthPlace birthDate almaMater deathPlace
+birthDate birthPlace almaMater deathPlace
+birthPlace almaMater was_selected_by_NASA deathPlace
+birthPlace almaMater was_selected_by_NASA deathPlace
+almaMater affiliation compete_in deathPlace leaderName
+deathPlace leaderName almaMater affiliation compete_in
+birthPlace birthDate almaMater affiliations deathPlace
+deathPlace birthPlace birthDate almaMater affiliations
+birthDate birthPlace almaMater affiliations deathPlace
+nationality birthDate almaMater affiliations compete_in
+nationality birthDate almaMater affiliations compete_in
+almaMater affiliations compete_in
+birthPlace almaMater affiliations compete_in nationality
+nationality birthPlace almaMater affiliations compete_in
+nationality birthPlace almaMater affiliations compete_in
+birthPlace occupation almaMater affiliations compete_in
+birthPlace almaMater affiliations compete_in occupation
+almaMater affiliations deathPlace president leaderName
+almaMater affiliations president deathPlace leaderName
+almaMater affiliations compete_in deathPlace deathDate
+almaMater compete_in affiliations deathPlace
+almaMater compete_in affiliations deathDate
+almaMater affiliations compete_in deathPlace isPartOf
+compete_in affiliations almaMater deathPlace isPartOf
+almaMater affiliations compete_in mascot president
+president affiliations compete_in mascot almaMater
+birthPlace birthDate nationality occupation deathPlace
+birthDate birthPlace occupation nationality deathPlace
+nationality birthPlace birthDate deathPlace
+birthDate birthPlace nationality status deathPlace
+nationality birthDate birthPlace deathPlace
+birthPlace birthDate was_selected_by_NASA deathPlace
+was_selected_by_NASA birthDate birthPlace deathPlace
+was_selected_by_NASA deathPlace birthDate birthPlace
+nationality birthPlace deathPlace deathDate
+birthPlace nationality deathPlace deathDate
+deathDate birthPlace deathPlace
+nationality birthPlace deathPlace
+birthPlace occupation deathPlace
+occupation nationality birthPlace
+birthDate was_selected_by_NASA was_a_crew_member_of operator crewMembers
+birthDate was_selected_by_NASA was_a_crew_member_of operator crewMembers
+was_a_crew_member_of operator crewMembers birthDate was_selected_by_NASA
+birthDate birthPlace almaMater was_a_crew_member_of dateOfRetirement
+was_a_crew_member_of birthPlace birthDate almaMater dateOfRetirement
+dateOfRetirement birthPlace almaMater was_a_crew_member_of
+occupation birthPlace birthDate was_a_crew_member_of dateOfRetirement
+birthPlace birthDate occupation was_a_crew_member_of dateOfRetirement
+nationality occupation birthPlace birthDate dateOfRetirement
+birthDate dateOfRetirement birthPlace nationality occupation
+nationality birthPlace dateOfRetirement
+was_a_crew_member_of operator crewMembers almaMater dateOfRetirement
+almaMater was_a_crew_member_of crewMembers dateOfRetirement
+birthPlace birthDate occupation was_selected_by_NASA dateOfRetirement
+occupation was_a_crew_member_of operator crewMembers status
+occupation was_a_crew_member_of operator crewMembers status
+almaMater was_a_crew_member_of operator backup_pilot crewMembers
+almaMater was_a_crew_member_of crewMembers
+almaMater was_a_crew_member_of crewMembers operator backup_pilot
+operator backup_pilot crewMembers was_a_crew_member_of birthPlace
+birthPlace was_a_crew_member_of operator backup_pilot crewMembers
+birthPlace was_a_crew_member_of operator crewMembers backup_pilot
+nationality was_a_crew_member_of operator crewMembers backup_pilot
+nationality was_a_crew_member_of backup_pilot crewMembers
+was_a_crew_member_of operator served_as_Chief_of_the_Astronaut_Office_in timeInSpace crewMembers
+was_a_crew_member_of operator crewMembers timeInSpace served_as_Chief_of_the_Astronaut_Office_in
+birthPlace birthDate almaMater
+birthDate birthPlace almaMater occupation was_selected_by_NASA
+birthPlace almaMater was_selected_by_NASA occupation was_a_crew_member_of
+birthPlace almaMater occupation was_a_crew_member_of
+birthPlace almaMater occupation was_selected_by_NASA was_a_crew_member_of
+birthPlace status occupation was_selected_by_NASA was_a_crew_member_of
+birthPlace status occupation was_selected_by_NASA was_a_crew_member_of
+status birthPlace occupation was_selected_by_NASA was_a_crew_member_of
+location architect birthPlace floorCount completionDate
+architect birthPlace floorCount completionDate
+completionDate floorCount location architect birthPlace
+architect completionDate
+birthPlace architect completionDate location floorCount
+birthPlace architect completionDate location floorCount
+location country floorCount completionDate cost
+floorCount location country completionDate cost
+completionDate location country floorCount cost
+ethnicGroup ethnicGroup leaderName capital location
+ethnicGroup ethnicGroup leaderName location capital
+leaderName leaderName ethnicGroup capital location
+leaderName leaderName capital ethnicGroup location
+ethnicGroup location capital leaderName leaderName
+location capital ethnicGroup leaderName leaderName
+location capital leaderName leaderName ethnicGroup
+leaderName leaderName ethnicGroup capital location
+location capital leaderName leaderName ethnicGroup
+location capital leaderName leaderName ethnicGroup
+location capital leaderName ethnicGroup ethnicGroup
+location ethnicGroup ethnicGroup leaderName capital
+leaderName ethnicGroup ethnicGroup location capital
+capital leaderName ethnicGroup ethnicGroup location
+leaderName ethnicGroup ethnicGroup capital location
+location capital ethnicGroup ethnicGroup leaderName
+location isPartOf isPartOf country architect
+location isPartOf isPartOf country architect
+architect location isPartOf isPartOf country
+location isPartOf isPartOf country floorArea
+floorArea location isPartOf isPartOf country
+floorArea location isPartOf isPartOf country
+location isPartOf isPartOf country floorCount
+floorCount location isPartOf isPartOf country
+location isPartOf isPartOf country governingBody
+location isPartOf isPartOf country governingBody
+location isPartOf isPartOf country governingBody
+isPartOf country governingBody leaderName location
+location isPartOf country leaderName governingBody
+location isPartOf country governingBody leaderName
+location isPartOf isPartOf country leaderName
+location isPartOf isPartOf country leaderName
+location isPartOf isPartOf country leaderName
+location isPartOf isPartOf leaderName governingBody
+location isPartOf isPartOf governingBody leaderName
+location isPartOf isPartOf governingBody leaderName
+isPartOf country governingBody leaderName location
+location isPartOf country leaderName governingBody
+location capital leaderName leaderName leaderTitle
+location capital leaderName leaderName leaderTitle
+location capital leaderName leaderTitle leaderName
+leaderName currency location capital leaderTitle
+capital leaderTitle location leaderName currency
+leaderName capital leaderName demonym location
+capital leaderTitle leaderName location demonym
+location capital leaderTitle leaderName demonym
+capital leaderName leaderTitle demonym location
+location capital leaderTitle demonym leaderName
+leaderName demonym capital leaderTitle location
+location buildingStartDate floorCount floorArea cost
+location buildingStartDate floorCount floorArea cost
+buildingStartDate location floorCount floorArea cost
+floorCount location isPartOf country leaderName
+floorCount location isPartOf country leaderName
+leaderName isPartOf country location floorCount
+location isPartOf country floorCount leaderName
+location isPartOf country floorCount leaderName
+location isPartOf country leaderName floorCount
+location isPartOf country capital leaderName
+leaderName isPartOf country language location
+location isPartOf country leaderName language
+leaderName isPartOf country language location
+capital language isPartOf country location
+location isPartOf capital country language
+leaderName isPartOf country location floorCount
+country isPartOf leaderName location floorCount
+location isPartOf country leaderName
+floorCount location isPartOf country leaderName
+location isPartOf country floorCount leaderName
+leaderName isPartOf country location floorCount
+leaderName isPartOf country location floorCount
+location country leaderName isPartOf language
+language isPartOf country location leaderName
+location isPartOf capital country leaderName
+location leaderName isPartOf country capital
+isPartOf country leaderName location language
+location isPartOf leaderName country capital
+leaderName isPartOf country location
+location leaderName isPartOf country capital
+location isPartOf country leaderName language
+location isPartOf country language leaderName
+location leaderName isPartOf country language
+location isPartOf country language capital
+country language isPartOf capital location
+location isPartOf country capital language
+architect location height completionDate buildingType
+buildingType height completionDate location architect
+location height architect completionDate buildingType
+architect location buildingType height completionDate
+buildingType completionDate location height architect
+architect location buildingType completionDate height
+location architect completionDate height buildingType
+architect location completionDate height buildingType
+location buildingType height architect completionDate
+completionDate height location buildingType
+buildingType location architect height completionDate
+buildingType location architect completionDate height
+buildingType location architect completionDate height
+isPartOf country leaderTitle location owner
+owner location leaderTitle isPartOf country
+owner location isPartOf country leaderTitle
+owner location isPartOf country leaderName
+owner location country leaderTitle leaderName
+owner location country leaderTitle leaderName
+owner location country leaderName leaderTitle
+location country leaderTitle leaderName owner
+owner location country leaderName leaderTitle
+location owner floorCount architect tenant
+owner floorCount location architect tenant
+architect location floorCount owner tenant
+location language tenant foundationPlace keyPerson
+location language tenant foundationPlace keyPerson
+keyPerson foundationPlace tenant
+foundationPlace tenant location leaderName language
+foundationPlace tenant location leaderName language
+location tenant foundationPlace language leaderName
+foundationPlace tenant location leaderName language
+location tenant foundationPlace language leaderName
+keyPerson foundationPlace tenant location language
+location tenant foundationPlace leaderName language
+foundationPlace tenant location leaderName language
+foundationPlace tenant location leaderName
+leaderName language location tenant foundationPlace
+language leaderName location tenant foundationPlace
+leaderName language location tenant foundationPlace
+leaderName location tenant foundationPlace keyPerson
+leaderName location tenant foundationPlace keyPerson
+keyPerson foundationPlace tenant location leaderName
+location capital tenant foundationPlace leaderName
+leaderName capital location tenant foundationPlace
+capital leaderName location tenant foundationPlace
+keyPerson foundationPlace tenant location leaderName
+keyPerson foundationPlace tenant location leaderName
+owner floorCount numberOfRooms architect tenant
+architect numberOfRooms floorCount owner tenant
+architect owner floorCount numberOfRooms tenant
+location floorCount architect owner tenant
+location floorCount owner architect tenant
+location architect floorCount owner tenant
+location isPartOf architect birthPlace significantBuilding
+birthPlace architect location isPartOf significantBuilding
+birthPlace significantBuilding architect location isPartOf
+birthPlace architect significantBuilding location isPartOf
+birthPlace significantBuilding architect location isPartOf
+country demonym language language currency
+country language language demonym currency
+language language demonym currency country
+country leaderName demonym language language
+leaderName demonym language language country
+language language demonym leaderName country
+demonym leaderName currency country
+leaderName demonym currency country
+buildingType buildingStartDate completionDate height floorArea
+buildingStartDate completionDate buildingType height floorArea
+architecturalStyle buildingStartDate completionDate address location
+address architecturalStyle buildingStartDate completionDate
+location country capital leaderName currency
+location country leaderName capital currency
+location country leaderName capital language
+location country leaderName capital language
+location country capital language currency
+location country capital language currency
+currency language capital country location
+location country capital leaderName language
+location country leaderName capital language
+address architecturalStyle buildingStartDate completionDate
+buildingStartDate completionDate address location architecturalStyle
+buildingStartDate completionDate architecturalStyle address
+buildingStartDate completionDate architecturalStyle address
+location isPartOf country leaderName ethnicGroup
+location isPartOf country leaderName ethnicGroup
+location isPartOf country leaderName ethnicGroup
+leaderName ethnicGroup country location isPartOf
+ethnicGroup leaderName country location isPartOf
+location isPartOf country leaderName ethnicGroup
+ethnicGroup leaderName country location isPartOf
+location isPartOf country ethnicGroup leaderName
+ethnicGroup leaderName country location isPartOf
+ethnicGroup leaderName country location isPartOf
+ethnicGroup leaderName country location isPartOf
+location isPartOf country leaderName ethnicGroup
+location isPartOf country ethnicGroup leaderName
+location country isPartOf leaderName ethnicGroup
+location isPartOf country leaderName ethnicGroup
+location isPartOf country ethnicGroup leaderName
+ethnicGroup leaderName country location isPartOf
+location isPartOf country leaderName ethnicGroup
+ethnicGroup leaderName country location isPartOf
+location isPartOf country leaderName ethnicGroup
+location isPartOf country leaderName ethnicGroup
+location isPartOf country leaderName ethnicGroup
+location isPartOf country leaderName ethnicGroup
+location isPartOf country leaderName ethnicGroup
+ethnicGroup leaderName country location isPartOf
+location country leaderName isPartOf ethnicGroup
+architect location country owner currentTenants
+location country architect owner currentTenants
+owner address location completionDate architect
+owner address location architect completionDate
+owner architect address location completionDate
+address location architect completionDate
+owner address location architect completionDate
+location location country leaderTitle leaderName
+leaderName country location location leaderTitle
+leaderTitle location country location leaderName
+completionDate location location country address
+address location location country completionDate
+architect completionDate location location country
+location location country leaderName leaderTitle
+location location country leaderTitle leaderName
+location location country leaderTitle leaderName
+location location country leaderTitle leaderName
+location location country leaderTitle leaderName
+bedCount location region state country
+bedCount location region state country
+location region state country bedCount
+website region state country bedCount
+website bedCount region state country
+region state country bedCount website
+capital leaderName country state region
+capital country region state leaderName
+country state leaderName governingBody capital
+state leaderName country capital currency
+currency capital country state leaderName
+capital currency country state leaderName
+leaderName country location state leaderName
+location state country leaderName leaderName
+location state country leaderName leaderName
+state leaderName governingBody country leaderName
+state governingBody leaderName country leaderName
+leaderName capital country state leaderName
+leaderName capital country state leaderName
+state leaderName country leaderName currency
+leaderName currency country state leaderName
+state leaderName country leaderName currency
+state country leaderName currency capital
+leaderName capital currency country state
+state country capital currency leaderName
+birthPlace architect significantBuilding significantBuilding significantProject
+birthPlace architect significantBuilding significantBuilding significantProject
+birthPlace architect significantBuilding significantBuilding significantProject
+birthPlace significantBuilding architect significantBuilding significantProject
+birthPlace architect significantBuilding significantProject significantBuilding
+birthPlace significantBuilding architect significantBuilding significantProject
+birthPlace significantBuilding architect significantBuilding
+birthPlace architect significantBuilding significantProject significantBuilding
+architect significantBuilding significantBuilding birthPlace significantProject
+birthPlace architect significantBuilding significantProject significantBuilding
+birthPlace architect significantProject significantBuilding significantBuilding
+birthPlace significantProject architect significantBuilding significantBuilding
+yearOfConstruction location added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places architecturalStyle
+location architecturalStyle yearOfConstruction added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+yearOfConstruction architecturalStyle location added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+yearOfConstruction architecturalStyle location added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+yearOfConstruction location added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places architecturalStyle
+location yearOfConstruction architecturalStyle added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+yearOfConstruction architecturalStyle location added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+yearOfConstruction architecturalStyle location added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+yearOfConstruction architecturalStyle location added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+yearOfConstruction location architecturalStyle added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+location architecturalStyle yearOfConstruction ReferenceNumber_in_the_National_Register_of_Historic_Places added_to_the_National_Register_of_Historic_Places
+location architecturalStyle yearOfConstruction added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+location architecturalStyle yearOfConstruction ReferenceNumber_in_the_National_Register_of_Historic_Places added_to_the_National_Register_of_Historic_Places
+yearOfConstruction architecturalStyle location added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+yearOfConstruction architecturalStyle location added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+location yearOfConstruction architecturalStyle added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+yearOfConstruction location architecturalStyle added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+location yearOfConstruction architecturalStyle added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+location yearOfConstruction architecturalStyle ReferenceNumber_in_the_National_Register_of_Historic_Places added_to_the_National_Register_of_Historic_Places
+yearOfConstruction architecturalStyle location added_to_the_National_Register_of_Historic_Places ReferenceNumber_in_the_National_Register_of_Historic_Places
+location country isPartOf isPartOf leaderName
+location isPartOf isPartOf country leaderName
+location country isPartOf leaderName isPartOf
+location isPartOf country leaderName isPartOf
+isPartOf isPartOf country location leaderName
+location isPartOf isPartOf country leaderName
+location isPartOf country isPartOf leaderName
+location isPartOf country isPartOf leaderName
+location country isPartOf isPartOf leaderName
+location country isPartOf isPartOf leaderName
+location country isPartOf leaderName isPartOf
+location isPartOf country isPartOf leaderName
+location country isPartOf isPartOf leaderName
+isPartOf isPartOf leaderName country location
+governingBody leaderName postalCode hometown architect
+leaderName governingBody postalCode hometown architect
+birthPlace architect postalCode leaderName governingBody
+postalCode leaderName governingBody birthPlace architect
+postalCode architect birthPlace governingBody leaderName
+architect birthPlace postalCode leaderName governingBody
+governingBody leaderName birthPlace architect postalCode
+governingBody leaderName postalCode hometown architect
+hometown architect postalCode governingBody leaderName
+governingBody leaderName postalCode hometown architect
+postalCode leaderName governingBody hometown architect
+postalCode governingBody leaderName hometown architect
+postalCode leaderName governingBody hometown architect
+architect hometown postalCode leaderName governingBody
+postalCode governingBody leaderName hometown architect
+architect hometown postalCode governingBody leaderName
+governingBody leaderName postalCode hometown architect
+postalCode governingBody leaderName hometown architect
+architect hometown postalCode governingBody leaderName
+governingBody postalCode leaderName hometown architect
+architect hometown leaderName postalCode governingBody
+language leaderName country isPartOf location
+isPartOf location country language leaderName
+isPartOf location country leaderName language
+leaderName language country isPartOf location
+language leaderName leaderName country location
+location country language leaderName leaderName
+language leaderName leaderName country location
+location isPartOf country language leaderName
+isPartOf location country language leaderName
+language leaderName country location isPartOf
+country location isPartOf leaderName language
+location isPartOf country leaderName language
+location country isPartOf leaderName leaderName
+location isPartOf country leaderName leaderName
+location isPartOf country leaderName leaderName
+location country language leaderName leaderName
+leaderName leaderName language country location
+leaderName leaderName country location language
+location isPartOf country leaderName ethnicGroup
+location isPartOf country leaderName ethnicGroup
+location isPartOf country leaderName ethnicGroup
+leaderTitle leaderName capital currency location
+location capital leaderName currency leaderTitle
+leaderName capital leaderName leaderTitle location
+capital leaderTitle leaderName leaderName location
+capital leaderTitle leaderName location demonym
+location capital leaderName leaderTitle demonym
+demonym leaderName location capital leaderTitle
+leaderName demonym capital leaderTitle location
+country leaderName demonym language currency
+country language demonym leaderName currency
+capital location leaderName leaderName
+leaderName leaderName leaderTitle capital location
+location capital leaderTitle leaderName leaderName
+leaderTitle leaderName leaderName location capital
+capital leaderTitle leaderName leaderName location
+leaderName leaderTitle leaderName capital location
+location capital leaderTitle leaderName leaderName
+capital leaderTitle leaderName leaderName location
+leaderTitle leaderName language ethnicGroup location
+location leaderTitle leaderName language ethnicGroup
+location language ethnicGroup leaderName leaderTitle
+location language ethnicGroup leaderTitle leaderName
+location leaderName ethnicGroup language leaderTitle
+language leaderTitle leaderName ethnicGroup location
+location language ethnicGroup leaderTitle leaderName
+ethnicGroup language leaderName leaderTitle location
+location leaderTitle leaderName language ethnicGroup
+location language leaderName leaderTitle ethnicGroup
+location language ethnicGroup leaderTitle leaderName
+leaderName leaderTitle location language ethnicGroup
+ethnicGroup language location leaderTitle leaderName
+language leaderTitle ethnicGroup location leaderName
+broadcastedBy firstAired lastAired starring creator
+broadcastedBy firstAired lastAired creator starring
+broadcastedBy firstAired lastAired starring creator
+broadcastedBy firstAired lastAired creator starring
+broadcastedBy firstAired lastAired creator starring
+broadcastedBy firstAired lastAired creator starring
+broadcastedBy firstAired lastAired creator starring
+broadcastedBy firstAired lastAired creator starring
+broadcastedBy firstAired lastAired creator starring
+broadcastedBy firstAired lastAired creator starring
+broadcastedBy firstAired lastAired creator starring
+broadcastedBy firstAired lastAired creator starring
+creator broadcastedBy starring firstAired lastAired
+broadcastedBy firstAired lastAired creator starring
+broadcastedBy firstAired lastAired creator starring
+broadcastedBy firstAired lastAired creator starring
+broadcastedBy firstAired lastAired creator starring
+broadcastedBy firstAired lastAired creator starring
+broadcastedBy firstAired lastAired creator starring
+creator nationality creator series starring
+series starring creator creator nationality
+series creator nationality creator starring
+series creator nationality creator starring
+series starring creator creator nationality
+series starring creator creator nationality
+creator creator nationality series starring
+series starring creator nationality creator
+series creator nationality creator starring
+series creator creator nationality starring
+creator nationality creator series starring
+alternativeName mainIngredients region country
+alternativeName region country mainIngredients
+mainIngredients alternativeName region country
+country mainIngredients region alternativeName
+alternativeName region country mainIngredients
+alternativeName region country mainIngredients
+alternativeName region country mainIngredients
+alternativeName region country mainIngredients
+alternativeName mainIngredients region country
+family order order division ingredient
+ingredient division family order
+ingredient family division
+ingredient region leaderName country leaderName
+country leaderName region leaderName ingredient
+region country leaderName leaderName
+region country mainIngredients
+region country mainIngredients
+country region mainIngredients
+region country course ingredient mainIngredients
+region country ingredient mainIngredients
+mainIngredients region country
+mainIngredients course region country
+country region mainIngredients
+order family ingredient region country
+region country ingredient family order
+country region ingredient genus family
+country region ingredient genus family
+region country ingredient family genus
+course region mainIngredients
+course mainIngredients region
+mainIngredients country course region
+course region country mainIngredients
+ingredient mainIngredients region course
+mainIngredients course region country
+region country leaderName currency language
+region country currency language leaderName
+region country leaderName currency language
+language leaderName leaderName country region
+country region language leaderName
+region country leaderName language
+leaderName leaderName currency country region
+leaderName leaderName country region currency
+region country language leaderName leaderName
+region country leaderName language
+region country leaderName leaderName language
+region
+region country leaderName leaderName currency
+region country leaderName language currency
+leaderName language currency country region
+region country language leaderName currency
+country capital language leaderName leaderName
+country leaderName leaderName capital language
+country capital language leaderName leaderName
+demonym leaderName language capital country
+country leaderName capital language demonym
+language capital country leaderName
+country capital demonym leaderName leaderName
+country demonym capital leaderName leaderName
+region country dishVariation mainIngredients
+region country dishVariation mainIngredients
+region country dishVariation ingredient mainIngredients
+region country mainIngredients dishVariation
+country mainIngredients dishVariation
+region country leaderName leaderName demonym
+region leaderName country leaderName demonym
+country ethnicGroup leaderName
+region leaderName country leaderName ethnicGroup
+region country leaderName ethnicGroup leaderName
+leaderName region country currency leaderName
+country region leaderName leaderName currency
+country region leaderName language leaderName
+country region leaderName language leaderName
+country leaderName language region leaderName
+leaderName country region ethnicGroup ethnicGroup
+region country leaderName ethnicGroup ethnicGroup
+country region ethnicGroup ethnicGroup
+capital ethnicGroup ethnicGroup country region
+region country ethnicGroup ethnicGroup capital
+country region capital ethnicGroup ethnicGroup
+capital ethnicGroup ethnicGroup country region
+region country capital ethnicGroup ethnicGroup
+region country capital ethnicGroup ethnicGroup
+country capital ethnicGroup ethnicGroup region
+region country capital ethnicGroup ethnicGroup
+region country capital ethnicGroup ethnicGroup
+ethnicGroup ethnicGroup capital country region
+region country capital ethnicGroup ethnicGroup
+capital ethnicGroup ethnicGroup country region
+country region capital ethnicGroup ethnicGroup
+region country ethnicGroup ethnicGroup capital
+ethnicGroup ethnicGroup leaderName country region
+region country leaderName ethnicGroup ethnicGroup
+leaderName ethnicGroup ethnicGroup country region
+leaderName ethnicGroup ethnicGroup country region
+ethnicGroup ethnicGroup leaderName country region
+region country leaderName ethnicGroup ethnicGroup
+ethnicGroup ethnicGroup leaderName country region
+ethnicGroup ethnicGroup leaderName country region
+region country leaderName ethnicGroup ethnicGroup
+leaderName ethnicGroup ethnicGroup country region
+region country ethnicGroup leaderName
+country region leaderName ethnicGroup ethnicGroup
+country region ethnicGroup capital
+region country ethnicGroup ethnicGroup capital
+capital ethnicGroup ethnicGroup country region
+region country ethnicGroup ethnicGroup
+region country leaderName ethnicGroup
+ethnicGroup ethnicGroup leaderName country region
+country region ingredient order family
+order family ingredient country region
+region country ingredient order
+family order ingredient country
+country region ingredient order family
+ethnicGroup country ingredient region
+region country servingTemperature mainIngredients
+region country mainIngredients servingTemperature
+ingredient country region servingTemperature mainIngredients
+ethnicGroup country ingredient region
+ingredient country region ethnicGroup
+region mainIngredients country ethnicGroup
+ingredient country region mainIngredients ethnicGroup
+mainIngredients region country ethnicGroup
+ethnicGroup region country ingredient
+ingredient country ethnicGroup region
+ethnicGroup region country ingredient
+ingredient region country ethnicGroup
+ingredient country region ethnicGroup
+region ethnicGroup country ingredient
+ingredient region country ethnicGroup
+country region ethnicGroup ingredient
+mainIngredients country region
+region country mainIngredients servingTemperature
+region country ingredient mainIngredients servingTemperature
+ingredient region country mainIngredients
+ingredient dishVariation dishVariation country leaderName
+dishVariation dishVariation country leaderName
+course region country mainIngredients ingredient
+ingredient mainIngredients course region country
+region course country
+course mainIngredients ingredient region country
+course ingredient mainIngredients region country
+mainIngredients ingredient country course region
+country ingredient mainIngredients course
+course country mainIngredients ingredient
+course country ingredient mainIngredients
+region country mainIngredients course
+course country mainIngredients ingredient
+course country mainIngredients mainIngredients
+mainIngredients mainIngredients course country
+region country course mainIngredients
+mainIngredients region country course
+country mainIngredients ingredient region
+region country mainIngredients ingredient
+mainIngredients ingredient region country
+country leaderName capital ethnicGroup
+country leaderName ethnicGroup capital leaderTitle
+country leaderTitle leaderName capital ethnicGroup
+capital language country leaderName ethnicGroup
+country capital leaderName ethnicGroup language
+leaderName country ethnicGroup capital leaderTitle
+country leaderTitle capital leaderName ethnicGroup
+country ethnicGroup capital leaderTitle leaderName
+country leaderName ethnicGroup language capital
+country ethnicGroup capital leaderTitle leaderName
+country leaderName leaderTitle capital ethnicGroup
+country leaderTitle capital leaderName ethnicGroup
+country leaderTitle leaderName capital ethnicGroup
+country leaderName capital language ethnicGroup
+country capital leaderName ethnicGroup
+country leaderName capital language ethnicGroup
+country ethnicGroup capital leaderName
+country leaderName language ethnicGroup capital
+country leaderName capital language ethnicGroup
+ethnicGroup leaderTitle capital leaderName country
+country leaderTitle leaderName ethnicGroup capital
+capital ethnicGroup country leaderTitle leaderName
+country leaderName ethnicGroup language capital
+country leaderName capital language ethnicGroup
+country capital language leaderName ethnicGroup
+leaderTitle leaderName country ethnicGroup capital
+country capital leaderTitle leaderName ethnicGroup
+country leaderName ethnicGroup capital leaderTitle
+country leaderName leaderTitle capital ethnicGroup
+ethnicGroup country leaderName capital language
+country capital leaderName ethnicGroup language
+country capital language leaderName ethnicGroup
+capital leaderTitle leaderName ethnicGroup country
+country leaderName ethnicGroup leaderTitle capital
+country leaderName capital ethnicGroup leaderTitle
+course mainIngredients region
+mainIngredients course region
+course region mainIngredients ingredient
+mainIngredients ingredient course region
+mainIngredients course region
+leaderName country dishVariation ingredient dishVariation
+dishVariation ingredient dishVariation country leaderName
+dishVariation ingredient dishVariation country leaderName
+dishVariation ingredient dishVariation country leaderName
+leaderName country dishVariation ingredient dishVariation
+leaderName country dishVariation ingredient dishVariation
+leaderName country dishVariation ingredient dishVariation
+leaderName country ingredient dishVariation dishVariation
+dishVariation dishVariation ingredient country leaderName
+dishVariation dishVariation ingredient country leaderName
+country leaderName ingredient dishVariation
+ingredient dishVariation dishVariation country leaderName
+country leaderName ingredient dishVariation dishVariation
+dishVariation country mainIngredients alternativeName
+country mainIngredients alternativeName dishVariation
+alternativeName mainIngredients country
+country mainIngredients alternativeName dishVariation
+ingredient country alternativeName dishVariation mainIngredients
+country alternativeName dishVariation mainIngredients
+country mainIngredients alternativeName dishVariation
+dishVariation mainIngredients country alternativeName
+country alternativeName dishVariation mainIngredients
+country dishVariation dishVariation ingredient leaderName
+dishVariation ingredient country leaderName
+country leaderName dishVariation ingredient dishVariation
+country leaderName leaderName language region
+language leaderName leaderName country region
+region country leaderName leaderName language
+country leaderName leaderName region language
+country leaderName leaderName region language
+leaderName leaderName country region
+region country leaderName leaderName language
+country leaderName leaderName region language
+language leaderName leaderName
+leaderName leaderName country region language
+country language leaderName leaderName region
+country region language leaderName leaderName
+country region leaderName leaderName language
+country region language leaderName
+country leaderName leaderName region language
+country region language leaderName
+country region leaderName leaderName language
+country leaderName region leaderName language
+country leaderName region language leaderName
+country leaderName region language leaderName
+dishVariation region course servingTemperature mainIngredients
+dishVariation region servingTemperature mainIngredients
+dishVariation course region servingTemperature mainIngredients
+region creator mainIngredients servingTemperature
+course region servingTemperature mainIngredients creator
+course servingTemperature region creator mainIngredients
+region course mainIngredients servingTemperature
+course region servingTemperature mainIngredients
+region course servingTemperature mainIngredients
+leaderName administrativeCounty region dishVariation ingredient
+leaderName administrativeCounty region dishVariation ingredient
+dishVariation region administrativeCounty ingredient leaderName
+ingredient dishVariation region administrativeCounty leaderName
+ingredient dishVariation region leaderName administrativeCounty
+leaderName administrativeCounty region dishVariation ingredient
+ingredient dishVariation region administrativeCounty leaderName
+dishVariation ingredient region administrativeCounty leaderName
+leaderName isPartOf region dishVariation ingredient
+ingredient dishVariation region isPartOf leaderName
+dishVariation region isPartOf leaderName ingredient
+dishVariation ingredient region isPartOf leaderName
+country region ingredient genus family
+genus family ingredient country region
+ingredient genus family region country
+family genus ingredient country region
+country region ingredient genus family
+country ingredient region family genus
+region country ingredient genus family
+region country ingredient family order
+ingredient order family region country
+family genus ingredient country region
+country region ingredient genus family
+region country ingredient order family
+region country ingredient order family
+country region ingredient order family
+country region ingredient order family
+ingredient country language leaderName leaderName
+ingredient country language leaderName leaderName
+ingredient country language leaderName leaderName
+ingredient country language leaderName leaderName
+ingredient country leaderName leaderName language
+language leaderName leaderName country ingredient
+leaderName leaderName language country ingredient
+ingredient country language leaderName leaderName
+country language leaderName creator foundationPlace
+creator foundationPlace country language leaderName
+foundationPlace creator country language leaderName
+creator country foundationPlace leaderName language
+foundationPlace creator country language leaderName
+creator country foundationPlace leaderName language
+creator foundationPlace country leaderName language
+leaderName leaderName country creator foundationPlace
+creator foundationPlace country leaderName leaderName
+creator foundationPlace country leaderName leaderName
+foundationPlace creator country leaderName leaderName
+foundationPlace creator country leaderName leaderName
+leaderName leaderName country creator foundationPlace
+foundationPlace creator country leaderName leaderName
+country leaderName leaderName creator foundationPlace
+creator foundationPlace country leaderName leaderName
+country leaderName leaderName creator foundationPlace
+country leaderName leaderName creator foundationPlace
+country creator foundationPlace leaderName leaderName
+year servingSize protein carbohydrate fat
+country leaderName dishVariation dishVariation ingredient
+leaderName country dishVariation ingredient dishVariation
+leaderName country dishVariation ingredient dishVariation
+dishVariation country leaderName ingredient dishVariation
+country dishVariation dishVariation ingredient leaderName
+country dishVariation ingredient dishVariation leaderName
+dishVariation dishVariation country mainIngredients
+country dishVariation dishVariation ingredient mainIngredients
+leaderName country ingredient dishVariation dishVariation
+ingredient country dishVariation dishVariation leaderName
+ingredient dishVariation dishVariation country leaderName
+leaderName country ingredient dishVariation
+country leaderName ingredient dishVariation
+leaderName country dishVariation ingredient
+leaderName country dishVariation dishVariation ingredient
+country ingredient dishVariation leaderName
+leaderName country dishVariation ingredient dishVariation
+country dishVariation dishVariation ingredient leaderName
+dishVariation ingredient dishVariation country leaderName
+leaderName country dishVariation ingredient
+leaderName country ingredient dishVariation
+leaderName country ingredient dishVariation
+leaderName leaderName language country region
+country region leaderName leaderName language
+language leaderName leaderName country region
+leaderName leaderName language country region
+country region language leaderName leaderName
+country region language leaderName leaderName
+leaderName leaderName language region country
+leaderName leaderName language region
+leaderName leaderName language region country
+leaderName leaderName language region country
+country region language leaderName leaderName
+leaderName leaderName region language
+currency leaderName leaderName country region
+region country leaderName leaderName currency
+region country leaderName leaderName currency
+region country currency leaderName leaderName
+country currency leaderName region leaderName
+currency leaderName country leaderName region
+country region currency leaderName leaderName
+leaderName currency country region leaderName
+region country leaderName leaderName currency
+region country leaderName leaderName currency
+leaderName leaderName currency demonym country
+leaderName leaderName currency demonym country
+country demonym currency leaderName leaderName
+leaderName leaderName demonym country currency
+leaderName leaderName country demonym currency
+demonym leaderName leaderName currency country
+demonym country currency leaderName leaderName
+country demonym leaderName region leaderName
+country region leaderName demonym leaderName
+region country leaderName leaderName demonym
+demonym leaderName leaderName country region
+region country leaderName leaderName demonym
+region country leaderName leaderName demonym
+leaderName leaderName demonym country region
+region country leaderName leaderName demonym
+region country demonym leaderName leaderName
+region country course ingredient mainIngredients
+course mainIngredients ingredient region country
+ingredient mainIngredients course region country
+region country course ingredient mainIngredients
+region country mainIngredients ingredient course
+region country mainIngredients ingredient course
+mainIngredients ingredient course region country
+course ingredient mainIngredients region country
+country region mainIngredients ingredient
+course region country mainIngredients ingredient
+ingredient mainIngredients course region country
+course region country mainIngredients ingredient
+course region country mainIngredients ingredient
+course region country mainIngredients ingredient
+country region course ingredient mainIngredients
+course mainIngredients ingredient region country
+region country course mainIngredients ingredient
+region country course mainIngredients ingredient
+course region country ingredient mainIngredients
+course region country mainIngredients ingredient
+course region country ingredient mainIngredients
+ingredient region mainIngredients course country
+region country course mainIngredients ingredient
+course ingredient mainIngredients region country
+course region country mainIngredients
+region country mainIngredients ingredient course
+course region country mainIngredients ingredient
+course region country mainIngredients
+mainIngredients course region country
+course region country mainIngredients
+course country region mainIngredients
+country course mainIngredients region
+course mainIngredients region country
+course country region mainIngredients
+mainIngredients course region country
+mainIngredients course region country
+course region country mainIngredients
+course region country mainIngredients
+mainIngredients course region country
+country course region mainIngredients
+course country mainIngredients region
+mainIngredients course region country
+course region country mainIngredients
+course mainIngredients region country
+mainIngredients course region country
+course region country mainIngredients
+leaderName country region course dishVariation
+leaderName dishVariation country course region
+country region leaderName course dishVariation
+country region leaderName course dishVariation
+region country course dishVariation leaderName
+country language leaderName course dishVariation
+country language leaderName course dishVariation
+country language leaderName course dishVariation
+language leaderName country course dishVariation
+country course dishVariation language leaderName
+dishVariation course country leaderName language
+course country leaderName language dishVariation
+course dishVariation country leaderName language
+language leaderName country course dishVariation
+course country dishVariation language leaderName
+country language leaderName dishVariation course
+dishVariation course country language leaderName
+leaderName language country course dishVariation
+leaderName language country course dishVariation
+course dishVariation country language leaderName
+dishVariation course region country leaderName
+leaderName country course region dishVariation
+region country leaderName course dishVariation
+dishVariation course region country leaderName
+leaderName country region course dishVariation
+course region country leaderName dishVariation
+leaderName country region course dishVariation
+leaderName country course region
+region country leaderName course dishVariation
+leaderName country region course dishVariation
+region course dishVariation country leaderName
+course dishVariation country leaderName language
+country language leaderName course dishVariation
+language leaderName country dishVariation course
+leaderName language country course
+country course dishVariation language leaderName
+country leaderName language course dishVariation
+dishVariation course country leaderName language
+region leaderName country demonym leaderName
+leaderName demonym country region leaderName
+region country leaderName leaderName demonym
+region country leaderName currency leaderName
+region leaderName country leaderName
+dishVariation ingredient region administrativeCounty leaderName
+ingredient region administrativeCounty leaderName dishVariation
+dishVariation ingredient region isPartOf leaderName
+leaderName isPartOf region dishVariation ingredient
+dishVariation region isPartOf ingredient leaderName
+dishVariation ingredient region isPartOf leaderName
+leaderName isPartOf region ingredient dishVariation
+leaderName isPartOf region dishVariation ingredient
+leaderName capital language country region
+leaderName language capital country region
+region country capital language leaderName
+country region leaderName capital language
+leaderName language capital region country
+language capital leaderName region country
+capital leaderName language region country
+region leaderName language capital
+country region leaderName capital language
+country capital leaderName region
+language capital leaderName region country
+country region capital language leaderName
+country region capital leaderName language
+leaderName capital country region
+leaderName leaderName capital country region
+country capital leaderName leaderName region
+leaderName leaderName capital region country
+country region capital leaderName leaderName
+country region leaderName leaderName capital
+region capital leaderName leaderName
+region capital leaderName leaderName country
+region country capital leaderName leaderName
+leaderName country ethnicGroup ethnicGroup region
+country region leaderName ethnicGroup ethnicGroup
+region country ethnicGroup ethnicGroup leaderName
+capital leaderName leaderName language country
+country capital leaderName leaderName language
+capital country language leaderName leaderName
+leaderName leaderName language capital country
+country language capital leaderName leaderName
+leaderName leaderName capital language country
+language leaderName leaderName capital country
+leaderName leaderName country language capital
+capital demonym country leaderName leaderName
+country capital leaderName leaderName demonym
+capital demonym country leaderName leaderName
+country leaderName leaderName capital demonym
+country demonym capital leaderName leaderName
+country leaderName leaderName capital language
+country language capital leaderName leaderName
+country demonym capital leaderName leaderName
+country demonym capital leaderName leaderName
+capital leaderName demonym country
+leaderName leaderName capital demonym country
+leaderName language region country ethnicGroup
+ethnicGroup country region leaderName language
+region country ethnicGroup language leaderName
+region leaderName language country ethnicGroup
+region language leaderName country ethnicGroup
+country ethnicGroup region leaderName language
+language ethnicGroup region country leaderName
+language leaderName region country ethnicGroup
+ethnicGroup country region leaderName language
+leaderName language region country ethnicGroup
+ethnicGroup country region language leaderName
+country region language leaderName ethnicGroup
+ethnicGroup country mainIngredients region
+ethnicGroup country region mainIngredients
+mainIngredients ingredient region country ethnicGroup
+ingredient region country ethnicGroup
+ethnicGroup country ingredient region
+country region leaderName
+language leaderName region country ethnicGroup
+ethnicGroup country region leaderName language
+language ethnicGroup region country
+country ethnicGroup region language leaderName
+language leaderName ethnicGroup region country
+region language leaderName country ethnicGroup
+country leaderName dishVariation region course
+leaderName course country region dishVariation
+course region country leaderName
+country language language ethnicGroup ethnicGroup
+ethnicGroup ethnicGroup country language language
+country language language ethnicGroup ethnicGroup
+country officialLanguage language ethnicGroup ethnicGroup
+country ethnicGroup ethnicGroup officialLanguage language
+country ethnicGroup ethnicGroup officialLanguage language
+country language language ethnicGroup ethnicGroup
+ethnicGroup ethnicGroup language language country
+ethnicGroup ethnicGroup language language country
+country language language ethnicGroup ethnicGroup
+ethnicGroup ethnicGroup officialLanguage language country
+country officialLanguage language ethnicGroup ethnicGroup
+country officialLanguage language ethnicGroup ethnicGroup
+ethnicGroup ethnicGroup officialLanguage language country
+country language officialLanguage ethnicGroup ethnicGroup
+language language country ethnicGroup ethnicGroup
+language language country ethnicGroup ethnicGroup
+country ethnicGroup ethnicGroup language language
+ethnicGroup ethnicGroup country language language
+country ethnicGroup ethnicGroup officialLanguage language
+country ethnicGroup ethnicGroup officialLanguage language
+
+country officialLanguage language ethnicGroup ethnicGroup
+country ethnicGroup ethnicGroup officialLanguage language
+country language officialLanguage ethnicGroup ethnicGroup
+ethnicGroup ethnicGroup language officialLanguage country
+country ethnicGroup ethnicGroup officialLanguage language
+country officialLanguage language ethnicGroup ethnicGroup
+officialLanguage language ethnicGroup ethnicGroup country
+officialLanguage country language ethnicGroup ethnicGroup
+currency leaderName country region leaderName
+region leaderName country currency leaderName
+region country currency leaderName leaderName
+region leaderName country demonym language
+region country leaderName language demonym
+language demonym country region leaderName
+language leaderName country region leaderName
+leaderName region country language leaderName
+region country leaderName leaderName language
+region leaderName country leaderName language
+region leaderName country leaderName
+country language ethnicGroup currency leaderName
+leaderName currency language ethnicGroup country
+leaderName ethnicGroup leaderName country region
+leaderName ethnicGroup country region leaderName
+leaderName ethnicGroup country region leaderName
+ingredient region leaderName country leaderName
+region ingredient leaderName country leaderName
+ingredient region country leaderName leaderName
+country currency leaderName
+leaderName leaderName currency country region
+country leaderName region leaderName currency
+region country leaderName language ethnicGroup
+region country leaderName language ethnicGroup
+language country region leaderName leaderName
+leaderName language country region leaderName
+language leaderName leaderName country region
+country leaderName currency ethnicGroup language
+currency country language leaderName ethnicGroup
+country ethnicGroup currency language leaderName
+leaderName country ingredient dishVariation dishVariation
+country leaderName ingredient dishVariation dishVariation
+country leaderName ingredient dishVariation dishVariation
+municipality location country established category
+established category municipality location country
+location municipality country category established
+established location state country category
+established location state country category
+location state established category
+location location country established category
+location location country established category
+location location country established category
+location country state established category
+established location state country category
+location state country established category
+established municipality state country category
+municipality state country established category
+municipality state country category established
+location country has_to_its_west has_to_its_north has_to_its_southeast
+location country has_to_its_west has_to_its_north has_to_its_southeast
+location country has_to_its_west has_to_its_north has_to_its_southeast
+established municipality location has_to_its_north category
+established municipality location category has_to_its_north
+established municipality location state category
+established category municipality location state
+municipality location state established category
+location municipality location established category
+established location location category municipality
+municipality location established category
+location location state established category
+location location state established category
+district established category owningOrganisation
+established owningOrganisation district category
+district nearestCity established category
+established category district nearestCity
+municipality location established category has_to_its_southeast
+municipality location established category has_to_its_southeast
+has_to_its_southeast has_to_its_north location established category
+has_to_its_southeast has_to_its_north location established category
+location established category has_to_its_north has_to_its_southeast
+location established has_to_its_southeast has_to_its_southwest has_to_its_north
+location established has_to_its_north has_to_its_southeast has_to_its_southwest
+established location has_to_its_north has_to_its_southeast has_to_its_southwest
+has_to_its_north location established has_to_its_west has_to_its_southeast
+established location has_to_its_west has_to_its_north has_to_its_southeast
+location established has_to_its_west has_to_its_north has_to_its_southeast
+has_to_its_west has_to_its_north has_to_its_southeast location category
+category location has_to_its_west has_to_its_north has_to_its_southeast
+location category has_to_its_west has_to_its_north has_to_its_southeast
+location has_to_its_west has_to_its_north has_to_its_southeast
+has_to_its_north has_to_its_west has_to_its_southeast location
+location has_to_its_west has_to_its_north has_to_its_southwest
+material designer location capital inaugurationDate
+location material designer inaugurationDate capital
+inaugurationDate designer material location capital
+location designer material inaugurationDate leaderName
+
+location material designer inaugurationDate leaderName
+inaugurationDate location designer leaderName currency
+designer inaugurationDate location leaderName currency
+designer location inaugurationDate currency leaderName
+designer dedicatedTo location capital leaderName
+location dedicatedTo designer leaderName
+material dedicatedTo location capital designer
+material dedicatedTo location capital designer
+leaderTitle leader location dedicatedTo capital
+leader leaderTitle capital location dedicatedTo
+location dedicatedTo nativeName material leaderTitle
+dedicatedTo material nativeName location leaderTitle
+designer material dedicatedTo location leaderName
+designer material dedicatedTo location leaderName
+leaderName location material dedicatedTo nativeName
+nativeName location leaderName material dedicatedTo
+nativeName material location leaderName dedicatedTo
+capital languages religion location dedicatedTo
+location capital religion dedicatedTo languages
+material location capital religion languages
+religion capital languages location material
+location material religion languages
+material location dedicatedTo ethnicGroups capital
+ethnicGroups capital location material dedicatedTo
+capital ethnicGroups location material dedicatedTo
+capital ethnicGroups location dedicatedTo languages
+location dedicatedTo capital ethnicGroups languages
+capital languages ethnicGroups location dedicatedTo
+capital religion location dedicatedTo ethnicGroups
+location dedicatedTo capital religion ethnicGroups
+location capital religion ethnicGroups languages
+capital location religion languages ethnicGroups
+languages capital location ethnicGroups religion
+ethnicGroups capital location material religion
+material location capital ethnicGroups religion
+location material capital religion ethnicGroups
+district nearestCity category
+district location category
+category district location
+nearestCity district foundingDate owner
+foundingDate district owner nearestCity
+location district established owningOrganisation category
+established district location owningOrganisation category
+nearestCity location district established category
+nearestCity location district established category
+category established district location nearestCity
+location district established category
+district location country established category
+established district location owningOrganisation
+owningOrganisation district established location nearestCity
+designer location leader capital inaugurationDate
+designer location inaugurationDate capital leader
+location designer leader capital inaugurationDate
+capital largestCity leader currency location
+capital leader largestCity currency location
+capital largestCity leader currency location
+location inaugurationDate capital largestCity leaderName
+largestCity capital leaderName location inaugurationDate
+capital leaderTitle leader location inaugurationDate
+leader location capital inaugurationDate
+leader leaderTitle location capital inaugurationDate
+capital location currency leaderTitle leaderName
+leaderTitle leaderName capital currency location
+ground leader demonym capital language
+ground language demonym leader capital
+demonym leader language capital ground
+ground capital demonym leader officialLanguage
+ground capital officialLanguage demonym leader
+leader capital officialLanguage demonym ground
+manager ground club club leader
+club club manager ground leader
+ground manager club club leader
+leader leader capital language location
+location language capital leader leader
+location leader leader capital currency
+leader leader capital currency location
+location leader leader capital currency
+leader leader capital currency location
+location leader capital currency leader
+location leader leader capital currency
+location currency capital leader leader
+location leader leader currency capital
+leader leader capital currency location
+location leader leader language currency
+location leader leader currency language
+leader leader language currency location
+location leader leader currency language
+leader leader currency language location
+location language currency leader leader
+location leader leader currency language
+location leader leader language currency
+location language currency leader leader
+leader leader capital language location
+location leader leader capital language
+location leader leader language capital
+location leader leader capital language
+leader leader capital language location
+leader ground manager club club
+leader ground manager club club
+leader ground manager club club
+manager ground leader club club
+manager club club ground leader
+leader ground manager club club
+manager ground leader club club
+leader ground manager club club
+ground leader manager club club
+club club manager ground leader
+leader ground manager club club
+ground leader manager club club
+ground manager club club leader
+ground leader manager club club
+ground leader manager club club
+ground league champions leader capital
+champions league ground leader capital
+league champions ground leader capital
+champions league ground leader language
+ground league champions leader language
+ground league champions leader language
+champions league ground capital leader
+ground leader capital league champions
+tenant tenant ground operator owner
+ground operator owner tenant tenant
+ground owner tenant tenant
+champions league ground numberOfMembers season
+ground numberOfMembers league season champions
+numberOfMembers league champions season ground
+ground numberOfMembers season league champions
+champions league season numberOfMembers ground
+ground league country numberOfMembers champions
+ground numberOfMembers league country champions
+champions country league numberOfMembers ground
+champions country league numberOfMembers season
+champions country league numberOfMembers season
+champions country league numberOfMembers season
+numberOfMembers season league country champions
+league country numberOfMembers champions
+champions country league numberOfMembers season
+city country ground league champions
+city country ground league champions
+champions league ground city country
+country isPartOf leader city ground
+city country ground isPartOf leader
+leader isPartOf country city ground
+ground city isPartOf country leader
+ground city isPartOf country leader
+leader city ground isPartOf country
+city location country ground leader
+ground city leader country
+ground city country location leader
+ground city location country leader
+leader location city country ground
+city location country leader ground
+league champions ground city country
+champions league ground city country
+ground city country league champions
+city isPartOf country ground
+ground city isPartOf country
+ground city isPartOf country
+ground city leader
+city country state leader
+city country ground leader
+ground city country leader
+ground state country
+country ground city isPartOf
+ground city isPartOf country
+city isPartOf country ground
+ground leader demonym language capital
+demonym language leader capital ground
+ground leader leader capital language
+capital leader leader language ground
+leader leader capital language ground
+ground demonym capital leader leader
+ground leader leader demonym capital
+leader leader demonym ground capital
+demonym language leader leader ground
+ground demonym language leader leader
+ground leader leader demonym language
+ground capital officialLanguage leader leader
+leader leader capital officialLanguage ground
+ground leader leader capital officialLanguage
+ground demonym capital officialLanguage leader
+ground demonym officialLanguage leader
+demonym capital officialLanguage leader ground
+ground leader leader demonym officialLanguage
+ground manager club club
+location ground manager club club
+ground manager club club
+state city country nickname rector
+rector nickname city state country
+rector nickname city country
+city state country academicStaffSize has_to_its_northwest
+has_to_its_northwest country state academicStaffSize city
+state country academicStaffSize has_to_its_northwest river
+river country academicStaffSize state has_to_its_northwest
+city state country established academicStaffSize
+city state country established academicStaffSize
+city state country established academicStaffSize
+city state country established river
+river country established city state
+city state established academicStaffSize leaderName
+city state leaderName established academicStaffSize
+city country established academicStaffSize numberOfStudents
+city country established numberOfStudents academicStaffSize
+country established academicStaffSize numberOfStudents
+city country established dean leaderName
+leaderName country city dean established
+dean city established country leaderName
+country established dean academicStaffSize numberOfStudents
+country dean established numberOfStudents academicStaffSize
+city country numberOfStudents dean leaderName
+country numberOfStudents dean leaderName
+numberOfStudents city country dean leaderName
+city country established leaderTitle leaderName
+leaderTitle leaderName country city established
+country established leaderTitle leaderName
+country established leaderTitle leaderName legislature
+leaderName leaderTitle legislature country established
+country established leaderTitle leaderName legislature
+location country dean academicStaffSize numberOfStudents
+dean location country numberOfStudents academicStaffSize
+location country academicStaffSize numberOfStudents dean
+city country established dean numberOfStudents
+established city country dean numberOfStudents
+city country numberOfStudents established leaderName
+established city country numberOfStudents leaderName
+leaderName neighboringMunicipality country city
+city country neighboringMunicipality leaderName leaderTitle
+city country neighboringMunicipality leaderName legislature
+legislature leaderName country city neighboringMunicipality
+country leaderName legislature
+country leaderTitle anthem
+city country leaderName leaderTitle anthem
+leaderName leaderTitle anthem country city
+country leaderTitle leaderName legislature anthem
+leaderTitle leaderName legislature anthem country
+country leaderTitle leaderName legislature anthem
+established city dean numberOfStudents
+established location city numberOfStudents dean
+established city location numberOfStudents dean
+location city established academicStaffSize numberOfStudents
+city location established numberOfStudents academicStaffSize
+location established academicStaffSize numberOfStudents
+city location academicStaffSize numberOfStudents dean
+city location numberOfStudents academicStaffSize dean
+location academicStaffSize numberOfStudents dean
+city established academicStaffSize numberOfStudents dean
+city established dean academicStaffSize numberOfStudents
+established academicStaffSize numberOfStudents dean
+president city state country affiliation
+president city state country affiliation
+state country campus affiliation city
+campus state country affiliation city
+campus country numberOfPostgraduateStudents affiliation
+affiliation campus country numberOfPostgraduateStudents
+city country campus affiliation numberOfPostgraduateStudents
+campus country affiliation director
+affiliation director campus country
+campus country director affiliation
+city state country director campus
+campus state country director
+city country affiliation director motto
+city country director affiliation motto
+director affiliation city country motto
+campus country affiliation established
+country affiliation established campus
+established campus country affiliation
+city country established numberOfPostgraduateStudents affiliation
+established city country affiliation numberOfPostgraduateStudents
+city country established numberOfPostgraduateStudents affiliation
+state city country established affiliation
+city state country affiliation established
+city state country established affiliation
+campus country numberOfPostgraduateStudents president
+campus president numberOfPostgraduateStudents
+campus country numberOfPostgraduateStudents president
+city country established director president
+city country established director president
+city country established president director
+affiliation established country president city
+country established affiliation city president
+city affiliation was_given_the_'Technical_Campus'_status_by location founder
+affiliation was_given_the_'Technical_Campus'_status_by location city founder
+city affiliation was_given_the_'Technical_Campus'_status_by location founder
+has_to_its_northeast has_to_its_west state was_given_the_'Technical_Campus'_status_by location
+state was_given_the_'Technical_Campus'_status_by location has_to_its_west has_to_its_northeast
+founder city affiliation sportsOffered sportsGoverningBody
+founder city affiliation sportsOffered sportsGoverningBody
+country established affiliation headquarters leaderName
+leaderName country established affiliation headquarters
+city country leaderTitle leaderName has_to_its_northeast
+leaderName leaderTitle country city has_to_its_northeast
+leaderTitle leaderName country city has_to_its_northeast
+country affiliation headquarters leaderName religion
+country leaderName affiliation headquarters religion
+country affiliation headquarters leaderName religion
+city state country academicStaffSize largestCity
+largestCity country academicStaffSize city state
+established country academicStaffSize largestCity river
+state has_to_its_northeast has_to_its_west sportsOffered sportsGoverningBody
+state has_to_its_west has_to_its_northeast sportsOffered sportsGoverningBody
+state affiliation city has_to_its_northeast has_to_its_west
+has_to_its_west has_to_its_northeast state affiliation city
+affiliation city state has_to_its_northeast has_to_its_west
+city country capital leaderName ethnicGroup
+city country ethnicGroup leaderName capital
+leaderName capital ethnicGroup country city
+country capital anthem leaderName ethnicGroup
+country capital leaderName ethnicGroup anthem
+country capital leaderTitle leaderName ethnicGroup
+capital leaderTitle leaderName country ethnicGroup
+country capital leaderName patronSaint ethnicGroup
+country ethnicGroup capital leaderName patronSaint
+city isPartOf country capital leaderName
+capital leaderName country city isPartOf
+city isPartOf country capital leaderName
+city country affiliation headquarters leaderName
+leaderName country city affiliation headquarters
+country affiliation headquarters leaderName
+country affiliation headquarters academicStaffSize
+academicStaffSize city country affiliation headquarters
+city country academicStaffSize affiliation headquarters
+city country established affiliation headquarters
+country established affiliation headquarters
+city country established affiliation academicStaffSize
+city country established academicStaffSize affiliation
+city country affiliation academicStaffSize numberOfStudents
+city country affiliation academicStaffSize numberOfStudents
+country affiliation academicStaffSize numberOfStudents
+city country leaderTitle leaderName governmentType
+governmentType city country leaderTitle leaderName
+country established academicStaffSize numberOfStudents
+established city country numberOfStudents academicStaffSize
+established city country academicStaffSize numberOfStudents
+city country established numberOfStudents affiliation
+city country numberOfStudents established affiliation
+country established affiliation numberOfStudents
+country dean established numberOfStudents academicStaffSize
+established country numberOfStudents academicStaffSize dean
+established country numberOfStudents academicStaffSize dean
+campus country affiliation city numberOfPostgraduateStudents
+country affiliation city numberOfPostgraduateStudents campus
+state country affiliation city director
+director affiliation city state country
+campus country established affiliation city
+affiliation city country established campus
+country established campus affiliation city
+birthPlace influencedBy author precededBy precededBy
+birthPlace author precededBy precededBy influencedBy
+birthPlace influencedBy author precededBy precededBy
+birthPlace influencedBy author precededBy precededBy
+influencedBy birthPlace author precededBy precededBy
+precededBy author birthPlace influencedBy precededBy
+birthPlace author influencedBy precededBy precededBy
+precededBy author birthPlace influencedBy
+influencedBy author birthPlace precededBy precededBy
+author precededBy followedBy language
+author followedBy language precededBy precededBy
+birthPlace influencedBy author language spokenIn
+author birthPlace influencedBy language spokenIn
+birthPlace influencedBy author language spokenIn
+capital leaderName country publisher parentCompany
+leaderName capital country publisher parentCompany
+parentCompany publisher country capital leaderName
+country language spokenIn ethnicGroup capital
+spokenIn language country capital ethnicGroup
+country language spokenIn capital ethnicGroup
+country ethnicGroup publisher parentCompany followedBy
+parentCompany publisher country followedBy ethnicGroup
+publisher parentCompany country followedBy ethnicGroup
+largestCity ethnicGroup country publisher followedBy
+publisher country followedBy ethnicGroup largestCity
+ethnicGroup largestCity country followedBy publisher
+publisher followedBy country ethnicGroup
+country ethnicGroup largestCity followedBy publisher
+language spokenIn country publisher followedBy
+country publisher followedBy language spokenIn
+language country spokenIn followedBy publisher
+language country spokenIn followedBy publisher
+country followedBy language spokenIn
+language spokenIn publisher country followedBy
+language spokenIn publisher country followedBy
+country ethnicGroup publisher precededBy followedBy
+spokenIn language publisher country ethnicGroup
+language publisher country spokenIn ethnicGroup
+publisher country ethnicGroup language spokenIn
+language spokenIn publisher country ethnicGroup
+spokenIn language publisher country ethnicGroup
+publisher country language spokenIn ethnicGroup
+publisher country ethnicGroup language spokenIn
+language spokenIn publisher country ethnicGroup
+language spokenIn publisher country ethnicGroup
+language spokenIn publisher country ethnicGroup
+language spokenIn publisher country ethnicGroup
+publisher country language spokenIn ethnicGroup
+language spokenIn publisher country ethnicGroup
+spokenIn language publisher country ethnicGroup
+country publisher language spokenIn ethnicGroup
+spokenIn language publisher country ethnicGroup
+language spokenIn country capital ethnicGroup
+ethnicGroup capital country language spokenIn
+language spokenIn country ethnicGroup capital
+country language spokenIn ethnicGroup capital
+country language spokenIn capital ethnicGroup
+language spokenIn country capital ethnicGroup
+language spokenIn country capital ethnicGroup
+country capital ethnicGroup language spokenIn
+country capital ethnicGroup language spokenIn
+country precededBy precededBy followedBy followedBy
+country precededBy precededBy followedBy followedBy
+followedBy followedBy precededBy country precededBy
+abbreviation publisher ISSN_number LCCN_number CODEN_code
+abbreviation publisher ISSN_number LCCN_number CODEN_code
+publisher abbreviation ISSN_number CODEN_code
+publisher abbreviation LCCN_number ISSN_number CODEN_code
+publisher abbreviation ISSN_number LCCN_number CODEN_code
+publisher abbreviation ISSN_number LCCN_number CODEN_code
+publisher abbreviation ISSN_number LCCN_number CODEN_code
+city state president publisher affiliation
+president city state publisher affiliation
+publisher city state affiliation affiliation
+publisher affiliation affiliation city state
+city state president publisher affiliation
+affiliation city state publisher president
+affiliation city state publisher president
+nickname city publisher affiliation affiliation
+publisher city affiliation affiliation
+spokenIn language country ethnicGroup capital
+country language spokenIn ethnicGroup capital
+country ethnicGroup capital language spokenIn
+spokenIn language country ethnicGroup capital
+language spokenIn country ethnicGroup capital
+ethnicGroup capital country language spokenIn
+spokenIn language country ethnicGroup capital
+country language spokenIn ethnicGroup capital
+spokenIn language country capital ethnicGroup
+country capital ethnicGroup language spokenIn
+language spokenIn country leaderName ethnicGroup
+language spokenIn country leaderName ethnicGroup
+country leaderName language spokenIn ethnicGroup
+spokenIn language country leaderName ethnicGroup
+leaderName ethnicGroup country language spokenIn
+country language spokenIn ethnicGroup leaderName
+language spokenIn country leaderName ethnicGroup
+country leaderName ethnicGroup language spokenIn
+ethnicGroup leaderName country language spokenIn
+country leaderName ethnicGroup language spokenIn
+language country leaderName ethnicGroup
+country leaderName language spokenIn ethnicGroup
+country language spokenIn ethnicGroup leaderName
+publisher country language spokenIn ethnicGroup
+publisher country ethnicGroup language spokenIn
+spokenIn language ethnicGroup country publisher
+publisher country ethnicGroup language spokenIn
+publisher country language spokenIn ethnicGroup
+ethnicGroup language spokenIn country publisher
+publisher country ethnicGroup language spokenIn
+publisher country ethnicGroup language spokenIn
+country language spokenIn capital ethnicGroup
+country capital ethnicGroup language spokenIn
+country capital ethnicGroup language spokenIn
+capital ethnicGroup language spokenIn country
+capital language spokenIn ethnicGroup country
+country language spokenIn capital ethnicGroup
+capital language spokenIn country ethnicGroup
+country capital ethnicGroup language spokenIn
+spokenIn language capital ethnicGroup country
+country language spokenIn capital ethnicGroup
+spokenIn language capital country ethnicGroup
+country capital language spokenIn ethnicGroup
+language spokenIn ethnicGroup country capital
+country language spokenIn capital ethnicGroup
+spokenIn language ethnicGroup leaderName country
+spokenIn language leaderName ethnicGroup country
+country leaderName ethnicGroup language spokenIn
+spokenIn language leaderName country ethnicGroup
+country leaderName ethnicGroup language spokenIn
+country leaderName ethnicGroup language spokenIn
+birthPlace precededBy author followedBy followedBy
+author birthPlace precededBy followedBy followedBy
+precededBy author birthPlace followedBy followedBy
+birthPlace author precededBy followedBy followedBy
+birthPlace author precededBy followedBy followedBy
+followedBy followedBy precededBy author birthPlace
+birthPlace author followedBy precededBy followedBy
+followedBy author birthPlace followedBy precededBy
+birthPlace author followedBy precededBy followedBy
+leaderName language country publisher parentCompany
+leaderName language country publisher parentCompany
+language leaderName capital country publisher
+publisher country capital language leaderName
+publisher country capital language leaderName
+leaderName language demonym country publisher
+language demonym leaderName country publisher
+publisher country leaderName language demonym
+leaderName language country publisher parentCompany
+leaderName language country publisher parentCompany
+country publisher parentCompany language leaderName
+publisher country language leaderName capital
+leaderName language capital country publisher
+country publisher capital leaderName language
+publisher country language demonym leaderName
+publisher country language leaderName demonym
+leaderName country capital publisher parentCompany
+capital leaderName country publisher parentCompany
+publisher parentCompany country leaderName capital
+capital leaderName leaderName country publisher
+leaderName leaderName capital country publisher
+publisher country capital leaderName leaderName
+leaderName leaderName language country publisher
+publisher country leaderName leaderName language
+publisher country language leaderName leaderName
+language spokenIn country capital ethnicGroup
+language spokenIn country capital ethnicGroup
+language spokenIn country ethnicGroup capital
+language spokenIn country ethnicGroup capital
+country language spokenIn ethnicGroup capital
+country language spokenIn capital ethnicGroup
+country capital language spokenIn ethnicGroup
+spokenIn language ethnicGroup capital country
+spokenIn language country ethnicGroup capital
+country capital language spokenIn ethnicGroup
+country leaderName ethnicGroup language spokenIn
+country ethnicGroup leaderName language spokenIn
+country language spokenIn ethnicGroup leaderName
+language spokenIn country leaderName ethnicGroup
+country leaderName ethnicGroup language spokenIn
+language spokenIn country ethnicGroup leaderName
+country language spokenIn leaderName ethnicGroup
+country language spokenIn leaderName ethnicGroup
+language spokenIn country ethnicGroup leaderTitle
+ethnicGroup leaderTitle country language spokenIn
+language spokenIn country leaderTitle ethnicGroup
+country language spokenIn leaderTitle ethnicGroup
+country ethnicGroup leaderTitle language spokenIn
+country ethnicGroup leaderName language spokenIn
+country language spokenIn leaderName ethnicGroup
+leaderName language spokenIn ethnicGroup country
+spokenIn language country ethnicGroup leaderName
+language spokenIn country leaderName ethnicGroup
+language spokenIn country ethnicGroup capital
+country language spokenIn capital ethnicGroup
+country leaderName language spokenIn ethnicGroup
+country language spokenIn leaderName ethnicGroup
+language spokenIn country leaderName ethnicGroup
+spokenIn language country ethnicGroup leaderName
+language spokenIn country leaderName ethnicGroup
+country leaderName ethnicGroup language spokenIn
+language spokenIn country leaderName ethnicGroup
+language spokenIn country leaderName
+country leaderName ethnicGroup language spokenIn
+language spokenIn country leaderName ethnicGroup
+language country spokenIn leaderName ethnicGroup
+country language spokenIn leaderName ethnicGroup
+country leaderName language spokenIn ethnicGroup
+country language spokenIn leaderName ethnicGroup
+leaderName language spokenIn ethnicGroup country
+country leaderName ethnicGroup language spokenIn
+country leaderName ethnicGroup language spokenIn
+country ethnicGroup leaderName language spokenIn
+spokenIn language leaderName country ethnicGroup
+country leaderName ethnicGroup language spokenIn
+country precededBy ethnicGroup capital leaderName
+precededBy country leaderName capital ethnicGroup
+precededBy country leaderName capital ethnicGroup
+leaderName ethnicGroup capital country precededBy
+precededBy country ethnicGroup capital leaderName
+country leaderName capital demonym ethnicGroup
+demonym capital leaderName
+demonym ethnicGroup capital leaderName country
+country capital demonym leaderName ethnicGroup
+spokenIn language country leaderTitle ethnicGroup
+country language spokenIn ethnicGroup leaderTitle
+country language spokenIn ethnicGroup leaderTitle
+country leaderTitle ethnicGroup language spokenIn
+country ethnicGroup leaderTitle language spokenIn
+language spokenIn ethnicGroup leaderTitle country
+ethnicGroup demonym country capital leaderTitle
+country demonym leaderTitle capital ethnicGroup
+country leaderTitle demonym capital ethnicGroup
+country leaderName capital ethnicGroup
+
+country leaderName leaderTitle capital ethnicGroup
+country leaderName leaderTitle capital ethnicGroup
+leaderName leaderTitle capital country ethnicGroup
+leaderTitle leaderName ethnicGroup capital country
+country ethnicGroup capital leaderName leaderTitle
+demonym ethnicGroup country leaderTitle leaderName
+demonym ethnicGroup country leaderTitle leaderName
+country leaderName leaderTitle demonym ethnicGroup
+leaderTitle leaderName demonym ethnicGroup country
+country leaderTitle leaderName demonym ethnicGroup
+ethnicGroup demonym leaderTitle leaderName country
+leaderTitle leaderName demonym ethnicGroup country
+nationality occupation birthPlace almaMater was_selected_by_NASA timeInSpace
+birthPlace almaMater was_selected_by_NASA occupation timeInSpace
+birthPlace nationality was_a_crew_member_of occupation almaMater status
+birthPlace almaMater occupation was_a_crew_member_of status
+nationality occupation birthPlace almaMater was_a_crew_member_of timeInSpace
+nationality birthPlace occupation almaMater was_a_crew_member_of timeInSpace
+birthPlace almaMater occupation was_a_crew_member_of timeInSpace
+nationality birthPlace almaMater was_selected_by_NASA occupation was_a_crew_member_of
+nationality occupation was_a_crew_member_of was_selected_by_NASA almaMater
+nationality occupation birthPlace almaMater was_selected_by_NASA was_a_crew_member_of
+nationality birthPlace birthDate almaMater occupation timeInSpace
+birthPlace birthDate nationality occupation was_selected_by_NASA status
+nationality birthPlace birthDate was_selected_by_NASA occupation status
+nationality occupation birthDate birthPlace was_selected_by_NASA was_a_crew_member_of
+nationality birthPlace birthDate occupation was_selected_by_NASA was_a_crew_member_of
+nationality was_selected_by_NASA was_a_crew_member_of occupation birthDate birthPlace
+nationality birthPlace status occupation was_a_crew_member_of timeInSpace
+nationality occupation birthPlace was_a_crew_member_of timeInSpace status
+nationality occupation was_a_crew_member_of birthPlace was_selected_by_NASA status
+birthPlace nationality occupation was_selected_by_NASA was_a_crew_member_of status
+occupation was_a_crew_member_of timeInSpace birthPlace birthDate almaMater
+birthPlace birthDate almaMater occupation was_a_crew_member_of timeInSpace
+birthPlace nationality almaMater occupation was_a_crew_member_of operator
+nationality birthPlace almaMater occupation was_a_crew_member_of operator
+nationality birthPlace almaMater occupation was_a_crew_member_of operator
+birthPlace almaMater was_selected_by_NASA was_a_crew_member_of operator commander
+birthPlace almaMater was_selected_by_NASA was_a_crew_member_of operator commander
+birthPlace almaMater was_selected_by_NASA was_a_crew_member_of operator commander
+birthPlace birthDate almaMater dateOfRetirement deathPlace awards
+birthPlace birthDate dateOfRetirement deathPlace almaMater awards
+birthDate birthPlace almaMater awards dateOfRetirement deathPlace
+nationality birthPlace almaMater awards deathDate deathPlace
+nationality almaMater awards birthPlace deathPlace deathDate
+birthDate birthPlace deathDate deathPlace almaMater was_selected_by_NASA
+birthDate birthPlace deathDate deathPlace almaMater was_selected_by_NASA
+birthDate birthPlace almaMater was_selected_by_NASA deathDate
+nationality occupation birthPlace birthDate deathPlace almaMater
+nationality birthDate birthPlace almaMater occupation deathPlace
+birthPlace birthDate almaMater occupation deathPlace
+birthPlace deathPlace almaMater occupation awards higher
+occupation birthPlace almaMater deathPlace awards higher
+birthPlace almaMater awards higher status
+birthPlace nationality almaMater was_a_crew_member_of dateOfRetirement
+nationality birthPlace deathPlace almaMater was_a_crew_member_of dateOfRetirement
+birthPlace almaMater was_a_crew_member_of dateOfRetirement deathPlace
+birthDate birthPlace almaMater occupation was_a_crew_member_of deathPlace
+birthPlace birthDate almaMater was_a_crew_member_of deathPlace
+birthPlace deathPlace almaMater occupation was_a_crew_member_of operator
+birthPlace deathPlace almaMater occupation was_a_crew_member_of operator
+birthPlace almaMater was_a_crew_member_of occupation deathPlace
+was_a_crew_member_of awards higher birthPlace almaMater dateOfRetirement
+birthPlace almaMater was_a_crew_member_of dateOfRetirement awards higher
+birthPlace almaMater was_a_crew_member_of awards dateOfRetirement
+was_a_crew_member_of birthPlace deathPlace almaMater awards higher
+birthPlace almaMater was_a_crew_member_of awards higher deathPlace
+birthPlace deathPlace occupation was_selected_by_NASA awards higher
+occupation was_selected_by_NASA awards higher birthPlace deathPlace
+birthPlace deathPlace nationality was_selected_by_NASA almaMater
+birthPlace birthDate status almaMater occupation deathPlace
+birthPlace birthDate almaMater occupation deathPlace
+occupation was_a_crew_member_of birthPlace birthDate deathPlace
+birthPlace deathPlace was_selected_by_NASA awards higher
+
+was_a_crew_member_of operator awards higher deathPlace senators
+
+
+birthPlace bird awards higher was_a_crew_member_of operator
+was_selected_by_NASA was_a_crew_member_of operator backup_pilot commander
+nationality was_selected_by_NASA was_a_crew_member_of operator commander backup_pilot
+operator commander was_a_crew_member_of birthPlace occupation backup_pilot
+occupation birthPlace was_a_crew_member_of operator commander backup_pilot
+birthPlace was_a_crew_member_of operator backup_pilot commander
+was_a_crew_member_of operator backup_pilot commander almaMater
+operator was_a_crew_member_of almaMater status commander backup_pilot
+operator commander was_a_crew_member_of almaMater status backup_pilot
+birthDate was_a_crew_member_of operator was_selected_by_NASA commander backup_pilot
+birthDate was_selected_by_NASA was_a_crew_member_of operator backup_pilot commander
+birthDate was_selected_by_NASA was_a_crew_member_of operator backup_pilot commander
+operator commander was_a_crew_member_of birthPlace nationality backup_pilot
+nationality birthPlace was_a_crew_member_of operator commander backup_pilot
+operator crewMembers backup_pilot was_a_crew_member_of birthPlace representative
+backup_pilot crewMembers was_a_crew_member_of birthPlace representative
+birthDate alternativeNames almaMater occupation was_a_crew_member_of status
+alternativeNames birthDate almaMater occupation was_a_crew_member_of status
+birthPlace nationality occupation was_a_crew_member_of timeInSpace status
+nationality birthPlace occupation was_a_crew_member_of timeInSpace status
+status nationality occupation birthPlace timeInSpace was_a_crew_member_of
+nationality birthPlace birthDate almaMater occupation was_a_crew_member_of
+nationality birthDate birthPlace almaMater occupation was_a_crew_member_of
+nationality occupation birthDate birthPlace almaMater was_a_crew_member_of
+birthDate birthPlace was_selected_by_NASA was_a_crew_member_of status
+nationality birthPlace birthDate was_a_crew_member_of was_selected_by_NASA status
+birthDate birthPlace was_selected_by_NASA was_a_crew_member_of status
+nationality occupation birthPlace was_selected_by_NASA was_a_crew_member_of status
+nationality status birthPlace occupation was_selected_by_NASA was_a_crew_member_of
+nationality occupation birthDate birthPlace was_a_crew_member_of operator
+birthDate birthPlace nationality was_a_crew_member_of operator occupation
+nationality birthPlace birthDate occupation was_a_crew_member_of operator
+birthPlace nationality was_selected_by_NASA almaMater was_a_crew_member_of operator
+birthPlace almaMater was_selected_by_NASA was_a_crew_member_of operator
+birthPlace almaMater was_selected_by_NASA was_a_crew_member_of operator
+nationality was_a_crew_member_of operator backup_pilot birthPlace isPartOf
+nationality birthPlace isPartOf was_a_crew_member_of operator backup_pilot
+nationality birthPlace was_a_crew_member_of operator backup_pilot leaderName
+birthPlace was_a_crew_member_of operator backup_pilot nationality leaderName
+nationality birthPlace isPartOf was_a_crew_member_of backup_pilot leaderName
+birthPlace isPartOf was_a_crew_member_of backup_pilot
+isPartOf birthPlace nationality was_a_crew_member_of backup_pilot leaderName
+birthDate birthPlace status was_a_crew_member_of operator
+birthPlace almaMater occupation was_a_crew_member_of operator status
+birthPlace almaMater occupation status was_a_crew_member_of operator
+birthPlace isPartOf was_selected_by_NASA was_a_crew_member_of operator backup_pilot
+birthPlace isPartOf was_selected_by_NASA was_a_crew_member_of operator backup_pilot
+birthDate was_a_crew_member_of operator backup_pilot occupation status
+birthPlace birthDate awards higher dateOfRetirement deathPlace
+birthDate birthPlace almaMater occupation deathDate deathPlace
+birthDate deathDate birthPlace almaMater occupation deathPlace
+birthPlace occupation birthDate almaMater deathPlace deathDate
+birthPlace birthDate almaMater was_selected_by_NASA occupation deathPlace
+birthPlace birthDate almaMater occupation was_selected_by_NASA deathPlace
+birthPlace nationality almaMater occupation deathDate deathPlace
+nationality birthPlace almaMater occupation deathPlace deathDate
+birthPlace almaMater occupation deathPlace deathDate
+nationality occupation almaMater was_selected_by_NASA deathPlace deathDate
+nationality almaMater was_selected_by_NASA occupation deathPlace deathDate
+nationality birthDate birthPlace deathPlace almaMater
+nationality birthDate birthPlace deathPlace almaMater
+nationality birthDate birthPlace deathPlace almaMater
+birthPlace birthDate almaMater occupation deathPlace
+birthDate birthPlace almaMater was_selected_by_NASA deathPlace
+birthPlace birthDate almaMater was_selected_by_NASA deathPlace
+birthDate birthPlace almaMater was_selected_by_NASA deathPlace
+birthPlace almaMater occupation deathPlace deathDate
+birthPlace deathPlace deathDate occupation almaMater
+nationality birthPlace almaMater was_selected_by_NASA deathPlace
+nationality almaMater was_selected_by_NASA birthPlace deathPlace
+nationality birthPlace almaMater was_selected_by_NASA
+almaMater affiliation compete_in president deathPlace leaderName
+almaMater affiliation compete_in president deathPlace leaderName
+birthPlace partsType almaMater affiliations compete_in president
+birthPlace partsType almaMater affiliations compete_in president
+birthPlace partsType almaMater president compete_in
+birthDate birthPlace almaMater affiliations compete_in deathPlace
+birthDate birthPlace almaMater affiliations compete_in deathPlace
+birthPlace birthDate almaMater compete_in deathPlace
+birthPlace almaMater affiliations compete_in deathDate deathPlace
+almaMater affiliations compete_in birthPlace deathPlace deathDate
+nationality almaMater affiliations compete_in birthPlace birthDate
+birthPlace birthDate almaMater compete_in
+nationality almaMater affiliations compete_in was_selected_by_NASA
+nationality was_selected_by_NASA deathPlace almaMater affiliations compete_in
+nationality almaMater affiliations compete_in was_selected_by_NASA deathPlace
+status birthPlace occupation almaMater affiliations compete_in
+birthPlace status occupation almaMater affiliations compete_in
+birthPlace occupation status almaMater affiliations compete_in
+birthPlace nationality almaMater affiliations occupation deathPlace
+nationality birthPlace deathPlace occupation almaMater affiliations
+occupation almaMater compete_in affiliations deathDate deathPlace
+almaMater affiliations compete_in deathDate deathPlace
+deathPlace deathDate occupation almaMater affiliations compete_in
+affiliations mascot compete_in almaMater deathPlace leaderName
+almaMater affiliations compete_in mascot deathPlace leaderName
+deathPlace leaderName almaMater affiliations compete_in mascot
+almaMater president affiliations compete_in deathPlace isPartOf
+part compete_in mascot almaMater birthPlace
+birthPlace part almaMater mascot affiliations compete_in
+birthPlace part almaMater affiliations compete_in mascot
+affiliations compete_in mascot president almaMater birthPlace
+compete_in almaMater birthPlace affiliations president mascot
+birthDate was_selected_by_NASA occupation deathPlace deathDate
+occupation was_selected_by_NASA birthDate deathDate deathPlace
+occupation was_selected_by_NASA birthDate deathDate deathPlace
+occupation nationality status was_selected_by_NASA birthPlace deathPlace
+birthPlace was_selected_by_NASA occupation deathPlace
+birthDate was_selected_by_NASA was_a_crew_member_of operator backup_pilot crewMembers
+birthDate was_selected_by_NASA was_a_crew_member_of operator crewMembers backup_pilot
+birthDate was_selected_by_NASA was_a_crew_member_of operator backup_pilot crewMembers
+operator commander backup_pilot was_a_crew_member_of almaMater dateOfRetirement
+
+almaMater was_a_crew_member_of operator backup_pilot commander dateOfRetirement
+nationality occupation birthPlace birthDate almaMater dateOfRetirement
+birthPlace birthDate almaMater occupation dateOfRetirement
+birthDate birthPlace almaMater occupation dateOfRetirement
+birthPlace birthDate almaMater occupation dateOfRetirement
+occupation birthPlace birthDate almaMater dateOfRetirement
+birthPlace birthDate occupation was_a_crew_member_of dateOfRetirement
+birthPlace birthDate occupation was_a_crew_member_of dateOfRetirement
+was_selected_by_NASA was_a_crew_member_of occupation birthPlace birthDate dateOfRetirement
+occupation was_selected_by_NASA was_a_crew_member_of birthPlace birthDate dateOfRetirement
+nationality occupation was_a_crew_member_of was_selected_by_NASA birthPlace dateOfRetirement
+birthPlace nationality was_selected_by_NASA occupation was_a_crew_member_of dateOfRetirement
+birthPlace almaMater was_selected_by_NASA occupation was_a_crew_member_of dateOfRetirement
+birthPlace almaMater was_selected_by_NASA occupation was_a_crew_member_of dateOfRetirement
+birthPlace occupation almaMater was_selected_by_NASA was_a_crew_member_of dateOfRetirement
+birthDate birthPlace was_a_crew_member_of was_selected_by_NASA status
+birthPlace birthDate was_selected_by_NASA status was_a_crew_member_of dateOfRetirement
+occupation was_selected_by_NASA was_a_crew_member_of operator commander backup_pilot
+occupation was_selected_by_NASA was_a_crew_member_of operator commander backup_pilot
+was_selected_by_NASA occupation was_a_crew_member_of operator backup_pilot commander
+occupation was_a_crew_member_of status crewMembers operator backup_pilot
+status occupation was_a_crew_member_of backup_pilot operator crewMembers
+was_selected_by_NASA occupation was_a_crew_member_of operator backup_pilot crewMembers
+occupation was_selected_by_NASA was_a_crew_member_of operator crewMembers backup_pilot
+was_selected_by_NASA was_a_crew_member_of operator crewMembers occupation backup_pilot
+operator was_a_crew_member_of served_as_Chief_of_the_Astronaut_Office_in timeInSpace backup_pilot crewMembers
+was_a_crew_member_of served_as_Chief_of_the_Astronaut_Office_in timeInSpace backup_pilot crewMembers operator
+crewMembers was_a_crew_member_of operator served_as_Chief_of_the_Astronaut_Office_in timeInSpace backup_pilot
+nationality occupation birthPlace birthDate was_selected_by_NASA was_a_crew_member_of
+birthPlace nationality birthDate was_selected_by_NASA occupation was_a_crew_member_of
+nationality birthDate birthPlace was_selected_by_NASA occupation was_a_crew_member_of
+birthDate birthPlace was_selected_by_NASA occupation
+established category municipality location state country
+established municipality location state country category
+established category municipality location state country
+municipality state country location location category
+location municipality location state country category
+category location municipality location state country
+established location municipality location state country
+established location municipality location state country
+established location municipality location state country
+location state country established category municipality
+established category location municipality state country
+location municipality state country established category
+established category location country has_to_its_north has_to_its_southeast
+location country established category has_to_its_north has_to_its_southeast
+established location country category has_to_its_north has_to_its_southeast
+location country has_to_its_west has_to_its_north has_to_its_southwest has_to_its_southeast
+location country has_to_its_west has_to_its_north has_to_its_southeast
+
+municipality location state established category has_to_its_north
+has_to_its_north state location municipality established category
+has_to_its_north state location established municipality category
+location municipality location state established category
+location municipality location state established category
+location municipality location state established category
+district nearestCity owningOrganisation established category
+established category district owningOrganisation nearestCity
+established district nearestCity owningOrganisation category
+has_to_its_southeast location state established municipality category
+municipality location state category established has_to_its_southeast
+municipality location category established has_to_its_southeast state
+municipality location established category has_to_its_north has_to_its_southeast
+established municipality location has_to_its_southeast has_to_its_north
+municipality location established category has_to_its_southeast has_to_its_north
+location established category has_to_its_north has_to_its_southwest has_to_its_southeast
+established location category has_to_its_southeast has_to_its_north has_to_its_southwest
+established location category has_to_its_north has_to_its_southeast has_to_its_southwest
+established location category has_to_its_north has_to_its_west has_to_its_southeast
+has_to_its_west has_to_its_southeast has_to_its_north location category established
+has_to_its_north location established category has_to_its_west has_to_its_southeast
+has_to_its_southeast has_to_its_west has_to_its_north has_to_its_southwest location established
+location established has_to_its_west has_to_its_north has_to_its_southeast has_to_its_southwest
+has_to_its_north has_to_its_west has_to_its_southeast has_to_its_southwest location established
+municipality location category has_to_its_north has_to_its_southeast has_to_its_west
+municipality location category has_to_its_north has_to_its_west has_to_its_southeast
+municipality location category has_to_its_west has_to_its_north has_to_its_southeast
+municipality location has_to_its_west has_to_its_north has_to_its_southeast
+municipality location has_to_its_southwest has_to_its_north has_to_its_southeast has_to_its_west
+has_to_its_west has_to_its_southeast has_to_its_north has_to_its_southwest location municipality
+largestCity currency inaugurationDate location material designer
+material designer location currency largestCity inaugurationDate
+designer material inaugurationDate location largestCity currency
+dedicatedTo location capital leaderTitle leaderName legislature
+capital leaderTitle leaderName legislature location dedicatedTo
+capital leaderName legislature location dedicatedTo
+designer location dedicatedTo leaderTitle leaderName capital
+dedicatedTo designer location capital leaderTitle leaderName
+leaderName location designer dedicatedTo
+location capital dedicatedTo nativeName designer leaderTitle
+designer nativeName dedicatedTo location leaderTitle capital
+leaderTitle capital location dedicatedTo nativeName designer
+material dedicatedTo nativeName designer location capital
+nativeName location designer material dedicatedTo
+capital location material dedicatedTo nativeName designer
+location capital dedicatedTo material religion languages
+languages ethnicGroups religion location material dedicatedTo
+material location dedicatedTo religion ethnicGroups languages
+location material dedicatedTo religion languages ethnicGroups
+material dedicatedTo location capital languages
+location material dedicatedTo capital ethnicGroups languages
+material dedicatedTo location capital languages ethnicGroups
+nearestCity location district established category
+district nearestCity established category
+district location country established owningOrganisation
+district location country established nearestCity owningOrganisation
+established district location country owningOrganisation nearestCity
+currency location leader material designer inaugurationDate
+currency leader location material designer inaugurationDate
+leader currency location designer material inaugurationDate
+currency leader capital largestCity location inaugurationDate
+leader capital largestCity currency location inaugurationDate
+capital leader currency largestCity location inaugurationDate
+leaderName capital largestCity location material inaugurationDate
+location material inaugurationDate leaderName largestCity capital
+largestCity capital leaderName location material inaugurationDate
+leaderTitle currency capital location designer inaugurationDate
+designer inaugurationDate location leaderTitle currency capital
+designer inaugurationDate location leaderTitle currency capital
+leaderTitle leaderName location material designer inaugurationDate
+leaderTitle leaderName capital location designer inaugurationDate
+capital leaderTitle leaderName location designer inaugurationDate
+location material inaugurationDate designer leaderTitle leader
+leaderTitle leader location designer material inaugurationDate
+leader leaderTitle location material designer inaugurationDate
+location material leaderTitle leader capital currency
+material location capital currency leaderTitle leader
+leaderTitle leader currency capital location material
+material leaderName leaderTitle capital location inaugurationDate
+leaderTitle leaderName capital location material inaugurationDate
+leaderTitle leaderName capital location material inaugurationDate
+leaderTitle leaderName currency capital largestCity location
+leaderTitle leaderName capital largestCity currency location
+leaderTitle currency leaderName capital largestCity location
+city state country latinName nickname rector
+city state country rector latinName nickname
+city state country latinName rector nickname
+city state country established academicStaffSize river
+river country city state established academicStaffSize
+established city state country academicStaffSize river
+city country state has_to_its_northwest established academicStaffSize
+established city state has_to_its_northwest country academicStaffSize
+has_to_its_northwest state country city established academicStaffSize
+city country state academicStaffSize leaderName river
+city state country academicStaffSize leaderName river
+city state country academicStaffSize leaderName river
+city state country academicStaffSize has_to_its_northwest leaderName
+has_to_its_northwest leaderName state country city academicStaffSize
+city country established dean leaderTitle leaderName
+leaderTitle leaderName country city established dean
+city country established dean leaderTitle leaderName
+city country established numberOfStudents dean leaderName
+dean city country established numberOfStudents leaderName
+dean city country numberOfStudents established leaderName
+country established academicStaffSize numberOfStudents dean leaderName
+numberOfStudents academicStaffSize established country dean leaderName
+country established academicStaffSize numberOfStudents dean leaderName
+city country academicStaffSize numberOfStudents established leaderName
+city country established academicStaffSize numberOfStudents leaderName
+city country established numberOfStudents academicStaffSize leaderName
+city country established anthem leaderTitle leaderName
+leaderTitle leaderName city country established anthem
+established city country leaderTitle leaderName anthem
+country established numberOfStudents leaderTitle leaderName anthem
+anthem leaderTitle leaderName country established numberOfStudents
+established numberOfStudents country leaderTitle leaderName anthem
+location city country academicStaffSize numberOfStudents established
+city location country established numberOfStudents academicStaffSize
+location city country established numberOfStudents academicStaffSize
+city country established academicStaffSize numberOfStudents dean
+city country established academicStaffSize numberOfStudents dean
+city country established academicStaffSize numberOfStudents leaderTitle
+leaderTitle city country established numberOfStudents academicStaffSize
+leaderTitle country established city numberOfStudents academicStaffSize
+city location country numberOfStudents established leaderName
+leaderName country city location numberOfStudents established
+leaderName country city location established numberOfStudents
+location country established academicStaffSize numberOfStudents leaderName
+leaderName country established location numberOfStudents academicStaffSize
+location country leaderName established numberOfStudents academicStaffSize
+city country neighboringMunicipality leaderTitle leaderName legislature
+city neighboringMunicipality country legislature leaderTitle leaderName
+city country neighboringMunicipality anthem leaderTitle leaderName
+leaderTitle leaderName anthem country city neighboringMunicipality
+city neighboringMunicipality country leaderTitle leaderName anthem
+city country legislature leaderTitle leaderName anthem
+city country legislature leaderTitle leaderName anthem
+city country anthem leaderTitle leaderName legislature
+city state country established president affiliation
+city state country established affiliation president
+established city state country president affiliation
+city state affiliation was_given_the_'Technical_Campus'_status_by location has_to_its_northeast
+has_to_its_northeast city state affiliation was_given_the_'Technical_Campus'_status_by location
+state has_to_its_northeast city affiliation was_given_the_'Technical_Campus'_status_by location
+state affiliation city was_given_the_'Technical_Campus'_status_by location has_to_its_west
+state affiliation city was_given_the_'Technical_Campus'_status_by has_to_its_west
+state was_given_the_'Technical_Campus'_status_by location affiliation has_to_its_west
+campus country established affiliation city
+country affiliation city established state campus
+campus city country director affiliation
+campus country established director affiliation
+city country affiliation established director campus
+campus city country director affiliation established
+campus director motto affiliation
+city country affiliation director motto campus
+campus country director motto affiliation
+established city country numberOfPostgraduateStudents affiliation campus
+affiliation city country established numberOfPostgraduateStudents campus
+city state country established numberOfPostgraduateStudents affiliation
+city state country established numberOfPostgraduateStudents affiliation
+established city state country numberOfPostgraduateStudents affiliation
+city country affiliation numberOfPostgraduateStudents motto campus
+campus country motto affiliation
+city country numberOfPostgraduateStudents affiliation motto campus
+city country state affiliation motto campus
+city state country affiliation motto campus
+motto campus state country affiliation
+campus country president affiliation
+city state country affiliation president campus
+city state country president affiliation campus
+campus country numberOfPostgraduateStudents director president
+city country president director numberOfPostgraduateStudents campus
+campus city country president director numberOfPostgraduateStudents
+city state country president director affiliation
+established numberOfPostgraduateStudents city country president affiliation
+established city country numberOfPostgraduateStudents president affiliation
+city country established president affiliation numberOfPostgraduateStudents
+campus country established numberOfPostgraduateStudents president
+country established president numberOfPostgraduateStudents campus
+president established city country numberOfPostgraduateStudents campus
+established country president director affiliation city
+country established affiliation city director president
+country affiliation city established president director
+campus country established president affiliation city
+country affiliation city established president campus
+president established country affiliation city campus
+city sportsOffered sportsGoverningBody affiliation was_given_the_'Technical_Campus'_status_by location
+city affiliation sportsOffered sportsGoverningBody was_given_the_'Technical_Campus'_status_by location
+city state was_given_the_'Technical_Campus'_status_by location affiliation has_to_its_west
+city state has_to_its_west was_given_the_'Technical_Campus'_status_by location
+city state was_given_the_'Technical_Campus'_status_by location affiliation
+state has_to_its_northeast was_given_the_'Technical_Campus'_status_by location sportsOffered sportsGoverningBody
+location was_given_the_'Technical_Campus'_status_by state has_to_its_northeast sportsOffered sportsGoverningBody
+state has_to_its_northeast was_given_the_'Technical_Campus'_status_by location sportsOffered sportsGoverningBody
+state affiliation was_given_the_'Technical_Campus'_status_by location city has_to_its_northeast
+state has_to_its_northeast was_given_the_'Technical_Campus'_status_by location affiliation city
+state has_to_its_northeast was_given_the_'Technical_Campus'_status_by location affiliation city
+city country affiliation headquarters governmentType leaderName
+governmentType city country affiliation headquarters leaderName
+city country affiliation headquarters governmentType leaderName
+city country academicStaffSize established largestCity river
+established city country academicStaffSize largestCity river
+city country established academicStaffSize largestCity river
+city state country has_to_its_northwest river largestCity
+city country state has_to_its_northwest largestCity river
+city state country largestCity river has_to_its_northwest
+city state country academicStaffSize leaderName largestCity
+largestCity country city state leaderName academicStaffSize
+city country state academicStaffSize leaderName largestCity
+state country has_to_its_northwest leaderName river largestCity
+largestCity river country state leaderName has_to_its_northwest
+largestCity river leaderName has_to_its_northwest country state
+city isPartOf country capital ethnicGroup leaderName
+city isPartOf country capital leaderName ethnicGroup
+city isPartOf country capital leaderName ethnicGroup
+city isPartOf country capital leaderName ethnicGroup
+leaderName capital ethnicGroup country city isPartOf
+leaderName capital ethnicGroup country city isPartOf
+ethnicGroup leaderName country capital latinName state
+state country latinName capital leaderName ethnicGroup
+latinName state country capital leaderName ethnicGroup
+city country capital leaderTitle leaderName ethnicGroup
+leaderTitle leaderName ethnicGroup country city capital
+city country capital leaderTitle leaderName ethnicGroup
+ethnicGroup leaderTitle leaderName capital country anthem
+country capital leaderTitle leaderName ethnicGroup anthem
+country capital leaderTitle leaderName anthem ethnicGroup
+country established affiliation academicStaffSize numberOfStudents dean
+dean country established academicStaffSize numberOfStudents
+established country affiliation academicStaffSize numberOfStudents dean
+established city country academicStaffSize affiliation headquarters
+established academicStaffSize city country affiliation headquarters
+affiliation headquarters city country has_to_its_northeast leaderName
+city has_to_its_northeast country affiliation headquarters leaderName
+leaderName country city has_to_its_northeast affiliation headquarters
+city country established academicStaffSize affiliation latinName
+city country academicStaffSize established affiliation latinName
+established academicStaffSize city country latinName affiliation
+city country established numberOfStudents dean academicStaffSize
+established academicStaffSize numberOfStudents city country dean
+established city country numberOfStudents academicStaffSize dean
+city country established numberOfStudents dean affiliation
+established city country affiliation dean numberOfStudents
+established numberOfStudents city country affiliation dean
+city country numberOfStudents academicStaffSize affiliation headquarters
+city country affiliation headquarters academicStaffSize numberOfStudents
+city country affiliation headquarters academicStaffSize numberOfStudents
+city country established dean affiliation headquarters
+city country affiliation headquarters established dean
+established city country dean affiliation headquarters
+country established academicStaffSize numberOfStudents latinName
+numberOfStudents academicStaffSize country established affiliation latinName
+established country affiliation academicStaffSize numberOfStudents latinName
+campus country director affiliation city
+state country affiliation city director campus
+state country director affiliation city campus
+numberOfPostgraduateStudents campus affiliation established city country
+established campus country numberOfPostgraduateStudents affiliation city
+established country numberOfPostgraduateStudents affiliation city campus
+birthPlace nationality almaMater occupation was_selected_by_NASA timeInSpace status
+nationality birthPlace almaMater occupation was_selected_by_NASA timeInSpace status
+nationality birthPlace almaMater occupation was_selected_by_NASA timeInSpace status
+nationality birthPlace almaMater occupation was_selected_by_NASA was_a_crew_member_of dateOfRetirement
+nationality birthPlace almaMater occupation was_selected_by_NASA was_a_crew_member_of dateOfRetirement
+status nationality occupation birthPlace was_a_crew_member_of timeInSpace almaMater
+nationality birthPlace almaMater occupation timeInSpace was_a_crew_member_of status
+nationality occupation birthPlace almaMater was_selected_by_NASA timeInSpace was_a_crew_member_of
+nationality birthPlace almaMater occupation was_selected_by_NASA was_a_crew_member_of timeInSpace
+nationality birthPlace almaMater was_selected_by_NASA occupation was_a_crew_member_of timeInSpace
+nationality occupation was_a_crew_member_of birthDate birthPlace almaMater dateOfRetirement
+nationality birthPlace birthDate almaMater occupation was_a_crew_member_of dateOfRetirement
+nationality birthDate birthPlace almaMater occupation was_a_crew_member_of dateOfRetirement
+birthDate birthPlace nationality almaMater occupation was_selected_by_NASA
+nationality birthPlace birthDate almaMater occupation was_selected_by_NASA was_a_crew_member_of
+nationality birthDate birthPlace almaMater occupation was_selected_by_NASA was_a_crew_member_of
+birthPlace birthDate was_selected_by_NASA occupation timeInSpace status
+birthDate birthPlace nationality occupation was_selected_by_NASA timeInSpace status
+nationality birthDate birthPlace was_selected_by_NASA occupation timeInSpace status
+nationality birthPlace birthDate occupation was_a_crew_member_of dateOfRetirement
+status nationality occupation birthPlace birthDate was_a_crew_member_of dateOfRetirement
+nationality birthPlace birthDate occupation was_a_crew_member_of timeInSpace
+nationality occupation birthDate birthPlace timeInSpace was_a_crew_member_of
+nationality occupation birthDate birthPlace was_selected_by_NASA was_a_crew_member_of timeInSpace
+nationality birthPlace birthDate occupation was_selected_by_NASA timeInSpace was_a_crew_member_of
+nationality birthDate birthPlace timeInSpace was_a_crew_member_of was_selected_by_NASA
+nationality birthPlace was_a_crew_member_of operator almaMater status
+nationality birthPlace almaMater occupation was_a_crew_member_of operator status
+nationality birthDate birthPlace was_selected_by_NASA occupation was_a_crew_member_of operator
+nationality birthPlace birthDate occupation was_selected_by_NASA was_a_crew_member_of operator
+nationality birthDate birthPlace was_selected_by_NASA occupation was_a_crew_member_of operator
+birthDate birthPlace almaMater occupation was_a_crew_member_of operator status
+birthPlace birthDate almaMater status occupation was_a_crew_member_of operator
+birthDate birthPlace almaMater occupation was_a_crew_member_of operator status
+birthPlace birthDate occupation was_a_crew_member_of operator was_selected_by_NASA almaMater
+birthPlace birthDate almaMater occupation was_a_crew_member_of operator was_selected_by_NASA
+birthDate birthPlace almaMater occupation was_selected_by_NASA was_a_crew_member_of operator
+birthDate birthPlace almaMater occupation was_a_crew_member_of operator commander
+birthDate birthPlace almaMater occupation was_a_crew_member_of operator commander
+birthPlace birthDate almaMater occupation was_a_crew_member_of operator commander
+nationality birthPlace almaMater awards higher deathDate deathPlace
+nationality birthPlace almaMater awards higher deathDate deathPlace
+deathDate deathPlace birthDate birthPlace almaMater dateOfRetirement awards
+deathDate deathPlace birthPlace birthDate almaMater dateOfRetirement awards
+birthPlace birthDate almaMater awards dateOfRetirement deathPlace deathDate
+nationality birthPlace birthDate almaMater occupation was_selected_by_NASA deathPlace
+nationality birthPlace birthDate almaMater occupation was_selected_by_NASA deathPlace
+nationality birthDate birthPlace almaMater occupation was_selected_by_NASA deathPlace
+birthPlace almaMater occupation awards higher dateOfRetirement deathPlace
+birthPlace occupation almaMater awards higher dateOfRetirement deathPlace
+deathPlace birthPlace almaMater occupation dateOfRetirement awards higher
+nationality occupation almaMater birthPlace deathPlace awards higher
+nationality birthPlace almaMater occupation awards higher deathPlace
+birthPlace nationality almaMater occupation awards higher deathPlace
+occupation birthPlace almaMater awards higher deathPlace
+deathPlace birthPlace occupation awards higher
+birthPlace almaMater occupation awards higher deathPlace
+birthPlace birthDate almaMater awards higher deathPlace
+almaMater awards higher birthPlace birthDate deathPlace
+nationality birthDate birthPlace almaMater was_a_crew_member_of dateOfRetirement deathPlace
+nationality birthDate birthPlace almaMater was_a_crew_member_of dateOfRetirement deathPlace
+nationality birthDate birthPlace almaMater was_a_crew_member_of dateOfRetirement deathPlace
+birthPlace birthDate almaMater was_selected_by_NASA was_a_crew_member_of deathPlace deathDate
+deathDate deathPlace birthDate birthPlace almaMater was_selected_by_NASA was_a_crew_member_of
+nationality occupation was_selected_by_NASA was_a_crew_member_of birthPlace almaMater deathPlace
+deathPlace nationality birthPlace almaMater occupation was_selected_by_NASA was_a_crew_member_of
+birthPlace almaMater occupation was_a_crew_member_of operator dateOfRetirement deathPlace
+birthPlace almaMater occupation was_a_crew_member_of operator dateOfRetirement deathPlace
+deathPlace birthPlace almaMater occupation was_a_crew_member_of operator dateOfRetirement
+birthDate birthPlace almaMater was_selected_by_NASA awards higher deathPlace
+birthDate birthPlace almaMater was_selected_by_NASA awards higher deathPlace
+birthDate birthPlace almaMater was_selected_by_NASA awards higher deathPlace
+birthDate birthPlace nationality almaMater deathPlace deathDate
+nationality birthPlace birthDate almaMater deathPlace deathDate
+nationality birthPlace birthDate almaMater deathPlace deathDate
+birthDate birthPlace nationality almaMater was_a_crew_member_of deathPlace
+nationality was_a_crew_member_of birthPlace birthDate almaMater deathPlace
+deathPlace nationality birthDate birthPlace almaMater was_a_crew_member_of
+birthPlace nationality almaMater occupation was_a_crew_member_of deathPlace
+nationality birthPlace almaMater occupation was_a_crew_member_of status deathPlace
+nationality birthPlace almaMater was_a_crew_member_of occupation deathPlace
+birthDate birthPlace awards higher was_a_crew_member_of deathPlace
+birthDate birthPlace was_a_crew_member_of awards higher dateOfRetirement deathPlace
+deathPlace birthDate birthPlace was_a_crew_member_of dateOfRetirement awards higher
+birthPlace was_selected_by_NASA occupation was_a_crew_member_of operator commander backup_pilot
+birthPlace occupation was_selected_by_NASA was_a_crew_member_of operator backup_pilot
+birthPlace was_selected_by_NASA occupation was_a_crew_member_of operator commander backup_pilot
+birthDate was_a_crew_member_of occupation commander backup_pilot status
+backup_pilot commander was_a_crew_member_of occupation birthDate status operator
+birthDate was_a_crew_member_of operator occupation status commander backup_pilot
+almaMater was_selected_by_NASA occupation was_a_crew_member_of operator backup_pilot commander
+almaMater was_selected_by_NASA occupation was_a_crew_member_of operator backup_pilot commander
+almaMater occupation was_selected_by_NASA was_a_crew_member_of operator backup_pilot commander
+birthPlace almaMater was_a_crew_member_of operator status backup_pilot commander
+status birthPlace almaMater was_a_crew_member_of operator commander backup_pilot
+birthPlace birthDate was_selected_by_NASA was_a_crew_member_of operator backup_pilot commander
+birthPlace birthDate was_selected_by_NASA was_a_crew_member_of operator backup_pilot commander
+birthDate birthPlace was_selected_by_NASA was_a_crew_member_of operator commander backup_pilot
+alternativeNames birthDate almaMater was_selected_by_NASA occupation was_a_crew_member_of status
+alternativeNames birthDate almaMater occupation was_selected_by_NASA was_a_crew_member_of status
+alternativeNames birthDate almaMater was_selected_by_NASA occupation was_a_crew_member_of status
+alternativeNames nationality birthDate birthPlace almaMater was_selected_by_NASA was_a_crew_member_of
+alternativeNames nationality birthDate birthPlace almaMater was_selected_by_NASA was_a_crew_member_of
+alternativeNames nationality birthPlace birthDate was_selected_by_NASA almaMater was_a_crew_member_of
+nationality birthPlace alternativeNames almaMater was_selected_by_NASA occupation was_a_crew_member_of
+alternativeNames birthDate birthPlace almaMater occupation was_a_crew_member_of status
+alternativeNames status birthPlace birthDate almaMater occupation was_a_crew_member_of
+birthDate birthPlace birthName nationality almaMater occupation status
+birthName status nationality birthDate birthPlace almaMater occupation
+birthName status nationality birthDate birthPlace almaMater occupation
+nationality birthPlace birthDate occupation was_a_crew_member_of timeInSpace status
+nationality birthPlace birthDate status occupation was_a_crew_member_of timeInSpace
+nationality birthPlace birthDate was_a_crew_member_of timeInSpace status
+birthDate birthPlace almaMater occupation was_a_crew_member_of nationality status
+nationality status occupation was_a_crew_member_of birthDate birthPlace almaMater
+nationality birthPlace birthDate almaMater occupation was_a_crew_member_of status
+nationality birthPlace almaMater was_selected_by_NASA occupation was_a_crew_member_of timeInSpace
+nationality birthPlace almaMater occupation was_a_crew_member_of timeInSpace
+nationality occupation birthPlace almaMater was_selected_by_NASA was_a_crew_member_of timeInSpace
+nationality birthPlace birthDate awards was_selected_by_NASA was_a_crew_member_of almaMater
+nationality birthDate birthPlace almaMater was_selected_by_NASA was_a_crew_member_of awards
+nationality birthPlace birthDate almaMater was_selected_by_NASA was_a_crew_member_of awards
+birthDate birthPlace almaMater was_a_crew_member_of operator nationality awards
+nationality birthPlace birthDate almaMater was_a_crew_member_of operator awards
+nationality birthPlace birthDate almaMater was_a_crew_member_of operator awards
+birthPlace birthDate almaMater occupation was_a_crew_member_of operator
+nationality birthPlace birthDate almaMater occupation was_a_crew_member_of operator
+nationality birthPlace birthDate almaMater was_a_crew_member_of operator
+was_selected_by_NASA almaMater was_a_crew_member_of operator birthPlace birthDate occupation
+birthDate birthPlace almaMater was_selected_by_NASA occupation was_a_crew_member_of operator
+nationality birthPlace almaMater occupation was_selected_by_NASA was_a_crew_member_of operator
+nationality birthPlace almaMater was_selected_by_NASA occupation was_a_crew_member_of operator
+birthPlace was_a_crew_member_of nationality operator was_selected_by_NASA occupation almaMater
+birthPlace birthDate occupation was_a_crew_member_of backup_pilot status
+birthDate birthPlace occupation was_a_crew_member_of operator backup_pilot
+birthDate birthPlace status occupation was_a_crew_member_of operator backup_pilot
+birthPlace was_a_crew_member_of timeInSpace occupation operator status
+nationality occupation was_a_crew_member_of operator timeInSpace birthPlace status
+nationality birthPlace occupation was_a_crew_member_of operator status
+nationality occupation was_selected_by_NASA was_a_crew_member_of operator birthPlace status
+status nationality birthPlace occupation was_selected_by_NASA was_a_crew_member_of operator
+nationality birthPlace was_selected_by_NASA occupation was_a_crew_member_of operator status
+birthDate almaMater was_selected_by_NASA occupation was_a_crew_member_of operator status
+occupation was_selected_by_NASA was_a_crew_member_of operator birthDate almaMater status
+was_a_crew_member_of operator awards higher deathPlace senators gemstone
+deathPlace senators gemstone was_a_crew_member_of operator awards higher
+birthDate birthPlace nationality almaMater was_selected_by_NASA deathDate
+nationality birthDate birthPlace almaMater was_selected_by_NASA deathDate deathPlace
+birthPlace birthDate almaMater nationality was_selected_by_NASA deathPlace deathDate
+birthPlace birthDate almaMater occupation deathDate
+occupation birthDate birthPlace nationality almaMater deathPlace deathDate
+nationality birthPlace birthDate almaMater occupation deathPlace deathDate
+birthPlace almaMater was_selected_by_NASA occupation deathPlace
+birthPlace almaMater was_selected_by_NASA occupation deathDate
+nationality birthPlace almaMater occupation was_selected_by_NASA deathDate deathPlace
+birthPlace almaMater compete_in occupation deathPlace deathDate
+deathPlace deathDate birthPlace almaMater compete_in occupation
+birthDate birthPlace almaMater compete_in occupation deathPlace
+nationality deathPlace birthDate birthPlace almaMater compete_in occupation
+nationality birthDate almaMater was_selected_by_NASA occupation status
+birthDate nationality almaMater occupation was_selected_by_NASA deathDate
+nationality birthDate birthPlace almaMater deathDate deathPlace
+birthDate birthPlace deathDate deathPlace nationality almaMater
+nationality birthPlace birthDate almaMater deathPlace deathDate
+deathPlace deathDate birthPlace birthDate almaMater was_selected_by_NASA
+birthDate birthPlace almaMater was_selected_by_NASA deathDate status
+birthPlace birthDate almaMater was_selected_by_NASA deathPlace deathDate
+nationality occupation almaMater birthPlace birthDate deathPlace
+nationality birthPlace birthDate almaMater occupation deathPlace
+birthPlace birthDate almaMater was_selected_by_NASA occupation deathPlace
+birthDate birthPlace almaMater occupation was_selected_by_NASA deathPlace
+deathPlace birthPlace birthDate almaMater occupation was_selected_by_NASA
+nationality birthPlace almaMater occupation was_selected_by_NASA deathPlace
+nationality birthPlace almaMater occupation was_selected_by_NASA deathPlace
+nationality birthDate birthPlace almaMater affiliations deathDate deathPlace
+nationality almaMater affiliations birthPlace birthDate deathPlace deathDate
+nationality birthPlace birthDate almaMater affiliations deathDate deathPlace
+nationality birthDate birthPlace almaMater affiliations compete_in status
+nationality birthPlace birthDate almaMater affiliations compete_in status
+birthPlace almaMater affiliations compete_in deathPlace
+birthPlace nationality almaMater compete_in deathPlace
+nationality birthPlace almaMater affiliations compete_in deathPlace
+birthDate birthPlace almaMater affiliations occupation deathDate deathPlace
+birthDate birthPlace almaMater affiliations occupation deathDate deathPlace
+occupation birthPlace birthDate deathPlace deathDate almaMater affiliations
+birthDate birthPlace almaMater affiliations compete_in occupation deathPlace
+birthDate birthPlace almaMater affiliations compete_in occupation deathPlace
+birthPlace birthDate almaMater affiliations compete_in occupation deathPlace
+occupation birthPlace deathDate deathPlace almaMater affiliations
+birthPlace almaMater affiliations occupation deathPlace deathDate
+birthPlace almaMater affiliations occupation deathPlace deathDate
+nationality birthPlace almaMater affiliations occupation deathPlace
+nationality birthPlace almaMater affiliations occupation deathPlace
+nationality birthPlace almaMater affiliations occupation
+birthPlace almaMater affiliations compete_in mascot president
+birthPlace almaMater affiliations compete_in president
+birthPlace almaMater affiliations president compete_in mascot
+almaMater president affiliations compete_in deathPlace isPartOf
+almaMater deathPlace isPartOf affiliations compete_in president mascot
+birthDate nationality occupation was_selected_by_NASA deathDate deathPlace
+birthDate deathDate deathPlace nationality occupation was_selected_by_NASA
+nationality occupation birthPlace was_selected_by_NASA deathDate deathPlace
+deathPlace deathDate nationality birthPlace occupation was_selected_by_NASA
+birthDate was_a_crew_member_of operator backup_pilot dateOfRetirement
+operator crewMembers backup_pilot was_a_crew_member_of birthDate dateOfRetirement
+birthDate dateOfRetirement was_a_crew_member_of operator backup_pilot crewMembers
+birthPlace occupation dateOfRetirement was_a_crew_member_of operator commander backup_pilot
+birthPlace dateOfRetirement occupation was_a_crew_member_of commander backup_pilot
+was_a_crew_member_of backup_pilot commander operator birthPlace occupation dateOfRetirement
+almaMater occupation was_a_crew_member_of backup_pilot crewMembers dateOfRetirement
+birthDate birthPlace almaMater occupation was_selected_by_NASA was_a_crew_member_of dateOfRetirement
+occupation birthDate birthPlace almaMater was_selected_by_NASA was_a_crew_member_of dateOfRetirement
+birthPlace birthDate was_selected_by_NASA was_a_crew_member_of dateOfRetirement occupation almaMater
+birthDate birthPlace nationality almaMater occupation was_selected_by_NASA dateOfRetirement
+nationality birthPlace birthDate almaMater occupation was_selected_by_NASA dateOfRetirement
+nationality birthPlace birthDate almaMater occupation was_selected_by_NASA dateOfRetirement
+birthDate birthPlace was_selected_by_NASA occupation was_a_crew_member_of dateOfRetirement
+nationality birthPlace birthDate was_selected_by_NASA was_a_crew_member_of occupation dateOfRetirement
+nationality birthPlace birthDate was_selected_by_NASA occupation dateOfRetirement
+nationality birthDate birthPlace was_selected_by_NASA occupation dateOfRetirement
+status nationality birthPlace birthDate occupation was_selected_by_NASA dateOfRetirement
+status birthDate birthPlace almaMater occupation was_selected_by_NASA
+birthDate birthPlace almaMater was_selected_by_NASA occupation dateOfRetirement
+birthPlace birthDate almaMater was_selected_by_NASA occupation dateOfRetirement
+birthPlace occupation was_selected_by_NASA was_a_crew_member_of birthDate dateOfRetirement
+birthPlace birthDate occupation was_selected_by_NASA was_a_crew_member_of dateOfRetirement
+dateOfRetirement occupation birthDate birthPlace was_selected_by_NASA was_a_crew_member_of
+birthPlace almaMater was_selected_by_NASA occupation was_a_crew_member_of dateOfRetirement
+status birthPlace almaMater occupation was_selected_by_NASA was_a_crew_member_of dateOfRetirement
+birthPlace almaMater was_selected_by_NASA occupation was_a_crew_member_of dateOfRetirement
+nationality birthPlace birthDate occupation was_a_crew_member_of almaMater status
+birthPlace birthDate nationality almaMater occupation was_a_crew_member_of status
+status nationality birthDate birthPlace almaMater occupation was_a_crew_member_of
+birthPlace occupation was_a_crew_member_of backup_pilot operator
+birthPlace occupation was_a_crew_member_of backup_pilot crewMembers operator
+birthPlace status occupation was_a_crew_member_of operator crewMembers backup_pilot
+operator was_a_crew_member_of crewMembers backup_pilot birthPlace almaMater was_selected_by_NASA
+birthPlace almaMater was_selected_by_NASA was_a_crew_member_of operator crewMembers backup_pilot
+birthPlace almaMater was_selected_by_NASA was_a_crew_member_of operator crewMembers
+birthDate birthPlace nationality almaMater occupation was_selected_by_NASA status
+birthDate birthPlace nationality almaMater was_selected_by_NASA occupation status
+status nationality birthPlace birthDate almaMater occupation was_selected_by_NASA
+location location municipality state country established category
+established category location location municipality country state
+location municipality location state established category country
+established category location state country has_to_its_southeast has_to_its_north
+established location state category country has_to_its_north has_to_its_southeast
+established category location state country has_to_its_southeast has_to_its_north
+category location country has_to_its_west has_to_its_southeast has_to_its_north has_to_its_southwest
+has_to_its_north has_to_its_west has_to_its_southwest has_to_its_southeast location country category
+has_to_its_west has_to_its_north has_to_its_southeast has_to_its_southwest location category country
+has_to_its_southwest has_to_its_north has_to_its_southeast location established category
+established category location state has_to_its_north has_to_its_southeast has_to_its_southwest
+has_to_its_north has_to_its_southwest has_to_its_southeast location state established category
+has_to_its_north has_to_its_west has_to_its_southeast municipality location established category
+municipality location established category has_to_its_west has_to_its_north has_to_its_southeast
+has_to_its_west has_to_its_north has_to_its_southeast has_to_its_southwest location established category
+has_to_its_west has_to_its_southeast has_to_its_north has_to_its_southwest location established category
+established location category has_to_its_west has_to_its_north has_to_its_southeast has_to_its_southwest
+category municipality location has_to_its_west has_to_its_north has_to_its_southeast
+municipality location category has_to_its_west has_to_its_north has_to_its_southeast has_to_its_southwest
+has_to_its_west has_to_its_north has_to_its_southeast has_to_its_southwest location municipality category
+leaderTitle capital location designer nativeName dedicatedTo legislature
+capital leaderTitle legislature location designer dedicatedTo nativeName
+leaderTitle legislature capital location dedicatedTo nativeName designer
+leaderTitle leaderName legislature location nativeName capital designer
+leaderTitle leaderName capital legislature location nativeName designer
+capital leaderTitle leaderName legislature location nativeName designer
+leaderName legislature capital location dedicatedTo designer nativeName
+leaderName capital legislature location designer dedicatedTo nativeName
+leaderName capital legislature location designer dedicatedTo nativeName
+designer material location dedicatedTo capital leaderName
+capital leaderTitle leaderName location material designer dedicatedTo
+material designer dedicatedTo location capital leaderTitle leaderName
+material designer dedicatedTo location capital leaderName legislature
+capital legislature leaderName location designer material dedicatedTo
+capital leaderName legislature location material designer dedicatedTo
+leaderName location dedicatedTo material designer nativeName
+leaderName capital location dedicatedTo material designer nativeName
+capital leaderName location designer material dedicatedTo nativeName
+designer material dedicatedTo location capital leader leaderTitle
+capital leaderTitle leader location designer material dedicatedTo
+location capital dedicatedTo designer material leaderTitle leader
+legislature leaderTitle leader capital location material nativeName
+leaderTitle leader legislature capital location material nativeName
+material dedicatedTo location nativeName designer leader leaderTitle
+nativeName material designer dedicatedTo location leaderTitle leader
+leader leaderTitle location dedicatedTo nativeName designer material
+nativeName designer material dedicatedTo location leaderName legislature
+dedicatedTo material designer location nativeName leaderName legislature
+material location dedicatedTo ethnicGroups religion languages
+location material dedicatedTo religion capital languages ethnicGroups
+capital location material dedicatedTo languages religion ethnicGroups
+district location nearestCity established owningOrganisation category country
+established nearestCity district category country owningOrganisation
+owningOrganisation established category country district nearestCity
+material designer inaugurationDate location capital currency leader
+designer material location inaugurationDate leader currency
+currency leader capital location designer inaugurationDate
+largestCity capital leader location material designer inaugurationDate
+leader largestCity capital location designer material inaugurationDate
+largestCity capital leader location material designer inaugurationDate
+location material designer inaugurationDate capital largestCity leaderTitle
+leaderTitle capital largestCity location designer inaugurationDate material
+location leaderTitle largestCity capital designer material inaugurationDate
+designer material location inaugurationDate leaderTitle leaderName capital
+material designer inaugurationDate location capital leaderTitle leaderName
+leaderTitle leaderName largestCity currency location designer material
+material designer location largestCity currency leaderTitle leaderName
+designer inaugurationDate location largestCity currency leaderTitle leader
+leaderTitle leader location designer inaugurationDate largestCity currency
+leaderTitle leader location designer inaugurationDate largestCity currency
+leader leaderTitle capital largestCity currency location material
+material location leaderTitle leader capital largestCity currency
+leaderTitle leader capital largestCity currency location material
+river country academicStaffSize established city state leaderName
+city state country established academicStaffSize leaderName river
+city state country established academicStaffSize river leaderName
+leaderName has_to_its_northwest state country established city academicStaffSize
+city state country established academicStaffSize leaderName has_to_its_northwest
+city country established academicStaffSize state has_to_its_northwest leaderName
+river has_to_its_northwest leaderName country state city academicStaffSize
+city state country academicStaffSize leaderName river
+river has_to_its_northwest leaderName country state city academicStaffSize
+leaderTitle leaderName country city established dean numberOfStudents
+city country established dean numberOfStudents leaderTitle leaderName
+city country established numberOfStudents dean leaderTitle leaderName
+leaderTitle leaderName country city established academicStaffSize dean
+city country established dean academicStaffSize leaderTitle leaderName
+dean city country established academicStaffSize leaderName leaderTitle
+leaderName country city established numberOfStudents academicStaffSize dean
+city country established academicStaffSize numberOfStudents dean leaderName
+leaderName country established city numberOfStudents academicStaffSize dean
+leaderTitle country city location dean numberOfStudents established
+city location country numberOfStudents dean established leaderTitle
+city country location established numberOfStudents dean leaderTitle
+city country established numberOfStudents leaderTitle leaderName anthem
+established city country numberOfStudents leaderTitle leaderName anthem
+anthem leaderTitle leaderName country established numberOfStudents
+city location country established dean numberOfStudents academicStaffSize
+city location country academicStaffSize numberOfStudents dean established
+city country location established numberOfStudents academicStaffSize dean
+location country established numberOfStudents academicStaffSize leaderTitle leaderName
+established location country academicStaffSize numberOfStudents leaderTitle leaderName
+location country established numberOfStudents academicStaffSize leaderName leaderTitle
+leaderTitle leaderName country city location numberOfStudents established
+city location country established numberOfStudents leaderName leaderTitle
+location country established numberOfStudents leaderTitle leaderName
+anthem leaderTitle leaderName legislature country city neighboringMunicipality
+city country neighboringMunicipality anthem leaderTitle leaderName legislature
+leaderName legislature leaderTitle neighboringMunicipality anthem country city
+city affiliation was_given_the_'Technical_Campus'_status_by location founder state has_to_its_west
+has_to_its_west state city founder was_given_the_'Technical_Campus'_status_by location affiliation
+affiliation city state was_given_the_'Technical_Campus'_status_by location has_to_its_west founder
+state affiliation city was_given_the_'Technical_Campus'_status_by location has_to_its_west has_to_its_northeast
+state has_to_its_northeast has_to_its_west affiliation was_given_the_'Technical_Campus'_status_by location
+has_to_its_northeast has_to_its_west state affiliation city was_given_the_'Technical_Campus'_status_by location
+campus country established numberOfPostgraduateStudents director affiliation
+campus country established director numberOfPostgraduateStudents affiliation
+city country established numberOfPostgraduateStudents director campus affiliation
+established state country campus director affiliation
+campus country director affiliation
+city country affiliation campus state director established
+state country campus numberOfPostgraduateStudents affiliation director
+campus director numberOfPostgraduateStudents affiliation
+city country affiliation state numberOfPostgraduateStudents director campus
+campus established state country motto affiliation
+campus established motto affiliation
+city country affiliation state established motto campus
+campus state country established numberOfPostgraduateStudents affiliation
+campus state country established numberOfPostgraduateStudents affiliation
+campus established numberOfPostgraduateStudents affiliation
+city country established affiliation president director numberOfPostgraduateStudents
+established city country president director numberOfPostgraduateStudents affiliation
+city country affiliation numberOfPostgraduateStudents established president director
+city country established numberOfPostgraduateStudents president director campus
+campus city country established president director numberOfPostgraduateStudents
+campus country established president director numberOfPostgraduateStudents
+city established state country director president affiliation
+city country affiliation established state president director
+city state country established affiliation president director
+campus president numberOfPostgraduateStudents country established affiliation
+campus established president numberOfPostgraduateStudents affiliation
+city country established president numberOfPostgraduateStudents affiliation campus
+established city state country numberOfPostgraduateStudents president affiliation
+city state country established president numberOfPostgraduateStudents affiliation
+president city state country established numberOfPostgraduateStudents affiliation
+president established numberOfPostgraduateStudents campus state country
+campus state country established president numberOfPostgraduateStudents
+campus established president numberOfPostgraduateStudents
+city founder was_given_the_'Technical_Campus'_status_by location affiliation sportsOffered sportsGoverningBody
+location was_given_the_'Technical_Campus'_status_by city founder affiliation sportsOffered sportsGoverningBody
+city founder was_given_the_'Technical_Campus'_status_by location sportsOffered sportsGoverningBody affiliation
+city state was_given_the_'Technical_Campus'_status_by location affiliation has_to_its_northeast has_to_its_west
+has_to_its_northeast has_to_its_west state city was_given_the_'Technical_Campus'_status_by location affiliation
+leaderTitle leaderName has_to_its_northeast country city affiliation headquarters
+city country affiliation headquarters leaderTitle leaderName has_to_its_northeast
+leaderTitle leaderName has_to_its_northeast country city affiliation headquarters
+religion leaderName has_to_its_northeast country city affiliation headquarters
+city country affiliation headquarters leaderName religion has_to_its_northeast
+has_to_its_northeast city country affiliation headquarters leaderName religion
+city country leaderName leaderTitle governmentType has_to_its_northeast
+city country governmentType has_to_its_northeast leaderTitle religion leaderName
+city governmentType has_to_its_northeast country leaderTitle leaderName religion
+city state country established academicStaffSize largestCity has_to_its_northwest
+city country state has_to_its_northwest established academicStaffSize largestCity
+established city state country academicStaffSize has_to_its_northwest largestCity
+state country established academicStaffSize has_to_its_northwest leaderName largestCity
+country established academicStaffSize state has_to_its_northwest leaderName largestCity
+established state country academicStaffSize leaderName has_to_its_northwest largestCity
+river largestCity country city state leaderName established
+city state country established river largestCity leaderName
+city country established state largestCity leaderName river
+has_to_its_northeast has_to_its_west state city affiliation sportsOffered sportsGoverningBody
+city state sportsOffered sportsGoverningBody affiliation has_to_its_northeast has_to_its_west
+has_to_its_northeast has_to_its_west state city sportsOffered sportsGoverningBody affiliation
+has_to_its_northeast has_to_its_west state affiliation city sportsOffered sportsGoverningBody
+state affiliation city sportsOffered sportsGoverningBody has_to_its_northeast has_to_its_west
+affiliation city state has_to_its_west has_to_its_northeast sportsOffered sportsGoverningBody
+ethnicGroup leaderTitle leaderName capital country city isPartOf
+city isPartOf country capital ethnicGroup leaderTitle leaderName
+city country isPartOf capital leaderName anthem ethnicGroup
+capital leaderName ethnicGroup anthem country city isPartOf
+city isPartOf country leaderName ethnicGroup capital anthem
+leaderTitle leaderName capital ethnicGroup country city isPartOf
+city isPartOf country capital ethnicGroup leaderTitle leaderName
+city isPartOf country leaderTitle leaderName capital ethnicGroup
+ethnicGroup leaderTitle leaderName capital country city state
+city state country capital ethnicGroup leaderTitle leaderName
+state country latinName leaderTitle leaderName capital ethnicGroup
+state country latinName ethnicGroup capital leaderTitle leaderName
+state country latinName leaderTitle leaderName ethnicGroup capital
+capital ethnicGroup anthem patronSaint leaderTitle leaderName country
+country leaderTitle leaderName capital ethnicGroup patronSaint anthem
+leaderTitle leaderName capital anthem patronSaint ethnicGroup country
+ethnicGroup leaderTitle leaderName capital anthem country latinName
+country latinName ethnicGroup leaderTitle leaderName capital anthem
+leaderName country city established affiliation numberOfStudents academicStaffSize
+city country established numberOfStudents academicStaffSize affiliation leaderName
+established city country academicStaffSize numberOfStudents affiliation headquarters
+city country established academicStaffSize numberOfStudents affiliation headquarters
+affiliation headquarters city country established numberOfStudents academicStaffSize
+city country affiliation headquarters dean numberOfStudents academicStaffSize
+city country academicStaffSize numberOfStudents dean affiliation headquarters
+city country affiliation headquarters dean academicStaffSize numberOfStudents
+established country dean numberOfStudents academicStaffSize affiliation latinName
+country established academicStaffSize numberOfStudents dean latinName
+country established affiliation dean numberOfStudents academicStaffSize latinName
+city country affiliation headquarters leaderName religion governmentType
+city country affiliation headquarters governmentType leaderName religion
+established city country dean latinName academicStaffSize affiliation
+city country established academicStaffSize latinName dean affiliation
+city country affiliation established latinName dean academicStaffSize
+established city country affiliation dean numberOfStudents academicStaffSize
+city country established dean academicStaffSize numberOfStudents affiliation
+city country affiliation established dean numberOfStudents academicStaffSize
+established city country latinName affiliation numberOfStudents academicStaffSize
+city country established academicStaffSize numberOfStudents latinName affiliation
+established academicStaffSize numberOfStudents city country affiliation latinName
+city dean established affiliation latinName academicStaffSize numberOfStudents
+city established academicStaffSize numberOfStudents dean affiliation
+latinName established city academicStaffSize numberOfStudents affiliation dean
+city country established affiliation headquarters dean numberOfStudents
+city country established numberOfStudents dean affiliation headquarters
+city country affiliation headquarters established numberOfStudents dean
+country campus established director numberOfPostgraduateStudents affiliation city
+campus established director affiliation city
+country affiliation city established numberOfPostgraduateStudents director campus
+campus state country established motto affiliation city
+established campus motto affiliation city
+motto established campus state country affiliation city

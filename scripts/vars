@@ -1,0 +1,23 @@
+src=src
+trg=trg
+eval=eval
+lng=en
+
+# scripts directory of moses decoder: http://www.statmt.org/moses
+# you do not need to compile moses; a simple download is sufficient
+moses_scripts=/roaming/tcastrof/workspace/mosesdecoder/scripts
+
+#scripts for subword segmentation: https://github.com/rsennrich/subword-nmt
+bpe_scripts=/roaming/tcastrof/workspace/subword-nmt
+
+#nematus: https://github.com/EdinburghNLP/nematus
+nematus_home=/roaming/tcastrof/workspace/nematus
+
+# path to the webnlg corpus
+corpus_dir=/home/tcastrof/Experiments/versions/v1.4/en
+
+# stanford parser
+stanford_path=/roaming/tcastrof/workspace/stanford/stanford-corenlp-full-2018-02-27
+
+# path to save the results
+root_dir=/roaming/tcastrof/emnlp2019_test

@@ -1,0 +1,1601 @@
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=undefined] a runway length of ENTITY-2 .
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located at ENTITY-2 .
+ENTITY-1 runway name VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the runway name of ENTITY-1 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] operate by ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 above sea level .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] serve DT[form=defined] the city of ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=undefined] a runway VP[aspect=simple,tense=past,voice=active,person=null,number=null] name ENTITY-2 .
+DT[form=defined] the runway length of ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the runway name of ENTITY-1 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] serve DT[form=defined] the city of ENTITY-2 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the country seat of ENTITY-1 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] serve ENTITY-2 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the runway name of ENTITY-1 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the runway name of ENTITY-1 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] serve ENTITY-2 of ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-2 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the mayor of ENTITY-1 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-2 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the language of ENTITY-1 .
+DT[form=defined] the leader of ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the capital of ENTITY-1 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] lead ENTITY-1 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] lead ENTITY-1 .
+DT[form=defined] the language VP[aspect=simple,tense=past,voice=active,person=null,number=null] speak in ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 .
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be part of ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=undefined] a leader VP[aspect=simple,tense=past,voice=active,person=null,number=null] call ENTITY-2 .
+
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the headquarters of ENTITY-1 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-2 .
+ENTITY-1 , VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be part of ENTITY-2 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the chief of ENTITY-1 .
+ENTITY-1 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] award ENTITY-2 .
+
+ENTITY-2 VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be DT[form=undefined] a backup pilot on DT[form=defined] the ENTITY-1 mission .
+ENTITY-2 VP[aspect=simple,tense=past,voice=active,person=null,number=null] operate ENTITY-1 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] operate by ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be ENTITY-2 national .
+ENTITY-1 VP[aspect=simple,tense=past,voice=active,person=null,number=null] serve as ENTITY-2 .
+
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the mascot for ENTITY-1 .
+ENTITY-1 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] design by ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-2 .
+
+ENTITY-1 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] complete in ENTITY-2 .
+DT[form=defined] the construction of ENTITY-1 VP[aspect=simple,tense=past,voice=active,person=null,number=null] begin in ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located within ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have ENTITY-2 floors .
+ENTITY-2 VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be DT[form=defined] the architect of ENTITY-1 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located on ENTITY-2 .
+DT[form=defined] the building of ENTITY-1 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] start in ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in ENTITY-2 .
+
+
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the architect who VP[aspect=simple,tense=past,voice=active,person=null,number=null] design ENTITY-1 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] add to DT[form=defined] the National Register of Historic Places , on ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] construct in ENTITY-2 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-1 postal code of Birmingham .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be part of ENTITY-2 .
+
+
+DT[form=defined] the name of DT[form=defined] the leader in ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be DT[form=undefined] a ethnic group VP[aspect=simple,tense=past,voice=active,person=null,number=null] find in ENTITY-1 .
+
+One of DT[form=defined] the key people in ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the main language of ENTITY-1 .
+DT[form=defined] the capital of ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the capital of ENTITY-1 .
+
+DT[form=defined] the leader of ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the area code for ENTITY-1 .
+ENTITY-1 , VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be part of ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] lead by ENTITY-2 .
+DT[form=defined] the total area of ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located within ENTITY-2 .
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] lead by ENTITY-2 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the home country to ENTITY-1 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be part of ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be part of ENTITY-2 .
+DT[form=defined] the area code of ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 .
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be part of ENTITY-2 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] lead ENTITY-1 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] lead by ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=undefined] a population of ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 metres above sea level .
+DT[form=defined] the leader title of ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located at ENTITY-2 above sea level .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in ENTITY-2 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the largest city in ENTITY-1 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the country of ENTITY-2 .
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in DT[form=defined] the state of ENTITY-2 .
+DT[form=defined] the capital of DT[form=defined] the state of ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in DT[form=defined] the State of ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in ENTITY-2 .
+DT[form=defined] the largest town in ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 .
+DT[form=defined] the creator of ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] create by ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] create by ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] broadcast by `` ENTITY-2 '' .
+ENTITY-1 first VP[aspect=simple,tense=past,voice=active,person=null,number=null] air on ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=past,voice=active,person=null,number=null] star ENTITY-2 .
+
+ENTITY-1 VP[aspect=perfect,tense=present,voice=passive,person=3rd,number=null] award ENTITY-2 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-1 's child .
+ENTITY-1 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] create by ENTITY-2 .
+DT[form=defined] the full name of ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be `` ENTITY-2 '' .
+ENTITY-1 VP[aspect=simple,tense=past,voice=active,person=null,number=null] receive ENTITY-2 for ENTITY-1 work in comics .
+ENTITY-1 VP[aspect=simple,tense=past,voice=active,person=null,number=null] win ENTITY-2 for comics .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a alternative name to ENTITY-1 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be DT[form=defined] the main ingredients in ENTITY-1 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be nationwide in ENTITY-2 .
+
+DT[form=defined] the main ingredients in ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be ENTITY-2 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient of ENTITY-1 .
+
+
+DT[form=defined] the genus of ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a dish that should VP[aspect=simple,tense=present,voice=passive,person=null,number=null] serve ENTITY-2 .
+
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in ENTITY-1 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in ENTITY-1 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient of ENTITY-1 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in ENTITY-1 .
+ENTITY-1 VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] create by ENTITY-2 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be one variation of DT[form=defined] the ENTITY-1 dish .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] contain ENTITY-2 of protein .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the country ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] come from .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] include ENTITY-2 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be DT[form=undefined] a ingredient in ENTITY-1 .
+
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a leader in ENTITY-1 .
+
+DT[form=undefined] a type of ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the leader of ENTITY-1 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the name VP[aspect=simple,tense=past,voice=active,person=null,number=null] give to people from ENTITY-1 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ethnic group in ENTITY-1 .
+DT[form=defined] the order of ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be people from ENTITY-1 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the language VP[aspect=simple,tense=past,voice=active,person=null,number=null] speak in ENTITY-1 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a language VP[aspect=simple,tense=past,voice=active,person=null,number=null] speak in ENTITY-1 .
+ENTITY-1 and ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be variations of DT[form=defined] the same dish .
+
+ENTITY-2 VP[aspect=simple,tense=past,voice=active,person=null,number=null] design ENTITY-1 .
+DT[form=defined] the material of ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 .
+DT[form=defined] the name of DT[form=defined] the leader of ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] create in ENTITY-2 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be manager of ENTITY-1 .
+
+ENTITY-1 VP[aspect=simple,tense=past,voice=active,person=null,number=null] play in ENTITY-2 .
+ENTITY-1 's full name VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 .
+`` AGENT-1 '' VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the full name of AGENT-1 .
+ENTITY-1 VP[aspect=simple,tense=past,voice=active,person=null,number=plural] be in ENTITY-2 season .
+ENTITY-1 VP[aspect=simple,tense=past,voice=active,person=null,number=plural] be in ENTITY-2 .
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=defined] the home ground VP[aspect=simple,tense=past,voice=active,person=null,number=null] call ENTITY-2 .
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have ENTITY-2 members .
+
+ENTITY-1 's manager VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 .
+ENTITY-1 team 's nickname VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have ENTITY-2 members .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-2 .
+
+
+ENTITY-1 VP[aspect=simple,tense=past,voice=active,person=null,number=plural] be in ENTITY-2 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the ground of ENTITY-1 .
+ENTITY-1 VP[aspect=perfect,tense=present,voice=active,person=3rd,number=null] get ENTITY-2 members .
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] play for ENTITY-2 F.C.
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] play for ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be with DT[form=defined] the ENTITY-2 club .
+
+ENTITY-1 's club VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-2 .
+ENTITY-2 VP[aspect=simple,tense=past,voice=active,person=null,number=plural] be champions at ENTITY-1 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] play for ENTITY-2 .
+DT[form=defined] the academic staff number ENTITY-2 at ENTITY-1 .
+ENTITY-1 campus VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in DT[form=defined] the country of ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be part of ENTITY-2 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the patron saint of ENTITY-1 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have academic staff size of ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] situate in ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] write by ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] precede by ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] follow by ENTITY-2 .
+DT[form=defined] the EISSN number of ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] make in ENTITY-2 .
+DT[form=defined] the ISBN number to ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 .
+
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the author of ENTITY-1 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] write in ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=undefined] a LCCN number of ENTITY-2 .
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=defined] the abbreviation of `` ENTITY-2 '' .
+ENTITY-1 discipline VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 .
+ENTITY-1 CODEN code VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be `` ENTITY-2 '' .
+DT[form=defined] the OCLC number for ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the publisher of ENTITY-1 .
+ENTITY-1 's LLCN number VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 .
+OCLC number ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be for ENTITY-1 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=defined] the OCLC number of ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] follow by ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=undefined] a impact Factor of ENTITY-2 .
+ENTITY-2 VP[aspect=simple,tense=past,voice=active,person=null,number=null] follow ENTITY-1 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the nickname of ENTITY-1 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be genus ENTITY-2 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be one of ENTITY-1 notable works .
+DT[form=defined] the leader of ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a leader in ENTITY-1 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the author of `` ENTITY-1 '' .
+ENTITY-1 , part of ENTITY-2 , VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] serve by ENTITY-3 .
+
+VP[aspect=simple,tense=past,voice=active,person=null,number=null] locate in ENTITY-2 , ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=undefined] a runway with DT[form=defined] the length of ENTITY-3 metres .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in ENTITY-2 and VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=undefined] a runway length of ENTITY-3 metres .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in ENTITY-2 , where DT[form=defined] the leader VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-3 .
+ENTITY-1 which VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be elevated ENTITY-2 feet above sea level , VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-3 .
+
+
+ENTITY-1 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] involve in ENTITY-2 and VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be also DT[form=defined] the operating organisation for ENTITY-3 .
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in ENTITY-2 which VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be part of ENTITY-3 .
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] operate by ENTITY-2 , which VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] headquarter at ENTITY-3 .
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-2 , ENTITY-3 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] operate ENTITY-1 which VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-3 m a.s.l.
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-2 which VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=defined] the capital of ENTITY-3 .
+
+
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be part of ENTITY-2 and VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] serve by ENTITY-3 .
+
+DT[form=defined] the 2nd runway at ENTITY-1 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] make of ENTITY-2 , which VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a member of DT[form=defined] the order of ENTITY-3 .
+
+DT[form=defined] the 3rd runway at ENTITY-1 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] make of ENTITY-2 which VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] include in DT[form=defined] the class ENTITY-3 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-2 and ENTITY-1 runway length VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-3 .
+ENTITY-1 , which VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-2 , VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] serve DT[form=defined] the city of ENTITY-3 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] serve ENTITY-2 and VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=undefined] a runway length of ENTITY-3 .
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in ENTITY-2 which VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be part of ENTITY-3 .
+ENTITY-1 , who VP[aspect=simple,tense=past,voice=active,person=null,number=null] serve as DT[form=undefined] a crew member of ENTITY-2 , VP[aspect=simple,tense=past,voice=active,person=null,number=null] retire ENTITY-3 .
+ENTITY-1 VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be ENTITY-2 VP[aspect=simple,tense=past,voice=active,person=null,number=null] bear in ENTITY-3 .
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be now ENTITY-2 but ENTITY-1 VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be once ENTITY-3 .
+
+ENTITY-2 VP[aspect=simple,tense=past,voice=active,person=null,number=null] operate ENTITY-1 of which ENTITY-3 VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be DT[form=undefined] a member .
+ENTITY-1 VP[aspect=simple,tense=past,voice=active,person=null,number=null] serve as DT[form=undefined] a crew member of ENTITY-2 which VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] operate by ENTITY-3 .
+ENTITY-1 , who VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be ENTITY-2 , VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be DT[form=undefined] a crew member on ENTITY-3 .
+
+
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-2 , which VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] lead via ENTITY-3 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-2 - which VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] lead by ENTITY-3 .
+
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located at ENTITY-2 and VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] design by ENTITY-3 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located at ENTITY-2 and VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] own by ENTITY-3 .
+
+
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 high and VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be by ENTITY-3 .
+
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in DT[form=defined] the country of ENTITY-2 where ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] speak ENTITY-3 .
+ENTITY-1 at ENTITY-2 VP[aspect=simple,tense=past,voice=active,person=null,number=null] open on ENTITY-3 .
+
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the owner of ENTITY-1 in ENTITY-3 .
+
+ENTITY-2 VP[aspect=simple,tense=past,voice=active,person=null,number=null] design ENTITY-1 and ENTITY-3 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a tenant there .
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-2 of ENTITY-3 .
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-2 whose capital VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-3 .
+DT[form=defined] the National Register of Historic Places VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have ENTITY-1 , located at ENTITY-2 , VP[aspect=simple,tense=past,voice=active,person=null,number=null] reference at ENTITY-3 .
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located at ENTITY-2 and ENTITY-1 reference number VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-3 in DT[form=defined] the National Register of Historic Places .
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be located in ENTITY-2 and VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] add to DT[form=defined] the National Register of Historic Places on ENTITY-3 .
+
+ENTITY-1 , VP[aspect=simple,tense=past,voice=active,person=null,number=null] construct in ENTITY-2 , VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located at ENTITY-3 .
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-2 and ENTITY-2 leader VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-3 .
+ENTITY-1 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] create by ENTITY-2 and ENTITY-3 .
+ENTITY-1 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] create by ENTITY-2 and ENTITY-3 .
+ENTITY-1 , also VP[aspect=simple,tense=past,voice=active,person=null,number=null] know as ENTITY-1 , VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] create by ENTITY-2 .
+ENTITY-2 VP[aspect=simple,tense=past,voice=active,person=null,number=null] create ENTITY-1 , DT[form=defined] the fictional superhero whose VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] alter ego VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-3 .
+
+ENTITY-2 VP[aspect=simple,tense=past,voice=active,person=null,number=null] star in ENTITY-1 , which VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] show on ENTITY-3 .
+ENTITY-1 VP[aspect=simple,tense=past,voice=active,person=null,number=null] star ENTITY-2 who VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear in ENTITY-3 .
+
+DT[form=defined] the creator of ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 , ENTITY-3 .
+
+ENTITY-1 ( ENTITY-2 ) , VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] create by ENTITY-3 .
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a comic book character which VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] create by both ENTITY-2 and ENTITY-3 .
+DT[form=defined] both ENTITY-2 and ENTITY-3 VP[aspect=simple,tense=past,voice=active,person=null,number=plural] be DT[form=defined] the creator 's of ENTITY-1 .
+One of DT[form=defined] the ingredients of ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 and ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] originate from ENTITY-3 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from DT[form=defined] the ENTITY-2 region and VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have ENTITY-3 as one of ENTITY-1 ingredients .
+
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in ENTITY-1 which VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] come from DT[form=defined] the region of ENTITY-3 .
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a dish VP[aspect=simple,tense=past,voice=active,person=null,number=null] find in ENTITY-2 of ENTITY-3 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in ENTITY-1 , which VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] come from ENTITY-3 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] use to VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] create ENTITY-3 ENTITY-1 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from ENTITY-2 which VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have ENTITY-3 .
+
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be DT[form=undefined] a ingredient of ENTITY-1 from ENTITY-3 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a traditional dish from ENTITY-2 , ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] include ENTITY-3 .
+DT[form=undefined] a ingredient of ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 , ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] come from ENTITY-3 .
+ENTITY-1 ( ENTITY-2 ) VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] include ENTITY-3 .
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] come from ENTITY-2 and VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] include ENTITY-3 among ENTITY-1 ingredients .
+ENTITY-1 ( with DT[form=undefined] a leader , ENTITY-2 ) VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] boast ENTITY-3 .
+
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in ENTITY-3 VP[aspect=simple,tense=past,voice=active,person=null,number=null] call ENTITY-1 .
+
+ENTITY-1 , which one of two ingedients VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 , VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have different names VP[aspect=progressive,tense=present,voice=active,person=null,number=null] include : ENTITY-3 .
+ENTITY-2 DT[form=defined] all claim to VP[aspect=perfect,tense=present,voice=active,person=null,number=null] invent ENTITY-1 which can VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] have ENTITY-3 as DT[form=undefined] a ingredient .
+
+
+
+ENTITY-1 and ENTITY-3 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be DT[form=defined] both ENTITY-2 .
+DT[form=defined] the main ingredients of ENTITY-1 , which VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] invent in ENTITY-2 , VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be ENTITY-3 .
+
+DT[form=undefined] a variant of ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 which VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] use ENTITY-3 .
+ENTITY-1 , from DT[form=defined] the genus ENTITY-2 , VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in ENTITY-3 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the country of origin for ENTITY-1 , of which ENTITY-3 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be one of ENTITY-1 main ingredients .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be from ENTITY-1 , where ENTITY-3 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] eat .
+
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] originate from ENTITY-2 and ENTITY-1 leader VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-3 .
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] come from ENTITY-2 where DT[form=defined] the leader VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-3 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient of ENTITY-1 , which VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a similar dish to ENTITY-3 .
+
+DT[form=defined] the main ingredient of ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 , and also important VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the inclusion of ENTITY-3 .
+
+ENTITY-2 and ENTITY-3 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be main ingredients in ENTITY-1 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] belong to ENTITY-2 and VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient of ENTITY-3 .
+
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 , VP[aspect=progressive,tense=present,voice=active,person=null,number=null] require ENTITY-3 as one of ENTITY-1 ingredients .
+
+ENTITY-2 can VP[aspect=simple,tense=present,voice=passive,person=null,number=null] add to ENTITY-1 , ENTITY-3 .
+ENTITY-1 and ENTITY-3 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be types of ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a variation of ENTITY-2 , of which ENTITY-3 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient .
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in ENTITY-2 and VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] found on ENTITY-3 .
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] know in Turkish as ENTITY-2 and VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] create in ENTITY-3 .
+
+
+ENTITY-1 play in ENTITY-2 , in which ENTITY-3 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be DT[form=defined] the champions .
+
+DT[form=defined] the home ground of ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 , ENTITY-1 VP[aspect=simple,tense=past,voice=active,person=null,number=null] play in ENTITY-3
+ENTITY-1 play in ENTITY-2 where DT[form=defined] the leader VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-3 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] manage ENTITY-1 and VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] play for ENTITY-3 .
+
+With ENTITY-2 members , ENTITY-1 , play in ENTITY-3 .
+ENTITY-1 VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] have ENTITY-2 as ENTITY-1 manager who VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be DT[form=undefined] a football player for ENTITY-3 .
+ENTITY-1 VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] have DT[form=defined] the manager ENTITY-2 who currently VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] play for ENTITY-3 .
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=defined] the home ground VP[aspect=simple,tense=past,voice=active,person=null,number=null] call ENTITY-2 , which VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] hold ENTITY-3 fans .
+
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=passive,person=non-3rd,number=plural] manage by ENTITY-2 who VP[aspect=simple,tense=past,voice=active,person=null,number=null] play for ENTITY-3 .
+ENTITY-1 ground VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in ENTITY-2 and ENTITY-1 play in ENTITY-3
+
+ENTITY-1 play in ENTITY-2 VP[aspect=simple,tense=past,voice=active,person=null,number=null] base in ENTITY-3 .
+ENTITY-1 manager VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 , who VP[aspect=simple,tense=past,voice=active,person=null,number=null] play for ENTITY-3 .
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have ENTITY-2 members and VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] own by ENTITY-3 .
+DT[form=defined] the ground of ENTITY-1 can VP[aspect=simple,tense=present,voice=passive,person=null,number=null] find in ENTITY-2 where ENTITY-3 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a leader .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] have ENTITY-2 members and VP[aspect=simple,tense=past,voice=active,person=null,number=null] play in ENTITY-3 .
+
+
+ENTITY-1 in ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the ground of ENTITY-3 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the full name of ENTITY-1 which VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have ENTITY-3 members .
+
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the name of DT[form=defined] the ground of ENTITY-1 which VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in ENTITY-3 .
+
+ENTITY-1 full name VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be `` ENTITY-2 '' and ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] have ENTITY-3 members .
+ENTITY-1 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] base in ENTITY-2 which VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in ENTITY-3
+
+
+
+
+
+ENTITY-1 ( official colour ENTITY-2 ) VP[aspect=perfect,tense=present,voice=passive,person=3rd,number=null] give DT[form=defined] the ` Technical Campus ' status by ENTITY-3 .
+ENTITY-1 , as VP[aspect=simple,tense=past,voice=active,person=null,number=null] govern by ENTITY-2 , VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a sport VP[aspect=simple,tense=past,voice=active,person=null,number=null] offer at ENTITY-3 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] affiliate with ENTITY-2 in ENTITY-3 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in DT[form=defined] the state of ENTITY-2 which VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have ENTITY-3 to ENTITY-2 west .
+ENTITY-1 , VP[aspect=simple,tense=past,voice=active,person=null,number=null] author by ENTITY-2 , VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] precede by ENTITY-3 .
+
+
+
+ENTITY-1 , available in ENTITY-2 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] write by ENTITY-3 .
+
+
+ENTITY-1 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] publish in ENTITY-2 whose leader VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-3 .
+ENTITY-2 VP[aspect=simple,tense=past,voice=active,person=null,number=null] author ENTITY-1 , which VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=defined] the ISBN number ENTITY-3 .
+ENTITY-1 with ISBN ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be available in ENTITY-3 .
+
+
+DT[form=undefined] a ENTITY-2 copy of ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be available with DT[form=defined] the ISBN number ENTITY-3 .
+ENTITY-1 , ENTITY-2 pages , VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be available in ENTITY-3 .
+
+DT[form=defined] the ISBN number of ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 ; DT[form=defined] the OCLC number VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-3 .
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] publish in ENTITY-2 which VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] include among ENTITY-2 ethnic ENTITY-3 .
+ENTITY-1 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] publish by ENTITY-2 , VP[aspect=simple,tense=past,voice=active,person=null,number=null] base in ENTITY-3 .
+ENTITY-2 VP[aspect=simple,tense=past,voice=active,person=null,number=null] write ENTITY-1 which VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=defined] the OCLC number of ENTITY-3 .
+ENTITY-1 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] publish in ENTITY-2 and VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=defined] the ISBN number ENTITY-3 .
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have ENTITY-2 pages and DT[form=defined] the ISBN number ENTITY-3 .
+
+ENTITY-1 , VP[aspect=simple,tense=past,voice=active,person=null,number=null] precede by ENTITY-2 , VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from DT[form=defined] the country of ENTITY-3 .
+ENTITY-1 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] follow up by ENTITY-2 , which VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] write in ENTITY-3 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the sequel to ENTITY-2 , which VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] precede by ENTITY-3 .
+
+ENTITY-1 VP[aspect=simple,tense=past,voice=active,person=null,number=null] found by ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the publisher of ENTITY-3 .
+
+DT[form=defined] the code for ENTITY-1 ( abbreviated as ENTITY-2 ) VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-3 .
+ENTITY-1 , VP[aspect=simple,tense=past,voice=active,person=null,number=null] affiliate with ENTITY-2 , VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be publisher of ENTITY-3 .
+ENTITY-1 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] write by ENTITY-2 and VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=defined] the ISBN number of ENTITY-3 .
+DT[form=defined] the ENTITY-2 edition of , `` ENTITY-1 '' , VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have ISBN number ENTITY-3 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=defined] the ISBN number ENTITY-2 and VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-3 pages long .
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the academic discipline of ENTITY-2 , DT[form=undefined] a disease part of DT[form=defined] the ENTITY-3 family .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from ENTITY-2 which VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have ENTITY-3 as one of ENTITY-2 languages .
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] serve ENTITY-2 , which VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a part of ENTITY-3 in ENTITY-4 .
+
+
+
+
+
+
+
+ENTITY-2 VP[aspect=simple,tense=past,voice=active,person=null,number=null] operate ENTITY-1 , located in ENTITY-3 , with DT[form=undefined] a length of ENTITY-4 .
+
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the operating organisation for ENTITY-1 , VP[aspect=simple,tense=past,voice=active,person=null,number=null] use in battles such as ENTITY-3 and ENTITY-4 .
+
+
+
+
+
+
+
+
+
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located at ENTITY-2 , ENTITY-3 and VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-4 in length .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located at ENTITY-2 , ENTITY-3 and DT[form=defined] the runway VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] know as `` ENTITY-4 '' .
+
+
+
+
+
+ENTITY-1 VP[aspect=simple,tense=past,voice=active,person=null,number=null] serve DT[form=defined] the city of ENTITY-2 , which VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be part of ENTITY-3 in ENTITY-4 .
+ENTITY-1 VP[aspect=simple,tense=past,voice=active,person=null,number=null] serve DT[form=defined] the city of ENTITY-2 , which VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be part of ENTITY-3 in ENTITY-4 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in ENTITY-2 , ENTITY-3 , ENTITY-4 .
+
+DT[form=defined] the 3rd runway at ENTITY-1 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] make of ENTITY-2 which VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be part of ENTITY-3 order and VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in DT[form=defined] the division of ENTITY-4 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-2 at ENTITY-3 metres above sea level and VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=undefined] a runway length of ENTITY-4 .
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] serve DT[form=defined] the city of ENTITY-2 in ENTITY-3 where ENTITY-4 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the leader .
+
+
+
+
+
+
+
+
+
+
+
+ENTITY-1 , whose real name VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be ENTITY-2 , VP[aspect=simple,tense=past,voice=active,person=null,number=null] graduate from ENTITY-3 and later VP[aspect=simple,tense=past,voice=active,person=null,number=null] become DT[form=undefined] a crew member of ENTITY-4 .
+
+
+
+
+ENTITY-1 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] award ENTITY-2 by United States ENTITY-3 and VP[aspect=simple,tense=past,voice=active,person=null,number=null] die in ENTITY-3 ( where DT[form=undefined] a ENTITY-4 fossil VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] find ) .
+
+
+
+
+
+
+
+ENTITY-1 who VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear on ENTITY-2 in ENTITY-3 later VP[aspect=simple,tense=past,voice=active,person=null,number=null] serve as DT[form=undefined] a crew member of ENTITY-4 .
+
+
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-2 , VP[aspect=simple,tense=past,voice=active,person=null,number=null] populate by ENTITY-3 and VP[aspect=simple,tense=past,voice=active,person=null,number=null] lead by ENTITY-4 .
+
+
+
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in ENTITY-2 , ENTITY-3 .
+
+
+
+DT[form=defined] the architects of ENTITY-1 in ENTITY-2 VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be ENTITY-3 and ENTITY-1 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] complete in ENTITY-4 .
+ENTITY-2 VP[aspect=simple,tense=past,voice=active,person=null,number=plural] be DT[form=defined] the architects who VP[aspect=simple,tense=past,voice=active,person=null,number=null] design ENTITY-1 in ENTITY-3 which VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] complete in ENTITY-4 .
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] own by ENTITY-2 , and VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-3 , ENTITY-4 .
+
+
+
+ENTITY-2 VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be DT[form=defined] the architect of ENTITY-1 which VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] complete in ENTITY-3 and VP[aspect=simple,tense=past,voice=active,person=null,number=null] owe by ENTITY-4 .
+
+ENTITY-1 , which VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] house ENTITY-2 , VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-3 high and VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=undefined] a floor area of ENTITY-4 .
+
+
+
+
+
+
+
+
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the owner of ENTITY-1 , located in ENTITY-3 , and DT[form=defined] the start date of building VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be in ENTITY-4 .
+
+
+
+
+ENTITY-1 building , VP[aspect=simple,tense=past,voice=active,person=null,number=null] start on ENTITY-2 , VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-3 , and VP[aspect=simple,tense=past,voice=active,person=null,number=null] own by ENTITY-4 .
+
+ENTITY-1 , which VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have ENTITY-2 beds , VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-3 of ENTITY-4 .
+
+
+ENTITY-1 on ENTITY-2 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] construct in ENTITY-3 and VP[aspect=simple,tense=past,voice=active,person=null,number=null] add to DT[form=defined] the National Register of Historic Places on ENTITY-4 .
+
+ENTITY-1 , ENTITY-2 , VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] add to DT[form=defined] the National Register of Historic Places on ENTITY-3 with DT[form=undefined] a reference number of ENTITY-4 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be located in ENTITY-2 and VP[aspect=simple,tense=past,voice=passive,person=null,number=plural] add to DT[form=defined] the National Register of Historic Places on ENTITY-3 with ENTITY-4 .
+
+
+
+
+
+ENTITY-1 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] create by ENTITY-2 and ENTITY-4 ENTITY-3 .
+
+
+
+ENTITY-2 VP[aspect=simple,tense=past,voice=active,person=null,number=null] star in ENTITY-1 which VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be first VP[aspect=simple,tense=past,voice=active,person=null,number=null] air on ENTITY-3 and broadcast by ENTITY-4 .
+
+
+
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] alter ego VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 and ENTITY-1 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] create by ENTITY-3 and ENTITY-4 .
+ENTITY-1 whose alternative name VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] create by ENTITY-3 and ENTITY-4 .
+
+ENTITY-1 , aka ENTITY-2 , VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] create by ENTITY-3 and ENTITY-4 .
+
+
+
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] originate from ENTITY-2 where two of DT[form=defined] the leaders VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be ENTITY-3 and ENTITY-4 .
+
+
+
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a leader of ENTITY-1 where ENTITY-3 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] speak and ENTITY-4 can VP[aspect=simple,tense=present,voice=passive,person=null,number=null] find .
+
+ENTITY-1 from ENTITY-2 in ENTITY-3 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] contain ENTITY-4 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient in ENTITY-1 , which VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a traditional dish from ENTITY-3 , ENTITY-4 .
+
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient of ENTITY-1 which VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from DT[form=defined] the region of ENTITY-3 in ENTITY-4 .
+
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient of ENTITY-1 , which VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a dish that VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] come from ENTITY-3 in ENTITY-4 .
+
+
+
+
+
+
+
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] come from ENTITY-2 where ENTITY-3 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the capital and ENTITY-4 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be DT[form=undefined] a ethnic group .
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] originate from ENTITY-2 where DT[form=defined] the leader VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-3 and DT[form=defined] the capital VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-4 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] come from ENTITY-2 where ENTITY-3 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be DT[form=undefined] a ethnic group and ENTITY-4 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 .
+ENTITY-1 , DT[form=undefined] a variation of ENTITY-2 , VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] come from ENTITY-3 and VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] contain ENTITY-4 .
+
+
+DT[form=undefined] a ingredient of ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 which VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] originate in ENTITY-3 and ENTITY-4 regions .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ingredient of ENTITY-1 , which VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] come from DT[form=defined] the region of ENTITY-3 and can VP[aspect=simple,tense=present,voice=passive,person=null,number=null] find in ENTITY-4 .
+
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be ENTITY-1 item , as VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-3 that VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have ENTITY-4 as one of ENTITY-3 ingredients .
+
+
+
+
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=passive,person=non-3rd,number=plural] find in ENTITY-2 where ENTITY-3 and ENTITY-4 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be leaders .
+
+ENTITY-1 may VP[aspect=simple,tense=present,voice=passive,person=null,number=null] make with ENTITY-2 and VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] have ENTITY-3 of protein and ENTITY-4 of carbohydrates .
+
+
+
+
+
+
+DT[form=defined] the key ingredients of ENTITY-1 from ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be ENTITY-3 .
+
+
+ENTITY-1 VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] originate from ENTITY-2 where ENTITY-3 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] lead ENTITY-4 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] originate from ENTITY-2 , where two of DT[form=defined] the leaders VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be ENTITY-3 and ENTITY-4 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] originate from ENTITY-2 , where two of DT[form=defined] the leaders VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be ENTITY-3 and ENTITY-4 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=passive,person=non-3rd,number=plural] find in DT[form=defined] the region of ENTITY-2 , ENTITY-1 main ingredients VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be ENTITY-3 .
+
+
+
+
+
+ENTITY-2 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] use to VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] serve ENTITY-1 , ENTITY-3 food VP[aspect=simple,tense=past,voice=active,person=null,number=null] find in ENTITY-4 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=passive,person=non-3rd,number=plural] find in ENTITY-1 which VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] come from DT[form=defined] the region of ENTITY-3 in ENTITY-4 .
+
+
+
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a dish from DT[form=defined] the country of ENTITY-2 , where DT[form=defined] the capital VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-3 and DT[form=defined] the leader VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-4 .
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a dish from DT[form=defined] the region of ENTITY-2 and VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be also VP[aspect=simple,tense=past,voice=active,person=null,number=null] find in ENTITY-3 where ENTITY-4 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be DT[form=undefined] a ethnic group .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] originate from ENTITY-2 where ENTITY-3 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be DT[form=undefined] a ethnic group . ENTITY-1 can also VP[aspect=simple,tense=present,voice=passive,person=null,number=null] find in ENTITY-4 .
+
+
+
+
+
+
+ENTITY-1 in ENTITY-2 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] design by ENTITY-3 and VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] dedicate to ENTITY-4 .
+
+
+
+
+
+
+
+
+
+ENTITY-1 , with ENTITY-2 members , VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] play in ENTITY-3 , VP[aspect=progressive,tense=present,voice=active,person=null,number=null] participate in ENTITY-4 season .
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-2 , DT[form=defined] the leader of ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-3 and/or ENTITY-4 .
+
+
+
+
+
+
+
+
+ENTITY-1 VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] have ENTITY-2 as ENTITY-1 manager . ENTITY-2 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] attach to ENTITY-3 and VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be part of ENTITY-4 .
+ENTITY-1 VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] have ENTITY-2 as ENTITY-1 manager . ENTITY-2 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] attach to ENTITY-3 and VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be part of ENTITY-4 .
+ENTITY-2 , VP[aspect=simple,tense=past,voice=active,person=null,number=null] abbreviate to ENTITY-1 , VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have ENTITY-3 members and ENTITY-1 ground VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-4 .
+
+
+
+ENTITY-1 , or ENTITY-2 , VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have ENTITY-3 members and ENTITY-1 ground VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in ENTITY-4 .
+
+
+
+
+
+
+
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the ground of ENTITY-1 and VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] compete in ENTITY-3 , which champions VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be ENTITY-4 .
+`` ENTITY-2 '' VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the full name of ENTITY-1 who VP[aspect=simple,tense=past,voice=active,person=null,number=null] play in ENTITY-3 season and VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have ENTITY-4 members .
+
+ENTITY-2 , DT[form=defined] the manager of ENTITY-1 , VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in ENTITY-3 and VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] play for ENTITY-4 .
+ENTITY-1 ground VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 and they VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] play in ENTITY-3 league . DT[form=defined] the Serie C champions VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] be ENTITY-4 .
+
+ENTITY-1 play in ENTITY-2 league in ENTITY-3 . ENTITY-4 VP[aspect=simple,tense=past,voice=active,person=null,number=plural] be champions at ENTITY-2 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the ground of ENTITY-1 who VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] play in ENTITY-3 which ENTITY-4 VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] be champions of .
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have ENTITY-2 members and VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] play in ENTITY-3 of which ENTITY-4 VP[aspect=simple,tense=past,voice=active,person=null,number=plural] be champions .
+DT[form=defined] the ground of ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-2 which VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] lead by ENTITY-3 and VP[aspect=simple,tense=past,voice=active,person=null,number=null] inhabit by ENTITY-4 .
+
+Home ground of ENTITY-1 , ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-3 , ENTITY-3 mayor VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-4 .
+
+
+
+ENTITY-1 in ENTITY-2 , ENTITY-3 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=defined] the motto `` ENTITY-4 '' .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+During 1634 , ENTITY-2 VP[aspect=simple,tense=past,voice=active,person=null,number=null] write ENTITY-1 which VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-3 pages long and VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be of ENTITY-4 .
+
+
+
+
+
+
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be for ENTITY-1 which VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be part of DT[form=defined] the academic Discipline of ENTITY-3 and VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=undefined] a ISSN number of ENTITY-4 .
+
+
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] publish by ENTITY-2 and VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] come from ENTITY-3 where ENTITY-4 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the leader .
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] reside in ENTITY-2 and VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the editor of ENTITY-3 which VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] publish by ENTITY-4 .
+
+
+
+
+
+
+VP[aspect=simple,tense=past,voice=active,person=null,number=null] follow by ENTITY-2 , ENTITY-1 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] write in ENTITY-3 , DT[form=defined] the language VP[aspect=simple,tense=past,voice=active,person=null,number=null] speak in ENTITY-4 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] publish by ENTITY-2 in ENTITY-3 where ENTITY-4 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be DT[form=undefined] a ethnic group .
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] publish by ENTITY-2 in ENTITY-3 where ENTITY-4 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the president .
+ENTITY-1 can VP[aspect=simple,tense=present,voice=passive,person=null,number=null] find in ENTITY-2 and VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=defined] the OCLC number ENTITY-3 and DT[form=defined] the Library of Congress Classification VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-4 .
+ENTITY-1 ( ISBN number ENTITY-2 ) VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have ENTITY-3 pages altogether and VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be available in ENTITY-4 .
+
+
+
+
+ENTITY-1 by ENTITY-2 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] publish in ENTITY-3 ISBN ENTITY-4 .
+
+ENTITY-1 , from ENTITY-2 , VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the sequel to ENTITY-3 , which VP[aspect=simple,tense=past,voice=active,person=null,number=null] follow ENTITY-4 .
+ENTITY-1 ( abbreviated to ENTITY-2 ) VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=defined] the LCCN number ENTITY-3 and ISSN number ENTITY-4 .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ENTITY-1 VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be first VP[aspect=simple,tense=past,voice=active,person=null,number=null] publish in ENTITY-2 and VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have ENTITY-3 . DT[form=defined] the ISSN number for DT[form=defined] the journal VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-4 .
+
+ENTITY-1 ( ENTITY-2 , ) VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] publish by ENTITY-3 ENTITY-1 founder VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-4 .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located at ENTITY-2 and VP[aspect=simple,tense=past,voice=active,person=null,number=null] run by ENTITY-3 . ENTITY-1 runway name VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-4 and ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-5 m long , .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ENTITY-2 , which VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the operating organisation for ENTITY-1 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] involve in battles at ENTITY-3 . ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] deploy ENTITY-4 and ENTITY-5 .
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-2 which VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] lead by ENTITY-3 . ENTITY-1 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] operate by ENTITY-4 whose headquarters VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in ENTITY-5 .
+ENTITY-2 , VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] serve by ENTITY-1 in ENTITY-3 . DT[form=defined] the runway length VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-4 and DT[form=defined] the elevation VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-5 metres above sea level .
+
+VP[aspect=progressive,tense=present,voice=active,person=null,number=null] serve DT[form=defined] the city of ENTITY-2 , ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-3 above sea level . ENTITY-1 runway length VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-4 and ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=defined] the runway name , ENTITY-5 .
+
+
+
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the location of ENTITY-1 and VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in ENTITY-3 . DT[form=defined] the inhabitants VP[aspect=simple,tense=present,voice=passive,person=non-3rd,number=plural] know as ENTITY-4 and they VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] speak ENTITY-5 .
+
+
+
+
+
+
+
+ENTITY-1 , VP[aspect=simple,tense=past,voice=active,person=null,number=null] situate ENTITY-2 metres above sea level , VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located at ENTITY-3 , part of ENTITY-4 in ENTITY-5 .
+
+
+
+
+
+
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] serve ENTITY-2 in ENTITY-3 . DT[form=defined] both ENTITY-4 and ENTITY-5 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be parts of ENTITY-3 .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ENTITY-2 national ENTITY-1 VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be DT[form=undefined] a crew member of ENTITY-4 ENTITY-3 mission under commander ENTITY-5 .
+
+
+
+
+
+
+ENTITY-1 , who VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear in ENTITY-2 and VP[aspect=simple,tense=past,voice=active,person=null,number=null] serve as ENTITY-3 , VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be DT[form=undefined] a crew member of ENTITY-5 VP[aspect=simple,tense=past,voice=active,person=null,number=null] operate ENTITY-4 .
+
+
+
+
+
+
+
+
+ENTITY-1 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear ENTITY-2 in ENTITY-3 and VP[aspect=simple,tense=past,voice=active,person=null,number=null] die in ENTITY-4 on ENTITY-5 .
+
+
+
+
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-2 , where DT[form=defined] the capital VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-3 . ENTITY-4 and ENTITY-5 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be ethnic groups in ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-2 , where DT[form=defined] the capital VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-3 . ENTITY-4 and ENTITY-5 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be ethnic groups in ENTITY-2 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-2 , ENTITY-3 which VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] govern by ENTITY-4 .
+First VP[aspect=simple,tense=past,voice=active,person=null,number=null] begin to VP[aspect=simple,tense=present,voice=passive,person=null,number=null] build in ENTITY-2 , ENTITY-3 ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have ENTITY-4 floors and ENTITY-5 of square metres .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ENTITY-1 , ENTITY-2 , VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] start in ENTITY-3 and VP[aspect=simple,tense=past,voice=active,person=null,number=null] complete in ENTITY-4 . ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have ENTITY-5 .
+
+
+
+
+
+
+
+
+
+
+
+
+DT[form=defined] the address of ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 , ENTITY-3 , ENTITY-4 , ENTITY-5 .
+DT[form=defined] the address of ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 , ENTITY-3 , ENTITY-4 , ENTITY-5 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-2 , ENTITY-3 , ENTITY-4 . ENTITY-5 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a leader in ENTITY-4 .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ENTITY-4 and ENTITY-1 ( ENTITY-2 ) VP[aspect=simple,tense=past,voice=active,person=null,number=null] create ENTITY-3 , DT[form=defined] the alternative name of which VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-5 .
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a character in ENTITY-2 which VP[aspect=simple,tense=past,voice=active,person=null,number=null] star ENTITY-3 . ENTITY-1 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] create by DT[form=defined] the ENTITY-5 national ENTITY-4 .
+
+
+
+
+
+
+
+
+ENTITY-1 , DT[form=undefined] a dish from DT[form=defined] the ENTITY-2 region of ENTITY-3 , VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=defined] the main ingredients ENTITY-4 .
+
+
+
+
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a traditional dish from ENTITY-2 , ENTITY-3 . DT[form=defined] the main ingredients of ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be ENTITY-4 .
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from DT[form=defined] the region of ENTITY-2 in ENTITY-3 . DT[form=defined] the main ingredients of ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be ENTITY-4 .
+
+
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] come from DT[form=defined] the region of ENTITY-2 , ENTITY-3 . DT[form=defined] the main ingredients VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be ENTITY-4 .
+
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a food VP[aspect=simple,tense=past,voice=active,person=null,number=null] find in ENTITY-2 and ENTITY-3 . ENTITY-4 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the ethnic group of ENTITY-2 and ENTITY-5 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be DT[form=undefined] a ethnic group of ENTITY-3 .
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be from ENTITY-2 of ENTITY-3 . DT[form=defined] the main ingredient VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-4 along with ENTITY-5 .
+
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the country of ENTITY-1 and DT[form=defined] the leader VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-3 . ENTITY-4 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be DT[form=undefined] a ethnic group in ENTITY-2 and DT[form=defined] the capital VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-5
+
+
+
+
+
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] originate from ENTITY-2 and ENTITY-1 main ingredients VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be ENTITY-3 . ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have different names VP[aspect=progressive,tense=present,voice=active,person=null,number=null] include : ENTITY-4 .
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] find in ENTITY-2 . ENTITY-3 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be ENTITY-1 main ingredients .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] originate from DT[form=defined] the ENTITY-2 region of ENTITY-3 . ENTITY-3 leaders VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be ENTITY-4 and ENTITY-5 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=passive,person=non-3rd,number=plural] find in DT[form=defined] the region of ENTITY-2 , ENTITY-3 . DT[form=defined] the leader of ENTITY-3 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] call ENTITY-4 and ENTITY-5 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the leader of ENTITY-2 .
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=defined] the ingredients ENTITY-2 and can VP[aspect=simple,tense=present,voice=passive,person=null,number=null] find in ENTITY-3 , ENTITY-4 .
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] find in DT[form=defined] the region of ENTITY-2 , ENTITY-3 and VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] consist of ENTITY-4 .
+
+
+
+
+
+
+
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a dish from DT[form=defined] the region of ENTITY-2 which VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] lead by ENTITY-3 . ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be also VP[aspect=simple,tense=past,voice=active,person=null,number=null] find in ENTITY-4 where ENTITY-5 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be DT[form=undefined] a ethnic group .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the capital of ENTITY-1 and DT[form=defined] the location of ENTITY-3 VP[aspect=simple,tense=past,voice=active,person=null,number=null] dedicate to ENTITY-4 . ENTITY-3 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] design by ENTITY-5 .
+
+
+
+
+
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ENTITY-1 leader . ENTITY-3 located in ENTITY-1 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] make with ENTITY-4 and VP[aspect=perfect,tense=present,voice=passive,person=3rd,number=null] dedicate to ENTITY-5 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] dedicate to ENTITY-2 , and VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-3 , which VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] lead by ENTITY-4 , ENTITY-5 .
+
+
+
+VP[aspect=simple,tense=past,voice=active,person=null,number=null] bear in ENTITY-2 , ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the manager of ENTITY-3 . ENTITY-1 also VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] play for ENTITY-4 and VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in ENTITY-5 .
+
+VP[aspect=simple,tense=past,voice=active,person=null,number=null] bear in ENTITY-2 , ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the manager of ENTITY-3 . ENTITY-1 also VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] play for ENTITY-4 and VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in ENTITY-5 .
+
+ENTITY-2 VP[aspect=simple,tense=past,voice=active,person=null,number=null] bear ENTITY-1 , previously of ENTITY-3 , VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be now DT[form=defined] the manager of ENTITY-4 , whist also DT[form=defined] the owner of ENTITY-5
+
+
+
+
+
+
+
+
+
+
+
+
+DT[form=defined] the fullname of ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 and ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] have ENTITY-3 members . ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] have DT[form=undefined] a ground in ENTITY-4 and VP[aspect=simple,tense=past,voice=active,person=null,number=null] compete in ENTITY-5 .
+
+
+
+
+
+
+
+ENTITY-1 , VP[aspect=simple,tense=past,voice=active,person=null,number=null] nickname ENTITY-2 , play in ENTITY-3 league in ENTITY-4 . ENTITY-5 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be DT[form=defined] the champions of ENTITY-3
+
+
+
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] base in ENTITY-2 , ENTITY-3 . ENTITY-1 play in ENTITY-4 which VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be previously VP[aspect=simple,tense=past,voice=active,person=null,number=null] win by ENTITY-5 .
+
+
+
+
+
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the full name name of ENTITY-1 who VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=null] have ENTITY-1 home ground at ENTITY-3 . ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] play in ENTITY-4 alongside ENTITY-5 who VP[aspect=perfect,tense=present,voice=active,person=non-3rd,number=null] be previous champions .
+
+
+
+
+
+
+
+
+
+
+ENTITY-1 , DT[form=undefined] a affiliation of ENTITY-3 ENTITY-2 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] recognize as DT[form=defined] the Technical Campus by ENTITY-4 of ENTITY-5 .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ENTITY-1 , VP[aspect=simple,tense=past,voice=active,person=null,number=null] publish in ENTITY-2 , VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have ENTITY-3 pages . ENTITY-1 OCLC number VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-4 , and ISBN number VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-5 .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] speak in ENTITY-2 and ENTITY-3 . ENTITY-5 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] publish by ENTITY-4 which VP[aspect=simple,tense=present,voice=passive,person=non-3rd,number=plural] base in ENTITY-3 .
+
+
+
+
+ENTITY-1 VP[aspect=simple,tense=past,voice=active,person=null,number=null] originate in ENTITY-2 where ENTITY-3 VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] make up many of DT[form=defined] the countries ethnic groups . ENTITY-4 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the national language of both ENTITY-5 and ENTITY-2 .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-2 , which VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-3 , ENTITY-4 . ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-5 meters above sea level and ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have DT[form=undefined] a runway that VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] measure DT[form=undefined] a length of ENTITY-6 .
+
+
+
+
+
+
+ENTITY-2 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] serve by ENTITY-1 which VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-3 ( part of ENTITY-4 ) , ENTITY-5 , ENTITY-6 .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ENTITY-1 , ENTITY-2 , VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear in ENTITY-3 . ENTITY-1 VP[aspect=simple,tense=past,voice=active,person=null,number=null] serve as ENTITY-4 before VP[aspect=progressive,tense=present,voice=active,person=null,number=null] become part of ENTITY-6 VP[aspect=simple,tense=past,voice=active,person=null,number=null] operate ENTITY-5 mission as ENTITY-2 .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ENTITY-1 , who VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear in ENTITY-2 , VP[aspect=simple,tense=past,voice=active,person=null,number=null] attend ENTITY-3 ( VP[aspect=simple,tense=past,voice=active,person=null,number=null] affiliate to ENTITY-4 ) which will VP[aspect=simple,tense=infinitive,voice=active,person=null,number=null] compete in ENTITY-5 .
+ENTITY-1 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear in ENTITY-2 and VP[aspect=simple,tense=past,voice=active,person=null,number=null] study at ENTITY-3 ( part of ENTITY-4 ) . ENTITY-1 VP[aspect=simple,tense=past,voice=active,person=null,number=null] die in ENTITY-5 .
+
+
+
+
+
+
+
+
+
+ENTITY-1 , which VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have ENTITY-2 floors , VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-3 which VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be part of ENTITY-4 in ENTITY-5 . DT[form=defined] the leader of ENTITY-3 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-6 .
+
+
+
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in ENTITY-2 . DT[form=defined] the capital of ENTITY-3 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-4 , DT[form=defined] the language VP[aspect=simple,tense=past,voice=active,person=null,number=null] speak there VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-5 and DT[form=defined] the currency VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-6 .
+
+
+
+
+
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in ENTITY-2 , ENTITY-3 which VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in ENTITY-4 . ENTITY-2 leader VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-5 and ENTITY-6 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the prime minister of ENTITY-4 .
+
+
+ENTITY-1 , which VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] have ENTITY-2 beds , VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-3 lead by ENTITY-4 . DT[form=defined] the leader of ENTITY-5 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-4 .
+
+
+
+ENTITY-1 , VP[aspect=simple,tense=past,voice=active,person=null,number=null] bear in ENTITY-2 , VP[aspect=simple,tense=past,voice=active,person=null,number=singular] be DT[form=defined] the architect behind DT[form=defined] the grounds of ENTITY-3 , ENTITY-4 , ENTITY-5 and ENTITY-6 .
+
+
+
+ENTITY-1 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] build in ENTITY-2 in DT[form=defined] the architectural style of ENTITY-3 , and VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located on ENTITY-4 . ENTITY-1 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] add to DT[form=defined] the National Register of Historic Places on `` ENTITY-5 '' , with ENTITY-6 .
+
+
+
+
+
+
+
+
+ENTITY-2 and ENTITY-3 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be DT[form=defined] both located in ENTITY-1 , ENTITY-4 . ENTITY-5 and ENTITY-6 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be leaders in ENTITY-4 .
+
+
+
+
+ENTITY-2 VP[aspect=simple,tense=past,voice=active,person=null,number=null] begin ENTITY-1 ENTITY-3 and DT[form=defined] the last episode VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] broadcast on ENTITY-4 . ENTITY-5 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be one of DT[form=defined] the creators of ENTITY-1 which also VP[aspect=simple,tense=past,voice=active,person=null,number=null] star ENTITY-6 .
+
+
+ENTITY-1 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] create by ENTITY-2 and ENTITY-3 . ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a character in ENTITY-4 which VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] star ENTITY-5 .
+
+
+
+
+
+
+
+
+
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a food VP[aspect=simple,tense=past,voice=active,person=null,number=null] find in ENTITY-2 in ENTITY-3 , whose capital VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-4 , where ENTITY-5 and ENTITY-6 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be ethnic groups .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a food VP[aspect=simple,tense=past,voice=active,person=null,number=null] find in ENTITY-2 in ENTITY-3 , whose capital VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-4 , where ENTITY-5 and ENTITY-6 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be ethnic groups .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a dessert VP[aspect=simple,tense=past,voice=active,person=null,number=null] find in ENTITY-2 region of ENTITY-3 . DT[form=defined] the name of DT[form=defined] the leader in ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-4 . DT[form=defined] another dessert VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be PATIENT-3 .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-2 , ENTITY-3 . ENTITY-3 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located east of ENTITY-4 and south of ENTITY-5 . Maryland 's ENTITY-6 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located to DT[form=defined] the southeast .
+
+
+
+
+
+
+
+
+
+
+
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the leader of ENTITY-1 where ENTITY-3 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located . ENTITY-3 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] manage by ENTITY-4 who VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be part of ENTITY-5 and DT[form=undefined] a member of ENTITY-6 .
+ENTITY-2 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the leader of ENTITY-1 where ENTITY-3 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located . ENTITY-3 VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] manage by ENTITY-4 who VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be part of ENTITY-5 and DT[form=undefined] a member of ENTITY-6 .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DT[form=undefined] a ethnic group of ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-2 where ENTITY-3 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] come from . ENTITY-3 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] precede by ENTITY-4 VP[aspect=simple,tense=past,voice=active,person=null,number=null] precede and VP[aspect=simple,tense=past,voice=active,person=null,number=null] follow by ENTITY-5 which VP[aspect=simple,tense=present,voice=passive,person=3rd,number=singular] publish by ENTITY-6 .
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=undefined] a ENTITY-2 novel and DT[form=defined] the sequel to ENTITY-2 and ENTITY-3 . ENTITY-1 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] follow by ENTITY-4 and ENTITY-5 .
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be in ENTITY-2 and ENTITY-1 nickname VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-3 . ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=non-3rd,number=plural] be DT[form=defined] the publisher of ENTITY-4 and VP[aspect=simple,tense=present,voice=passive,person=non-3rd,number=plural] affiliate with ENTITY-5 .
+
+
+
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=null] originate in ENTITY-2 where like in ENTITY-4 , ENTITY-3 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be also VP[aspect=simple,tense=past,voice=active,person=null,number=null] speak . ENTITY-5 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be DT[form=defined] the capital of ENTITY-2 and one ethnic group VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-6 .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ENTITY-1 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear ENTITY-2 in ENTITY-3 . ENTITY-1 VP[aspect=simple,tense=past,voice=active,person=null,number=null] graduate from ENTITY-4 and VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] select by NASA in ENTITY-5 . ENTITY-1 VP[aspect=simple,tense=past,voice=active,person=null,number=null] pass away in ENTITY-6 .
+ENTITY-1 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] bear in ENTITY-2 in ENTITY-3 . ENTITY-1 VP[aspect=simple,tense=past,voice=active,person=null,number=null] work for ENTITY-5 and VP[aspect=simple,tense=past,voice=active,person=null,number=null] become DT[form=undefined] a crew member for ENTITY-4 before ENTITY-1 VP[aspect=simple,tense=past,voice=active,person=null,number=null] retire in ENTITY-6 . ENTITY-1 later VP[aspect=simple,tense=past,voice=active,person=null,number=null] die in ENTITY-7 .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ENTITY-1 VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be located in ENTITY-2 , ENTITY-3 . ENTITY-1 VP[aspect=simple,tense=past,voice=passive,person=null,number=singular] establish in ENTITY-4 and ENTITY-1 affiliation VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-5 . DT[form=defined] the number of students VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-6 and academic staff VP[aspect=simple,tense=present,voice=active,person=3rd,number=singular] be ENTITY-7 .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
