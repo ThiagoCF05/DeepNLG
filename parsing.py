@@ -26,18 +26,18 @@ class Entry():
     def entitymap_to_dict(self):
         return dict(map(lambda tagentity: tagentity.to_tuple(), self.entitymap))
 
-class Triple():
-    def __init__(self, subject, predicate, object):
-        self.subject = subject
-        self.predicate = predicate
-        self.object = object
+class KeyValue():
+    def __init__(self, key, value):
+        self.key = key
+        self.value = value
 
 class Lex():
-    def __init__(self, comment, lid, text, template, orderedtripleset=[], references=[]):
+    def __init__(self, comment, lid, text, template, orderedtripleset=[], references=[], lexicalization=''):
         self.comment = comment
         self.lid = lid
         self.text = text
         self.template = template
+        self.lexicalization = lexicalization
         self.tree = ''
         self.orderedtripleset = orderedtripleset
         self.references = references
@@ -67,9 +67,7 @@ class Reference():
 
 def parse(in_file):
     tree = ET.parse(in_file)
-    root = tree.getroot()
-
-    entries = root.find('entries')
+    entries = tree.getroot()
 
     for entry in entries:
         eid = entry.attrib['eid']
@@ -79,15 +77,15 @@ def parse(in_file):
         originaltripleset = []
         otripleset = entry.find('originaltripleset')
         for otriple in otripleset:
-            e1, pred, e2 = otriple.text.split(' | ')
-            originaltripleset.append(Triple(subject=e1.replace('\'', ''), predicate=pred, object=e2.replace('\'', '')))
+            key, value = otriple.text.split(' | ')
+            originaltripleset.append(KeyValue(key=key.replace('\'', ''), value=value.replace('\'', '')))
 
         modifiedtripleset = []
         mtripleset = entry.find('modifiedtripleset')
         for mtriple in mtripleset:
-            e1, pred, e2 = mtriple.text.split(' | ')
+            key, value = mtriple.text.split(' | ')
 
-            modifiedtripleset.append(Triple(subject=e1.replace('\'', ''), predicate=pred, object=e2.replace('\'', '')))
+            modifiedtripleset.append(KeyValue(key=key.replace('\'', ''), value=value.replace('\'', '')))
 
         entitymap = []
         mapping= entry.find('entitymap')
@@ -107,9 +105,9 @@ def parse(in_file):
                 for snt in otripleset:
                     orderedtripleset_snt = []
                     for otriple in snt:
-                        e1, pred, e2 = otriple.text.split(' | ')
+                        key, value = otriple.text.split(' | ')
 
-                        orderedtripleset_snt.append(Triple(subject=e1.replace('\'', ''), predicate=pred, object=e2.replace('\'', '')))
+                        orderedtripleset_snt.append(KeyValue(key=key.replace('\'', ''), value=value.replace('\'', '')))
                     orderedtripleset.append(orderedtripleset_snt)
             except:
                 orderedtripleset = []
@@ -143,7 +141,15 @@ def parse(in_file):
                 print('exception template')
                 template = ''
 
-            lexList.append(Lex(comment=comment, lid=lid, text=text, template=template, orderedtripleset=orderedtripleset, references=references))
+            try:
+                lexicalization = lex.find('lexicalization').text
+                if not lexicalization:
+                    lexicalization = ''
+            except:
+                print('exception lexicalization')
+                lexicalization = ''
+
+            lexList.append(Lex(comment=comment, lid=lid, text=text, template=template, orderedtripleset=orderedtripleset, references=references, lexicalization=lexicalization))
 
         yield Entry(eid=eid, size=size, category=category, originaltripleset=originaltripleset, \
                     modifiedtripleset=modifiedtripleset, entitymap=entitymap, lexEntries=lexList)

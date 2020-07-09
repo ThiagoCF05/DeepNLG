@@ -3,36 +3,30 @@ __author__='thiagocastroferreira'
 
 def source(tripleset, entitymap, entities={}):
     src, delexsrc = [], []
-    for triple in tripleset:
-        subject = '_'.join(triple.subject.split())
-        predicate = '_'.join(triple.predicate.split())
-        patient = '_'.join(triple.object.split())
+    for keyvalue in tripleset:
+        key = '_'.join(keyvalue.key.split())
+        value = '_'.join(keyvalue.value.split())
 
         src.append('<TRIPLE>')
-        src.append(subject)
-        src.append(predicate)
-        src.append(patient)
+        src.append(key)
+        src.append(value)
         src.append('</TRIPLE>')
 
         delexsrc.append('<TRIPLE>')
-        # SUBJECT
-        if entitymap[triple.subject] not in entities:
-            entity = 'ENTITY-' + str(len(list(entities.keys())) + 1)
-            entities[entitymap[triple.subject]] = entity
-        else:
-            entity = entities[entitymap[triple.subject]]
-        delexsrc.append(entity)
+        # KEY
+        delexsrc.append(key)
 
-        # PREDICATE
-        delexsrc.append(predicate)
-
-        # OBJECT
-        if entitymap[triple.object] not in entities:
-            entity = 'ENTITY-' + str(len(list(entities.keys())) + 1)
-            entities[entitymap[triple.object]] = entity
+        # VALUE
+        if keyvalue.value in entitymap:
+            if entitymap[keyvalue.value] not in entities:
+                entity = 'ENTITY-' + str(len(list(entities.keys())) + 1)
+                entities[entitymap[keyvalue.value]] = entity
+            else:
+                entity = entities[entitymap[keyvalue.value]]
+            delexsrc.append(entity)
         else:
-            entity = entities[entitymap[triple.object]]
-        delexsrc.append(entity)
+            delexsrc.append(keyvalue.value)
+
         delexsrc.append('</TRIPLE>')
     # src.append('eos')
     # delexsrc.append('eos')
@@ -45,37 +39,30 @@ def snt_source(tripleset, entitymap, entities):
 
     for sentence in tripleset:
         snt, delex_snt = ['<SNT>'], ['<SNT>']
-        for striple in sentence:
-            subject = '_'.join(striple.subject.split())
-            predicate = '_'.join(striple.predicate.split())
-            patient = '_'.join(striple.object.split())
+        for skeyvalue in sentence:
+            key = '_'.join(skeyvalue.key.split())
+            value = '_'.join(skeyvalue.value.split())
 
             snt.append('<TRIPLE>')
-            snt.append(subject)
-            snt.append(predicate)
-            snt.append(patient)
+            snt.append(key)
+            snt.append(value)
             snt.append('</TRIPLE>')
 
             delex_snt.append('<TRIPLE>')
 
-            # SUBJECT
-            if entitymap[striple.subject] not in entities:
-                entity = 'ENTITY-' + str(len(list(entities.keys())) + 1)
-                entities[entitymap[striple.subject]] = entity
-            else:
-                entity = entities[entitymap[striple.subject]]
-            delex_snt.append(entity)
+            # KEY
+            delex_snt.append(key)
 
-            # PREDICATE
-            delex_snt.append(predicate)
-
-            # OBJECT
-            if entitymap[striple.object] not in entities:
-                entity = 'ENTITY-' + str(len(list(entities.keys())) + 1)
-                entities[entitymap[striple.object]] = entity
+            # VALUE
+            if skeyvalue.value in entitymap:
+                if entitymap[skeyvalue.value] not in entities:
+                    entity = 'ENTITY-' + str(len(list(entities.keys())) + 1)
+                    entities[entitymap[skeyvalue.value]] = entity
+                else:
+                    entity = entities[entitymap[skeyvalue.value]]
+                delex_snt.append(entity)
             else:
-                entity = entities[entitymap[striple.object]]
-            delex_snt.append(entity)
+                delex_snt.append(skeyvalue.value)
 
             delex_snt.append('</TRIPLE>')
 

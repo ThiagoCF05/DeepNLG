@@ -9,10 +9,9 @@ Description:
     ARGS:
         [1] Path to the folder where WebNLG corpus is available (versions/v1.4/en)
         [2] Path to the folder where the data will be saved (Folder will be created in case it does not exist)
-        [3] Path to the stanford parser (which can be downloaded here: https://stanfordnlp.github.io/CoreNLP/)
 
     EXAMPLE:
-        python3 preprocess.py ../versions/v1.4/en end2end stanford_path
+        python3 preprocess.py ../versions/v1.4/en end2end
 """
 
 import sys
@@ -22,12 +21,11 @@ sys.path.append('../')
 import load
 import os
 import parsing
-import json
+import nltk
 
 from superpreprocess import Preprocess
 from itertools import permutations
 from random import randint
-from stanfordcorenlp import StanfordCoreNLP
 
 STANFORD_PATH=r'~/stanford/stanford-corenlp-full-2018-02-27'
 
@@ -35,23 +33,18 @@ class End2End(Preprocess):
     def __init__(self, data_path, write_path):
         super().__init__(data_path=data_path, write_path=write_path)
 
-        self.corenlp = StanfordCoreNLP(STANFORD_PATH)
-        self.traindata, self.vocab = self.load_simple(path=os.path.join(data_path, 'train'))#, augment=True)
-        self.devdata, _ = self.load_simple(path=os.path.join(data_path, 'dev'))#, augment=False)
-        self.testdata, _ = self.load_simple(path=os.path.join(data_path, 'test'))#, augment=False)
+        self.traindata, self.vocab = self.load_simple(path=os.path.join(data_path, 'train.xml'))#, augment=True)
+        self.devdata, _ = self.load_simple(path=os.path.join(data_path, 'dev.xml'))#, augment=False)
+        self.testdata, _ = self.load_simple(path=os.path.join(data_path, 'test.xml'))#, augment=False)
 
 
     def tokenize(self, text):
-        props = {'annotators': 'tokenize,ssplit','pipelineLanguage':'en','outputFormat':'json'}
+        text = text.replace('@', ' ')
         tokens = []
         # tokenizing text
-        text = text.replace('@', ' ')
         try:
-            out = self.corenlp.annotate(text.strip(), properties=props)
-            out = json.loads(out)
-
-            for snt in out['sentences']:
-                sentence = list(map(lambda w: w['originalText'], snt['tokens']))
+            for snt in nltk.sent_tokenize(text, language='dutch'):
+                sentence = nltk.word_tokenize(snt, language='dutch')
                 tokens.extend(sentence)
         except:
             print('Parsing error...')
@@ -60,7 +53,7 @@ class End2End(Preprocess):
 
 
     def load(self, path, augment=True):
-        entryset = parsing.run_parser(path)
+        entryset = parsing.parse(path)
 
         data, size = [], 0
         invocab, outvocab = [], []
@@ -145,7 +138,7 @@ class End2End(Preprocess):
 
 
     def load_simple(self, path):
-        entryset = parsing.run_parser(path)
+        entryset = list(parsing.parse(path))
 
         data, size = [], 0
         invocab, outvocab = [], []
@@ -157,10 +150,10 @@ class End2End(Preprocess):
                 # process source
                 tripleset = []
                 for i, triple in enumerate(entry.modifiedtripleset):
-                    striple = triple.predicate + ' ' + triple.subject + ' ' + triple.object
+                    striple = triple.key + ' ' + triple.value
                     tripleset.append((i, striple))
                 # given a fixed order by sorting the set of triples automatically (predicate - subject - object)
-                tripleset = sorted(tripleset, key=lambda x: x[1])
+                tripleset = sorted(tripleset, key=lambda x: x[0])
                 triples = [entry.modifiedtripleset[t[0]] for t in tripleset]
 
                 entitymap = {b:a for a, b in entry.entitymap_to_dict().items()}
@@ -200,7 +193,6 @@ class End2End(Preprocess):
 
     def __call__(self):
         self.run(traindata=self.traindata, devdata=self.devdata, testdata=self.testdata)
-        self.corenlp.close()
 
 
 if __name__ == '__main__':
@@ -209,7 +201,6 @@ if __name__ == '__main__':
 
     data_path = sys.argv[1]
     write_path = sys.argv[2]
-    STANFORD_PATH=sys.argv[3]
     s = End2End(data_path=data_path, write_path=write_path)
     s()
 

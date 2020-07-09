@@ -14,10 +14,10 @@ bpe_scripts=/roaming/tcastrof/workspace/subword-nmt
 nematus_home=/roaming/tcastrof/workspace/nematus
 
 # path to the webnlg corpus
-corpus_dir=/home/tcastrof/Experiments/versions/v1.4/en
+corpus_dir=versions/chris
 
 # stanford parser
 stanford_path=/roaming/tcastrof/workspace/stanford/stanford-corenlp-full-2018-02-27
 
 # path to save the results
-root_dir=/roaming/tcastrof/emnlp2019_test
+root_dir=/roaming/tcastrof/chris

@@ -1,0 +1,1719 @@
+<?xml version="1.0" ?>
+<entries>
+   <entry category="DutchIncidents" eid="Id613" size="5">
+      <originaltripleset>
+         <otriple>hasDied | True</otriple>
+         <otriple>typeAccident | auto-ongeluk</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>hasDied | True</mtriple>
+         <mtriple>typeAccident | auto-ongeluk</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>hasDied | True</striple>
+               <striple>typeAccident | auto-ongeluk</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="auto-ongeluk" number="1" tag="PATIENT-1" type="description">een auto-ongeluk</reference>
+         </references>
+         <text>Bij een auto-ongeluk aan de Bosscheweg in Keldonk is zaterdagmiddag een vrouw om het leven gekomen.</text>
+         <template>Bij PATIENT-1 aan de Bosscheweg in Keldonk is zaterdagmiddag een vrouw om het leven gekomen .</template>
+         <lexicalization>bij PATIENT-1 aan ART[form=bep,gender=zijd_of_mv,case=neut] de bosscheweg in keldonk V[type=hulp_of_kopp,tense=ott,person=3,number=ev] zijn zaterdagmiddag ART[form=onbep,gender=zijd_of_onzijd,case=neut] een vrouw om ART[form=bep,gender=onzijd,case=neut] het leven V[type=trans,tense=verl_dw,person=onverv] komen .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | auto-ongeluk</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id554" size="2">
+      <originaltripleset>
+         <otriple>hasDied | True</otriple>
+         <otriple>victimGender | vrouw</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>hasDied | True</mtriple>
+         <mtriple>victimGender | vrouw</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>hasDied | True</striple>
+               <striple>victimGender | vrouw</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="vrouw" number="2" tag="PATIENT-2" type="description">De vrouw</reference>
+         </references>
+         <text>De vrouw overleed ter plaatse.</text>
+         <template>PATIENT-2 overleed ter plaatse .</template>
+         <lexicalization>PATIENT-2 V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] overlijden ter plaatse .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-2 | vrouw</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id523" size="1">
+      <originaltripleset>
+         <otriple>victimVehicle | auto</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>victimVehicle | auto</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>victimVehicle | auto</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="auto" number="1" tag="PATIENT-1" type="description">auto</reference>
+         </references>
+         <text>Vermoedelijk raakte het slachtoffer met haar auto in de berm en wilde ze het voertuig met een stuurcorrectie weer op de weg krijgen.</text>
+         <template>Vermoedelijk raakte het slachtoffer met haar PATIENT-1 in de berm en wilde ze het voertuig met een stuurcorrectie weer op de weg krijgen .</template>
+         <lexicalization>vermoedelijk V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] raken ART[form=bep,gender=onzijd,case=neut] het slachtoffer met haar PATIENT-1 in ART[form=bep,gender=zijd_of_mv,case=neut] de berm en V[type=hulp,tense=ovt,person=1_of_2_of_3,number=ev] willen ze ART[form=bep,gender=onzijd,case=neut] het voertuig met ART[form=onbep,gender=zijd_of_onzijd,case=neut] een stuurcorrectie weer op ART[form=bep,gender=zijd_of_mv,case=neut] de weg V[type=trans,tense=inf] krijgen .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | auto</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id213" size="7">
+      <originaltripleset>
+         <otriple>accidentTime | Dinsdagochtend_omstreeks_10.45_uur</otriple>
+         <otriple>victimAge | 76-jarige</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>accidentTime | Dinsdagochtend_omstreeks_10.45_uur</mtriple>
+         <mtriple>victimAge | 76-jarige</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>accidentTime | Dinsdagochtend_omstreeks_10.45_uur</striple>
+               <striple>victimAge | 76-jarige</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="Dinsdagochtend_omstreeks_10.45_uur" number="1" tag="PATIENT-1" type="description">Dinsdagochtend omstreeks 10.45 uur</reference>
+            <reference entity="76-jarige" number="2" tag="PATIENT-2" type="description">een 76-jarige</reference>
+         </references>
+         <text>Dinsdagochtend omstreeks 10.45 uur heeft een botsing plaatsgevonden tussen een 76-jarige bromfietser uit Hippolytushoef en een 56-jarige automobilist uit Venhuizen.</text>
+         <template>PATIENT-1 heeft een botsing plaatsgevonden tussen PATIENT-2 bromfietser uit Hippolytushoef en een 56-jarige automobilist uit Venhuizen .</template>
+         <lexicalization>PATIENT-1 V[type=trans,tense=ott,person=3,number=ev] hebben ART[form=onbep,gender=zijd_of_onzijd,case=neut] een botsing V[type=trans,tense=verl_dw,person=onverv] plaatsvinden tussen PATIENT-2 bromfietser uit hippolytushoef en ART[form=onbep,gender=zijd_of_onzijd,case=neut] een 56-jarige automobilist uit venhuizen .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | Dinsdagochtend_omstreeks_10.45_uur</entity>
+         <entity>PATIENT-2 | 76-jarige</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id574" size="1">
+      <originaltripleset>
+         <otriple>reanimationAttempted | True</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>reanimationAttempted | True</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>reanimationAttempted | True</striple>
+            </sentence>
+         </sortedtripleset>
+         <references/>
+         <text>Er werd geprobeerd hem te reanimeren.</text>
+         <template>Er werd geprobeerd hem te reanimeren .</template>
+         <lexicalization>er V[type=hulp_of_kopp,tense=ovt,person=1_of_2_of_3,number=ev] worden V[type=hulp,tense=verl_dw,person=onverv] proberen hem te V[type=trans,tense=inf] reanimeren .</lexicalization>
+      </lex>
+      <entitymap/>
+   </entry>
+   <entry category="DutchIncidents" eid="Id196" size="1">
+      <originaltripleset>
+         <otriple>accidentTime | begin_van_de_avond</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>accidentTime | begin_van_de_avond</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>accidentTime | begin_van_de_avond</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="begin_van_de_avond" number="1" tag="PATIENT-1" type="description">het begin van de avond</reference>
+         </references>
+         <text>Het ongeval gebeurde aan het begin van de avond.</text>
+         <template>Het ongeval gebeurde aan PATIENT-1 .</template>
+         <lexicalization>ART[form=bep,gender=onzijd,case=neut] het ongeval V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] gebeuren aan PATIENT-1 .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | begin_van_de_avond</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id485" size="2">
+      <originaltripleset>
+         <otriple>victimVehicle | tractor</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>victimVehicle | tractor</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>victimVehicle | tractor</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="tractor" number="1" tag="PATIENT-1" type="description">tractor</reference>
+         </references>
+         <text>Een passerende tractor kon haar niet meer ontwijken en reed op de vrouw in.</text>
+         <template>Een passerende PATIENT-1 kon haar niet meer ontwijken en reed op de vrouw in .</template>
+         <lexicalization>ART[form=onbep,gender=zijd_of_onzijd,case=neut] een passerende PATIENT-1 V[type=hulp,tense=ovt,person=1_of_2_of_3,number=ev] kunnen haar niet meer V[type=trans,tense=inf] ontwijken en V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] reden op ART[form=bep,gender=zijd_of_mv,case=neut] de vrouw in .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | tractor</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id414" size="1">
+      <originaltripleset>
+         <otriple>victimGender | man</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>victimGender | man</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>victimGender | man</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="man" number="1" tag="PATIENT-1" type="description">de man</reference>
+         </references>
+         <text>Op de Ruysbroekstraat in Den Haag gaven de agenten de man een stopteken, die deze vervolgens negerde en het hazenpad koos.</text>
+         <template>Op de Ruysbroekstraat in Den Haag gaven de agenten PATIENT-1 een stopteken , die deze vervolgens negerde en het hazenpad koos .</template>
+         <lexicalization>op ART[form=bep,gender=zijd_of_mv,case=neut] de ruysbroekstraat in den haag V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] geven ART[form=bep,gender=zijd_of_mv,case=neut] de agenten PATIENT-1 ART[form=onbep,gender=zijd_of_onzijd,case=neut] een V[type=trans,tense=inf,person=subst] stopteken , die deze vervolgens V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] negeren en het hazenpad V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] kozen .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | man</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id366" size="1">
+      <originaltripleset>
+         <otriple>hasDied | True</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>hasDied | True</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>hasDied | True</striple>
+            </sentence>
+         </sortedtripleset>
+         <references/>
+         <text>Het slachtoffer overleed ter plaatse.</text>
+         <template>Het slachtoffer overleed ter plaatse .</template>
+         <lexicalization>ART[form=bep,gender=onzijd,case=neut] het slachtoffer V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] overlijden ter plaatse .</lexicalization>
+      </lex>
+      <entitymap/>
+   </entry>
+   <entry category="DutchIncidents" eid="Id420" size="5">
+      <originaltripleset>
+         <otriple>reanimationAttempted | True</otriple>
+         <otriple>victimVehicle | auto</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>reanimationAttempted | True</mtriple>
+         <mtriple>victimVehicle | auto</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>reanimationAttempted | True</striple>
+               <striple>victimVehicle | auto</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="auto" number="1" tag="PATIENT-1" type="description">de auto</reference>
+         </references>
+         <text>Het slachtoffer is daarna uit de auto gehaald waarbij hij gereanimeerd werd en direct in zeer kritieke toestand vervoerd naar het Utrechts Medisch Centrum.</text>
+         <template>Het slachtoffer is daarna uit PATIENT-1 gehaald waarbij hij gereanimeerd werd en direct in zeer kritieke toestand vervoerd naar het Utrechts Medisch Centrum .</template>
+         <lexicalization>ART[form=bep,gender=onzijd,case=neut] het slachtoffer V[type=hulp_of_kopp,tense=ott,person=3,number=ev] zijn daarna uit PATIENT-1 V[type=trans,tense=verl_dw,person=onverv] halen waarbij hij V[type=trans,tense=verl_dw,person=onverv] reanimeren V[type=hulp_of_kopp,tense=ovt,person=1_of_2_of_3,number=ev] worden en direct in zeer kritieke toestand V[type=trans,tense=verl_dw,person=onverv] vervoeren naar ART[form=bep,gender=onzijd,case=neut] het utrechts medisch centrum .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | auto</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id475" size="2">
+      <originaltripleset>
+         <otriple>hospitalName | ziekenhuis_in_Rotterdam</otriple>
+         <otriple>takenToHospital | True</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>hospitalName | ziekenhuis_in_Rotterdam</mtriple>
+         <mtriple>takenToHospital | True</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>takenToHospital | True</striple>
+               <striple>hospitalName | ziekenhuis_in_Rotterdam</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="ziekenhuis_in_Rotterdam" number="2" tag="PATIENT-2" type="description">een ziekenhuis in Rotterdam</reference>
+         </references>
+         <text>Vervolgens is ze met spoed per ambulance naar een ziekenhuis in Rotterdam gebracht.</text>
+         <template>Vervolgens is ze met spoed per ambulance naar PATIENT-2 gebracht .</template>
+         <lexicalization>vervolgens V[type=hulp_of_kopp,tense=ott,person=3,number=ev] zijn ze met spoed per ambulance naar PATIENT-2 V[type=trans,tense=verl_dw,person=onverv] brengen .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-2 | ziekenhuis_in_Rotterdam</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id22" size="1">
+      <originaltripleset>
+         <otriple>accidentTime | kort_na_15.00_uur</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>accidentTime | kort_na_15.00_uur</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>accidentTime | kort_na_15.00_uur</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="kort_na_15.00_uur" number="1" tag="PATIENT-1" type="description">kort na 15.00 uur</reference>
+         </references>
+         <text>Politie en brandweer werden kort na 15.00 uur gealarmeerd toen bleek dat een van de weg was geraakt en in een weiland te zijn terechtgekomen.</text>
+         <template>Politie en brandweer werden PATIENT-1 gealarmeerd toen bleek dat een van de weg was geraakt en in een weiland te zijn terechtgekomen .</template>
+         <lexicalization>politie en brandweer V[type=hulp_of_kopp,tense=ovt,person=1_of_2_of_3,number=mv] worden PATIENT-1 V[type=trans,tense=verl_dw,person=onverv] alarmeren toen V[type=hulp_of_kopp,tense=ovt,person=1_of_2_of_3,number=ev] bleken dat ART[form=onbep,gender=zijd_of_onzijd,case=neut] een van ART[form=bep,gender=zijd_of_mv,case=neut] de weg V[type=hulp_of_kopp,tense=ovt,person=1_of_2_of_3,number=ev] zijn V[type=hulp_of_kopp,tense=verl_dw,person=onverv] geraken en in ART[form=onbep,gender=zijd_of_onzijd,case=neut] een weiland te V[type=hulp_of_kopp,tense=inf] zijn V[type=trans,tense=verl_dw,person=onverv] terechtkomen .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | kort_na_15.00_uur</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id551" size="2">
+      <originaltripleset>
+         <otriple>victimGender | man</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>victimGender | man</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>victimGender | man</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="man" number="1" tag="PATIENT-1" type="description">de man</reference>
+         </references>
+         <text>De politie vermoedt dat de man is gestruikeld en gaat uit van een ongeluk.</text>
+         <template>De politie vermoedt dat PATIENT-1 is gestruikeld en gaat uit van een ongeluk .</template>
+         <lexicalization>ART[form=bep,gender=zijd_of_mv,case=neut] de politie V[type=trans,tense=ott,person=3,number=ev] vermoeden dat PATIENT-1 V[type=hulp_of_kopp,tense=ott,person=3,number=ev] zijn V[type=trans,tense=verl_dw,person=onverv] struikelen en V[type=intrans,tense=ott,person=3,number=ev] gaten uit van ART[form=onbep,gender=zijd_of_onzijd,case=neut] een ongeluk .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | man</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id654" size="2">
+      <originaltripleset>
+         <otriple>injuryType | kritieke_toestand</otriple>
+         <otriple>takenToHospital | True</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>injuryType | kritieke_toestand</mtriple>
+         <mtriple>takenToHospital | True</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>takenToHospital | True</striple>
+               <striple>injuryType | kritieke_toestand</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="kritieke_toestand" number="1" tag="PATIENT-1" type="description">kritieke toestand</reference>
+         </references>
+         <text>Hij is in kritieke toestand naar het ziekenhuis overgebracht.</text>
+         <template>Hij is in PATIENT-1 naar het ziekenhuis overgebracht .</template>
+         <lexicalization>hij V[type=hulp_of_kopp,tense=ott,person=3,number=ev] zijn in PATIENT-1 naar ART[form=bep,gender=onzijd,case=neut] het ziekenhuis V[type=trans,tense=verl_dw,person=onverv] overbrengen .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | kritieke_toestand</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id49" size="1">
+      <originaltripleset>
+         <otriple>causeAccident | wordt_nog_door_de_politie_onderzocht</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>causeAccident | wordt_nog_door_de_politie_onderzocht</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>causeAccident | wordt_nog_door_de_politie_onderzocht</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="wordt_nog_door_de_politie_onderzocht" number="1" tag="PATIENT-1" type="description">wordt nog door de politie onderzocht</reference>
+         </references>
+         <text>De toedracht van het ongeval wordt nog door de politie onderzocht.</text>
+         <template>De toedracht van het ongeval PATIENT-1 .</template>
+         <lexicalization>ART[form=bep,gender=zijd_of_mv,case=neut] de toedracht van ART[form=bep,gender=onzijd,case=neut] het ongeval PATIENT-1 .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | wordt_nog_door_de_politie_onderzocht</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id312" size="2">
+      <originaltripleset>
+         <otriple>victimVehicle | vrachtwagenchauffeur</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>victimVehicle | vrachtwagenchauffeur</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>victimVehicle | vrachtwagenchauffeur</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="vrachtwagenchauffeur" number="1" tag="PATIENT-1" type="description">de vrachtwagenchauffeur</reference>
+         </references>
+         <text>Plotseling zag de vrachtwagenchauffeur dat een personenauto de file verliet en begon in te halen.</text>
+         <template>Plotseling zag PATIENT-1 dat een personenauto de file verliet en begon in te halen .</template>
+         <lexicalization>plotseling V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] zien PATIENT-1 dat ART[form=onbep,gender=zijd_of_onzijd,case=neut] een personenauto ART[form=bep,gender=zijd_of_mv,case=neut] de file verliet en V[type=hulp,tense=ovt,person=1_of_2_of_3,number=ev] beginnen in te V[type=trans,tense=inf] halen .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | vrachtwagenchauffeur</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id472" size="1">
+      <originaltripleset>
+         <otriple>injuryType | letsel</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>injuryType | letsel</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>injuryType | letsel</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="letsel" number="1" tag="PATIENT-1" type="description">letsel</reference>
+         </references>
+         <text>Ze liep letsel op aan haar hoofd.</text>
+         <template>Ze liep PATIENT-1 op aan haar hoofd .</template>
+         <lexicalization>ze V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] lopen PATIENT-1 op aan haar hoofd .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | letsel</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id451" size="2">
+      <originaltripleset>
+         <otriple>hasDied | True</otriple>
+         <otriple>victimBased | Driel</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>hasDied | True</mtriple>
+         <mtriple>victimBased | Driel</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>hasDied | True</striple>
+               <striple>victimBased | Driel</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="Driel" number="1" tag="PATIENT-1" type="description">Driel</reference>
+         </references>
+         <text>Helaas is het slachtoffer, een inwoner van Driel overleden.</text>
+         <template>Helaas is het slachtoffer , een inwoner van PATIENT-1 overleden .</template>
+         <lexicalization>helaas V[type=hulp_of_kopp,tense=ott,person=3,number=ev] zijn het slachtoffer , ART[form=onbep,gender=zijd_of_onzijd,case=neut] een inwoner van PATIENT-1 V[type=trans,tense=verl_dw,person=onverv] overlijden .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | Driel</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id462" size="3">
+      <originaltripleset>
+         <otriple>reanimationAttempted | True</otriple>
+         <otriple>victimVehicle | auto</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>reanimationAttempted | True</mtriple>
+         <mtriple>victimVehicle | auto</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>reanimationAttempted | True</striple>
+               <striple>victimVehicle | auto</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="auto" number="1" tag="PATIENT-1" type="description">de auto</reference>
+         </references>
+         <text>Nadat de auto uit het water was gehaald, werd het slachtoffer gereanimeerd door ambulancepersoneel, maar dat mocht niet meer baten.</text>
+         <template>Nadat PATIENT-1 uit het water was gehaald , werd het slachtoffer gereanimeerd door ambulancepersoneel , maar dat mocht niet meer baten .</template>
+         <lexicalization>nadat PATIENT-1 uit ART[form=bep,gender=onzijd,case=neut] het water V[type=hulp_of_kopp,tense=ovt,person=1_of_2_of_3,number=ev] zijn V[type=trans,tense=verl_dw,person=onverv] halen , V[type=hulp_of_kopp,tense=ovt,person=1_of_2_of_3,number=ev] worden ART[form=bep,gender=onzijd,case=neut] het slachtoffer V[type=trans,tense=verl_dw,person=onverv] reanimeren door ambulancepersoneel , maar dat V[type=hulp,tense=ovt,person=1_of_2_of_3,number=ev] mogen niet meer baten .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | auto</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id464" size="6">
+      <originaltripleset>
+         <otriple>hasDied | True</otriple>
+         <otriple>victimAge | 20-jarige</otriple>
+         <otriple>victimBased | Eindhovenaar</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>hasDied | True</mtriple>
+         <mtriple>victimAge | 20-jarige</mtriple>
+         <mtriple>victimBased | Eindhovenaar</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>victimAge | 20-jarige</striple>
+               <striple>hasDied | True</striple>
+               <striple>victimBased | Eindhovenaar</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="20-jarige" number="1" tag="PATIENT-1" type="description">Een 20-jarige</reference>
+            <reference entity="Eindhovenaar" number="2" tag="PATIENT-2" type="description">Eindhovenaar</reference>
+         </references>
+         <text>Een 20-jarige Eindhovenaar is dinsdagochtend rond 7.25 uur om het leven gekomen bij een verkeersongeval op de Anthony Fokkerweg in Eindhoven.</text>
+         <template>PATIENT-1 PATIENT-2 is dinsdagochtend rond 7.25 uur om het leven gekomen bij een verkeersongeval op de Anthony Fokkerweg in Eindhoven .</template>
+         <lexicalization>PATIENT-1 PATIENT-2 V[type=hulp_of_kopp,tense=ott,person=3,number=ev] zijn V[type=intrans,tense=teg_dw,person=onverv] dinsdagochten rond 7.25 uur om ART[form=bep,gender=onzijd,case=neut] het leven V[type=trans,tense=verl_dw,person=onverv] komen bij ART[form=onbep,gender=zijd_of_onzijd,case=neut] een verkeersongeval op ART[form=bep,gender=zijd_of_mv,case=neut] de anthony fokkerweg in eindhoven .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | 20-jarige</entity>
+         <entity>PATIENT-2 | Eindhovenaar</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id83" size="1">
+      <originaltripleset>
+         <otriple>causeAccident | nog_onbekende_oorzaak</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>causeAccident | nog_onbekende_oorzaak</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>causeAccident | nog_onbekende_oorzaak</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="nog_onbekende_oorzaak" number="1" tag="PATIENT-1" type="description">nog onbekende oorzaak</reference>
+         </references>
+         <text>Door nog onbekende oorzaak verloor zij de macht over het stuur, waarbij de auto over de kop sloeg en in de greppel belandde.</text>
+         <template>Door PATIENT-1 verloor zij de macht over het stuur , waarbij de auto over de kop sloeg en in de greppel belandde .</template>
+         <lexicalization>door PATIENT-1 V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] verliezen zij ART[form=bep,gender=zijd_of_mv,case=neut] de macht over ART[form=bep,gender=onzijd,case=neut] het stuur , waarbij ART[form=bep,gender=zijd_of_mv,case=neut] de auto over ART[form=bep,gender=zijd_of_mv,case=neut] de kop V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] slaan en in ART[form=bep,gender=zijd_of_mv,case=neut] de greppel V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] belanden .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | nog_onbekende_oorzaak</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id244" size="2">
+      <originaltripleset>
+         <otriple>victimGender | vrouw</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>victimGender | vrouw</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>victimGender | vrouw</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="vrouw" number="1" tag="PATIENT-1" type="description">de vrouw</reference>
+         </references>
+         <text>Volgens een woordvoerder stapte de vrouw rond 23.00 uur op de vluchtstrook de auto uit nadat ze ruzie had gekregen.</text>
+         <template>Volgens een woordvoerder stapte PATIENT-1 rond 23.00 uur op de vluchtstrook de auto uit nadat ze ruzie had gekregen .</template>
+         <lexicalization>volgens ART[form=onbep,gender=zijd_of_onzijd,case=neut] een woordvoerder V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] stappen PATIENT-1 rond 23.00 uur op ART[form=bep,gender=zijd_of_mv,case=neut] de vluchtstrook ART[form=bep,gender=zijd_of_mv,case=neut] de auto uit nadat ze ruzie V[type=hulp,tense=ovt,person=1_of_2_of_3,number=ev] hebben V[type=trans,tense=verl_dw,person=onverv] krijgen .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | vrouw</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id182" size="2">
+      <originaltripleset>
+         <otriple>hasDied | True</otriple>
+         <otriple>victimGender | man</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>hasDied | True</mtriple>
+         <mtriple>victimGender | man</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>hasDied | True</striple>
+               <striple>victimGender | man</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="man" number="2" tag="PATIENT-2" type="description">De man</reference>
+         </references>
+         <text>De man overleed ter plaatse.</text>
+         <template>PATIENT-2 overleed ter plaatse .</template>
+         <lexicalization>PATIENT-2 V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] overlijden ter plaatse .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-2 | man</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id117" size="1">
+      <originaltripleset>
+         <otriple>victimVehicle | wagen</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>victimVehicle | wagen</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>victimVehicle | wagen</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="wagen" number="1" tag="PATIENT-1" type="description">de wagen</reference>
+         </references>
+         <text>Bij het uitsturen is de wagen dwars gegaan en van het talud gereden.</text>
+         <template>Bij het uitsturen is PATIENT-1 dwars gegaan en van het talud gereden .</template>
+         <lexicalization>bij ART[form=bep,gender=onzijd,case=neut] het uitsturen V[type=hulp_of_kopp,tense=ott,person=3,number=ev] zijn PATIENT-1 dwars V[type=trans,tense=verl_dw,person=onverv] gaan en van ART[form=bep,gender=onzijd,case=neut] het talud V[type=trans,tense=verl_dw,person=onverv] rijden .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | wagen</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id98" size="6">
+      <originaltripleset>
+         <otriple>hasDied | True</otriple>
+         <otriple>victimAge | 49-jarige</otriple>
+         <otriple>victimVehicle | automobilist</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>hasDied | True</mtriple>
+         <mtriple>victimAge | 49-jarige</mtriple>
+         <mtriple>victimVehicle | automobilist</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>victimAge | 49-jarige</striple>
+               <striple>hasDied | True</striple>
+               <striple>victimVehicle | automobilist</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="49-jarige" number="1" tag="PATIENT-1" type="description">Een 49-jarige</reference>
+            <reference entity="automobilist" number="2" tag="PATIENT-2" type="description">automobilist</reference>
+         </references>
+         <text>Een 49-jarige automobilist uit de gemeente Westerwolde is zaterdagochtend overleden bij een ernstig verkeersongeval op de Terapelerstraat bij Sellingen.</text>
+         <template>PATIENT-1 PATIENT-2 uit de gemeente Westerwolde is zaterdagochtend overleden bij een ernstig verkeersongeval op de Terapelerstraat bij Sellingen .</template>
+         <lexicalization>PATIENT-1 PATIENT-2 uit ART[form=bep,gender=zijd_of_mv,case=neut] de gemeente westerwolde V[type=hulp_of_kopp,tense=ott,person=3,number=ev] zijn V[type=intrans,tense=teg_dw,person=onverv] zaterdagochten V[type=intrans,tense=verl_dw,person=onverv] overlijden bij ART[form=onbep,gender=zijd_of_onzijd,case=neut] een ernstig verkeersongeval op ART[form=bep,gender=zijd_of_mv,case=neut] de terapelerstraat bij sellingen .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | 49-jarige</entity>
+         <entity>PATIENT-2 | automobilist</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id126" size="4">
+      <originaltripleset>
+         <otriple>victimAge | 24-jarige</otriple>
+         <otriple>victimVehicle | auto</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>victimAge | 24-jarige</mtriple>
+         <mtriple>victimVehicle | auto</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>victimAge | 24-jarige</striple>
+               <striple>victimVehicle | auto</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="24-jarige" number="1" tag="PATIENT-1" type="description">De 24-jarige</reference>
+            <reference entity="auto" number="2" tag="PATIENT-2" type="description">de auto</reference>
+         </references>
+         <text>De 24-jarige bestuurder van de auto, eveneens uit Den Helder, kwam met de schrik vrij.</text>
+         <template>PATIENT-1 bestuurder van PATIENT-2 , eveneens uit Den Helder , kwam met de schrik vrij .</template>
+         <lexicalization>PATIENT-1 bestuurder van PATIENT-2 , eveneens uit den helder , V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] komen met ART[form=bep,gender=zijd_of_mv,case=neut] de V[type=intrans,tense=ott,person=1,number=ev] schrikken vrij .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | 24-jarige</entity>
+         <entity>PATIENT-2 | auto</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id470" size="4">
+      <originaltripleset>
+         <otriple>accidentTime | die_middag</otriple>
+         <otriple>victimGender | vrouw</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>accidentTime | die_middag</mtriple>
+         <mtriple>victimGender | vrouw</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>victimGender | vrouw</striple>
+               <striple>accidentTime | die_middag</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="vrouw" number="1" tag="PATIENT-1" type="description">De vrouw</reference>
+            <reference entity="die_middag" number="2" tag="PATIENT-2" type="description">die middag</reference>
+         </references>
+         <text>De vrouw stak die middag vanaf de Esdoornlaan de Cypressenlaan over en zag daarbij vermoedelijk de scooterrijder over het hoofd.</text>
+         <template>PATIENT-1 stak PATIENT-2 vanaf de Esdoornlaan de Cypressenlaan over en zag daarbij vermoedelijk de scooterrijder over het hoofd .</template>
+         <lexicalization>PATIENT-1 V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] steken PATIENT-2 vanaf ART[form=bep,gender=zijd_of_mv,case=neut] de esdoornlaan ART[form=bep,gender=zijd_of_mv,case=neut] de cypressenlaan over en zag daarbij vermoedelijk ART[form=bep,gender=zijd_of_mv,case=neut] de scooterrijder over ART[form=bep,gender=onzijd,case=neut] het hoofd .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | vrouw</entity>
+         <entity>PATIENT-2 | die_middag</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id649" size="2">
+      <originaltripleset>
+         <otriple>typeAccident | terecht_in_een_sloot</otriple>
+         <otriple>victimVehicle | tractor_en_giertank</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>typeAccident | terecht_in_een_sloot</mtriple>
+         <mtriple>victimVehicle | tractor_en_giertank</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>victimVehicle | tractor_en_giertank</striple>
+               <striple>typeAccident | terecht_in_een_sloot</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="tractor_en_giertank" number="1" tag="PATIENT-1" type="description">De tractor en giertank</reference>
+            <reference entity="terecht_in_een_sloot" number="2" tag="PATIENT-2" type="description">terecht in een sloot</reference>
+         </references>
+         <text>De tractor en giertank kwamen terecht in een sloot.</text>
+         <template>PATIENT-1 kwamen PATIENT-2 .</template>
+         <lexicalization>PATIENT-1 V[type=intrans,tense=ovt,person=1_of_2_of_3,number=mv] komen PATIENT-2 .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | tractor_en_giertank</entity>
+         <entity>PATIENT-2 | terecht_in_een_sloot</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id144" size="6">
+      <originaltripleset>
+         <otriple>accidentLocation | Dorpenweg_in_Ravenstein</otriple>
+         <otriple>hasDied | True</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>accidentLocation | Dorpenweg_in_Ravenstein</mtriple>
+         <mtriple>hasDied | True</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>hasDied | True</striple>
+               <striple>accidentLocation | Dorpenweg_in_Ravenstein</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="Dorpenweg_in_Ravenstein" number="1" tag="PATIENT-1" type="description">de Dorpenweg in Ravenstein</reference>
+         </references>
+         <text>Bij een verkeersongeval op de Dorpenweg in Ravenstein is maandagmiddag een 22-jarige man uit Arnhem om het leven gekomen.</text>
+         <template>Bij een verkeersongeval op PATIENT-1 is maandagmiddag een 22-jarige man uit Arnhem om het leven gekomen .</template>
+         <lexicalization>bij ART[form=onbep,gender=zijd_of_onzijd,case=neut] een verkeersongeval op PATIENT-1 V[type=hulp_of_kopp,tense=ott,person=3,number=ev] zijn maandagmiddag ART[form=onbep,gender=zijd_of_onzijd,case=neut] een 22-jarige man uit arnhem om ART[form=bep,gender=onzijd,case=neut] het leven V[type=trans,tense=verl_dw,person=onverv] komen .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | Dorpenweg_in_Ravenstein</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id588" size="6">
+      <originaltripleset>
+         <otriple>hasDied | True</otriple>
+         <otriple>victimAge | 34-jarige</otriple>
+         <otriple>victimAge | 36-jarige</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>hasDied | True</mtriple>
+         <mtriple>victimAge | 34-jarige</mtriple>
+         <mtriple>victimAge | 36-jarige</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>victimAge | 34-jarige</striple>
+               <striple>hasDied | True</striple>
+               <striple>victimAge | 36-jarige</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="34-jarige" number="1" tag="PATIENT-1" type="description">De 34-jarige</reference>
+            <reference entity="36-jarige" number="2" tag="PATIENT-2" type="description">de 36-jarige</reference>
+         </references>
+         <text>De 34-jarige bestuurder en de 36-jarige inzittende, beide uit Weesp, kwamen om het leven.</text>
+         <template>PATIENT-1 bestuurder en PATIENT-2 inzittende , beide uit Weesp , kwamen om het leven .</template>
+         <lexicalization>PATIENT-1 bestuurder en PATIENT-2 V[type=intrans,tense=teg_dw,person=verv_neut] inzittennen , beide uit weesp , V[type=intrans,tense=ovt,person=1_of_2_of_3,number=mv] komen om ART[form=bep,gender=onzijd,case=neut] het leven .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | 34-jarige</entity>
+         <entity>PATIENT-2 | 36-jarige</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id265" size="2">
+      <originaltripleset>
+         <otriple>victimAge | 49-jarige</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>victimAge | 49-jarige</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>victimAge | 49-jarige</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="49-jarige" number="1" tag="PATIENT-1" type="description">de 49-jarige</reference>
+         </references>
+         <text>Toen de 49-jarige truckchauffeur vanaf de andere weghelft linksaf wilde slaan zagen de twee elkaar over het hoofd.</text>
+         <template>Toen PATIENT-1 truckchauffeur vanaf de andere weghelft linksaf wilde slaan zagen de twee elkaar over het hoofd .</template>
+         <lexicalization>toen PATIENT-1 truckchauffeur vanaf ART[form=bep,gender=zijd_of_mv,case=neut] de andere weghelft linksaf V[type=hulp,tense=ovt,person=1_of_2_of_3,number=ev] willen V[type=trans,tense=inf] slaan V[type=trans,tense=ovt,person=1_of_2_of_3,number=mv] zien ART[form=bep,gender=zijd_of_mv,case=neut] de twee elkaar over ART[form=bep,gender=onzijd,case=neut] het hoofd .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | 49-jarige</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id266" size="8">
+      <originaltripleset>
+         <otriple>hasDied | True</otriple>
+         <otriple>victimAge | 55-jarige</otriple>
+         <otriple>victimVehicle | motorrijder</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>hasDied | True</mtriple>
+         <mtriple>victimAge | 55-jarige</mtriple>
+         <mtriple>victimVehicle | motorrijder</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>victimAge | 55-jarige</striple>
+               <striple>hasDied | True</striple>
+               <striple>victimVehicle | motorrijder</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="55-jarige" number="1" tag="PATIENT-1" type="description">Een 55-jarige</reference>
+            <reference entity="motorrijder" number="2" tag="PATIENT-2" type="description">motorrijder</reference>
+         </references>
+         <text>Een 55-jarige motorrijder uit Zaandam is maandagavond om het leven gekomen door een aanrijding met een vrachtwagen op de Hoofdtocht in zijn woonplaats.</text>
+         <template>PATIENT-1 PATIENT-2 uit Zaandam is maandagavond om het leven gekomen door een aanrijding met een vrachtwagen op de Hoofdtocht in zijn woonplaats .</template>
+         <lexicalization>PATIENT-1 PATIENT-2 uit zaandam V[type=hulp_of_kopp,tense=ott,person=3,number=ev] zijn maandagavond om ART[form=bep,gender=onzijd,case=neut] het leven V[type=trans,tense=verl_dw,person=onverv] komen door ART[form=onbep,gender=zijd_of_onzijd,case=neut] een aanrijding met ART[form=onbep,gender=zijd_of_onzijd,case=neut] een vrachtwagen op ART[form=bep,gender=zijd_of_mv,case=neut] de hoofdtocht in V[type=hulp_of_kopp,tense=ott,person=1_of_2_of_3,number=mv] zijn woonplaats .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | 55-jarige</entity>
+         <entity>PATIENT-2 | motorrijder</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id524" size="1">
+      <originaltripleset>
+         <otriple>victimVehicle | auto</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>victimVehicle | auto</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>victimVehicle | auto</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="auto" number="1" tag="PATIENT-1" type="description">De auto</reference>
+         </references>
+         <text>De auto schoot echter door en belandde aan de andere kant van de weg in de sloot.</text>
+         <template>PATIENT-1 schoot echter door en belandde aan de andere kant van de weg in de sloot .</template>
+         <lexicalization>PATIENT-1 schoot echter door en V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] belanden aan ART[form=bep,gender=zijd_of_mv,case=neut] de andere kant van ART[form=bep,gender=zijd_of_mv,case=neut] de weg in ART[form=bep,gender=zijd_of_mv,case=neut] de V[type=refl,tense=ovt,person=1_of_2_of_3,number=ev] sloten .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | auto</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id236" size="9">
+      <originaltripleset>
+         <otriple>victimBased | Poolse</otriple>
+         <otriple>victimGender | man</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>victimBased | Poolse</mtriple>
+         <mtriple>victimGender | man</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>victimBased | Poolse</striple>
+               <striple>victimGender | man</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="Poolse" number="1" tag="PATIENT-1" type="description">De Poolse</reference>
+            <reference entity="man" number="2" tag="PATIENT-2" type="description">man</reference>
+         </references>
+         <text>De Poolse man en vrouw die gisteravond op de A10 Zuid werden aangereden, zijn beiden 24 jaar.</text>
+         <template>PATIENT-1 PATIENT-2 en vrouw die gisteravond op de A10 Zuid werden aangereden , zijn beiden 24 jaar .</template>
+         <lexicalization>PATIENT-1 PATIENT-2 en vrouw die gisteravond op ART[form=bep,gender=zijd_of_mv,case=neut] de a10 zuid V[type=hulp_of_kopp,tense=ovt,person=1_of_2_of_3,number=mv] worden V[type=trans,tense=verl_dw,person=onverv] aanrijden , zijn beiden 24 jaar .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | Poolse</entity>
+         <entity>PATIENT-2 | man</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id194" size="2">
+      <originaltripleset>
+         <otriple>takenToHospital | True</otriple>
+         <otriple>victimGender | vrouw</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>takenToHospital | True</mtriple>
+         <mtriple>victimGender | vrouw</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>takenToHospital | True</striple>
+               <striple>victimGender | vrouw</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="vrouw" number="1" tag="PATIENT-1" type="description">vrouw</reference>
+         </references>
+         <text>Een zwangere vrouw is uit voorzorg naar het ziekenhuis vervoerd.</text>
+         <template>Een zwangere PATIENT-1 is uit voorzorg naar het ziekenhuis vervoerd .</template>
+         <lexicalization>ART[form=onbep,gender=zijd_of_onzijd,case=neut] een zwangere PATIENT-1 V[type=hulp_of_kopp,tense=ott,person=3,number=ev] zijn uit voorzorg naar ART[form=bep,gender=onzijd,case=neut] het ziekenhuis V[type=trans,tense=verl_dw,person=onverv] vervoeren .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | vrouw</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id300" size="2">
+      <originaltripleset>
+         <otriple>victimGender | jongen</otriple>
+         <otriple>victimGender | meisje</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>victimGender | jongen</mtriple>
+         <mtriple>victimGender | meisje</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>victimGender | jongen</striple>
+               <striple>victimGender | meisje</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="jongen" number="1" tag="PATIENT-1" type="description">Een jongen</reference>
+            <reference entity="meisje" number="2" tag="PATIENT-2" type="description">meisje</reference>
+         </references>
+         <text>Een jongen kon zich nog gemakkelijk bevrijden maar daar lag een jong meisje.</text>
+         <template>PATIENT-1 kon zich nog gemakkelijk bevrijden maar daar lag een jong PATIENT-2 .</template>
+         <lexicalization>PATIENT-1 V[type=hulp,tense=ovt,person=1_of_2_of_3,number=ev] kunnen zich nog gemakkelijk V[type=intrans,tense=inf] bevrijden maar daar V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] liggen ART[form=onbep,gender=zijd_of_onzijd,case=neut] een jong PATIENT-2 .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | jongen</entity>
+         <entity>PATIENT-2 | meisje</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id628" size="1">
+      <originaltripleset>
+         <otriple>victimVehicle | auto</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>victimVehicle | auto</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>victimVehicle | auto</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="auto" number="1" tag="PATIENT-1" type="description">een auto</reference>
+         </references>
+         <text>Het slachtoffer reed in een auto met drie kinderen, van wie twee van haarzelf.</text>
+         <template>Het slachtoffer reed in PATIENT-1 met drie kinderen , van wie twee van haarzelf .</template>
+         <lexicalization>ART[form=bep,gender=onzijd,case=neut] het slachtoffer V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] reden in PATIENT-1 met drie kinderen , van wie twee van haarzelf .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | auto</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id58" size="5">
+      <originaltripleset>
+         <otriple>takenToHospital | True</otriple>
+         <otriple>victimAge | 26_jaar</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>takenToHospital | True</mtriple>
+         <mtriple>victimAge | 26_jaar</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>takenToHospital | True</striple>
+               <striple>victimAge | 26_jaar</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="26_jaar" number="1" tag="PATIENT-1" type="description">26 jaar</reference>
+         </references>
+         <text>De twee andere inzittenden, een man van 26 jaar en van 35 jaar eveneens van Poolse nationaliteit, zijn per ambulance naar het ziekenhuis gebracht.</text>
+         <template>De twee andere inzittenden , een man van PATIENT-1 en van 35 jaar eveneens van Poolse nationaliteit , zijn per ambulance naar het ziekenhuis gebracht .</template>
+         <lexicalization>ART[form=bep,gender=zijd_of_mv,case=neut] de twee andere inzittenden , ART[form=onbep,gender=zijd_of_onzijd,case=neut] een man van PATIENT-1 en van 35 jaar eveneens van poolse nationaliteit , zijn per ambulance naar ART[form=bep,gender=onzijd,case=neut] het ziekenhuis V[type=trans,tense=verl_dw,person=onverv] brengen .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | 26_jaar</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id102" size="3">
+      <originaltripleset>
+         <otriple>accidentTime | Omstreeks_05.30_uur</otriple>
+         <otriple>victimVehicle | auto</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>accidentTime | Omstreeks_05.30_uur</mtriple>
+         <mtriple>victimVehicle | auto</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>accidentTime | Omstreeks_05.30_uur</striple>
+               <striple>victimVehicle | auto</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="Omstreeks_05.30_uur" number="1" tag="PATIENT-1" type="description">Omstreeks 05.30 uur</reference>
+            <reference entity="auto" number="2" tag="PATIENT-2" type="description">de auto</reference>
+         </references>
+         <text>Omstreeks 05.30 uur werd de auto met hierin het slachtoffer op de Ter Apelerstraat aangetroffen.</text>
+         <template>PATIENT-1 werd PATIENT-2 met hierin het slachtoffer op de Ter Apelerstraat aangetroffen .</template>
+         <lexicalization>PATIENT-1 V[type=hulp_of_kopp,tense=ovt,person=1_of_2_of_3,number=ev] worden PATIENT-2 met hierin ART[form=bep,gender=onzijd,case=neut] het slachtoffer op ART[form=bep,gender=zijd_of_mv,case=neut] de ter apelerstraat V[type=trans,tense=verl_dw,person=onverv] aantreffen .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | Omstreeks_05.30_uur</entity>
+         <entity>PATIENT-2 | auto</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id522" size="1">
+      <originaltripleset>
+         <otriple>accidentTime | rond_23.00_uur</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>accidentTime | rond_23.00_uur</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>accidentTime | rond_23.00_uur</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="rond_23.00_uur" number="1" tag="PATIENT-1" type="description">rond 23.00 uur</reference>
+         </references>
+         <text>Het ongeval vond rond 23.00 uur plaats.</text>
+         <template>Het ongeval vond PATIENT-1 plaats .</template>
+         <lexicalization>ART[form=bep,gender=onzijd,case=neut] het ongeval V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] vinden PATIENT-1 plaats .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | rond_23.00_uur</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id175" size="1">
+      <originaltripleset>
+         <otriple>causeAccident | de_gladheid</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>causeAccident | de_gladheid</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>causeAccident | de_gladheid</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="de_gladheid" number="1" tag="PATIENT-1" type="description">de gladheid</reference>
+         </references>
+         <text>De politie vermoedt dat ze door de gladheid de macht over het stuur verloor.</text>
+         <template>De politie vermoedt dat ze door PATIENT-1 de macht over het stuur verloor .</template>
+         <lexicalization>ART[form=bep,gender=zijd_of_mv,case=neut] de politie V[type=trans,tense=ott,person=3,number=ev] vermoeden dat ze door PATIENT-1 ART[form=bep,gender=zijd_of_mv,case=neut] de macht over ART[form=bep,gender=onzijd,case=neut] het stuur V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] verliezen .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | de_gladheid</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id616" size="1">
+      <originaltripleset>
+         <otriple>personnelCalled | True</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>personnelCalled | True</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>personnelCalled | True</striple>
+            </sentence>
+         </sortedtripleset>
+         <references/>
+         <text>De hulpdiensten, waaronder een traumahelikopter kwamen ter plaatse.</text>
+         <template>De hulpdiensten , waaronder een traumahelikopter kwamen ter plaatse .</template>
+         <lexicalization>ART[form=bep,gender=zijd_of_mv,case=neut] de hulpdiensten , waaronder ART[form=onbep,gender=zijd_of_onzijd,case=neut] een traumahelikopter V[type=intrans,tense=ovt,person=1_of_2_of_3,number=mv] komen ter plaatse .</lexicalization>
+      </lex>
+      <entitymap/>
+   </entry>
+   <entry category="DutchIncidents" eid="Id184" size="6">
+      <originaltripleset>
+         <otriple>hasDied | True</otriple>
+         <otriple>victimAge | 49-jarige</otriple>
+         <otriple>victimGender | man</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>hasDied | True</mtriple>
+         <mtriple>victimAge | 49-jarige</mtriple>
+         <mtriple>victimGender | man</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>victimAge | 49-jarige</striple>
+               <striple>hasDied | True</striple>
+               <striple>victimGender | man</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="49-jarige" number="1" tag="PATIENT-1" type="description">Een 49-jarige</reference>
+            <reference entity="man" number="2" tag="PATIENT-2" type="description">man</reference>
+         </references>
+         <text>Een 49-jarige man uit Druten is zondagmiddag 9 juli verongelukt na een ongeval op de Deestersteeg.</text>
+         <template>PATIENT-1 PATIENT-2 uit Druten is zondagmiddag 9 juli verongelukt na een ongeval op de Deestersteeg .</template>
+         <lexicalization>PATIENT-1 PATIENT-2 uit druten V[type=hulp_of_kopp,tense=ott,person=3,number=ev] zijn zondagmiddag 9 juli V[type=intrans,tense=verl_dw,person=onverv] verongelukken na ART[form=onbep,gender=zijd_of_onzijd,case=neut] een ongeval op ART[form=bep,gender=zijd_of_mv,case=neut] de deestersteeg .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | 49-jarige</entity>
+         <entity>PATIENT-2 | man</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id589" size="7">
+      <originaltripleset>
+         <otriple>takenToHospital | True</otriple>
+         <otriple>victimAge | 47-jarige</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>takenToHospital | True</mtriple>
+         <mtriple>victimAge | 47-jarige</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>takenToHospital | True</striple>
+               <striple>victimAge | 47-jarige</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="47-jarige" number="1" tag="PATIENT-1" type="description">een 47-jarige</reference>
+         </references>
+         <text>De andere inzittende, een 47-jarige man uit Weesp, werd uit de auto geslingerd en werd zwaar gewond vervoerd naar het AMC.</text>
+         <template>De andere inzittende , PATIENT-1 man uit Weesp , werd uit de auto geslingerd en werd zwaar gewond vervoerd naar het AMC .</template>
+         <lexicalization>ART[form=bep,gender=zijd_of_mv,case=neut] de andere V[type=intrans,tense=teg_dw,person=verv_neut] inzittennen , PATIENT-1 man uit weesp , V[type=hulp_of_kopp,tense=ovt,person=1_of_2_of_3,number=ev] worden uit ART[form=bep,gender=zijd_of_mv,case=neut] de auto V[type=trans,tense=verl_dw,person=onverv] slingeren en V[type=hulp_of_kopp,tense=ovt,person=1_of_2_of_3,number=ev] worden zwaar gewond V[type=trans,tense=verl_dw,person=onverv] vervoeren naar ART[form=bep,gender=onzijd,case=neut] het amc .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | 47-jarige</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id27" size="2">
+      <originaltripleset>
+         <otriple>victimGender | vrouw</otriple>
+         <otriple>victimVehicle | vrachtautochauffeur</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>victimGender | vrouw</mtriple>
+         <mtriple>victimVehicle | vrachtautochauffeur</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>victimVehicle | vrachtautochauffeur</striple>
+               <striple>victimGender | vrouw</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="vrachtautochauffeur" number="1" tag="PATIENT-1" type="description">De vrachtautochauffeur</reference>
+            <reference entity="vrouw" number="2" tag="PATIENT-2" type="description">de vrouw</reference>
+         </references>
+         <text>De vrachtautochauffeur probeerde de vrouw nog te ontwijken.</text>
+         <template>PATIENT-1 probeerde PATIENT-2 nog te ontwijken .</template>
+         <lexicalization>PATIENT-1 V[type=hulp,tense=ovt,person=1_of_2_of_3,number=ev] proberen PATIENT-2 nog te V[type=trans,tense=inf] ontwijken .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | vrachtautochauffeur</entity>
+         <entity>PATIENT-2 | vrouw</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id603" size="1">
+      <originaltripleset>
+         <otriple>personnelCalled | True</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>personnelCalled | True</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>personnelCalled | True</striple>
+            </sentence>
+         </sortedtripleset>
+         <references/>
+         <text>Vanwege het ongeval kwamen diverse ambulances, politiewagens en een traumahelikopter ter plaatse.</text>
+         <template>Vanwege het ongeval kwamen diverse ambulances , politiewagens en een traumahelikopter ter plaatse .</template>
+         <lexicalization>vanwege ART[form=bep,gender=onzijd,case=neut] het ongeval V[type=intrans,tense=ovt,person=1_of_2_of_3,number=mv] komen diverse ambulances , politiewagens en ART[form=onbep,gender=zijd_of_onzijd,case=neut] een traumahelikopter ter plaatse .</lexicalization>
+      </lex>
+      <entitymap/>
+   </entry>
+   <entry category="DutchIncidents" eid="Id655" size="2">
+      <originaltripleset>
+         <otriple>hasDied | True</otriple>
+         <otriple>victimGender | man</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>hasDied | True</mtriple>
+         <mtriple>victimGender | man</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>hasDied | True</striple>
+               <striple>victimGender | man</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="man" number="2" tag="PATIENT-2" type="description">de man</reference>
+         </references>
+         <text>Volgens berichten die RTV Utrecht heeft ontvangen zou de man inmiddels zijn overleden.</text>
+         <template>Volgens berichten die RTV Utrecht heeft ontvangen zou PATIENT-2 inmiddels zijn overleden .</template>
+         <lexicalization>volgens berichten die rtv utrecht V[type=hulp,tense=ott,person=3,number=ev] hebben V[type=trans,tense=verl_dw,person=onverv] ontvangen V[type=hulp,tense=ovt,person=1_of_2_of_3,number=ev] zullen PATIENT-2 inmiddels zijn V[type=trans,tense=verl_dw,person=onverv] overlijden .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-2 | man</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id479" size="1">
+      <originaltripleset>
+         <otriple>victimVehicle | auto</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>victimVehicle | auto</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>victimVehicle | auto</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="auto" number="1" tag="PATIENT-1" type="description">de auto</reference>
+         </references>
+         <text>De bestuurder van de auto is aangehouden.</text>
+         <template>De bestuurder van PATIENT-1 is aangehouden .</template>
+         <lexicalization>ART[form=bep,gender=zijd_of_mv,case=neut] de bestuurder van PATIENT-1 V[type=hulp_of_kopp,tense=ott,person=3,number=ev] zijn V[type=trans,tense=verl_dw,person=onverv] aanhouden .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | auto</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id615" size="2">
+      <originaltripleset>
+         <otriple>victimVehicle | auto</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>victimVehicle | auto</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>victimVehicle | auto</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="auto" number="1" tag="PATIENT-1" type="description">auto</reference>
+         </references>
+         <text>De bestuurder van de andere auto raakte lichtgewond.</text>
+         <template>De bestuurder van de andere PATIENT-1 raakte lichtgewond .</template>
+         <lexicalization>ART[form=bep,gender=zijd_of_mv,case=neut] de bestuurder van ART[form=bep,gender=zijd_of_mv,case=neut] de andere PATIENT-1 V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] raken lichtgewond .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | auto</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id468" size="6">
+      <originaltripleset>
+         <otriple>hasDied | True</otriple>
+         <otriple>victimAge | 81-jarige</otriple>
+         <otriple>victimGender | vrouw</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>hasDied | True</mtriple>
+         <mtriple>victimAge | 81-jarige</mtriple>
+         <mtriple>victimGender | vrouw</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>victimAge | 81-jarige</striple>
+               <striple>hasDied | True</striple>
+               <striple>victimGender | vrouw</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="81-jarige" number="1" tag="PATIENT-1" type="description">Een 81-jarige</reference>
+            <reference entity="vrouw" number="2" tag="PATIENT-2" type="description">vrouw</reference>
+         </references>
+         <text>Een 81-jarige vrouw uit Papendrecht is maandagavond 11 augustus 2014 overleden als gevolg van een ongeval eerder op de dag.</text>
+         <template>PATIENT-1 PATIENT-2 uit Papendrecht is maandagavond 11 augustus 2014 overleden als gevolg van een ongeval eerder op de dag .</template>
+         <lexicalization>PATIENT-1 PATIENT-2 uit papendrecht V[type=hulp_of_kopp,tense=ott,person=3,number=ev] zijn maandagavond 11 augustus 2014 V[type=intrans,tense=verl_dw,person=onverv] overlijden als gevolg van ART[form=onbep,gender=zijd_of_onzijd,case=neut] een ongeval eerder op ART[form=bep,gender=zijd_of_mv,case=neut] de dag .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | 81-jarige</entity>
+         <entity>PATIENT-2 | vrouw</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id52" size="1">
+      <originaltripleset>
+         <otriple>injuryType | zwaar_gewond</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>injuryType | zwaar_gewond</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>injuryType | zwaar_gewond</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="zwaar_gewond" number="1" tag="PATIENT-1" type="description">zwaar gewond</reference>
+         </references>
+         <text>De bestuurder, wiens identiteit nog niet bekend is, raakte zwaar gewond.</text>
+         <template>De bestuurder , wiens identiteit nog niet bekend is , raakte PATIENT-1 .</template>
+         <lexicalization>ART[form=bep,gender=zijd_of_mv,case=neut] de bestuurder , wiens identiteit nog niet bekend V[type=hulp_of_kopp,tense=ott,person=3,number=ev] zijn , V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] raken PATIENT-1 .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | zwaar_gewond</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id113" size="2">
+      <originaltripleset>
+         <otriple>isUnilateral | True</otriple>
+         <otriple>victimVehicle | auto</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>isUnilateral | True</mtriple>
+         <mtriple>victimVehicle | auto</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>victimVehicle | auto</striple>
+               <striple>isUnilateral | True</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="auto" number="1" tag="PATIENT-1" type="description">De auto</reference>
+         </references>
+         <text>De auto slipte en reed in de linkerberm tegen een boom.</text>
+         <template>PATIENT-1 slipte en reed in de linkerberm tegen een boom .</template>
+         <lexicalization>PATIENT-1 slipte en V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] reden in ART[form=bep,gender=zijd_of_mv,case=neut] de linkerberm tegen ART[form=onbep,gender=zijd_of_onzijd,case=neut] een boom .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | auto</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id99" size="1">
+      <originaltripleset>
+         <otriple>victimVehicle | auto</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>victimVehicle | auto</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>victimVehicle | auto</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="auto" number="1" tag="PATIENT-1" type="description">auto</reference>
+         </references>
+         <text>De bestuurder botste met zijn auto tegen een boom aan.</text>
+         <template>De bestuurder botste met zijn PATIENT-1 tegen een boom aan .</template>
+         <lexicalization>ART[form=bep,gender=zijd_of_mv,case=neut] de bestuurder botste met V[type=hulp_of_kopp,tense=ott,person=1_of_2_of_3,number=mv] zijn PATIENT-1 tegen ART[form=onbep,gender=zijd_of_onzijd,case=neut] een boom aan .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | auto</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id584" size="1">
+      <originaltripleset>
+         <otriple>accidentLocation | Nigtevecht</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>accidentLocation | Nigtevecht</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>accidentLocation | Nigtevecht</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="Nigtevecht" number="1" tag="PATIENT-1" type="description">Nigtevecht</reference>
+         </references>
+         <text>Hij kwam uit de richting Nigtevecht en reed in de richting van Loenen.</text>
+         <template>Hij kwam uit de richting PATIENT-1 en reed in de richting van Loenen .</template>
+         <lexicalization>hij V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] komen uit ART[form=bep,gender=zijd_of_mv,case=neut] de richting PATIENT-1 en V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] reden in ART[form=bep,gender=zijd_of_mv,case=neut] de richting van loenen .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | Nigtevecht</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id338" size="1">
+      <originaltripleset>
+         <otriple>causeAccident | inhalen</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>causeAccident | inhalen</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>causeAccident | inhalen</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="inhalen" number="1" tag="PATIENT-1" type="description">inhalen</reference>
+         </references>
+         <text>Toen hij dit voertuig wilde inhalen, reed hij door de berm waardoor hij de macht over het stuur is verloren.</text>
+         <template>Toen hij dit voertuig wilde PATIENT-1 , reed hij door de berm waardoor hij de macht over het stuur is verloren .</template>
+         <lexicalization>toen hij dit voertuig V[type=hulp,tense=ovt,person=1_of_2_of_3,number=ev] willen PATIENT-1 , V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] reden hij door ART[form=bep,gender=zijd_of_mv,case=neut] de berm waardoor hij ART[form=bep,gender=zijd_of_mv,case=neut] de macht over ART[form=bep,gender=onzijd,case=neut] het stuur V[type=hulp_of_kopp,tense=ott,person=3,number=ev] zijn V[type=trans,tense=verl_dw,person=onverv] verliezen .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | inhalen</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id645" size="5">
+      <originaltripleset>
+         <otriple>causeAccident | nog_onbekende_oorzaak</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>causeAccident | nog_onbekende_oorzaak</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>causeAccident | nog_onbekende_oorzaak</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="nog_onbekende_oorzaak" number="1" tag="PATIENT-1" type="description">nog onbekende oorzaak</reference>
+         </references>
+         <text>Door nog onbekende oorzaak kwamen een personenwagen en een vrachtwagen omstreeks 15.45 uur frontaal met elkaar in botsing.</text>
+         <template>Door PATIENT-1 kwamen een personenwagen en een vrachtwagen omstreeks 15.45 uur frontaal met elkaar in botsing .</template>
+         <lexicalization>door PATIENT-1 V[type=intrans,tense=ovt,person=1_of_2_of_3,number=mv] komen ART[form=onbep,gender=zijd_of_onzijd,case=neut] een personenwagen en ART[form=onbep,gender=zijd_of_onzijd,case=neut] een vrachtwagen omstreeks 15.45 uur frontaal met elkaar in botsing .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | nog_onbekende_oorzaak</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id411" size="4">
+      <originaltripleset>
+         <otriple>victimAge | 24-jarige</otriple>
+         <otriple>victimVehicle | vrachtwagenchauffeur</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>victimAge | 24-jarige</mtriple>
+         <mtriple>victimVehicle | vrachtwagenchauffeur</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>victimAge | 24-jarige</striple>
+               <striple>victimVehicle | vrachtwagenchauffeur</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="24-jarige" number="1" tag="PATIENT-1" type="description">De 24-jarige</reference>
+            <reference entity="vrachtwagenchauffeur" number="2" tag="PATIENT-2" type="description">vrachtwagenchauffeur</reference>
+         </references>
+         <text>De 24-jarige vrachtwagenchauffeur uit Vaassen bleef ongedeerd.</text>
+         <template>PATIENT-1 PATIENT-2 uit Vaassen bleef ongedeerd .</template>
+         <lexicalization>PATIENT-1 PATIENT-2 uit vaassen V[type=hulp_of_kopp,tense=ovt,person=1_of_2_of_3,number=ev] blijven V[type=trans,tense=verl_dw,person=onverv] ongedeerden .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | 24-jarige</entity>
+         <entity>PATIENT-2 | vrachtwagenchauffeur</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id181" size="2">
+      <originaltripleset>
+         <otriple>victimVehicle | motorrijder</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>victimVehicle | motorrijder</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>victimVehicle | motorrijder</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="motorrijder" number="1" tag="PATIENT-1" type="description">de motorrijder</reference>
+         </references>
+         <text>Volgens de politie zag de motorrijder te laat dat de auto voor hem remde om af te slaan.</text>
+         <template>Volgens de politie zag PATIENT-1 te laat dat de auto voor hem remde om af te slaan .</template>
+         <lexicalization>volgens ART[form=bep,gender=zijd_of_mv,case=neut] de politie V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] zien PATIENT-1 te V[type=hulp,tense=ott,person=3,number=ev] laten dat ART[form=bep,gender=zijd_of_mv,case=neut] de auto voor hem remde om af te V[type=trans,tense=inf] slaan .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | motorrijder</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id205" size="6">
+      <originaltripleset>
+         <otriple>hasDied | True</otriple>
+         <otriple>victimAge | 83-jarige</otriple>
+         <otriple>victimVehicle | voetganger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>hasDied | True</mtriple>
+         <mtriple>victimAge | 83-jarige</mtriple>
+         <mtriple>victimVehicle | voetganger</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>victimAge | 83-jarige</striple>
+               <striple>hasDied | True</striple>
+               <striple>victimVehicle | voetganger</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="83-jarige" number="1" tag="PATIENT-1" type="description">Een 83-jarige</reference>
+            <reference entity="voetganger" number="2" tag="PATIENT-2" type="description">voetganger</reference>
+         </references>
+         <text>Een 83-jarige voetganger uit Sliedrecht is op 22 december bij een aanrijding met een personenauto om het leven gekomen.</text>
+         <template>PATIENT-1 PATIENT-2 uit Sliedrecht is op 22 december bij een aanrijding met een personenauto om het leven gekomen .</template>
+         <lexicalization>PATIENT-1 PATIENT-2 uit sliedrecht V[type=hulp_of_kopp,tense=ott,person=3,number=ev] zijn op 22 december bij ART[form=onbep,gender=zijd_of_onzijd,case=neut] een aanrijding met ART[form=onbep,gender=zijd_of_onzijd,case=neut] een personenauto om ART[form=bep,gender=onzijd,case=neut] het leven V[type=trans,tense=verl_dw,person=onverv] komen .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | 83-jarige</entity>
+         <entity>PATIENT-2 | voetganger</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id235" size="3">
+      <originaltripleset>
+         <otriple>helicopterCalled | True</otriple>
+         <otriple>hospitalName | Amsterdamse_VU-ziekenhuis</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>helicopterCalled | True</mtriple>
+         <mtriple>hospitalName | Amsterdamse_VU-ziekenhuis</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>helicopterCalled | True</striple>
+               <striple>hospitalName | Amsterdamse_VU-ziekenhuis</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="Amsterdamse_VU-ziekenhuis" number="2" tag="PATIENT-2" type="description">het Amsterdamse VU-ziekenhuis</reference>
+         </references>
+         <text>Zij werd met de traumahelikopter naar het Amsterdamse VU-ziekenhuis vervoerd waar zij in het begin van de middag aan haar verwondingen is overleden.</text>
+         <template>Zij werd met de traumahelikopter naar PATIENT-2 vervoerd waar zij in het begin van de middag aan haar verwondingen is overleden .</template>
+         <lexicalization>zij V[type=hulp_of_kopp,tense=ovt,person=1_of_2_of_3,number=ev] worden met ART[form=bep,gender=zijd_of_mv,case=neut] de traumahelikopter naar PATIENT-2 V[type=trans,tense=verl_dw,person=onverv] vervoeren waar zij in ART[form=bep,gender=onzijd,case=neut] het begin van ART[form=bep,gender=zijd_of_mv,case=neut] de middag aan haar verwondingen V[type=hulp_of_kopp,tense=ott,person=3,number=ev] zijn V[type=intrans,tense=verl_dw,person=onverv] overlijden .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-2 | Amsterdamse_VU-ziekenhuis</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id187" size="1">
+      <originaltripleset>
+         <otriple>victimVehicle | auto</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>victimVehicle | auto</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>victimVehicle | auto</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="auto" number="1" tag="PATIENT-1" type="description">een auto</reference>
+         </references>
+         <text>Hij reed achter een auto en had waarschijnlijk te laat in de gaten dat deze auto afsloeg.</text>
+         <template>Hij reed achter PATIENT-1 en had waarschijnlijk te laat in de gaten dat deze auto afsloeg .</template>
+         <lexicalization>hij V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] reden achter PATIENT-1 en V[type=hulp,tense=ovt,person=1_of_2_of_3,number=ev] hebben waarschijnlijk te V[type=hulp,tense=ott,person=3,number=ev] laten in ART[form=bep,gender=zijd_of_mv,case=neut] de gaten dat deze auto afsloeg .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | auto</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id294" size="1">
+      <originaltripleset>
+         <otriple>hasDied | True</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>hasDied | True</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>hasDied | True</striple>
+            </sentence>
+         </sortedtripleset>
+         <references/>
+         <text>Zij overleed ter plaatse.</text>
+         <template>Zij overleed ter plaatse .</template>
+         <lexicalization>zij V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] overlijden ter plaatse .</lexicalization>
+      </lex>
+      <entitymap/>
+   </entry>
+   <entry category="DutchIncidents" eid="Id540" size="3">
+      <originaltripleset>
+         <otriple>accidentTime | rond_12.30_uur</otriple>
+         <otriple>victimBased | Amsterdammer</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>accidentTime | rond_12.30_uur</mtriple>
+         <mtriple>victimBased | Amsterdammer</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>victimBased | Amsterdammer</striple>
+               <striple>accidentTime | rond_12.30_uur</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="Amsterdammer" number="1" tag="PATIENT-1" type="description">De Amsterdammer</reference>
+            <reference entity="rond_12.30_uur" number="2" tag="PATIENT-2" type="description">rond 12.30 uur</reference>
+         </references>
+         <text>De Amsterdammer maakte rond 12.30 uur met twee andere motorrijders een proefrit op de Reestweg.</text>
+         <template>PATIENT-1 maakte PATIENT-2 met twee andere motorrijders een proefrit op de Reestweg .</template>
+         <lexicalization>PATIENT-1 V[type=trans,tense=ovt,person=1_of_2_of_3,number=ev] maken PATIENT-2 met twee andere motorrijders ART[form=onbep,gender=zijd_of_onzijd,case=neut] een proefrit op ART[form=bep,gender=zijd_of_mv,case=neut] de reestweg .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | Amsterdammer</entity>
+         <entity>PATIENT-2 | rond_12.30_uur</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id484" size="4">
+      <originaltripleset>
+         <otriple>victimAge | 59-jarige</otriple>
+         <otriple>victimGender | vrouw</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>victimAge | 59-jarige</mtriple>
+         <mtriple>victimGender | vrouw</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>victimAge | 59-jarige</striple>
+               <striple>victimGender | vrouw</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="59-jarige" number="1" tag="PATIENT-1" type="description">De 59-jarige</reference>
+            <reference entity="vrouw" number="2" tag="PATIENT-2" type="description">vrouw</reference>
+         </references>
+         <text>De 59-jarige vrouw uit Oostrum maakte samen met wat andere wielrenners een tochtje op haar fiets toen ze ten val kwam.</text>
+         <template>PATIENT-1 PATIENT-2 uit Oostrum maakte samen met wat andere wielrenners een tochtje op haar fiets toen ze ten val kwam .</template>
+         <lexicalization>PATIENT-1 PATIENT-2 uit oostrum maakte samen met wat andere wielrenners ART[form=onbep,gender=zijd_of_onzijd,case=neut] een tochtje op haar fiets toen ze ten val V[type=intrans,tense=ovt,person=1_of_2_of_3,number=ev] komen .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | 59-jarige</entity>
+         <entity>PATIENT-2 | vrouw</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id297" size="1">
+      <originaltripleset>
+         <otriple>victimAge | 23-jarige</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>victimAge | 23-jarige</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>victimAge | 23-jarige</striple>
+            </sentence>
+         </sortedtripleset>
+         <references>
+            <reference entity="23-jarige" number="1" tag="PATIENT-1" type="description">De 23-jarige</reference>
+         </references>
+         <text>De 23-jarige werd na drie uur uit het ziekenhuis ontslagen.</text>
+         <template>PATIENT-1 werd na drie uur uit het ziekenhuis ontslagen .</template>
+         <lexicalization>PATIENT-1 V[type=hulp_of_kopp,tense=ovt,person=1_of_2_of_3,number=ev] worden na drie uur uit ART[form=bep,gender=onzijd,case=neut] het ziekenhuis V[type=trans,tense=verl_dw,person=onverv] ontslaan .</lexicalization>
+      </lex>
+      <entitymap>
+         <entity>PATIENT-1 | 23-jarige</entity>
+      </entitymap>
+   </entry>
+   <entry category="DutchIncidents" eid="Id509" size="1">
+      <originaltripleset>
+         <otriple>helicopterCalled | True</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+         <mtriple>helicopterCalled | True</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1">
+         <sortedtripleset>
+            <sentence ID="1">
+               <striple>helicopterCalled | True</striple>
+            </sentence>
+         </sortedtripleset>
+         <references/>
+         <text>Ook werd er een traumahelikopter opgeroepen.</text>
+         <template>Ook werd er een traumahelikopter opgeroepen .</template>
+         <lexicalization>ook V[type=hulp_of_kopp,tense=ovt,person=1_of_2_of_3,number=ev] worden er ART[form=onbep,gender=zijd_of_onzijd,case=neut] een traumahelikopter V[type=trans,tense=verl_dw,person=onverv] oproepen .</lexicalization>
+      </lex>
+      <entitymap/>
+   </entry>
+</entries>

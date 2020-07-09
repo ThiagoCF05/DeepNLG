@@ -24,111 +24,18 @@ import parsing
 import utils
 
 from superpreprocess import Preprocess
-from itertools import permutations
-from random import randint
 
 class Ordering(Preprocess):
     def __init__(self, data_path, write_path):
         super().__init__(data_path=data_path, write_path=write_path)
 
-        self.traindata, self.vocab = self.load_simple(path=os.path.join(data_path, 'train'))#, augment=False)
-        self.devdata, _ = self.load_simple(path=os.path.join(data_path, 'dev'))#, augment=False)
-        self.testdata, _ = self.load_simple(path=os.path.join(data_path, 'test'))#, augment=False)
-
-
-    def load(self, path, augment=True):
-        entryset = parsing.run_parser(path)
-
-        data, size = [], 0
-        invocab, outvocab = [], []
-
-        for i, entry in enumerate(entryset):
-            progress = round(float(i) / len(entryset), 2)
-            print('Progress: {0}'.format(progress), end='   \r')
-            try:
-                # triples greater than 1
-                if len(entry.modifiedtripleset) > 1:
-                    # process source
-                    entitymap = {b:a for a, b in entry.entitymap_to_dict().items()}
-                    source, _, entities = load.source(entry.modifiedtripleset, entitymap, {})
-                    invocab.extend(source)
-
-                    targets = []
-                    for lex in entry.lexEntries:
-                        # process ordered tripleset
-                        _, text, _ = load.snt_source(lex.orderedtripleset, entitymap, entities)
-                        text = [w for w in text if w not in ['<SNT>', '</SNT>']]
-                        trg_preds = [t[1] for t in utils.split_triples(text)]
-
-                        target = { 'lid': lex.lid, 'comment': lex.comment, 'output': trg_preds }
-                        targets.append(target)
-                        outvocab.extend(trg_preds)
-
-                    data.append({
-                        'eid': entry.eid,
-                        'category': entry.category,
-                        'augmented': False,
-                        'size': entry.size,
-                        'source': source,
-                        'targets': targets })
-                    size += len(targets)
-
-                    # choose the original order and N permutations such as N = len(tripleset)-1
-                    if augment:
-                        triplesize = len(entry.modifiedtripleset)
-                        perm = list(permutations(entry.modifiedtripleset))
-                        perm = [load.source(src, entitymap, {}) for src in perm]
-                        entitylist = [w[2] for w in perm]
-                        perm = [w[0] for w in perm]
-
-                        taken = []
-                        # to augment the corpus, pick the minimum between the number of permutations - 1 or 49
-                        X = min(len(perm)-1, 49)
-                        for _ in range(X):
-                            found = False
-                            while not found and triplesize != 1:
-                                pos = randint(0, len(perm)-1)
-                                src, entities = perm[pos], entitylist[pos]
-
-                                if pos not in taken and src != source:
-                                    taken.append(pos)
-                                    found = True
-
-                                    targets = []
-                                    for lex in entry.lexEntries:
-                                        # process ordered tripleset
-                                        _, text, _ = load.snt_source(lex.orderedtripleset, entitymap, entities)
-                                        text = [w for w in text if w not in ['<SNT>', '</SNT>']]
-                                        trg_preds = [t[1] for t in utils.split_triples(text)]
-
-                                        target = { 'lid': lex.lid, 'comment': lex.comment, 'output': trg_preds }
-                                        targets.append(target)
-                                        outvocab.extend(trg_preds)
-
-                                    data.append({
-                                        'eid': entry.eid,
-                                        'category': entry.category,
-                                        'augmented': True,
-                                        'size': entry.size,
-                                        'source': src,
-                                        'targets': targets })
-                                    size += len(targets)
-            except:
-                print('Preprocessing error...')
-
-        invocab.append('unk')
-        outvocab.append('unk')
-
-        invocab = list(set(invocab))
-        outvocab = list(set(outvocab))
-        vocab = { 'input': invocab, 'output': outvocab }
-
-        print('Path:', path, 'Size: ', size)
-        return data, vocab
+        self.traindata, self.vocab = self.load_simple(path=os.path.join(data_path, 'train.xml'))#, augment=False)
+        self.devdata, _ = self.load_simple(path=os.path.join(data_path, 'dev.xml'))#, augment=False)
+        self.testdata, _ = self.load_simple(path=os.path.join(data_path, 'test.xml'))#, augment=False)
 
 
     def load_simple(self, path):
-        entryset = parsing.run_parser(path)
+        entryset = list(parsing.parse(path))
 
         data, size = [], 0
         invocab, outvocab = [], []
@@ -142,7 +49,7 @@ class Ordering(Preprocess):
                     # process source
                     tripleset = []
                     for i, triple in enumerate(entry.modifiedtripleset):
-                        striple = triple.predicate + ' ' + triple.subject + ' ' + triple.object
+                        striple = triple.key + ' ' + triple.value
                         tripleset.append((i, striple))
                     # given a fixed order by sorting the set of triples automatically (predicate - subject - object)
                     tripleset = sorted(tripleset, key=lambda x: x[1])
@@ -157,7 +64,7 @@ class Ordering(Preprocess):
                         # process ordered tripleset
                         _, text, _ = load.snt_source(lex.orderedtripleset, entitymap, entities)
                         text = [w for w in text if w not in ['<SNT>', '</SNT>']]
-                        trg_preds = [t[1] for t in utils.split_triples(text)]
+                        trg_preds = [t[0] for t in utils.split_triples(text)]
 
                         target = { 'lid': lex.lid, 'comment': lex.comment, 'output': trg_preds }
                         targets.append(target)

@@ -29,9 +29,9 @@ class Structing(Preprocess):
     def __init__(self, data_path, write_path):
         super().__init__(data_path=data_path, write_path=write_path)
 
-        self.traindata, self.vocab = self.load(os.path.join(data_path, 'train'))
-        self.devdata, _ = self.load(os.path.join(data_path, 'dev'))
-        self.testdata, _ = self.load(os.path.join(data_path, 'test'))
+        self.traindata, self.vocab = self.load(os.path.join(data_path, 'train.xml'))
+        self.devdata, _ = self.load(os.path.join(data_path, 'dev.xml'))
+        self.testdata, _ = self.load(os.path.join(data_path, 'test.xml'))
 
 
     def __call__(self):
@@ -41,7 +41,7 @@ class Structing(Preprocess):
     def load(self, path):
         flat = lambda struct: [w for w in struct if w not in ['<SNT>', '</SNT>']]
 
-        entryset = parsing.run_parser(path)
+        entryset = list(parsing.parse(path))
 
         data, size = [], 0
         invocab, outvocab = [], []
@@ -67,7 +67,7 @@ class Structing(Preprocess):
                                 trgt_preds = []
                                 for snt in utils.split_struct(text):
                                     trgt_preds.append('<SNT>')
-                                    trgt_preds.extend([t[1] for t in snt])
+                                    trgt_preds.extend([t[0] for t in snt])
                                     trgt_preds.append('</SNT>')
                                 target = { 'lid': lex2.lid, 'comment': lex2.comment, 'output': trgt_preds }
                                 targets.append(target)

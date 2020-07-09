@@ -23,7 +23,7 @@ for task in end2end ordering structing lexicalization
     # preprocessing
     if [ "$task" = "lexicalization" ] || [ "$task" = "end2end" ];
     then
-      python3 $task/preprocess.py $corpus_dir $task_dir $stanford_path
+      python3 $task/preprocess.py $corpus_dir $task_dir
       ./scripts/preprocess_txt.sh
     else
       python3 $task/preprocess.py $corpus_dir $task_dir
@@ -35,7 +35,7 @@ if [ ! -d "$root_dir/reg" ];
 then
   mkdir $root_dir/reg
 fi
-python3 reg/preprocess.py $corpus_dir $root_dir/reg $stanford_path
+python3 reg/preprocess.py $corpus_dir $root_dir/reg
 
 # training the models for ordering, structing, lexicalization and end-to-end
 for task in end2end ordering structing lexicalization
