@@ -15,18 +15,20 @@ Description:
 """
 
 import sys
+import os
 
 def load_references(ref_path):
     references = []
     for i in range(1, 6):
-        with open(ref_path + str(i)) as f:
-            refs = f.read().split('\n')
+        if os.path.exists(ref_path + str(i)):
+            with open(ref_path + str(i)) as f:
+                refs = f.read().split('\n')
 
-        for j, ref in enumerate(refs):
-            if j == len(references):
-                references.append([ref])
-            else:
-                references[j].append(ref)
+            for j, ref in enumerate(refs):
+                if j == len(references):
+                    references.append([ref])
+                else:
+                    references[j].append(ref)
 
     for i, refs in enumerate(references):
         references[i] = [ref.strip() for ref in refs if ref.strip() != '']

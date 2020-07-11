@@ -13,7 +13,7 @@ working_dir=$task_dir/transformer/transformer$run
 
 # TensorFlow devices; change this to control the GPUs used by Nematus.
 # It should be a list of GPU identifiers. For example, '1' or '0,1,3'
-devices=0,1,2
+devices=0
 
 if [ "$task" = "lexicalization" ] || [ "$task" = "end2end" ];
 then
@@ -39,7 +39,7 @@ CUDA_VISIBLE_DEVICES=$devices python3 $nematus_home/nematus/train.py \
     --target_dataset $dataset.$trg \
     --dictionaries $dictionary.json \
                    $dictionary.json \
-    --save_freq 10000 \
+    --save_freq 3000 \
     --model $working_dir/model \
     --reload latest_checkpoint \
     --model_type transformer \
@@ -54,20 +54,19 @@ CUDA_VISIBLE_DEVICES=$devices python3 $nematus_home/nematus/train.py \
     --adam_beta2 0.98 \
     --adam_epsilon 10e-09 \
     --learning_schedule transformer \
-    --warmup_steps 8000 \
+    --warmup_steps 4000 \
     --maxlen 100 \
     --batch_size 256 \
     --token_batch_size 2048 \
     --valid_source_dataset $data_dir/dev.$eval \
     --valid_target_dataset $data_dir/references/dev.$trg"1" \
-    --valid_batch_size 8 \
+    --valid_batch_size 1024 \
     --valid_token_batch_size 512 \
-    --valid_freq 5000 \
+    --valid_freq 1000 \
     --valid_script $script_dir/validate.sh \
     --disp_freq 1000 \
     --sample_freq 9000 \
     --beam_freq 0 \
     --beam_size 5 \
-    --patience 30 \
-    --finish_after 200000 \
+    --patience 10 \
     --translation_maxlen 100

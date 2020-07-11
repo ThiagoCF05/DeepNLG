@@ -20,7 +20,7 @@ data_dir=$task_dir/data/references
 
 dev_prefix=dev
 ref=$data_dir/$dev_prefix.$trg
-refs=$ref"1 "$ref"2 "$ref"3 "$ref"4 "$ref"5"
+refs=$ref"1" #$ref"2 "$ref"3 "$ref"4 "$ref"5"
 
 # evaluate translations and write BLEU score to standard output (for
 # use by nmt.py)

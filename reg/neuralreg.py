@@ -497,7 +497,7 @@ if __name__ == '__main__':
     #     neuralreg.train()
     #     os.rename(os.path.join(path, 'best_model.dy'), os.path.join(path, 'model'+str(i+1)+'.dy'))
 
-    path = '.'
+    path = '/roaming/tcastrof/chris/reg'
     neuralreg = NeuralREG(path=path, config=config)
     neuralreg.populate(os.path.join(path, 'model1.dy'))
     neuralreg.evaluate(neuralreg.devset, os.path.join(path, 'dev.out'))

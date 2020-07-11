@@ -24,7 +24,7 @@ devices=0
 #test_prefix=dev
 test=$test_prefix.$eval
 ref=$data_dir/references/$test_prefix.$trg
-refs=$ref"1 "$ref"2 "$ref"3 "$ref"4 "$ref"5"
+refs=$ref"1" #$ref"2 "$ref"3 "$ref"4 "$ref"5"
 # ensemble the best models of the three runs
 if [ "$model" = "rnn" ];
 then
