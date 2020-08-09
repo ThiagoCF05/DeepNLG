@@ -23,3 +23,7 @@ Then update the root and the dependecies path on [vars](scripts/vars). This code
 
 The augmented version of the WebNLG corpus is available [here](versions/v1.4). To see information about the evaluation, 
 go to [the evaluation folder](evaluation/).
+
+# Reproducibility
+
+For reproducibility reasons, the data used in the experiments can be found [here](https://github.com/ThiagoCF05/DeepNLG/tree/master/evaluation/data), whereas the results are [here](https://github.com/ThiagoCF05/DeepNLG/tree/master/evaluation/results).
